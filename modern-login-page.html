@@ -1,0 +1,308 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>InterQ - Sign In</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    
+    body {
+      font-family: 'Inter', sans-serif;
+      min-height: 100vh;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+    }
+
+    .login-container {
+      background: rgba(255, 255, 255, 0.95);
+      backdrop-filter: blur(20px);
+      border-radius: 24px;
+      box-shadow: 0 32px 64px rgba(0, 0, 0, 0.2);
+      padding: 48px;
+      width: 100%;
+      max-width: 420px;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .login-container::before {
+      content: '';
+      position: absolute;
+      top: -50%;
+      left: -50%;
+      width: 200%;
+      height: 200%;
+      background: radial-gradient(circle, rgba(102, 126, 234, 0.1) 0%, transparent 70%);
+      animation: float 20s ease-in-out infinite;
+    }
+
+    @keyframes float {
+      0%, 100% { transform: translate(0, 0) rotate(0deg); }
+      33% { transform: translate(30px, -30px) rotate(120deg); }
+      66% { transform: translate(-20px, 20px) rotate(240deg); }
+    }
+
+    .logo-area {
+      text-align: center;
+      margin-bottom: 36px;
+    }
+
+    .logo {
+      width: 64px;
+      height: 64px;
+      background: linear-gradient(135deg, #667eea, #764ba2);
+      border-radius: 16px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 0 auto 16px;
+      font-size: 28px;
+      color: white;
+      font-weight: 700;
+      box-shadow: 0 8px 24px rgba(102, 126, 234, 0.4);
+    }
+
+    .login-tabs {
+      display: flex;
+      margin-bottom: 32px;
+      background: rgba(0, 0, 0, 0.03);
+      border-radius: 12px;
+      overflow: hidden;
+    }
+
+    .tab {
+      flex: 1;
+      padding: 12px 24px;
+      text-align: center;
+      cursor: pointer;
+      font-weight: 500;
+      font-size: 16px;
+      transition: all 0.3s ease;
+      border: none;
+      background: none;
+      position: relative;
+    }
+
+    .tab.active {
+      background: linear-gradient(135deg, #667eea, #764ba2);
+      color: white;
+    }
+
+    .tab:not(.active):hover {
+      background: rgba(102, 126, 234, 0.1);
+    }
+
+    .form-group {
+      position: relative;
+      margin-bottom: 24px;
+    }
+
+    .form-group label {
+      display: block;
+      margin-bottom: 8px;
+      font-weight: 500;
+      color: #374151;
+      font-size: 14px;
+    }
+
+    .input-wrapper {
+      position: relative;
+    }
+
+    input[type="email"], input[type="password"], input[type="text"] {
+      width: 100%;
+      padding: 16px 20px 16px 52px;
+      border: 2px solid rgba(0, 0, 0, 0.08);
+      border-radius: 12px;
+      font-size: 16px;
+      font-family: inherit;
+      transition: all 0.3s ease;
+      background: rgba(255, 255, 255, 0.8);
+    }
+
+    input:focus {
+      outline: none;
+      border-color: #667eea;
+      box-shadow: 0 0 0 4px rgba(102, 126, 234, 0.1);
+      background: white;
+    }
+
+    .input-icon {
+      position: absolute;
+      left: 20px;
+      top: 50%;
+      transform: translateY(-50%);
+      color: #9ca3af;
+      font-size: 18px;
+      transition: color 0.3s ease;
+    }
+
+    input:focus + .input-icon {
+      color: #667eea;
+    }
+
+    .forgot-password {
+      display: block;
+      text-align: right;
+      color: #6b7280;
+      font-size: 14px;
+      text-decoration: none;
+      font-weight: 500;
+      margin-top: 8px;
+      transition: color 0.3s ease;
+    }
+
+    .forgot-password:hover {
+      color: #667eea;
+    }
+
+    .login-btn {
+      width: 100%;
+      padding: 16px;
+      border: none;
+      border-radius: 12px;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+      font-size: 16px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      box-shadow: 0 8px 24px rgba(102, 126, 234, 0.3);
+      margin-bottom: 24px;
+    }
+
+    .login-btn:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 12px 32px rgba(102, 126, 234, 0.4);
+    }
+
+    .login-btn:active {
+      transform: translateY(0);
+    }
+
+    .footer {
+      text-align: center;
+      color: #9ca3af;
+      font-size: 14px;
+      margin-top: 24px;
+    }
+
+    @media (max-width: 480px) {
+      .login-container {
+        padding: 32px 24px;
+        margin: 16px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="login-container">
+    <div class="logo-area">
+      <div class="logo">
+        <i class="fas fa-rocket"></i>
+      </div>
+      <h1 style="font-size: 28px; font-weight: 700; color: #1f2937; margin-bottom: 8px;">InterQ</h1>
+    </div>
+
+    <div class="login-tabs">
+      <button class="tab active" onclick="switchTab('signin')">Sign In</button>
+      <button class="tab" onclick="switchTab('signup')">Sign Up</button>
+    </div>
+
+    <form id="signin-form">
+      <div class="form-group">
+        <label>Email</label>
+        <div class="input-wrapper">
+          <input type="email" placeholder="Enter your email" required>
+          <i class="fas fa-envelope input-icon"></i>
+        </div>
+      </div>
+      <div class="form-group">
+        <label>Password</label>
+        <div class="input-wrapper">
+          <input type="password" placeholder="Enter your password" required>
+          <i class="fas fa-lock input-icon"></i>
+        </div>
+        <a href="#" class="forgot-password">Forgot Password?</a>
+      </div>
+      <button type="submit" class="login-btn">
+        Sign In
+      </button>
+    </form>
+
+    <form id="signup-form" style="display: none;">
+      <div class="form-group">
+        <label>Email</label>
+        <div class="input-wrapper">
+          <input type="email" placeholder="Enter your email" required>
+          <i class="fas fa-envelope input-icon"></i>
+        </div>
+      </div>
+      <div class="form-group">
+        <label>Password</label>
+        <div class="input-wrapper">
+          <input type="password" placeholder="Enter password" required>
+          <i class="fas fa-lock input-icon"></i>
+        </div>
+      </div>
+      <div class="form-group">
+        <label>Confirm Password</label>
+        <div class="input-wrapper">
+          <input type="password" placeholder="Confirm password" required>
+          <i class="fas fa-lock input-icon"></i>
+        </div>
+      </div>
+      <button type="submit" class="login-btn">
+        Create Account
+      </button>
+    </form>
+
+    <div class="footer">
+      © 2026 InterQ. All rights reserved.
+    </div>
+  </div>
+
+  <script>
+    function switchTab(tab) {
+      document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+      event.target.classList.add('active');
+      
+      document.getElementById('signin-form').style.display = tab === 'signin' ? 'block' : 'none';
+      document.getElementById('signup-form').style.display = tab === 'signup' ? 'block' : 'none';
+    }
+
+    // Form submissions
+    document.getElementById('signin-form').addEventListener('submit', e => {
+      e.preventDefault();
+      alert('Sign in successful! (Demo)');
+    });
+
+    document.getElementById('signup-form').addEventListener('submit', e => {
+      e.preventDefault();
+      alert('Account creation successful! (Demo)');
+    });
+
+    // Input focus animations
+    document.querySelectorAll('input').forEach(input => {
+      input.addEventListener('focus', function() {
+        this.parentElement.parentElement.style.transform = 'translateY(-2px)';
+      });
+      input.addEventListener('blur', function() {
+        this.parentElement.parentElement.style.transform = 'translateY(0)';
+      });
+    });
+  </script>
+</body>
+</html>
+
