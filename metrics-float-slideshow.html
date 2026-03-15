@@ -1,4 +1,179 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Metrics Dashboard Slideshow - Fixed Contrast</title>
+<!-- Tailwind CDN -->
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<style>
+    @keyframes slideIn {
+      from { transform: translateX(100%); opacity: 0; }
+      to { transform: translateX(0); opacity: 1; }
+    }
+    
+    .card-transition {
+      transition: all 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    .no-scrollbar::-webkit-scrollbar { display: none; }
+    .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+    
+    /* FIXED: Dark text on dark bg */
+    body {
+      background-color: #05192d;
+      color: #f8fafc; /* Near white for contrast */
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-weight: 500;
+    }
+
+    .metric-card {
+      background: rgba(255, 255, 255, 0.08);
+      border: 1px solid rgba(255, 255, 255, 0.2);
+      backdrop-filter: blur(10px);
+    }
+    
+    .metric-label {
+      color: #e2e8f0 !important; /* Darker gray - 10:1 contrast */
+      font-weight: 500 !important;
+    }
+    
+    .metric-number {
+      color: #ffffff !important; /* Pure white for headers */
+      font-weight: 700 !important;
+    }
+    
+    /* Menu/Dropdown fix */
+    button, select, .text-gray-400 {
+      color: #e2e8f0 !important;
+    }
+    
+    /* Shine effect */
+    .shine {
+      background: linear-gradient(90deg, transparent, rgba(255,255,255,0.4), transparent);
+      background-size: 200% 100%;
+      animation: shine 2s infinite;
+    }
+    
+    @keyframes shine {
+      0% { background-position: -200% 0; }
+      100% { background-position: 200% 0; }
+    }
+  </style>
+</head>
+<body class="flex items-center justify-center min-h-screen p-4">
+<main class="w-full max-w-md mx-auto overflow-hidden">
+<div class="relative">
+<div class="flex overflow-x-auto snap-x snap-mandatory no-scrollbar scroll-smooth" id="slides-container">
+<!-- Slide 1: Candidates -->
+<div class="flex-none w-full snap-center px-2">
+<div class="metric-card rounded-2xl p-6 flex items-center space-x-6 h-32 shine">
+<div class="w-12 h-16 bg-blue-500/20 rounded-full flex items-center justify-center shine">
+<svg class="h-8 w-8 text-cyan-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+<path d="M12 4.354a4 4 0 110 5.292M15 21H3v-1a6 6 0 0112 0v1zm0 0h6v-1a6 6 0 00-9-5.197M13 7a4 4 0 11-8 0 4 4 0 018 0z" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path>
+</svg>
+</div>
+<div>
+<p class="metric-label text-sm font-medium">Candidates</p>
+<h2 class="metric-number text-3xl font-bold">2,847</h2>
+</div>
+</div>
+</div>
+<!-- Slide 2: Strong Hire -->
+<div class="flex-none w-full snap-center px-2">
+<div class="metric-card rounded-2xl p-6 flex items-center space-x-6 h-32 shine">
+<div class="w-12 h-16 bg-indigo-500/20 rounded-full flex items-center justify-center shine">
+<svg class="h-8 w-8 text-indigo-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+<path d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path>
+</svg>
+</div>
+<div>
+<p class="metric-label text-sm font-medium">Strong Hire</p>
+<h2 class="metric-number text-3xl font-bold">87.3%</h2>
+</div>
+</div>
+</div>
+<!-- Slide 3: Hire Rate -->
+<div class="flex-none w-full snap-center px-2">
+<div class="metric-card rounded-2xl p-6 flex items-center space-x-6 h-32 shine">
+<div class="w-12 h-16 bg-green-500/20 rounded-full flex items-center justify-center shine">
+<svg class="h-8 w-8 text-green-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+<path d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path>
+</svg>
+</div>
+<div>
+<p class="metric-label text-sm font-medium">Hire Rate</p>
+<h2 class="metric-number text-3xl font-bold">94.2%</h2>
+</div>
+</div>
+</div>
+<!-- Slide 4: Active -->
+<div class="flex-none w-full snap-center px-2">
+<div class="metric-card rounded-2xl p-6 flex items-center space-x-6 h-32 shine">
+<div class="w-12 h-16 bg-orange-500/20 rounded-full flex items-center justify-center shine">
+<svg class="h-8 w-8 text-orange-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+<path d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path>
+</svg>
+</div>
+<div>
+<p class="metric-label text-sm font-medium">Active</p>
+<h2 class="metric-number text-3xl font-bold">24</h2>
+</div>
+</div>
+</div>
+</div>
+<div class="flex justify-center mt-6 space-x-2">
+<button aria-label="Go to slide 1" class="dot w-2 h-2 rounded-full bg-white transition-all duration-300" onclick="scrollToSlide(0)"></button>
+<button aria-label="Go to slide 2" class="dot w-2 h-2 rounded-full bg-white/30 transition-all duration-300" onclick="scrollToSlide(1)"></button>
+<button aria-label="Go to slide 3" class="dot w-2 h-2 rounded-full bg-white/30 transition-all duration-300" onclick="scrollToSlide(2)"></button>
+<button aria-label="Go to slide 4" class="dot w-2 h-2 rounded-full bg-white/30 transition-all duration-300" onclick="scrollToSlide(3)"></button>
+</div>
+</div>
+</main>
+<script>
+    const container = document.getElementById('slides-container');
+    const dots = document.querySelectorAll('.dot');
+    let currentIndex = 0;
+    const slideCount = 4;
+
+    container.addEventListener('scroll', () => {
+      const index = Math.round(container.scrollLeft / container.clientWidth);
+      if (index !== currentIndex) {
+        currentIndex = index;
+        updateDots();
+      }
+    });
+
+    function updateDots() {
+      dots.forEach((dot, i) => {
+        if (i === currentIndex) {
+          dot.classList.remove('bg-white/30', 'w-2');
+          dot.classList.add('bg-white', 'w-4');
+        } else {
+          dot.classList.remove('bg-white', 'w-4');
+          dot.classList.add('bg-white/30', 'w-2');
+        }
+      });
+    }
+
+    function scrollToSlide(index) {
+      const scrollAmount = index * container.clientWidth;
+      container.scrollTo({
+        left: scrollAmount,
+        behavior: 'smooth'
+      });
+    }
+
+    let autoPlayInterval = setInterval(() => {
+      currentIndex = (currentIndex + 1) % slideCount;
+      scrollToSlide(currentIndex);
+      updateDots();
+    }, 4000);
+
+    container.addEventListener('touchstart', () => {
+      clearInterval(autoPlayInterval);
+    });
+
+    updateDots();
+</script>
+</body></html>
