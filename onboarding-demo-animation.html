@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Company Onboarding Demo</title>
+  <style>
+    body { margin: 0; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); overflow: hidden; font-family: -apple-system, sans-serif; }
+    canvas { display: block; border-radius: 16px; box-shadow: 0 20px 40px rgba(0,0,0,0.3); }
+  </style>
+</head>
+<body>
+  <canvas id="canvas"></canvas>
+  <script>
+    const canvas = document.getElementById('canvas');
+    const ctx = canvas.getContext('2d');
+    canvas.width = window.innerWidth;
+    canvas.height = window.innerHeight;
+    let time = 0;
+
+    const formFields = [
+      { label: 'Admin Full Name', value: '', error: false },
+      { label: 'Work Email', value: '', error: false },
+      { label: 'Password', value: '', error: false },
+      { label: 'Confirm Password', value: '', error: false }
+    ];
+
+    const dummyData = ['John Doe', 'dummy@company.com', 'password123', 'password123'];
+
+    function drawForm(t) {
+      const formX = canvas.width * 0.2;
+      const formY = canvas.height * 0.3;
+      const width = canvas.width * 0.6;
+      const fieldHeight = 60;
+
+      // Form BG
+      ctx.fillStyle = 'rgba(255,255,255,0.95)';
+      ctx.fillRect(formX, formY, width, 320);
+      ctx.shadowColor = 'rgba(0,0,0,0.1)';
+      ctx.shadowBlur = 20;
+      ctx.shadowOffsetY = 10;
+      ctx.fillRect(formX, formY, width, 320);
+      ctx.shadowBlur = 0;
+
+      // Title
+      ctx.fillStyle = '#1f2937';
+      ctx.font = 'bold 36px system-ui';
+      ctx.textAlign = 'center';
+      ctx.fillText('Create Company Account', canvas.width / 2, formY - 60);
+
+      // Fields
+      formFields.forEach((field, i) => {
+        const y = formY + 80 + i * fieldHeight;
+        const anim = Math.min(1, (t - i * 1) / 3);
+
+        // Label
+        ctx.fillStyle = '#6b7280';
+        ctx.font = '500 14px system-ui';
+        ctx.textAlign = 'left';
+        ctx.fillText(field.label, formX + 30, y - 30);
+
+        // Input BG
+        ctx.fillStyle = field.error ? 'rgba(239,68,68,0.1)' : 'rgba(248,250,252,1)';
+        ctx.fillRect(formX + 30, y - 40, width - 60, 40);
+        ctx.strokeStyle = field.error ? '#ef4444' : '#d1d5db';
+        ctx.lineWidth = 2;
+        ctx.strokeRect(formX + 30, y - 40, width - 60, 40);
+
+        // Text fill effect
+        const text = field.value || (anim > 0 ? dummyData[i] : '');
+        ctx.fillStyle = '#374151';
+        ctx.font = 'bold 16px system-ui';
+        ctx.textAlign = 'left';
+        ctx.fillText(text.substring(0, Math.floor(anim * text.length)), formX + 45, y - 18);
+
+        // Error message
+        if (field.error) {
+          ctx.fillStyle = '#ef4444';
+          ctx.font = '12px system-ui';
+          ctx.fillText('Invalid input', formX + 45, y + 10);
+        }
+      });
+
+      // Button
+      const btnY = formY + 320;
+      const btnAnim = Math.min(1, (t - 4) / 1);
+      ctx.fillStyle = '#3b82f6';
+      ctx.fillRect(formX + width / 2 - 100 * btnAnim, btnY, 200, 50);
+      ctx.fillStyle = 'white';
+      ctx.font = 'bold 18px system-ui';
+      ctx.textAlign = 'center';
+      ctx.fillText('Create Account', formX + width / 2, btnY + 35);
+
+      // Shake error
+      const shake = field.error ? Math.sin(t * 20) * 3 : 0;
+      ctx.save();
+      ctx.translate(shake, 0);
+      // Form container shake
+      ctx.restore();
+    }
+
+    function drawDashboard(t) {
+      const dashboardX = canvas.width * 0.1;
+      const dashboardY = canvas.height * 0.2;
+      const transition = Math.min(1, (t - 8) / 2);
+
+      ctx.save();
+      ctx.translate(canvas.width / 2, canvas.height / 2);
+      ctx.scale(transition, transition);
+      ctx.translate(-canvas.width / 2, -canvas.height / 2);
+
+      // Dashboard BG
+      const bgGradient = ctx.createLinearGradient(0, 0, 0, canvas.height);
+      bgGradient.addColorStop(0, 'rgba(15,23,42,0.95)');
+      bgGradient.addColorStop(1, 'rgba(30,41,59,0.95)');
+      ctx.fillStyle = bgGradient;
+      ctx.fillRect(dashboardX, dashboardY, canvas.width * 0.8, canvas.height * 0.7);
+
+      // Metrics panels
+      const panels = [
+        { x: dashboardX + 50, y: dashboardY + 50, title: 'Candidates', value: 2847, anim: Math.sin(t * 0.5) },
+        { x: dashboardX + 300, y: dashboardY + 50, title: 'Strong Hire', value: '87.3%', anim: Math.cos(t * 0.4) },
+        { x: dashboardX + 550, y: dashboardY + 50, title: 'Hire Rate', value: '94.2%', anim: Math.sin(t * 0.6) },
+        { x: dashboardX + 50, y: dashboardY + 200, title: 'Active Users', value: 24, anim: Math.cos(t * 0.3) }
+      ];
+
+      panels.forEach(panel => {
+        const float = panel.anim * 10;
+        ctx.save();
+        ctx.translate(panel.x, panel.y + float);
+        ctx.shadowColor = '#3b82f6';
+        ctx.shadowBlur = 20;
+        ctx.fillStyle = 'rgba(255,255,255,0.1)';
+        ctx.fillRect(0, 0, 220, 120);
+        ctx.shadowBlur = 0;
+        ctx.strokeStyle = 'rgba(255,255,255,0.2)';
+        ctx.lineWidth = 1;
+        ctx.strokeRect(0, 0, 220, 120);
+
+        ctx.fillStyle = 'white';
+        ctx.font = 'bold 16px system-ui';
+        ctx.textAlign = 'center';
+        ctx.fillText(panel.title, 110, 30);
+
+        ctx.font = 'bold 32px system-ui';
+        ctx.fillText(panel.value, 110, 75);
+        ctx.restore();
+      });
+
+      // Live indicator
+      ctx.fillStyle = 'lime';
+      ctx.beginPath();
+      ctx.arc(dashboardX + 100, dashboardY + 400, 8 + Math.sin(t * 10) * 2, 0, Math.PI * 2);
+      ctx.fill();
+      ctx.fillStyle = 'white';
+      ctx.font = '16px system-ui';
+      ctx.textAlign = 'left';
+      ctx.fillText('Live Analysis | Processing candidate...', dashboardX + 130, dashboardY + 405);
+
+      ctx.restore();
+    }
+
+    function animate() {
+      time += 0.016;
+
+      ctx.fillStyle = 'rgba(102, 126, 234, 0.05)';
+      ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+      // Part 1: Form error (0-8s)
+      if (time < 8) {
+        // Fill fields, simulate typing
+        formFields.forEach((field, i) => {
+          const fillProgress = Math.min(1, (time - i * 1.5) / 2);
+          field.value = dummyData[i].substring(0, Math.floor(fillProgress * dummyData[i].length));
+        });
+        if (time > 6) {
+          formFields.forEach(field => field.error = true);
+        }
+        drawForm(time);
+      } else {
+        // Reset errors
+        formFields.forEach(field => field.error = false);
+        drawDashboard(time - 8);
+      }
+
+      requestAnimationFrame(animate);
+    }
+
+    animate();
+  </script>
+</body>
+</html>
