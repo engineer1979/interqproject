@@ -49,12 +49,32 @@ export function AssessmentQuestion({
 
     switch (type) {
       case 'text':
+      case 'short_answer':
         return <Textarea placeholder="Type your answer here..." className="min-h-[150px]" value={selectedAnswer || ''} onChange={(e) => onAnswerChange(e.target.value)} />;
+      case 'true_false':
+        return (
+          <RadioGroup value={selectedAnswer} onValueChange={onAnswerChange} className="space-y-3">
+            <div className="flex items-center space-x-3 p-4 rounded-lg border border-border hover:bg-muted/50 transition-colors cursor-pointer">
+              <RadioGroupItem value="True" id={`option-${question.id}-true`} />
+              <Label htmlFor={`option-${question.id}-true`} className="flex-1 cursor-pointer font-normal">True</Label>
+            </div>
+            <div className="flex items-center space-x-3 p-4 rounded-lg border border-border hover:bg-muted/50 transition-colors cursor-pointer">
+              <RadioGroupItem value="False" id={`option-${question.id}-false`} />
+              <Label htmlFor={`option-${question.id}-false`} className="flex-1 cursor-pointer font-normal">False</Label>
+            </div>
+          </RadioGroup>
+        );
       case 'code':
         return (
           <div className="space-y-2">
+            {getStarterCode() && (
+              <div className="bg-muted p-3 rounded-lg border">
+                <p className="text-xs text-muted-foreground mb-2">Starter Code:</p>
+                <pre className="text-sm font-mono whitespace-pre-wrap">{getStarterCode()}</pre>
+              </div>
+            )}
             <div className="flex items-center gap-2 text-sm text-muted-foreground bg-muted p-2 rounded"><Code className="w-4 h-4" /><span>Write your code below</span></div>
-            <Textarea placeholder="// Write your code here..." className="min-h-[300px] font-mono" value={selectedAnswer !== undefined ? selectedAnswer : getStarterCode()} onChange={(e) => onAnswerChange(e.target.value)} />
+            <Textarea placeholder="// Write your code here..." className="min-h-[300px] font-mono" value={selectedAnswer !== undefined ? selectedAnswer : ''} onChange={(e) => onAnswerChange(e.target.value)} />
           </div>
         );
       case 'video':
