@@ -1,7 +1,7 @@
 import { useState, useEffect, useRef } from "react";
 import { Link, useLocation, useNavigate } from "react-router-dom";
 import { Button } from "@/components/ui/button";
-import { Menu, X, ChevronDown, Star, Settings } from "lucide-react";
+import { Menu, X, ChevronDown, Star, Settings, ChevronRight } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 import { useAuth } from "@/contexts/SimpleAuthContext";
 import { supabase } from "@/integrations/supabase/client";
@@ -26,7 +26,6 @@ const EnhancedNavigation = () => {
   const navigationItems: NavItem[] = [
     {
       label: "Product",
-      href: "/product",
       children: [
         {
           label: "Features",
@@ -47,7 +46,7 @@ const EnhancedNavigation = () => {
       href: "/assessments",
     },
     {
-      label: "Solution Analysis",
+      label: "Solutions",
       href: "/solutions",
     },
     {
@@ -125,48 +124,155 @@ const EnhancedNavigation = () => {
         animate={{ y: 0 }}
         className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
           isScrolled
-            ? "bg-white/95 backdrop-blur-md shadow-sm border-b border-slate-200"
-            : "bg-slate-900/80 backdrop-blur-md border-b border-white/10"
+            ? "bg-white/98 backdrop-blur-xl shadow-lg shadow-slate-900/5 border-b border-slate-100"
+            : "bg-slate-900/95 backdrop-blur-xl border-b border-white/10"
         }`}
       >
         <div className="container mx-auto px-4 lg:px-8">
-          {/* Row 1: Logo + Auth */}
-          <div className="flex items-center justify-between py-3">
-            <Link to="/" className="flex items-center gap-3 group transition-smooth" onClick={() => setIsMobileMenuOpen(false)}>
-              <div className={`rounded-xl p-1.5 transition-all ${isScrolled ? "bg-transparent" : "bg-white shadow-sm"}`}>
-                <img src="/interq-logo.png" alt="InterQ" className="h-10 sm:h-12 w-auto max-w-full" loading="lazy" decoding="async" />
+          {/* Main Nav Row */}
+          <div className="flex items-center justify-between h-16 lg:h-[70px]">
+            {/* Logo */}
+            <Link to="/" className="flex items-center gap-3 group transition-all duration-200" onClick={() => setIsMobileMenuOpen(false)}>
+              <div className={`relative rounded-xl p-1.5 transition-all duration-300 ${
+                isScrolled 
+                  ? "bg-gradient-to-br from-cyan-500 to-blue-600 shadow-lg shadow-cyan-500/25" 
+                  : "bg-white/10 backdrop-blur-sm"
+              }`}>
+                <img src="/interq-logo.png" alt="InterQ" className="h-9 lg:h-10 w-auto" loading="lazy" decoding="async" />
               </div>
-              <span className={`text-2xl font-bold transition-smooth ${isScrolled ? "text-slate-900 group-hover:text-cyan-600" : "text-white"}`}>
+              <span className={`text-xl lg:text-2xl font-bold tracking-tight transition-colors duration-300 ${
+                isScrolled 
+                  ? "text-slate-900 group-hover:text-cyan-600" 
+                  : "text-white"
+              }`}>
                 InterQ
               </span>
             </Link>
 
-            {/* Desktop Auth */}
-            <div className="hidden lg:flex items-center space-x-3">
+            {/* Desktop Navigation */}
+            <nav className="hidden lg:flex items-center gap-1" ref={dropdownRef}>
+              {navigationItems.map((item) => (
+                <div key={item.label} className="relative">
+                  <button
+                    onClick={() => handleNavItemClick(item)}
+                    className={`flex items-center gap-1.5 px-4 py-2.5 rounded-xl text-sm font-semibold transition-all duration-200 ${
+                      isActive(item.href) || item.children?.some(child => isActive(child.href))
+                        ? "bg-gradient-to-r from-cyan-500 to-cyan-600 text-white shadow-lg shadow-cyan-500/25"
+                        : (isScrolled 
+                            ? "text-slate-600 hover:text-cyan-600 hover:bg-cyan-50" 
+                            : "text-white/90 hover:text-white hover:bg-white/10")
+                    }`}
+                    aria-expanded={activeDropdown === item.label}
+                    aria-haspopup={item.children ? "true" : "false"}
+                  >
+                    {item.label}
+                    {item.children && (
+                      <ChevronDown size={14} className={`transition-transform duration-200 ${activeDropdown === item.label ? "rotate-180" : ""}`} />
+                    )}
+                  </button>
+
+                  {/* Enhanced Dropdown */}
+                  {item.children && (
+                    <AnimatePresence>
+                      {activeDropdown === item.label && (
+                        <motion.div
+                          initial={{ opacity: 0, y: -8, scale: 0.96 }}
+                          animate={{ opacity: 1, y: 0, scale: 1 }}
+                          exit={{ opacity: 0, y: -8, scale: 0.96 }}
+                          transition={{ duration: 0.15 }}
+                          className="absolute top-full left-0 mt-2 w-72 bg-white rounded-2xl shadow-2xl shadow-slate-900/15 border border-slate-100 overflow-hidden"
+                        >
+                          <div className="p-2">
+                            {item.children.map((child, idx) => (
+                              <button
+                                key={child.label}
+                                onClick={() => trackNavigation(child.label, child.href)}
+                                className={`w-full flex items-center gap-3 p-3.5 text-left rounded-xl transition-all duration-200 group/item ${
+                                  isActive(child.href) 
+                                    ? "bg-gradient-to-r from-cyan-50 to-cyan-50/50 text-cyan-600" 
+                                    : "text-slate-700 hover:bg-slate-50 hover:text-cyan-600"
+                                }`}
+                              >
+                                {child.icon && (
+                                  <div className={`w-10 h-10 rounded-xl flex items-center justify-center transition-colors ${
+                                    isActive(child.href) 
+                                      ? "bg-cyan-500 text-white" 
+                                      : "bg-slate-100 text-slate-500 group-hover/item:bg-cyan-100 group-hover/item:text-cyan-600"
+                                  }`}>
+                                    <child.icon size={18} />
+                                  </div>
+                                )}
+                                <div className="flex-1">
+                                  <div className="font-semibold text-sm">{child.label}</div>
+                                  {child.description && <div className="text-xs text-slate-500 mt-0.5">{child.description}</div>}
+                                </div>
+                                <ChevronRight size={16} className={`text-slate-300 transition-transform group-hover/item:translate-x-1 ${
+                                  isActive(child.href) ? "text-cyan-400" : ""
+                                }`} />
+                              </button>
+                            ))}
+                          </div>
+                          {/* Decorative gradient */}
+                          <div className="h-1 bg-gradient-to-r from-cyan-500 to-blue-500" />
+                        </motion.div>
+                      )}
+                    </AnimatePresence>
+                  )}
+                </div>
+              ))}
+
+              {isAdmin && (
+                <Link
+                  to="/admin"
+                  className={`ml-2 px-4 py-2.5 rounded-xl text-sm font-semibold transition-all duration-200 ${
+                    isActive("/admin")
+                      ? "bg-gradient-to-r from-cyan-500 to-cyan-600 text-white shadow-lg shadow-cyan-500/25"
+                      : (isScrolled ? "text-slate-600 hover:text-cyan-600 hover:bg-cyan-50" : "text-white/90 hover:text-white hover:bg-white/10")
+                  }`}
+                >
+                  Admin
+                </Link>
+              )}
+            </nav>
+
+            {/* Desktop Auth Buttons */}
+            <div className="hidden lg:flex items-center gap-3">
               {user ? (
-                <div className="flex items-center space-x-3">
+                <div className="flex items-center gap-2">
                   <Link to="/settings">
-                    <Button variant="ghost" size="sm" className={isScrolled ? "text-slate-700 hover:bg-slate-100" : "text-white/90 hover:bg-white/10"}>
-                      <Settings size={16} className="mr-1" /> Settings
+                    <Button 
+                      variant="ghost" 
+                      size="sm" 
+                      className={`font-medium ${isScrolled ? "text-slate-600 hover:text-cyan-600 hover:bg-cyan-50" : "text-white/90 hover:text-white hover:bg-white/10"}`}
+                    >
+                      <Settings size={16} className="mr-1.5" /> Settings
                     </Button>
                   </Link>
-                  <Button variant="ghost" size="sm" onClick={signOut} className="text-red-600 hover:bg-red-50">
+                  <Button 
+                    variant="ghost" 
+                    size="sm" 
+                    onClick={signOut} 
+                    className="text-red-500 hover:text-red-600 hover:bg-red-50 font-medium"
+                  >
                     Sign Out
                   </Button>
                 </div>
               ) : (
-                <div className="flex items-center space-x-3">
+                <div className="flex items-center gap-2">
                   <Link to="/auth">
-                    <Button
-                      variant="ghost"
-                      size="sm"
-                      className={`text-sm font-medium ${isScrolled ? "text-slate-700 hover:bg-slate-100" : "text-white/90 hover:bg-white/10 hover:text-white"}`}
+                    <Button 
+                      variant="ghost" 
+                      size="sm" 
+                      className={`font-semibold ${isScrolled ? "text-slate-700 hover:text-cyan-600 hover:bg-cyan-50" : "text-white/90 hover:text-white hover:bg-white/10"}`}
                     >
                       Sign In
                     </Button>
                   </Link>
                   <Link to="/get-started">
-                    <Button className="text-sm font-semibold bg-gradient-to-r from-cyan-500 to-blue-500 hover:from-cyan-600 hover:to-blue-600 text-white shadow-md hover:shadow-lg transition-all">
+                    <Button 
+                      size="sm" 
+                      className="font-semibold bg-gradient-to-r from-cyan-500 to-blue-600 hover:from-cyan-600 hover:to-blue-700 text-white shadow-lg shadow-cyan-500/30 hover:shadow-cyan-500/40 transition-all duration-200 hover:-translate-y-0.5"
+                    >
                       Book Demo
                     </Button>
                   </Link>
@@ -177,80 +283,16 @@ const EnhancedNavigation = () => {
             {/* Mobile Menu Button */}
             <button
               onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
-              className={`lg:hidden p-2.5 rounded-lg border transition-colors ${isScrolled ? "border-slate-200 bg-white text-slate-700 hover:bg-slate-50" : "border-white/20 bg-white/10 text-white hover:bg-white/20"}`}
+              className={`lg:hidden p-2.5 rounded-xl border-2 transition-all duration-200 ${
+                isScrolled 
+                  ? "border-slate-200 bg-white text-slate-700 hover:border-cyan-300 hover:bg-cyan-50" 
+                  : "border-white/20 bg-white/10 text-white hover:bg-white/20 hover:border-white/30"
+              }`}
               aria-label={isMobileMenuOpen ? "Close menu" : "Open menu"}
             >
-              {isMobileMenuOpen ? <X size={24} /> : <Menu size={24} />}
+              {isMobileMenuOpen ? <X size={22} /> : <Menu size={22} />}
             </button>
           </div>
-
-          {/* Row 2: Nav links */}
-          <nav className={`hidden lg:flex items-center justify-center gap-1 pb-3 border-t pt-3 ${isScrolled ? "border-slate-100" : "border-white/10"}`} ref={dropdownRef}>
-            {navigationItems.map((item) => (
-              <div key={item.label} className="relative">
-                <button
-                  onClick={() => handleNavItemClick(item)}
-                  className={`flex items-center gap-1 px-5 py-2 rounded-lg text-sm font-medium transition-all duration-200 ${
-                    isActive(item.href) || item.children?.some(child => isActive(child.href))
-                      ? "bg-cyan-100 text-cyan-700 shadow-sm"
-                      : (isScrolled ? "text-slate-600 hover:text-slate-900 hover:bg-slate-100" : "text-white/90 hover:text-white hover:bg-white/10")
-                  }`}
-                  aria-expanded={activeDropdown === item.label}
-                  aria-haspopup={item.children ? "true" : "false"}
-                >
-                  {item.label}
-                  {item.children && (
-                    <ChevronDown size={14} className={`transition-transform ${activeDropdown === item.label ? "rotate-180" : ""}`} />
-                  )}
-                </button>
-
-                {/* Dropdown */}
-                {item.children && (
-                  <AnimatePresence>
-                    {activeDropdown === item.label && (
-                      <motion.div
-                        initial={{ opacity: 0, y: -10 }}
-                        animate={{ opacity: 1, y: 0 }}
-                        exit={{ opacity: 0, y: -10 }}
-                        className="absolute top-full left-0 mt-2 w-64 bg-white border border-slate-200 rounded-lg shadow-xl z-50"
-                      >
-                        <div className="p-2">
-                          {item.children.map((child) => (
-                            <button
-                              key={child.label}
-                              onClick={() => trackNavigation(child.label, child.href)}
-                              className={`w-full flex items-center gap-3 p-3 text-left rounded-md transition-all duration-200 hover:bg-slate-50 ${
-                                isActive(child.href) ? "text-cyan-600 bg-cyan-50" : "text-slate-700 hover:text-cyan-600"
-                              }`}
-                            >
-                              {child.icon && <child.icon size={18} className="text-cyan-500" />}
-                              <div>
-                                <div className="font-medium text-sm">{child.label}</div>
-                                {child.description && <div className="text-xs text-slate-500 mt-0.5">{child.description}</div>}
-                              </div>
-                            </button>
-                          ))}
-                        </div>
-                      </motion.div>
-                    )}
-                  </AnimatePresence>
-                )}
-              </div>
-            ))}
-
-            {isAdmin && (
-              <Link
-                to="/admin"
-                className={`px-5 py-2 rounded-lg text-sm font-medium transition-all duration-200 ${
-                  isActive("/admin")
-                    ? "bg-cyan-100 text-cyan-700 shadow-sm"
-                    : (isScrolled ? "text-slate-600 hover:text-slate-900 hover:bg-slate-100" : "text-white/90 hover:text-white hover:bg-white/10")
-                }`}
-              >
-                Admin
-              </Link>
-            )}
-          </nav>
         </div>
 
         {/* Mobile Menu */}
@@ -262,58 +304,108 @@ const EnhancedNavigation = () => {
                 animate={{ opacity: 1 }}
                 exit={{ opacity: 0 }}
                 onClick={() => setIsMobileMenuOpen(false)}
-                className="fixed inset-0 bg-black/20 backdrop-blur-sm z-[40] lg:hidden"
-                style={{ top: "72px" }}
+                className="fixed inset-0 bg-slate-900/50 backdrop-blur-sm z-[40] lg:hidden"
+                style={{ top: "70px" }}
               />
               <motion.div
-                initial={{ opacity: 0, height: 0 }}
-                animate={{ opacity: 1, height: "auto" }}
-                exit={{ opacity: 0, height: 0 }}
-                className="lg:hidden bg-white border-b border-slate-200 shadow-lg overflow-hidden fixed left-0 right-0 z-50"
-                style={{ top: "72px" }}
+                initial={{ opacity: 0, y: -20 }}
+                animate={{ opacity: 1, y: 0 }}
+                exit={{ opacity: 0, y: -20 }}
+                transition={{ duration: 0.2 }}
+                className="lg:hidden bg-white border-b border-slate-100 shadow-2xl overflow-hidden fixed left-0 right-0 z-50"
+                style={{ top: "70px" }}
               >
-                <div className="container mx-auto px-4 py-6 space-y-2 max-h-[80vh] overflow-y-auto">
-                  {navigationItems.map((item) => (
-                    <div key={item.label} className="space-y-2">
-                      <button
-                        onClick={() => handleNavItemClick(item)}
-                        className="w-full flex items-center justify-between p-3 text-left rounded-lg transition-colors hover:bg-slate-50 text-slate-700"
-                      >
-                        <span className="font-medium">{item.label}</span>
-                        {item.children && <ChevronDown size={20} className={`transition-transform ${activeDropdown === item.label ? "rotate-180" : ""}`} />}
-                      </button>
-                      {item.children && activeDropdown === item.label && (
-                        <motion.div initial={{ opacity: 0, height: 0 }} animate={{ opacity: 1, height: "auto" }} exit={{ opacity: 0, height: 0 }} className="pl-4 space-y-1">
-                          {item.children.map((child) => (
-                            <button
-                              key={child.label}
-                              onClick={() => trackNavigation(child.label, child.href)}
-                              className={`w-full flex items-center gap-3 p-3 text-left rounded-md transition-colors hover:bg-slate-50 ${isActive(child.href) ? "text-cyan-600 bg-cyan-50" : "text-slate-600"}`}
-                            >
-                              {child.icon && <child.icon size={16} className="text-cyan-500" />}
-                              <div>
-                                <div className="font-medium text-sm">{child.label}</div>
-                                {child.description && <div className="text-xs text-slate-500 mt-0.5">{child.description}</div>}
-                              </div>
-                            </button>
-                          ))}
-                        </motion.div>
-                      )}
-                    </div>
-                  ))}
+                <div className="container mx-auto px-4 py-6 space-y-2 max-h-[calc(100vh-70px)] overflow-y-auto">
+                  {/* Nav Items */}
+                  <div className="space-y-1">
+                    {navigationItems.map((item) => (
+                      <div key={item.label} className="space-y-1">
+                        <button
+                          onClick={() => handleNavItemClick(item)}
+                          className={`w-full flex items-center justify-between p-4 text-left rounded-xl font-semibold transition-all duration-200 ${
+                            isActive(item.href) || item.children?.some(child => isActive(child.href))
+                              ? "bg-gradient-to-r from-cyan-50 to-cyan-50/50 text-cyan-600"
+                              : "text-slate-700 hover:bg-slate-50"
+                          }`}
+                        >
+                          <span>{item.label}</span>
+                          {item.children && (
+                            <ChevronDown size={20} className={`transition-transform duration-200 ${activeDropdown === item.label ? "rotate-180" : ""}`} />
+                          )}
+                        </button>
+                        {item.children && activeDropdown === item.label && (
+                          <motion.div 
+                            initial={{ opacity: 0, height: 0 }} 
+                            animate={{ opacity: 1, height: "auto" }} 
+                            exit={{ opacity: 0, height: 0 }}
+                            className="pl-4 space-y-1"
+                          >
+                            {item.children.map((child) => (
+                              <button
+                                key={child.label}
+                                onClick={() => trackNavigation(child.label, child.href)}
+                                className={`w-full flex items-center gap-3 p-3.5 text-left rounded-xl transition-colors ${
+                                  isActive(child.href) ? "bg-cyan-50 text-cyan-600" : "text-slate-600 hover:bg-slate-50"
+                                }`}
+                              >
+                                {child.icon && <child.icon size={18} className="text-cyan-500" />}
+                                <div>
+                                  <div className="font-semibold text-sm">{child.label}</div>
+                                  {child.description && <div className="text-xs text-slate-500 mt-0.5">{child.description}</div>}
+                                </div>
+                              </button>
+                            ))}
+                          </motion.div>
+                        )}
+                      </div>
+                    ))}
+                  </div>
+
                   {isAdmin && (
-                    <Link to="/admin" onClick={() => setIsMobileMenuOpen(false)} className={`block p-3 rounded-lg transition-colors hover:bg-slate-50 ${isActive("/admin") ? "text-cyan-600 bg-cyan-50" : "text-slate-700"}`}>
+                    <Link 
+                      to="/admin" 
+                      onClick={() => setIsMobileMenuOpen(false)} 
+                      className={`block p-4 rounded-xl font-semibold transition-colors ${
+                        isActive("/admin") ? "bg-cyan-50 text-cyan-600" : "text-slate-700 hover:bg-slate-50"
+                      }`}
+                    >
                       Admin Dashboard
                     </Link>
                   )}
-                  <div className="h-px bg-slate-200 my-4" />
-                  <div className="space-y-3">
+
+                  {/* Divider */}
+                  <div className="h-px bg-gradient-to-r from-transparent via-slate-200 to-transparent my-4" />
+
+                  {/* Auth Buttons */}
+                  <div className="space-y-3 pb-4">
                     {user ? (
-                      <Button variant="ghost" size="lg" className="w-full justify-start text-red-600 hover:bg-red-50" onClick={() => { signOut(); setIsMobileMenuOpen(false); }}>Sign Out</Button>
+                      <div className="space-y-2">
+                        <Link to="/settings" onClick={() => setIsMobileMenuOpen(false)}>
+                          <Button variant="outline" size="lg" className="w-full justify-start border-slate-200 text-slate-700 hover:border-cyan-300 hover:text-cyan-600 hover:bg-cyan-50">
+                            <Settings size={18} className="mr-2" /> Settings
+                          </Button>
+                        </Link>
+                        <Button 
+                          variant="ghost" 
+                          size="lg" 
+                          className="w-full justify-start text-red-500 hover:text-red-600 hover:bg-red-50 font-medium" 
+                          onClick={() => { signOut(); setIsMobileMenuOpen(false); }}
+                        >
+                          Sign Out
+                        </Button>
+                      </div>
                     ) : (
                       <div className="grid gap-3">
-                        <Link to="/auth" onClick={() => setIsMobileMenuOpen(false)}><Button variant="outline" size="lg" className="w-full justify-center border-slate-300 text-slate-700">Sign In</Button></Link>
-                        <Link to="/get-started" onClick={() => setIsMobileMenuOpen(false)}><Button size="lg" className="w-full justify-center bg-gradient-to-r from-cyan-500 to-blue-500 text-white">Book Demo</Button></Link>
+                        <Link to="/auth" onClick={() => setIsMobileMenuOpen(false)}>
+                          <Button variant="outline" size="lg" className="w-full justify-center font-semibold border-2 border-slate-200 text-slate-700 hover:border-cyan-300 hover:text-cyan-600 hover:bg-cyan-50">
+                            Sign In
+                          </Button>
+                        </Link>
+                        <Link to="/get-started" onClick={() => setIsMobileMenuOpen(false)}>
+                          <Button size="lg" className="w-full justify-center font-bold bg-gradient-to-r from-cyan-500 to-blue-600 text-white shadow-lg">
+                            Book Demo
+                          </Button>
+                        </Link>
                       </div>
                     )}
                   </div>
