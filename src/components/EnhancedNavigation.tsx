@@ -124,8 +124,8 @@ const EnhancedNavigation = () => {
         animate={{ y: 0 }}
         className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
           isScrolled
-            ? "bg-white/98 backdrop-blur-xl shadow-lg shadow-slate-900/5 border-b border-slate-100"
-            : "bg-slate-900/95 backdrop-blur-xl border-b border-white/10"
+            ? "nav-header-light"
+            : "nav-header-dark"
         }`}
       >
         <div className="container mx-auto px-4 lg:px-8">
@@ -133,18 +133,10 @@ const EnhancedNavigation = () => {
           <div className="flex items-center justify-between h-16 lg:h-[70px]">
             {/* Logo */}
             <Link to="/" className="flex items-center gap-3 group transition-all duration-200" onClick={() => setIsMobileMenuOpen(false)}>
-              <div className={`relative rounded-xl p-1.5 transition-all duration-300 ${
-                isScrolled 
-                  ? "bg-gradient-to-br from-cyan-500 to-blue-600 shadow-lg shadow-cyan-500/25" 
-                  : "bg-white/10 backdrop-blur-sm"
-              }`}>
+              <div className={`rounded-xl p-1.5 transition-all duration-300 nav-logo`}>
                 <img src="/interq-logo.png" alt="InterQ" className="h-9 lg:h-10 w-auto" loading="lazy" decoding="async" />
               </div>
-              <span className={`text-xl lg:text-2xl font-bold tracking-tight transition-colors duration-300 ${
-                isScrolled 
-                  ? "text-slate-900 group-hover:text-cyan-600" 
-                  : "text-white"
-              }`}>
+              <span className={`text-xl lg:text-2xl font-bold tracking-tight nav-brand-text transition-colors duration-300`}>
                 InterQ
               </span>
             </Link>
@@ -155,12 +147,10 @@ const EnhancedNavigation = () => {
                 <div key={item.label} className="relative">
                   <button
                     onClick={() => handleNavItemClick(item)}
-                    className={`flex items-center gap-1.5 px-4 py-2.5 rounded-xl text-sm font-semibold transition-all duration-200 ${
+                    className={`flex items-center gap-1.5 px-4 py-2.5 rounded-xl text-sm font-semibold transition-all duration-200 nav-link ${
                       isActive(item.href) || item.children?.some(child => isActive(child.href))
-                        ? "bg-gradient-to-r from-cyan-500 to-cyan-600 text-white shadow-lg shadow-cyan-500/25"
-                        : (isScrolled 
-                            ? "text-slate-600 hover:text-cyan-600 hover:bg-cyan-50" 
-                            : "text-white/90 hover:text-white hover:bg-white/10")
+                        ? "active"
+                        : ""
                     }`}
                     aria-expanded={activeDropdown === item.label}
                     aria-haspopup={item.children ? "true" : "false"}
@@ -180,10 +170,10 @@ const EnhancedNavigation = () => {
                           animate={{ opacity: 1, y: 0, scale: 1 }}
                           exit={{ opacity: 0, y: -8, scale: 0.96 }}
                           transition={{ duration: 0.15 }}
-                          className="absolute top-full left-0 mt-2 w-72 bg-white rounded-2xl shadow-2xl shadow-slate-900/15 border border-slate-100 overflow-hidden"
+                          className="absolute top-full left-0 mt-2 w-72 bg-white rounded-2xl shadow-2xl shadow-slate-900/15 border border-slate-100 overflow-hidden dropdown-menu"
                         >
                           <div className="p-2">
-                            {item.children.map((child, idx) => (
+                            {item.children.map((child) => (
                               <button
                                 key={child.label}
                                 onClick={() => trackNavigation(child.label, child.href)}
@@ -224,10 +214,8 @@ const EnhancedNavigation = () => {
               {isAdmin && (
                 <Link
                   to="/admin"
-                  className={`ml-2 px-4 py-2.5 rounded-xl text-sm font-semibold transition-all duration-200 ${
-                    isActive("/admin")
-                      ? "bg-gradient-to-r from-cyan-500 to-cyan-600 text-white shadow-lg shadow-cyan-500/25"
-                      : (isScrolled ? "text-slate-600 hover:text-cyan-600 hover:bg-cyan-50" : "text-white/90 hover:text-white hover:bg-white/10")
+                  className={`ml-2 px-4 py-2.5 rounded-xl text-sm font-semibold transition-all duration-200 nav-link ${
+                    isActive("/admin") ? "active" : ""
                   }`}
                 >
                   Admin
@@ -243,7 +231,7 @@ const EnhancedNavigation = () => {
                     <Button 
                       variant="ghost" 
                       size="sm" 
-                      className={`font-medium ${isScrolled ? "text-slate-600 hover:text-cyan-600 hover:bg-cyan-50" : "text-white/90 hover:text-white hover:bg-white/10"}`}
+                      className="font-medium nav-btn-ghost"
                     >
                       <Settings size={16} className="mr-1.5" /> Settings
                     </Button>
@@ -263,7 +251,7 @@ const EnhancedNavigation = () => {
                     <Button 
                       variant="ghost" 
                       size="sm" 
-                      className={`font-semibold ${isScrolled ? "text-slate-700 hover:text-cyan-600 hover:bg-cyan-50" : "text-white/90 hover:text-white hover:bg-white/10"}`}
+                      className="font-semibold nav-btn-ghost"
                     >
                       Sign In
                     </Button>
@@ -283,11 +271,7 @@ const EnhancedNavigation = () => {
             {/* Mobile Menu Button */}
             <button
               onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
-              className={`lg:hidden p-2.5 rounded-xl border-2 transition-all duration-200 ${
-                isScrolled 
-                  ? "border-slate-200 bg-white text-slate-700 hover:border-cyan-300 hover:bg-cyan-50" 
-                  : "border-white/20 bg-white/10 text-white hover:bg-white/20 hover:border-white/30"
-              }`}
+              className={`lg:hidden p-2.5 rounded-xl border-2 transition-all duration-200 nav-mobile-btn`}
               aria-label={isMobileMenuOpen ? "Close menu" : "Open menu"}
             >
               {isMobileMenuOpen ? <X size={22} /> : <Menu size={22} />}
@@ -312,7 +296,7 @@ const EnhancedNavigation = () => {
                 animate={{ opacity: 1, y: 0 }}
                 exit={{ opacity: 0, y: -20 }}
                 transition={{ duration: 0.2 }}
-                className="lg:hidden bg-white border-b border-slate-100 shadow-2xl overflow-hidden fixed left-0 right-0 z-50"
+                className="lg:hidden bg-white border-b border-slate-100 shadow-2xl overflow-hidden fixed left-0 right-0 z-50 mobile-menu"
                 style={{ top: "70px" }}
               >
                 <div className="container mx-auto px-4 py-6 space-y-2 max-h-[calc(100vh-70px)] overflow-y-auto">

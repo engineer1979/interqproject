@@ -498,3 +498,317 @@
 .animate-float {
   animation: float 6s ease-in-out infinite;
 }
+
+/* ==========================================
+   HEADER / NAVIGATION - Automatic Contrast
+   ========================================== */
+
+/* Header on DARK backgrounds (transparent/hero mode) */
+header[class*="slate-900"],
+header[class*="bg-slate-900"],
+header[class*="bg-gradient"],
+header:has([class*="bg-slate-9"]:not([class*="bg-white"])),
+header:has([class*="bg-slate-800"]):not(:has([class*="bg-white"])) {
+  --nav-bg-is-dark: 1;
+}
+
+/* Smart text contrast for header children */
+header[class*="bg-slate-9"] *,
+header:has([class*="bg-slate-9"]) * {
+  color: inherit;
+}
+
+/* Dark header with light text */
+header[class*="bg-slate-9"]:not(:has([class*="bg-white"])),
+header:not(:has(~ * [class*="bg-white/9"])):has([class*="bg-slate-9"]),
+header[class*="bg-slate-9"][class*="/95"],
+header[class*="bg-slate-9"][class*="/90"] {
+  h1, h2, h3, h4, h5, h6,
+  p, li, span, label,
+  a, button,
+  .nav-link, .menu-item {
+    color: rgba(255, 255, 255, 0.9) !important;
+  }
+  
+  .text-slate-600,
+  .text-slate-700,
+  .text-muted-foreground {
+    color: rgba(255, 255, 255, 0.7) !important;
+  }
+}
+
+/* Light header with dark text */
+header[class*="bg-white"]:not([class*="bg-white/"]),
+header[class*="bg-slate-50"],
+header[class*="bg-slate-100"],
+header[class*="bg-white/9"]:has(~ *),
+header:has([class*="bg-white/9"]) {
+  h1, h2, h3, h4, h5, h6,
+  p, li, span, label,
+  a, button {
+    color: hsl(222 47% 11%) !important;
+  }
+  
+  .text-white,
+  .text-white\/ {
+    color: hsl(222 47% 11%) !important;
+  }
+}
+
+/* Header nav links - Smart contrast */
+header .nav-link,
+header button[class*="nav"],
+header [role="navigation"] a,
+header [role="navigation"] button {
+  transition: color 0.2s, background-color 0.2s;
+}
+
+/* Active nav items always get brand color */
+header .nav-link.active,
+header button.active,
+header [aria-current="page"] {
+  background: linear-gradient(135deg, hsl(188 86% 45%) 0%, hsl(221 83% 45%) 100%) !important;
+  color: white !important;
+  box-shadow: 0 4px 14px rgba(34, 211, 238, 0.25);
+}
+
+/* Dropdown menus always have light background */
+header .dropdown-menu,
+header [class*="dropdown"],
+header [role="menu"],
+header [class*="dropdown-menu"] {
+  background: white !important;
+  border: 1px solid hsl(214 32% 91%);
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+}
+
+header .dropdown-menu *,
+header [class*="dropdown"] * {
+  color: hsl(222 47% 11%) !important;
+}
+
+header .dropdown-menu a:hover,
+header .dropdown-menu button:hover,
+header [class*="dropdown"] a:hover,
+header [class*="dropdown"] button:hover {
+  background: hsl(210 40% 96%) !important;
+}
+
+/* Mobile menu always light */
+header .mobile-menu,
+header [class*="mobile-menu"],
+header [class*="mobile-nav"] {
+  background: white !important;
+}
+
+header .mobile-menu *,
+header [class*="mobile-menu"] * {
+  color: hsl(222 47% 11%) !important;
+}
+
+/* Ensure icon colors follow parent text */
+header svg {
+  color: inherit;
+  fill: currentColor;
+}
+
+/* Hover states */
+header a:hover,
+header button:hover {
+  color: hsl(188 86% 45%) !important;
+}
+
+/* Brand color on hover */
+header .nav-link:hover,
+header button:not(.active):hover {
+  color: hsl(188 86% 45%) !important;
+}
+
+/* ==========================================
+   SMART TEXT - Auto contrast helper
+   ========================================== */
+
+/* Utility classes for automatic contrast */
+.text-contrast-dark {
+  color: hsl(222 47% 11%);
+}
+
+.text-contrast-light {
+  color: white;
+}
+
+.text-contrast-muted-dark {
+  color: hsl(215 16% 45%);
+}
+
+.text-contrast-muted-light {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+/* Responsive text sizing */
+@media (max-width: 768px) {
+  header h1, header h2, header h3 {
+    font-size: 1.25rem;
+  }
+}
+
+/* ==========================================
+   NAVIGATION SEMANTIC CLASSES
+   ========================================== */
+
+/* Dark header (hero/transparent mode) */
+.nav-header-dark {
+  background: linear-gradient(180deg, hsl(222 47% 11%) 0%, hsl(217 33% 17%) 100%);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+}
+
+.nav-header-dark .nav-logo {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+}
+
+.nav-header-dark .nav-brand-text,
+.nav-header-dark .nav-link,
+.nav-header-dark button,
+.nav-header-dark a {
+  color: rgba(255, 255, 255, 0.9) !important;
+}
+
+.nav-header-dark .nav-link:hover {
+  color: white !important;
+  background: rgba(255, 255, 255, 0.1) !important;
+}
+
+.nav-header-dark .nav-link.active {
+  background: linear-gradient(135deg, hsl(188 86% 45%) 0%, hsl(221 83% 45%) 100%) !important;
+  color: white !important;
+  box-shadow: 0 4px 14px rgba(34, 211, 238, 0.25);
+}
+
+.nav-header-dark .nav-btn-ghost {
+  color: rgba(255, 255, 255, 0.9) !important;
+}
+
+.nav-header-dark .nav-btn-ghost:hover {
+  color: white !important;
+  background: rgba(255, 255, 255, 0.1) !important;
+}
+
+.nav-header-dark .nav-mobile-btn {
+  border-color: rgba(255, 255, 255, 0.2) !important;
+  background: rgba(255, 255, 255, 0.1) !important;
+  color: white !important;
+}
+
+.nav-header-dark .nav-mobile-btn:hover {
+  background: rgba(255, 255, 255, 0.15) !important;
+  border-color: rgba(255, 255, 255, 0.3) !important;
+}
+
+/* Light header (scrolled/white mode) */
+.nav-header-light {
+  background: rgba(255, 255, 255, 0.98);
+  border-bottom: 1px solid hsl(214 32% 91%);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+}
+
+.nav-header-light .nav-logo {
+  background: linear-gradient(135deg, hsl(188 86% 45%) 0%, hsl(221 83% 53%) 100%);
+  box-shadow: 0 4px 14px rgba(34, 211, 238, 0.25);
+}
+
+.nav-header-light .nav-brand-text,
+.nav-header-light .nav-link,
+.nav-header-light button,
+.nav-header-light a {
+  color: hsl(222 47% 11%) !important;
+}
+
+.nav-header-light .nav-link:hover {
+  color: hsl(188 86% 45%) !important;
+  background: hsl(188 86% 95%) !important;
+}
+
+.nav-header-light .nav-link.active {
+  background: linear-gradient(135deg, hsl(188 86% 45%) 0%, hsl(221 83% 45%) 100%) !important;
+  color: white !important;
+  box-shadow: 0 4px 14px rgba(34, 211, 238, 0.25);
+}
+
+.nav-header-light .nav-btn-ghost {
+  color: hsl(222 47% 11%) !important;
+}
+
+.nav-header-light .nav-btn-ghost:hover {
+  color: hsl(188 86% 45%) !important;
+  background: hsl(188 86% 95%) !important;
+}
+
+.nav-header-light .nav-mobile-btn {
+  border-color: hsl(214 32% 91%) !important;
+  background: white !important;
+  color: hsl(222 47% 11%) !important;
+}
+
+.nav-header-light .nav-mobile-btn:hover {
+  border-color: hsl(188 86% 65%) !important;
+  background: hsl(188 86% 95%) !important;
+  color: hsl(188 86% 45%) !important;
+}
+
+/* Dropdown menus - always light background */
+.dropdown-menu,
+header .dropdown-menu {
+  background: white !important;
+  border: 1px solid hsl(214 32% 91%);
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.15);
+}
+
+.dropdown-menu *,
+header .dropdown-menu * {
+  color: hsl(222 47% 11%) !important;
+}
+
+.dropdown-menu a:hover,
+.dropdown-menu button:hover,
+header .dropdown-menu a:hover,
+header .dropdown-menu button:hover {
+  background: hsl(210 40% 96%) !important;
+  color: hsl(188 86% 45%) !important;
+}
+
+/* Mobile menu - always light */
+.mobile-menu,
+header .mobile-menu {
+  background: white !important;
+}
+
+.mobile-menu *,
+header .mobile-menu * {
+  color: hsl(222 47% 11%) !important;
+}
+
+.mobile-menu a:hover,
+.mobile-menu button:hover,
+header .mobile-menu a:hover,
+header .mobile-menu button:hover {
+  background: hsl(210 40% 96%) !important;
+}
+
+/* SVG icons in nav inherit text color */
+.nav-header-dark svg,
+.nav-header-light svg {
+  color: inherit;
+  fill: currentColor;
+}
+
+/* Hover transitions */
+.nav-link,
+.nav-btn-ghost,
+.nav-mobile-btn {
+  transition: color 0.2s ease, background 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+}
