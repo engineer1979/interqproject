@@ -5,7 +5,7 @@ import { supabase } from "@/integrations/supabase/client";
 import {
   LayoutDashboard, FileText, Users, ClipboardList, MessageSquare,
   Settings, BarChart3, Briefcase, LogOut, Menu, X, ChevronDown,
-  Building2, Bell, ScrollText
+  Building2, Bell, ScrollText, AlertCircle, Plus
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
@@ -73,13 +73,51 @@ export function CompanyLayout() {
   }
 
   if (!company) {
+    // Demo users cannot create companies
+    if (user?.isDemo) {
+      return (
+        <div className="flex items-center justify-center h-screen p-4">
+          <div className="text-center space-y-4 max-w-md">
+            <div className="w-16 h-16 mx-auto rounded-full bg-amber-100 flex items-center justify-center">
+              <AlertCircle className="h-8 w-8 text-amber-600" />
+            </div>
+            <h2 className="text-2xl font-bold">Demo Account</h2>
+            <p className="text-muted-foreground">
+              Demo accounts cannot access company features. Please sign in with a real account to manage your company workspace.
+            </p>
+            <div className="flex flex-col gap-2">
+              <Button onClick={() => navigate("/auth")} className="w-full">
+                Sign In with Real Account
+              </Button>
+              <Button variant="outline" onClick={() => navigate("/")} className="w-full">
+                Back to Home
+              </Button>
+            </div>
+          </div>
+        </div>
+      );
+    }
+
     return (
-      <div className="flex items-center justify-center h-screen">
-        <div className="text-center space-y-4">
-          <Building2 className="h-16 w-16 mx-auto text-muted-foreground" />
-          <h2 className="text-2xl font-bold">No Company Found</h2>
-          <p className="text-muted-foreground">You don't belong to any company workspace yet.</p>
-          <Button onClick={() => navigate("/company-signup")}>Create a Company</Button>
+      <div className="flex items-center justify-center h-screen p-4">
+        <div className="text-center space-y-4 max-w-md">
+          <div className="w-20 h-20 mx-auto rounded-2xl bg-gradient-to-br from-cyan-500 to-blue-500 flex items-center justify-center">
+            <Building2 className="h-10 w-10 text-white" />
+          </div>
+          <h2 className="text-2xl font-bold">Welcome to InterQ!</h2>
+          <p className="text-muted-foreground">
+            You don't have a company workspace yet. Create one to start managing your hiring pipeline and team.
+          </p>
+          <Button onClick={() => navigate("/company-signup")} size="lg" className="mt-4">
+            <Plus className="h-4 w-4 mr-2" />
+            Create Your Company
+          </Button>
+          <p className="text-sm text-muted-foreground">
+            Or{" "}
+            <button onClick={() => { signOut(); navigate("/auth"); }} className="text-primary hover:underline">
+              sign in with a different account
+            </button>
+          </p>
         </div>
       </div>
     );
