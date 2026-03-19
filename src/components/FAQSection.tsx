@@ -30,7 +30,7 @@ const faqs = [
   },
   {
     q: "How are Experts vetted?",
-    a: "Every expert undergoes a multi-step vetting process including credential verification, domain competency assessment, structured interview training, and ongoing performance review to ensure consistently high-quality evaluations.",
+    a: "Every expert undergoes a multi-step vetting process including credential verification, domain competency assessment, structured interview training, and ongoing performance review to ensure consistently high quality evaluations.",
   },
   {
     q: "Do candidates receive feedback after their interview?",
@@ -40,7 +40,7 @@ const faqs = [
 
 const FAQSection = () => {
   return (
-    <section className="py-24 bg-transparent" id="faq">
+    <section className="py-24 md:py-28 bg-slate-50" id="faq">
       <div className="container mx-auto px-4 max-w-3xl">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
@@ -48,14 +48,14 @@ const FAQSection = () => {
           viewport={{ once: true }}
           className="text-center mb-14"
         >
-          <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-primary/10 text-primary text-sm font-medium mb-4">
+          <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-cyan-50 text-cyan-600 text-sm font-medium mb-4">
             <HelpCircle className="w-4 h-4" />
             Frequently Asked Questions
           </div>
-          <h2 className="text-3xl md:text-4xl fancy-heading mb-4">
+          <h2 className="text-3xl md:text-4xl font-extrabold mb-4 text-slate-900">
             Everything You Need to Know
           </h2>
-          <p className="text-muted-foreground max-w-xl mx-auto">
+          <p className="text-slate-500 max-w-xl mx-auto">
             Common questions about our expert-led technical interview platform.
           </p>
         </motion.div>
@@ -71,12 +71,12 @@ const FAQSection = () => {
               <AccordionItem
                 key={i}
                 value={`faq-${i}`}
-                className="bg-card border border-border rounded-xl px-6 shadow-soft data-[state=open]:shadow-elegant transition-all"
+                className="bg-white border border-slate-200 rounded-xl px-6 shadow-sm hover:shadow-md transition-all"
               >
-                <AccordionTrigger className="text-left font-semibold text-base hover:no-underline py-5">
+                <AccordionTrigger className="text-left font-semibold text-base hover:no-underline py-5 text-slate-900">
                   {faq.q}
                 </AccordionTrigger>
-                <AccordionContent className="text-muted-foreground leading-relaxed pb-5">
+                <AccordionContent className="text-slate-500 leading-relaxed pb-5">
                   {faq.a}
                 </AccordionContent>
               </AccordionItem>

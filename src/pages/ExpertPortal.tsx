@@ -17,7 +17,7 @@ import {
   AlertCircle, Award, MessageSquare, Bell
 } from "lucide-react";
 import { useNavigate } from "react-router-dom";
-import { useAuth } from "@/contexts/AuthContext";
+import { useAuth } from "@/contexts/SimpleAuthContext";
 import { cn } from "@/lib/utils";
 
 const sidebarItems = [

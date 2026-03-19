@@ -1,6 +1,6 @@
 import { useState, useEffect, useMemo } from "react";
 import { supabase } from "@/integrations/supabase/client";
-import { useAuth } from "@/contexts/AuthContext";
+import { useAuth } from "@/contexts/SimpleAuthContext";
 import { useToast } from "@/hooks/use-toast";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
@@ -246,7 +246,7 @@ export default function CollaborativeScoring() {
 
   // Build ranked list
   const rankedCandidates = useMemo(() => {
-    let list = candidates.filter(c => {
+    const list = candidates.filter(c => {
       const matchSearch = !searchTerm ||
         c.full_name.toLowerCase().includes(searchTerm.toLowerCase()) ||
         c.email.toLowerCase().includes(searchTerm.toLowerCase());

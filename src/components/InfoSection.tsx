@@ -10,14 +10,14 @@ interface InfoSectionProps {
 
 const InfoSection: React.FC<InfoSectionProps> = ({ title, description, icon: Icon, className }) => {
     return (
-        <div className={`p-6 bg-card rounded-lg shadow-sm border ${className}`}>
+        <div className={`p-6 bg-white rounded-xl shadow-sm border border-slate-200 hover:shadow-md transition-shadow ${className}`}>
             {Icon && (
-                <div className="mb-4 text-primary">
+                <div className="mb-4 text-cyan-500">
                     <Icon className="w-8 h-8" />
                 </div>
             )}
-            <h3 className="text-xl font-semibold mb-2">{title}</h3>
-            <p className="text-muted-foreground">{description}</p>
+            <h3 className="text-xl font-semibold mb-2 text-slate-900">{title}</h3>
+            <p className="text-slate-500">{description}</p>
         </div>
     );
 };

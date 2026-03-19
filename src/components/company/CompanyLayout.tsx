@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { Outlet, useNavigate, useLocation } from "react-router-dom";
-import { useAuth } from "@/contexts/AuthContext";
+import { useAuth } from "@/contexts/SimpleAuthContext";
 import { supabase } from "@/integrations/supabase/client";
 import {
   LayoutDashboard, FileText, Users, ClipboardList, MessageSquare,
@@ -10,7 +10,7 @@ import {
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { Skeleton } from "@/components/ui/skeleton";
-import interqLogo from "@/assets/interq-logo.png";
+import interqLogo from "/interq-logo.png";
 
 const navItems = [
   { label: "Dashboard", icon: LayoutDashboard, path: "/company" },
@@ -99,10 +99,9 @@ export function CompanyLayout() {
       <aside className={`fixed lg:static inset-y-0 left-0 z-50 w-64 bg-card border-r transform transition-transform duration-200 ${sidebarOpen ? 'translate-x-0' : '-translate-x-full lg:translate-x-0'} flex flex-col`}>
         <div className="p-4 border-b flex items-center justify-between">
           <div className="flex items-center gap-3 min-w-0">
-            <img src={interqLogo} alt="InterQ" className="h-7 flex-shrink-0" />
+            <img src={interqLogo} alt="InterQ" className="h-10 flex-shrink-0" />
             <div className="min-w-0">
               <p className="text-sm font-semibold truncate">{company.name}</p>
-              <Badge variant="secondary" className="text-[10px]">Company</Badge>
             </div>
           </div>
           <Button variant="ghost" size="icon" className="lg:hidden" onClick={() => setSidebarOpen(false)}>

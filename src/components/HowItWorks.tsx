@@ -12,8 +12,8 @@ const steps = [
 
 const HowItWorks: React.FC = () => {
   return (
-    <section id="how-it-works" className="py-28 bg-background relative overflow-hidden">
-      <div className="absolute bottom-0 left-0 w-[500px] h-[500px] bg-primary/[0.03] rounded-full blur-[120px] pointer-events-none" />
+    <section id="how-it-works" className="py-24 md:py-28 bg-white relative overflow-hidden">
+      <div className="absolute bottom-0 left-0 w-[500px] h-[500px] bg-cyan-500/[0.03] rounded-full blur-[120px] pointer-events-none" />
 
       <div className="container mx-auto px-4 lg:px-8 relative z-10">
         <motion.div
@@ -22,16 +22,16 @@ const HowItWorks: React.FC = () => {
           viewport={{ once: true }}
           className="text-center mb-16"
         >
-          <span className="inline-flex items-center px-3.5 py-1.5 rounded-full bg-primary/5 border border-primary/15 text-primary text-xs font-semibold tracking-wider uppercase mb-5">
+          <span className="inline-flex items-center px-4 py-1.5 rounded-full bg-cyan-50 border border-cyan-100 text-cyan-600 text-xs font-semibold tracking-wider uppercase mb-5">
             Process
           </span>
-          <h2 className="text-3xl md:text-5xl font-bold text-foreground">How It Works</h2>
+          <h2 className="text-3xl md:text-5xl font-bold text-slate-900">How It Works</h2>
         </motion.div>
 
         <div className="relative max-w-4xl mx-auto">
           {/* Vertical Line */}
-          <div className="absolute left-[19px] md:left-1/2 top-0 bottom-0 w-px bg-border -translate-x-1/2 z-0 hidden md:block" />
-          <div className="absolute left-[19px] top-0 bottom-0 w-px bg-border z-0 md:hidden" />
+          <div className="absolute left-[19px] md:left-1/2 top-0 bottom-0 w-px bg-slate-200 -translate-x-1/2 z-0 hidden md:block" />
+          <div className="absolute left-[19px] top-0 bottom-0 w-px bg-slate-200 z-0 md:hidden" />
 
           <div className="space-y-14 relative z-10">
             {steps.map((step, index) => (
@@ -44,18 +44,18 @@ const HowItWorks: React.FC = () => {
                 className={`flex flex-col md:flex-row gap-8 items-start md:items-center ${index % 2 === 0 ? "" : "md:flex-row-reverse"}`}
               >
                 {/* Icon Bubble */}
-                <div className="flex-shrink-0 w-10 h-10 rounded-full bg-primary text-primary-foreground flex items-center justify-center font-bold shadow-lg ring-4 ring-background ml-[9px] md:ml-0 md:absolute md:left-1/2 md:-translate-x-1/2">
+                <div className="flex-shrink-0 w-10 h-10 rounded-full bg-cyan-500 text-white flex items-center justify-center font-bold shadow-lg ring-4 ring-white ml-[9px] md:ml-0 md:absolute md:left-1/2 md:-translate-x-1/2">
                   <span className="text-sm">{index + 1}</span>
                 </div>
 
                 {/* Content Card */}
                 <div className={`flex-1 pl-12 md:pl-0 ${index % 2 === 0 ? "md:text-right md:pr-14" : "md:text-left md:pl-14"}`}>
-                  <div className="bg-card border border-border/50 p-6 rounded-2xl shadow-soft hover:shadow-elegant transition-all duration-300 group">
+                  <div className="bg-white border border-slate-200 p-6 rounded-2xl shadow-sm hover:shadow-md transition-all duration-300 group">
                     <div className={`flex items-center gap-3 mb-2.5 ${index % 2 === 0 ? "md:justify-end" : "md:justify-start"}`}>
-                      <step.icon className="w-5 h-5 text-primary" />
-                      <h3 className="text-xl font-bold text-foreground">{step.title}</h3>
+                      <step.icon className="w-5 h-5 text-cyan-600" />
+                      <h3 className="text-xl font-bold text-slate-900">{step.title}</h3>
                     </div>
-                    <p className="text-muted-foreground leading-relaxed">{step.description}</p>
+                    <p className="text-slate-500 leading-relaxed">{step.description}</p>
                   </div>
                 </div>
 

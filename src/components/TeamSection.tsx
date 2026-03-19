@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { Linkedin, Facebook, Instagram, Github } from "lucide-react";
+import { Linkedin, Facebook, Instagram, Github, Sparkles } from "lucide-react";
 
 const socialLinks = {
   facebook: "https://www.facebook.com/profile.php?id=61583304695087",
@@ -48,11 +48,11 @@ const team = [
 
 const TeamSection = () => {
   return (
-    <section className="py-28 relative overflow-hidden bg-background bg-gradient-to-b from-background via-muted/20 to-background">
+    <section className="py-24 md:py-28 relative overflow-hidden bg-white">
       {/* Decorative background */}
       <div className="absolute inset-0 pointer-events-none">
-        <div className="absolute top-1/4 left-0 w-[600px] h-[600px] bg-primary/[0.03] rounded-full blur-[150px]" />
-        <div className="absolute bottom-0 right-0 w-[500px] h-[500px] bg-primary/[0.02] rounded-full blur-[120px]" />
+        <div className="absolute top-1/4 left-0 w-[600px] h-[600px] bg-cyan-500/[0.03] rounded-full blur-[150px]" />
+        <div className="absolute bottom-0 right-0 w-[500px] h-[500px] bg-blue-500/[0.02] rounded-full blur-[120px]" />
       </div>
 
       <div className="container mx-auto px-4 lg:px-8 max-w-7xl relative z-10">
@@ -63,13 +63,14 @@ const TeamSection = () => {
           viewport={{ once: true }}
           className="text-center max-w-3xl mx-auto mb-20"
         >
-          <span className="inline-flex items-center px-4 py-1.5 rounded-full bg-primary/5 border border-primary/15 text-primary text-xs font-semibold tracking-[0.15em] uppercase mb-6">
+          <span className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-cyan-50 border border-cyan-100 text-cyan-600 text-xs font-semibold tracking-[0.15em] uppercase mb-6">
+            <Sparkles className="w-3 h-3" />
             Leadership
           </span>
-          <h2 className="text-4xl md:text-5xl font-bold mb-5 text-foreground tracking-tight">
+          <h2 className="text-4xl md:text-5xl font-extrabold mb-5 text-slate-900 tracking-tight">
             Meet the Team Behind InterQ
           </h2>
-          <p className="text-muted-foreground text-lg leading-relaxed max-w-2xl mx-auto">
+          <p className="text-slate-600 text-lg leading-relaxed max-w-2xl mx-auto">
             The talent, expertise, and passion driving our platform's success.
           </p>
         </motion.div>
@@ -105,10 +106,10 @@ const TeamCard = ({ member, index }: TeamCardProps) => (
     viewport={{ once: true, margin: "-40px" }}
     className="group h-full"
   >
-    <div className="h-full flex flex-col items-center text-center rounded-2xl bg-card border border-border/50 p-8 pt-10 shadow-sm hover:shadow-lg hover:-translate-y-1 transition-all duration-200">
+    <div className="h-full flex flex-col items-center text-center rounded-2xl bg-white border border-slate-200 p-8 pt-10 shadow-sm hover:shadow-lg hover:-translate-y-1 transition-all duration-200">
       {/* Circular portrait */}
       <div className="relative mb-6">
-        <div className="w-[140px] h-[140px] rounded-full overflow-hidden ring-[3px] ring-primary/15 ring-offset-4 ring-offset-card shadow-md group-hover:ring-primary/30 transition-all duration-200">
+        <div className="w-[140px] h-[140px] rounded-full overflow-hidden ring-[3px] ring-cyan-500/20 ring-offset-4 ring-offset-white shadow-md group-hover:ring-cyan-500/40 transition-all duration-200">
           <img
             src={member.image}
             alt={member.name}
@@ -120,19 +121,19 @@ const TeamCard = ({ member, index }: TeamCardProps) => (
       </div>
 
       {/* Info */}
-      <h3 className="text-lg font-bold text-foreground tracking-tight mb-1">
+      <h3 className="text-lg font-bold text-slate-900 tracking-tight mb-1">
         {member.name}
       </h3>
-      <p className="text-primary font-semibold text-[11px] uppercase tracking-[0.15em] mb-4">
+      <p className="text-cyan-600 font-semibold text-[11px] uppercase tracking-[0.15em] mb-4">
         {member.role}
       </p>
 
-      <p className="text-foreground text-sm leading-relaxed mb-5 flex-1">
+      <p className="text-slate-600 text-sm leading-relaxed mb-5 flex-1">
         {member.bio}
       </p>
 
-      <p className="italic text-xs text-muted-foreground mb-4">
-        "{member.quote}"
+      <p className="italic text-xs text-slate-500 mb-4">
+        &ldquo;{member.quote}&rdquo;
       </p>
 
       {/* Social */}
@@ -149,7 +150,7 @@ const TeamCard = ({ member, index }: TeamCardProps) => (
             target="_blank"
             rel="noopener noreferrer"
             aria-label={`${member.name} on ${label}`}
-            className="w-9 h-9 rounded-full flex items-center justify-center text-foreground hover:text-primary bg-accent/40 hover:bg-primary/10 border border-border/60 transition-all duration-200 focus-visible:outline focus-visible:outline-2 focus-visible:outline-primary"
+            className="w-9 h-9 rounded-full flex items-center justify-center text-slate-500 hover:text-cyan-600 hover:bg-cyan-50 border border-slate-200 transition-all duration-200"
           >
             <Icon className="w-4 h-4" />
           </a>

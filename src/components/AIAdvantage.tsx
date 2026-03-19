@@ -36,10 +36,9 @@ const advantages = [
 
 const AIAdvantage = () => {
   return (
-    <section className="py-28 bg-muted/30 relative overflow-hidden">
-      {/* Background Decoration */}
-      <div className="absolute top-1/2 left-0 -translate-y-1/2 w-[500px] h-[500px] bg-primary/[0.04] rounded-full blur-[120px] pointer-events-none" />
-      <div className="absolute bottom-0 right-0 w-[400px] h-[400px] bg-primary/[0.03] rounded-full blur-[100px] pointer-events-none" />
+    <section className="py-24 md:py-28 bg-slate-50 relative overflow-hidden">
+      <div className="absolute top-1/2 left-0 -translate-y-1/2 w-[500px] h-[500px] bg-cyan-500/[0.04] rounded-full blur-[120px] pointer-events-none" />
+      <div className="absolute bottom-0 right-0 w-[400px] h-[400px] bg-blue-500/[0.03] rounded-full blur-[100px] pointer-events-none" />
 
       <div className="container mx-auto px-4 lg:px-8 max-w-7xl relative z-10">
         <motion.div
@@ -48,13 +47,13 @@ const AIAdvantage = () => {
           viewport={{ once: true }}
           className="text-center mb-16"
         >
-          <span className="inline-flex items-center px-3.5 py-1.5 rounded-full bg-primary/5 border border-primary/15 text-primary text-xs font-semibold tracking-wider uppercase mb-5">
+          <span className="inline-flex items-center px-4 py-1.5 rounded-full bg-cyan-50 border border-cyan-100 text-cyan-600 text-xs font-semibold tracking-wider uppercase mb-5">
             Why InterQ
           </span>
-          <h2 className="text-3xl md:text-5xl font-bold mb-5">
-            The <span className="text-gradient">AI-Powered</span> Advantage
+          <h2 className="text-3xl md:text-5xl font-bold mb-5 text-slate-900">
+            The <span className="text-gradient-brand">AI-Powered</span> Advantage
           </h2>
-          <p className="text-muted-foreground text-lg max-w-2xl mx-auto leading-relaxed">
+          <p className="text-slate-600 text-lg max-w-2xl mx-auto leading-relaxed">
             Leverage cutting-edge technology to make smarter, faster, and fairer hiring decisions.
           </p>
         </motion.div>
@@ -67,13 +66,13 @@ const AIAdvantage = () => {
               whileInView={{ opacity: 1, y: 0 }}
               transition={{ delay: index * 0.08, duration: 0.6 }}
               viewport={{ once: true }}
-              className="bg-card border border-border/50 p-7 rounded-2xl shadow-soft hover:shadow-elegant transition-all duration-300 group hover:-translate-y-1"
+              className="bg-white border border-slate-200 p-7 rounded-2xl shadow-sm hover:shadow-lg transition-all duration-300 group hover:-translate-y-1"
             >
-              <div className="w-12 h-12 rounded-xl bg-primary/8 flex items-center justify-center mb-5 transition-all duration-300 group-hover:bg-primary/12 group-hover:scale-105">
-                <adv.icon className="h-6 w-6 text-primary" />
+              <div className="w-12 h-12 rounded-xl bg-cyan-50 flex items-center justify-center mb-5 transition-all duration-300 group-hover:bg-cyan-100 group-hover:scale-105">
+                <adv.icon className="h-6 w-6 text-cyan-600" />
               </div>
-              <h3 className="text-lg font-bold mb-2.5 text-foreground group-hover:text-primary transition-colors duration-300">{adv.title}</h3>
-              <p className="text-muted-foreground leading-relaxed text-sm">
+              <h3 className="text-lg font-bold mb-2.5 text-slate-900 group-hover:text-cyan-600 transition-colors duration-300">{adv.title}</h3>
+              <p className="text-slate-500 leading-relaxed text-sm">
                 {adv.description}
               </p>
             </motion.div>

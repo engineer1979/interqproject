@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Outlet, useNavigate, useLocation } from "react-router-dom";
-import { useAuth } from "@/contexts/AuthContext";
+import { useAuth } from "@/contexts/SimpleAuthContext";
 import { Avatar, AvatarFallback } from "@/components/ui/avatar";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
@@ -72,8 +72,7 @@ export function JobSeekerLayout() {
   const SidebarContent = () => (
     <>
       <div className="p-4 border-b border-border flex items-center gap-3">
-        <img src="/interq-logo.png" alt="InterQ" className="h-8 w-8 object-contain flex-shrink-0" />
-        {!collapsed && <span className="font-bold text-lg">Job Seeker</span>}
+        <img src="/interq-logo.png" alt="InterQ" className="h-10 w-auto object-contain flex-shrink-0" />
       </div>
 
       <nav className="flex-1 p-3 space-y-1 overflow-y-auto">

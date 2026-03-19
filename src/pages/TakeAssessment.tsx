@@ -13,8 +13,9 @@ import { AssessmentQuestion } from "@/components/assessment/AssessmentQuestion";
 import { AssessmentProgress } from "@/components/assessment/AssessmentProgress";
 import { ProctoringWarning } from "@/components/assessment/ProctoringWarning";
 import { FaceDetection } from "@/components/assessment/FaceDetection";
-import { useAuth } from "@/contexts/AuthContext";
+import { useAuth } from "@/contexts/SimpleAuthContext";
 import { Alert, AlertDescription } from "@/components/ui/alert";
+import { mockAssessments, getQuestionsByAssessment } from "@/data/mockQuestions";
 
 interface Assessment {
   id: string;
@@ -189,6 +190,7 @@ export default function TakeAssessment() {
     try {
       setLoading(true);
 
+      // Try Supabase first
       const { data: assessmentData, error: assessmentError } = await supabase
         .from('assessments')
         .select('*')
@@ -206,57 +208,54 @@ export default function TakeAssessment() {
 
       if (questionsError) throw questionsError;
 
-      // Transform questions data to ensure options are arrays
       const transformedQuestions = (questionsData || []).map(q => ({
         ...q,
         options: Array.isArray(q.options) ? q.options : []
       }));
       setQuestions(transformedQuestions);
 
-      // Create or resume session
-      const { data: existingSession } = await supabase
-        .from('assessment_sessions')
-        .select('*')
-        .eq('assessment_id', id)
-        .eq('user_id', user?.id)
-        .eq('completed', false)
-        .maybeSingle();
-
-      if (existingSession) {
-        setSessionId(existingSession.id);
-        setTimeRemaining(existingSession.time_remaining_seconds);
-        setCurrentQuestionIndex(existingSession.current_question_index);
-        setTabSwitches(existingSession.tab_switches || 0);
-        // Load saved answers if any
-      } else {
-        const initialTime = assessmentData.duration_minutes * 60;
-        const { data: newSession, error: sessionError } = await supabase
-          .from('assessment_sessions')
-          .upsert({
-            assessment_id: id,
-            user_id: user?.id,
-            time_remaining_seconds: initialTime,
-            current_question_index: 0,
-            last_activity_at: new Date().toISOString()
-          }, {
-            onConflict: 'assessment_id,user_id'
-          })
-          .select()
-          .single();
-
-        if (sessionError) throw sessionError;
-        setSessionId(newSession.id);
-        setTimeRemaining(initialTime);
-      }
+      // Create session (simplified for demo)
+      const initialTime = assessmentData.duration_minutes * 60;
+      setSessionId(`session_${Date.now()}`);
+      setTimeRemaining(initialTime);
 
     } catch (error: any) {
-      console.error('Error fetching assessment:', error);
-      toast({
-        title: "Error",
-        description: error.message,
-        variant: "destructive",
-      });
-      navigate('/assessments');
+      // Use mock data as fallback
+      console.log('Using mock data for assessment');
+      const mockAssessment = mockAssessments.find(a => a.id === id) || mockAssessments[0];
+      const mockQuestionsData = getQuestionsByAssessment(id || mockAssessments[0].id);
+
+      const mockFormattedAssessment = {
+        id: mockAssessment.id,
+        title: mockAssessment.title,
+        description: mockAssessment.description,
+        duration_minutes: mockAssessment.duration_minutes,
+        timer_enabled: true,
+        grace_period_minutes: 5,
+        auto_submit_on_timeout: true,
+        proctoring_enabled: false,
+        face_detection_enabled: false,
+        tab_switch_detection: true,
+        max_tab_switches: 3,
+        passing_score: mockAssessment.passing_score,
+      };
+
+      const mockFormattedQuestions = mockQuestionsData.map((q, idx) => ({
+        id: q.id,
+        question_text: q.question_text,
+        question_type: q.question_type === 'multiple_choice' ? 'mcq' : q.question_type,
+        options: Array.isArray(q.options) ? q.options : [],
+        order_index: idx,
+        points: q.points,
+        correct_answer: q.correct_answer,
+      }));
+
+      setAssessment(mockFormattedAssessment);
+      setQuestions(mockFormattedQuestions);
+
+      const initialTime = mockFormattedAssessment.duration_minutes * 60;
+      setSessionId(`mock_session_${Date.now()}`);
+      setTimeRemaining(initialTime);
     } finally {
       setLoading(false);
     }

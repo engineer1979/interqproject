@@ -4,11 +4,15 @@ import { TooltipProvider } from "@/components/ui/tooltip";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { Suspense, lazy } from "react";
-import { AuthProvider } from "@/contexts/AuthContext";
+import { SimpleAuthProvider } from "@/contexts/SimpleAuthContext";
 import { ChatbotWidget } from "@/components/chatbot/ChatbotWidget";
+import UnifiedLayout from "@/components/layouts/UnifiedLayout";
+import UnifiedDashboard from "@/pages/UnifiedDashboard";
+import OffersManagement from "@/pages/admin/OffersManagement";
 
 const Index = lazy(() => import("./pages/Index"));
 const Auth = lazy(() => import("./pages/Auth"));
+const VerifyEmail = lazy(() => import("./pages/VerifyEmail"));
 const ResetPassword = lazy(() => import("./pages/ResetPassword"));
 const GetStarted = lazy(() => import("./pages/GetStarted"));
 const Product = lazy(() => import("./pages/Product"));
@@ -37,6 +41,7 @@ const AdminDashboard = lazy(() => import("./pages/admin/AdminDashboard"));
 const AdminResults = lazy(() => import("./pages/admin/AdminResults"));
 const AdminResultDetail = lazy(() => import("./pages/admin/AdminResultDetail"));
 const AdminSettings = lazy(() => import("./pages/admin/AdminSettings"));
+const AdminReports = lazy(() => import("./pages/admin/Reports"));
 const CreateAssessment = lazy(() => import("./pages/CreateAssessment"));
 const AssessmentWorkflowPage = lazy(() => import("./pages/AssessmentWorkflowPage"));
 const ATSScreening = lazy(() => import("./pages/admin/ATSScreening"));
@@ -49,6 +54,7 @@ const CompanyManagement = lazy(() => import("./pages/admin/CompanyManagement"));
 const JobSeekerManagement = lazy(() => import("./pages/admin/JobSeekerManagement"));
 const CertificateManagement = lazy(() => import("./pages/admin/CertificateManagement"));
 const ActivityLogs = lazy(() => import("./pages/admin/ActivityLogs"));
+const RoleManagement = lazy(() => import("./pages/admin/RoleManagement"));
 const BookSession = lazy(() => import("./pages/BookSession"));
 const Dashboard = lazy(() => import("./pages/Dashboard"));
 const EvaluationReport = lazy(() => import("./pages/EvaluationReport"));
@@ -67,16 +73,22 @@ const CompanyResults = lazy(() => import("./pages/company/CompanyResults"));
 const CompanyNotifications = lazy(() => import("./pages/company/CompanyNotifications"));
 const CompanyAuditLogs = lazy(() => import("./pages/company/CompanyAuditLogs"));
 const CompanySettings = lazy(() => import("./pages/company/CompanySettings"));
+const RecruiterLayout = lazy(() => import("./components/recruiter/RecruiterLayout").then(m => ({ default: m.RecruiterLayout })));
+const RecruiterDashboard = lazy(() => import("./pages/recruiter/RecruiterDashboard"));
+const RecruiterPipeline = lazy(() => import("./pages/recruiter/Pipeline"));
+const RecruiterAssessments = lazy(() => import("./pages/recruiter/Assessments"));
+const RecruiterInterviews = lazy(() => import("./pages/recruiter/Interviews"));
 const JobSeekerLayout = lazy(() => import("./components/jobseeker/JobSeekerLayout").then(m => ({ default: m.JobSeekerLayout })));
 const JobSeekerDashboard = lazy(() => import("./pages/jobseeker/JobSeekerDashboard"));
 const JobSeekerAssessments = lazy(() => import("./pages/jobseeker/JobSeekerAssessments"));
 const JobSeekerInterviews = lazy(() => import("./pages/jobseeker/JobSeekerInterviews"));
+const JobSeekerApplications = lazy(() => import("./pages/jobseeker/Applications"));
 const JobSeekerResults = lazy(() => import("./pages/jobseeker/JobSeekerResults"));
 const JobSeekerCertificates = lazy(() => import("./pages/jobseeker/JobSeekerCertificates"));
 const JobSeekerProfile = lazy(() => import("./pages/jobseeker/JobSeekerProfile"));
 const JobSeekerPrivacy = lazy(() => import("./pages/jobseeker/JobSeekerPrivacy"));
 const JobSeekerGuidelines = lazy(() => import("./pages/jobseeker/JobSeekerGuidelines"));
-const JobSeekerNotifications = lazy(() => import("./pages/jobseeker/JobSeekerNotifications"));
+const JobSeekerNotifications = lazy(() => import("./pages/jobseeker/Notifications"));
 const JobSeekerSettings = lazy(() => import("./pages/jobseeker/JobSeekerSettings"));
 const queryClient = new QueryClient();
 
@@ -86,20 +98,43 @@ const App = () => (
       <Toaster />
       <Sonner />
       <BrowserRouter>
-        <AuthProvider>
+        <SimpleAuthProvider>
           <Suspense fallback={<div className="p-8 text-center">Loading...</div>}>
             <Routes>
               <Route path="/" element={<Index />} />
               <Route path="/auth" element={<Auth />} />
+              <Route path="/verify-email" element={<VerifyEmail />} />
               <Route path="/reset-password" element={<ResetPassword />} />
               <Route path="/get-started" element={<GetStarted />} />
+              <Route path="/unified-dashboard" element={<UnifiedLayout><UnifiedDashboard /></UnifiedLayout>} />
+              <Route path="/dashboard" element={<UnifiedLayout><UnifiedDashboard /></UnifiedLayout>} />
+              <Route path="/offers" element={<UnifiedLayout><OffersManagement /></UnifiedLayout>} />
+              <Route path="/jobs" element={<UnifiedLayout><UnifiedDashboard /></UnifiedLayout>} />
+              <Route path="/candidates" element={<UnifiedLayout><UnifiedDashboard /></UnifiedLayout>} />
+              <Route path="/interviews" element={<UnifiedLayout><UnifiedDashboard /></UnifiedLayout>} />
+              <Route path="/applications" element={<UnifiedLayout><UnifiedDashboard /></UnifiedLayout>} />
+              <Route path="/pipeline" element={<UnifiedLayout><UnifiedDashboard /></UnifiedLayout>} />
+              <Route path="/talent-pool" element={<UnifiedLayout><UnifiedDashboard /></UnifiedLayout>} />
+              <Route path="/my-jobs" element={<UnifiedLayout><UnifiedDashboard /></UnifiedLayout>} />
+              <Route path="/saved-jobs" element={<UnifiedLayout><UnifiedDashboard /></UnifiedLayout>} />
+              <Route path="/profile" element={<UnifiedLayout><UnifiedDashboard /></UnifiedLayout>} />
+              <Route path="/team" element={<UnifiedLayout><UnifiedDashboard /></UnifiedLayout>} />
+              <Route path="/messages" element={<UnifiedLayout><UnifiedDashboard /></UnifiedLayout>} />
+              <Route path="/reports" element={<UnifiedLayout><UnifiedDashboard /></UnifiedLayout>} />
+              <Route path="/billing" element={<UnifiedLayout><UnifiedDashboard /></UnifiedLayout>} />
+              <Route path="/integrations" element={<UnifiedLayout><UnifiedDashboard /></UnifiedLayout>} />
+              <Route path="/audit-logs" element={<UnifiedLayout><UnifiedDashboard /></UnifiedLayout>} />
+              <Route path="/security" element={<UnifiedLayout><UnifiedDashboard /></UnifiedLayout>} />
+              <Route path="/settings" element={<UnifiedLayout><UnifiedDashboard /></UnifiedLayout>} />
+              <Route path="/companies" element={<UnifiedLayout><UnifiedDashboard /></UnifiedLayout>} />
+              <Route path="/users" element={<UnifiedLayout><UnifiedDashboard /></UnifiedLayout>} />
               <Route path="/product" element={<Product />} />
               <Route path="/features" element={<Features />} />
               <Route path="/assessments" element={<Assessments />} />
               <Route path="/assessment/:id" element={<TakeAssessment />} />
               <Route path="/assessment-workflow" element={<AssessmentWorkflowPage />} />
               <Route path="/create-assessment" element={<CreateAssessment />} />
-              <Route path="/integrations" element={<Integrations />} />
+              <Route path="/platform-integrations" element={<Integrations />} />
               <Route path="/solutions" element={<Solutions />} />
               <Route path="/solutions/recruiters" element={<Solutions />} />
               <Route path="/for-recruiters" element={<Solutions />} />
@@ -142,6 +177,7 @@ const App = () => (
               </Route>
               <Route path="/jobseeker" element={<JobSeekerLayout />}>
                 <Route index element={<JobSeekerDashboard />} />
+                <Route path="applications" element={<JobSeekerApplications />} />
                 <Route path="assessments" element={<JobSeekerAssessments />} />
                 <Route path="interviews" element={<JobSeekerInterviews />} />
                 <Route path="results" element={<JobSeekerResults />} />
@@ -170,18 +206,32 @@ const App = () => (
                 <Route path="companies" element={<CompanyManagement />} />
                 <Route path="job-seekers" element={<JobSeekerManagement />} />
                 <Route path="logs" element={<ActivityLogs />} />
+                <Route path="role-management" element={<RoleManagement />} />
                 <Route path="pipeline" element={<PipelineDashboard />} />
                 <Route path="jobs" element={<AdminJobs />} />
                 <Route path="ats-screening" element={<ATSScreening />} />
                 <Route path="scoring" element={<CollaborativeScoring />} />
+                <Route path="reports" element={<AdminReports />} />
                 <Route path="settings" element={<AdminSettings />} />
+              </Route>
+              <Route path="/recruiter" element={<RecruiterLayout />}>
+                <Route index element={<RecruiterDashboard />} />
+                <Route path="jobs" element={<RecruiterDashboard />} />
+                <Route path="pipeline" element={<RecruiterPipeline />} />
+                <Route path="candidates" element={<RecruiterDashboard />} />
+                <Route path="assessments" element={<RecruiterAssessments />} />
+                <Route path="interviews" element={<RecruiterInterviews />} />
+                <Route path="offers" element={<RecruiterDashboard />} />
+                <Route path="reports" element={<RecruiterDashboard />} />
+                <Route path="settings" element={<RecruiterDashboard />} />
+                <Route path="*" element={<NotFound />} />
               </Route>
               {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
               <Route path="*" element={<NotFound />} />
             </Routes>
             <ChatbotWidget />
           </Suspense>
-        </AuthProvider>
+        </SimpleAuthProvider>
       </BrowserRouter>
     </TooltipProvider>
   </QueryClientProvider>

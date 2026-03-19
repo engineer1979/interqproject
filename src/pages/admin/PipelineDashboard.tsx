@@ -1,6 +1,6 @@
 import { useState, useEffect, useMemo } from "react";
 import { supabase } from "@/integrations/supabase/client";
-import { useAuth } from "@/contexts/AuthContext";
+import { useAuth } from "@/contexts/SimpleAuthContext";
 import { useToast } from "@/hooks/use-toast";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
@@ -22,23 +22,23 @@ import { motion, AnimatePresence } from "framer-motion";
 
 interface PipelineCandidate {
   id: string;
+  application_id: string;
   full_name: string;
   email: string;
-  phone?: string;
-  location?: string;
   current_title?: string;
-  years_experience: number;
-  education_level?: string;
+  years_experience?: number;
   skills: string[];
-  industry?: string;
   status: string;
+  job_title?: string;
   job_id?: string;
   created_at: string;
   ats_score?: number;
   assessment_score?: number;
-  interview_score?: number;
+  ai_interview_score?: number;
+  final_score?: number;
   decision?: string;
 }
+
 
 const PIPELINE_STAGES = [
   { key: "applied", label: "Applied", icon: Users, color: "bg-slate-500" },
@@ -71,45 +71,73 @@ export default function PipelineDashboard() {
   const fetchData = async () => {
     setLoading(true);
     try {
-      const [cRes, jRes] = await Promise.all([
-        supabase.from("candidates").select("*").order("created_at", { ascending: false }),
-        supabase.from("jobs").select("id, title"),
-      ]);
+      // Fetch applications joined with candidates and jobs
+      const { data: appsData } = await supabase
+        .from('applications')
+        .select(`
+          *,
+          candidates(full_name, email, current_title, years_experience, skills),
+          jobs(title)
+        `)
+        .order('created_at', { ascending: false });
 
-      const candidatesList = (cRes.data || []) as PipelineCandidate[];
-      setJobs((jRes.data || []) as { id: string; title: string }[]);
+      const applications = appsData || [];
 
-      if (candidatesList.length > 0) {
-        const ids = candidatesList.map(c => c.id);
-        const [atsRes, decRes] = await Promise.all([
-          supabase.from("ats_screenings").select("candidate_id, total_score").in("candidate_id", ids),
-          supabase.from("hiring_decisions").select("candidate_id, ats_score, assessment_score, interview_score, decision").in("candidate_id", ids),
+      if (applications.length > 0) {
+        const appIds = applications.map((app: any) => app.id);
+        const candidateIds = applications.map((app: any) => app.candidates?.id || app.candidate_id);
+        const jobIds = applications.map((app: any) => app.job_id);
+
+        // Fetch ATS, assessment, AI scores from new tables
+        const [atsRes, assessRes, aiRes, evalRes] = await Promise.all([
+          supabase.from('ats_screenings').select('application_id, total_score').in('application_id', appIds),
+          supabase.from('assessment_results').select('application_id, score'),
+          supabase.from('ai_interviews').select('application_id, score'),
+          supabase.from('candidate_evaluations').select('*').in('application_id', appIds)
         ]);
 
         const atsMap: Record<string, number> = {};
-        (atsRes.data || []).forEach((r: any) => { atsMap[r.candidate_id] = r.total_score ?? 0; });
-        setScreenings(atsMap);
+        (atsRes.data || []).forEach((r: any) => { atsMap[r.application_id] = r.total_score ?? 0; });
 
-        const decMap: Record<string, any> = {};
-        (decRes.data || []).forEach((d: any) => { decMap[d.candidate_id] = d; });
+        const assessMap: Record<string, number> = {};
+        (assessRes.data || []).forEach((r: any) => { assessMap[r.application_id] = r.score ?? 0; });
 
-        const enriched = candidatesList.map(c => ({
-          ...c,
-          ats_score: atsMap[c.id] ?? undefined,
-          assessment_score: decMap[c.id]?.assessment_score ?? undefined,
-          interview_score: decMap[c.id]?.interview_score ?? undefined,
-          decision: decMap[c.id]?.decision ?? undefined,
-        }));
-        setCandidates(enriched);
+        const aiMap: Record<string, number> = {};
+        (aiRes.data || []).forEach((r: any) => { aiMap[r.application_id] = r.score ?? 0; });
+
+        const enriched = applications.map((app: any) => {
+          const candidate = app.candidates || {};
+          const evaluation = (evalRes.data || []).find((e: any) => e.application_id === app.id);
+          return {
+            id: app.id,
+            application_id: app.id,
+            full_name: candidate.full_name || app.candidate_name,
+            email: candidate.email || app.candidate_email,
+            current_title: candidate.current_title,
+            years_experience: candidate.years_experience,
+            skills: candidate.skills || [],
+            status: app.status,
+            job_title: app.jobs?.title,
+            job_id: app.job_id,
+            created_at: app.created_at,
+            ats_score: atsMap[app.id],
+            assessment_score: assessMap[app.id],
+            ai_interview_score: aiMap[app.id],
+            final_score: evaluation?.final_score,
+            decision: evaluation?.status
+          };
+        });
+        setCandidates(enriched as PipelineCandidate[]);
       } else {
         setCandidates([]);
       }
     } catch (err) {
-      console.error(err);
+      console.error('Pipeline data fetch error:', err);
     } finally {
       setLoading(false);
     }
   };
+
 
   const mapToStage = (c: PipelineCandidate): string => {
     if (c.decision === "hire" || c.status === "offer") return "offer";
@@ -252,11 +280,17 @@ export default function PipelineDashboard() {
                                 Assess: {c.assessment_score}
                               </Badge>
                             )}
-                            {c.interview_score !== undefined && c.interview_score > 0 && (
+                            {c.ai_interview_score !== undefined && c.ai_interview_score > 0 && (
                               <Badge variant="outline" className="text-[10px] px-1.5 py-0">
-                                Interview: {c.interview_score}
+                                AI Int: {c.ai_interview_score}
                               </Badge>
                             )}
+                            {c.final_score !== undefined && (
+                              <Badge variant="default" className="text-[10px] px-1.5 py-0 font-bold bg-gradient-to-r from-primary to-secondary text-primary-foreground">
+                                Final: {c.final_score.toFixed(0)}
+                              </Badge>
+                            )}
+
                           </div>
                           {(c.skills || []).length > 0 && (
                             <div className="mt-1.5 flex gap-1 flex-wrap">

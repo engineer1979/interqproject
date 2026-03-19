@@ -13,7 +13,7 @@ const features = [
 
 const DataPrivacySection = () => {
   return (
-    <section className="py-24 bg-muted/30">
+    <section className="py-24 md:py-28 bg-white">
       <div className="container mx-auto px-4 max-w-6xl">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
@@ -21,14 +21,14 @@ const DataPrivacySection = () => {
           viewport={{ once: true }}
           className="text-center mb-14"
         >
-          <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-primary/10 text-primary text-sm font-medium mb-4">
+          <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-cyan-50 text-cyan-600 text-sm font-medium mb-4">
             <Shield className="w-4 h-4" />
             Your Data Is Secure
           </div>
-          <h2 className="text-3xl md:text-4xl font-bold mb-4">
+          <h2 className="text-3xl md:text-4xl font-bold mb-4 text-slate-900">
             Enterprise-Grade Security & Privacy
           </h2>
-          <p className="text-muted-foreground max-w-2xl mx-auto">
+          <p className="text-slate-500 max-w-2xl mx-auto">
             InterQ is built with security at its core — protecting job seeker, company, and admin data at every level.
           </p>
         </motion.div>
@@ -41,19 +41,19 @@ const DataPrivacySection = () => {
               whileInView={{ opacity: 1, y: 0 }}
               viewport={{ once: true }}
               transition={{ delay: i * 0.05 }}
-              className="bg-card border border-border rounded-xl p-6 shadow-soft hover:shadow-elegant transition-all"
+              className="bg-white border border-slate-200 rounded-xl p-6 shadow-sm hover:shadow-md transition-all"
             >
-              <div className="w-10 h-10 rounded-lg bg-primary/10 flex items-center justify-center mb-4">
-                <f.icon className="w-5 h-5 text-primary" />
+              <div className="w-10 h-10 rounded-lg bg-cyan-50 flex items-center justify-center mb-4">
+                <f.icon className="w-5 h-5 text-cyan-600" />
               </div>
-              <h3 className="font-semibold mb-2">{f.title}</h3>
-              <p className="text-sm text-muted-foreground leading-relaxed">{f.desc}</p>
+              <h3 className="font-semibold mb-2 text-slate-900">{f.title}</h3>
+              <p className="text-sm text-slate-500 leading-relaxed">{f.desc}</p>
             </motion.div>
           ))}
         </div>
 
         <div className="text-center mt-10">
-          <Link to="/privacy-policy" className="text-primary hover:underline text-sm font-medium">
+          <Link to="/privacy-policy" className="text-cyan-600 hover:underline text-sm font-medium">
             Read our full Privacy Policy →
           </Link>
         </div>

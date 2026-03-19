@@ -7,9 +7,9 @@ const FinalCTA = () => {
   const navigate = useNavigate();
 
   return (
-    <section className="py-28 relative overflow-hidden">
+    <section className="py-24 md:py-28 relative overflow-hidden">
       {/* Background */}
-      <div className="absolute inset-0 bg-gradient-to-br from-primary via-primary/90 to-blue-600" />
+      <div className="absolute inset-0 bg-gradient-to-br from-cyan-500 via-cyan-600 to-blue-600" />
 
       {/* Subtle pattern */}
       <div className="absolute inset-0 bg-[linear-gradient(rgba(255,255,255,0.04)_1px,transparent_1px),linear-gradient(90deg,rgba(255,255,255,0.04)_1px,transparent_1px)] bg-[size:48px_48px]" />
@@ -26,7 +26,7 @@ const FinalCTA = () => {
         className="absolute -bottom-24 -left-24 w-[400px] h-[400px] bg-white/[0.06] rounded-full blur-3xl"
       />
 
-      <div className="container mx-auto px-4 relative z-10 text-center text-primary-foreground">
+      <div className="container mx-auto px-4 relative z-10 text-center text-white">
         <motion.div
           initial={{ opacity: 0, y: 30 }}
           whileInView={{ opacity: 1, y: 0 }}
@@ -42,7 +42,7 @@ const FinalCTA = () => {
             Transform Your Interviewing Today
           </h2>
 
-          <p className="text-xl opacity-85 mb-12 max-w-2xl mx-auto leading-relaxed">
+          <p className="text-xl opacity-90 mb-12 max-w-2xl mx-auto leading-relaxed">
             Join thousands of companies and professionals enhancing their recruitment process with InterQ.
           </p>
 
@@ -50,7 +50,7 @@ const FinalCTA = () => {
             <Button
               onClick={() => navigate("/create-interview")}
               size="lg"
-              className="h-14 px-8 text-base bg-white text-primary hover:bg-white/90 shadow-xl w-full sm:w-auto hover:-translate-y-1 transition-all duration-300 rounded-xl font-semibold"
+              className="h-14 px-8 text-base bg-white text-cyan-600 hover:bg-white/90 shadow-xl w-full sm:w-auto hover:-translate-y-1 transition-all duration-300 rounded-xl font-semibold"
             >
               <Briefcase className="mr-2 w-5 h-5" />
               Recruiters: Start Hiring Smarter

@@ -1,6 +1,6 @@
 import { Button } from "@/components/ui/button";
 import { motion } from "framer-motion";
-import { ArrowRight, Play, Users, TrendingUp, Shield, CheckCircle2, Clock, Target } from "lucide-react";
+import { ArrowRight, Play, Users, TrendingUp, Shield, CheckCircle2, Clock, Target, Sparkles } from "lucide-react";
 import { useNavigate } from "react-router-dom";
 import heroImg from "@/assets/hero-interview.jpg";
 
@@ -25,13 +25,13 @@ const HeroSection = () => {
   };
 
   return (
-    <section className="relative min-h-[92vh] flex items-center justify-center overflow-hidden pt-24 pb-20 bg-transparent">
+    <section className="relative min-h-[92vh] flex items-center justify-center overflow-hidden pt-24 pb-20 bg-gradient-to-b from-slate-900 via-slate-800 to-slate-900">
       {/* Background decorations */}
       <div className="absolute inset-0 overflow-hidden pointer-events-none">
-        <div className="absolute top-[-10%] right-[-6%] w-[600px] h-[600px] rounded-full bg-primary/[0.04] blur-[120px]" />
-        <div className="absolute bottom-[-10%] left-[-6%] w-[500px] h-[500px] rounded-full bg-primary/[0.03] blur-[100px]" />
-        <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[900px] h-[900px] rounded-full bg-primary/[0.015] blur-[140px]" />
-        <div className="absolute inset-0 bg-[linear-gradient(hsl(var(--primary)/0.02)_1px,transparent_1px),linear-gradient(90deg,hsl(var(--primary)/0.02)_1px,transparent_1px)] bg-[size:60px_60px]" />
+        <div className="absolute top-[-10%] right-[-6%] w-[600px] h-[600px] rounded-full bg-cyan-500/[0.08] blur-[120px]" />
+        <div className="absolute bottom-[-10%] left-[-6%] w-[500px] h-[500px] rounded-full bg-blue-500/[0.05] blur-[100px]" />
+        <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[900px] h-[900px] rounded-full bg-cyan-500/[0.04] blur-[140px]" />
+        <div className="absolute inset-0 bg-[linear-gradient(rgba(255,255,255,0.02)_1px,transparent_1px),linear-gradient(90deg,rgba(255,255,255,0.02)_1px,transparent_1px)] bg-[size:60px_60px]" />
       </div>
 
       <div className="container-width relative z-10">
@@ -45,37 +45,37 @@ const HeroSection = () => {
           >
             {/* Badge */}
             <motion.div variants={itemVariants}>
-              <span className="inline-flex items-center px-4 py-1.5 rounded-full border border-primary/20 bg-primary/5 text-primary text-xs font-semibold tracking-wider uppercase">
-                <span className="w-1.5 h-1.5 rounded-full bg-primary mr-2 animate-pulse" />
+              <span className="inline-flex items-center px-4 py-1.5 rounded-full border border-cyan-500/30 bg-cyan-500/10 text-cyan-400 text-xs font-semibold tracking-wider uppercase">
+                <span className="w-1.5 h-1.5 rounded-full bg-cyan-400 mr-2 animate-pulse" />
                 Expert-Led Technical Hiring Platform
               </span>
             </motion.div>
 
-            {/* H1 — SEO-optimized, keyword-rich */}
+            {/* H1 */}
             <motion.h1
               variants={itemVariants}
-              className="text-3xl sm:text-4xl md:text-5xl lg:text-[4.25rem] fancy-heading leading-[1.1] tracking-tight text-white"
+              className="text-3xl sm:text-4xl md:text-5xl lg:text-[4.25rem] font-extrabold leading-[1.1] tracking-tight text-white"
             >
               Technical Interview Platform{" "}
-              <span className="gradient-text-brand">
+              <span className="text-gradient-brand">
                 Powered by Experts
               </span>
             </motion.h1>
 
-            {/* Subheading — benefit-led, scannable */}
+            {/* Subheading */}
             <motion.p
               variants={itemVariants}
-              className="text-base sm:text-lg text-white/90 leading-relaxed max-w-xl mx-auto lg:mx-0"
+              className="text-base sm:text-lg text-slate-300 leading-relaxed max-w-xl mx-auto lg:mx-0"
             >
               InterQ replaces unstructured hiring with{" "}
               <strong className="text-white">structured candidate assessments</strong>{" "}
               led by vetted domain experts — so you hire faster, reduce bias, and eliminate bad hires.
             </motion.p>
 
-            {/* Bullet benefits — mobile scannable */}
+            {/* Bullet benefits */}
             <motion.ul
               variants={itemVariants}
-              className="flex flex-col gap-2 text-sm sm:text-base text-white/85 w-full max-w-xl mx-auto lg:mx-0"
+              className="flex flex-col gap-2 text-sm sm:text-base text-slate-300 w-full max-w-xl mx-auto lg:mx-0"
             >
               {[
                 "Structured technical interviews — not gut-feel decisions",
@@ -83,7 +83,7 @@ const HeroSection = () => {
                 "Detailed evaluation reports delivered within 24 hours",
               ].map((item, i) => (
                 <li key={i} className="flex items-start gap-2.5">
-                  <CheckCircle2 className="h-4 w-4 sm:h-5 sm:w-5 text-primary mt-0.5 shrink-0" />
+                  <CheckCircle2 className="h-4 w-4 sm:h-5 sm:w-5 text-cyan-400 mt-0.5 shrink-0" />
                   <span>{item}</span>
                 </li>
               ))}
@@ -97,8 +97,7 @@ const HeroSection = () => {
               <Button
                 onClick={() => navigate("/get-started")}
                 size="lg"
-                variant="premium"
-                className="w-full sm:w-auto h-12 px-9 text-base font-semibold rounded-xl shadow-lg shadow-primary/20 hover:shadow-primary/30 hover:-translate-y-0.5 transition-all duration-200"
+                className="w-full sm:w-auto h-12 px-9 text-base font-semibold rounded-xl shadow-lg bg-gradient-to-r from-cyan-500 to-blue-500 hover:from-cyan-600 hover:to-blue-600 text-white shadow-cyan-500/25 hover:shadow-cyan-500/40 hover:-translate-y-0.5 transition-all duration-200"
               >
                 Request a Demo
                 <ArrowRight className="ml-2 h-4 w-4" />
@@ -108,7 +107,7 @@ const HeroSection = () => {
                 onClick={() => navigate("/#how-it-works")}
                 size="lg"
                 variant="outline"
-                className="w-full sm:w-auto h-12 px-9 text-base font-medium rounded-xl border-white/20 bg-white/5 text-white hover:bg-white/10 hover:text-white transition-all duration-200 group"
+                className="w-full sm:w-auto h-12 px-9 text-base font-medium rounded-xl border-white/30 bg-white/10 text-white hover:bg-white/20 hover:text-white hover:border-white/40 transition-all duration-200 backdrop-blur-sm group"
               >
                 <Play className="mr-2 h-4 w-4 fill-current group-hover:scale-110 transition-transform" />
                 See How It Works
@@ -118,12 +117,12 @@ const HeroSection = () => {
             {/* CTA microcopy */}
             <motion.p
               variants={itemVariants}
-              className="text-xs text-white/70"
+              className="text-xs text-slate-400"
             >
               No sales call required • 5-minute walkthrough of InterQ's hiring platform
             </motion.p>
 
-            {/* Trust strip — compact mobile badges */}
+            {/* Trust strip */}
             <motion.div
               variants={itemVariants}
               className="pt-2 w-full"
@@ -136,9 +135,9 @@ const HeroSection = () => {
                 ].map((badge, i) => (
                   <div
                     key={i}
-                    className="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-white/8 border border-white/12 text-xs font-medium text-white/85"
+                    className="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-white/5 border border-white/10 text-xs font-medium text-slate-300 backdrop-blur-sm"
                   >
-                    <badge.icon className="h-3.5 w-3.5 text-primary" />
+                    <badge.icon className="h-3.5 w-3.5 text-cyan-400" />
                     {badge.text}
                   </div>
                 ))}
@@ -146,7 +145,7 @@ const HeroSection = () => {
             </motion.div>
           </motion.div>
 
-          {/* Right Content — Image Card with floating stats */}
+          {/* Right Content */}
           <motion.div
             initial={{ opacity: 0, x: 30 }}
             animate={{ opacity: 1, x: 0 }}
@@ -154,21 +153,20 @@ const HeroSection = () => {
             className="relative w-full hidden md:flex justify-center lg:justify-end items-center"
           >
             <div className="relative w-full max-w-[520px] space-y-6">
-              {/* Main image card - Clean without overlapping elements */}
-              <div className="rounded-2xl overflow-hidden shadow-elegant border border-border/40 bg-card">
+              {/* Main image card */}
+              <div className="rounded-2xl overflow-hidden shadow-2xl border border-white/10 bg-slate-800/50 backdrop-blur-sm">
                 <img
                   src={heroImg}
-                  alt="Professional technical interview session conducted by InterQ domain experts in a modern office"
+                  alt="Professional technical interview session"
                   className="w-full h-[340px] object-cover"
                   loading="eager"
                 />
-                {/* Live Analysis Status Bar */}
-                <div className="p-4 flex items-center justify-between bg-muted/50 border-t border-border/40">
+                <div className="p-4 flex items-center justify-between bg-slate-800/80 border-t border-white/10">
                   <div>
-                    <p className="text-sm font-bold text-foreground">Live Analysis</p>
-                    <p className="text-xs text-muted-foreground">Processing candidate…</p>
+                    <p className="text-sm font-bold text-white">Live Analysis</p>
+                    <p className="text-xs text-slate-400">Processing candidate…</p>
                   </div>
-                  <div className="flex items-center gap-2 px-3 py-1.5 rounded-full bg-green-500/10 text-green-700 text-xs font-bold border border-green-500/20">
+                  <div className="flex items-center gap-2 px-3 py-1.5 rounded-full bg-green-500/20 text-green-400 text-xs font-bold border border-green-500/30">
                     <span className="relative flex h-2 w-2">
                       <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-green-400 opacity-75" />
                       <span className="relative inline-flex rounded-full h-2 w-2 bg-green-500" />
@@ -178,71 +176,35 @@ const HeroSection = () => {
                 </div>
               </div>
 
-              {/* Structured KPI Grid - No overlapping, clean layout */}
+              {/* KPI Grid */}
               <div className="grid grid-cols-2 lg:grid-cols-4 gap-4">
-                {/* Candidates Card */}
-                <motion.div
-                  initial={{ opacity: 0, y: 20 }}
-                  animate={{ opacity: 1, y: 0 }}
-                  transition={{ duration: 0.6, delay: 0.4 }}
-                  className="glass-card p-4 rounded-xl shadow-elegant flex items-center gap-3"
-                >
-                  <div className="w-10 h-10 rounded-lg bg-primary/10 flex items-center justify-center text-primary">
-                    <Users size={18} />
-                  </div>
-                  <div>
-                    <p className="text-xs text-muted-foreground font-medium">Candidates</p>
-                    <p className="text-sm font-bold text-foreground">2,847</p>
-                  </div>
-                </motion.div>
-
-                {/* Strong Hire Card */}
-                <motion.div
-                  initial={{ opacity: 0, y: 20 }}
-                  animate={{ opacity: 1, y: 0 }}
-                  transition={{ duration: 0.6, delay: 0.5 }}
-                  className="glass-card p-4 rounded-xl shadow-elegant flex items-center gap-3"
-                >
-                  <div className="w-10 h-10 rounded-lg bg-blue-500/10 flex items-center justify-center text-blue-600">
-                    <Shield size={18} />
-                  </div>
-                  <div>
-                    <p className="text-xs text-muted-foreground font-medium">Strong Hire</p>
-                    <p className="text-sm font-bold text-foreground">87.3%</p>
-                  </div>
-                </motion.div>
-
-                {/* Hire Rate Card */}
-                <motion.div
-                  initial={{ opacity: 0, y: 20 }}
-                  animate={{ opacity: 1, y: 0 }}
-                  transition={{ duration: 0.6, delay: 0.6 }}
-                  className="glass-card p-4 rounded-xl shadow-elegant flex items-center gap-3"
-                >
-                  <div className="w-10 h-10 rounded-lg bg-green-500/10 flex items-center justify-center text-green-600">
-                    <TrendingUp size={18} />
-                  </div>
-                  <div>
-                    <p className="text-xs text-muted-foreground font-medium">Hire Rate</p>
-                    <p className="text-sm font-bold text-foreground">94.2%</p>
-                  </div>
-                </motion.div>
-
-                {/* Active Sessions Card */}
-                <motion.div
-                  initial={{ opacity: 0, y: 20 }}
-                  animate={{ opacity: 1, y: 0 }}
-                  transition={{ duration: 0.6, delay: 0.7 }}
-                  className="glass-card p-4 rounded-xl shadow-elegant flex items-center gap-3"
-                >
-                  <div className="w-10 h-10 rounded-lg bg-orange-500/10 flex items-center justify-center text-orange-600">
-                    <Clock size={18} />
-                  </div>
-                  <div>
-                    <p className="text-xs text-muted-foreground font-medium">Active</p>
-                    <p className="text-sm font-bold text-foreground">24</p>
-                  </div>
-                </motion.div>
+                {[
+                  { icon: Users, value: "2,847", label: "Candidates", color: "cyan" },
+                  { icon: Shield, value: "87.3%", label: "Strong Hire", color: "blue" },
+                  { icon: TrendingUp, value: "94.2%", label: "Hire Rate", color: "green" },
+                  { icon: Clock, value: "24", label: "Active", color: "orange" },
+                ].map((stat, i) => (
+                  <motion.div
+                    key={i}
+                    initial={{ opacity: 0, y: 20 }}
+                    animate={{ opacity: 1, y: 0 }}
+                    transition={{ duration: 0.6, delay: 0.4 + i * 0.1 }}
+                    className="bg-slate-800/60 backdrop-blur-sm border border-white/10 p-4 rounded-xl flex items-center gap-3"
+                  >
+                    <div className={`w-10 h-10 rounded-lg flex items-center justify-center ${
+                      stat.color === 'cyan' ? 'bg-cyan-500/20 text-cyan-400' :
+                      stat.color === 'blue' ? 'bg-blue-500/20 text-blue-400' :
+                      stat.color === 'green' ? 'bg-green-500/20 text-green-400' :
+                      'bg-orange-500/20 text-orange-400'
+                    }`}>
+                      <stat.icon size={18} />
+                    </div>
+                    <div>
+                      <p className="text-xs text-slate-400 font-medium">{stat.label}</p>
+                      <p className="text-sm font-bold text-white">{stat.value}</p>
+                    </div>
+                  </motion.div>
+                ))}
               </div>
             </div>
           </motion.div>

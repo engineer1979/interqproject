@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useRef, useState } from "react";
-import { useAuth } from "@/contexts/AuthContext";
+import { useAuth } from "@/contexts/SimpleAuthContext";
 import { useLocation, useNavigate } from "react-router-dom";
 import {
   ChatMessage,
@@ -35,7 +35,7 @@ function uid() {
 const STORAGE_KEY = "interq_chatbot_conversation";
 
 export function ChatbotWidget() {
-  const { session, user } = useAuth();
+  const { user, isAuthenticated } = useAuth();
   const navigate = useNavigate();
   const location = useLocation();
   const [open, setOpen] = useState(false);
@@ -82,11 +82,20 @@ export function ChatbotWidget() {
 
   useEffect(() => {
     async function detect() {
-      const detected = await getUserRole(session);
-      setRole(detected);
+      if (isAuthenticated && user) {
+        const roleMap: Record<string, UserRole> = {
+          admin: "admin",
+          company: "company",
+          recruiter: "company",
+          jobseeker: "job_seeker",
+        };
+        setRole(roleMap[user.role] || "guest");
+      } else {
+        setRole("guest");
+      }
     }
     detect();
-  }, [session]);
+  }, [isAuthenticated, user]);
 
   useEffect(() => {
     if (open) setUnread(0);

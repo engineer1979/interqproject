@@ -8,7 +8,7 @@ interface AuthContextType {
   user: User | null;
   session: Session | null;
   loading: boolean;
-  signUp: (email: string, password: string, fullName: string) => Promise<{ error: Error | null }>;
+  signUp: (email: string, password: string, fullName: string, role?: string) => Promise<{ error: Error | null }>;
   signIn: (email: string, password: string) => Promise<{ error: Error | null }>;
   signOut: () => Promise<void>;
 }
@@ -42,13 +42,13 @@ export function AuthProvider({ children }: { children: ReactNode }) {
     return () => subscription.unsubscribe();
   }, []);
 
-  const signUp = async (email: string, password: string, fullName: string) => {
+  const signUp = async (email: string, password: string, fullName: string, role?: string) => {
     try {
-      const { error } = await supabase.auth.signUp({
+      const { data, error } = await supabase.auth.signUp({
         email,
         password,
         options: {
-          emailRedirectTo: `${window.location.origin}/`,
+          emailRedirectTo: `${window.location.origin}/auth`,
           data: {
             full_name: fullName,
           },
@@ -64,23 +64,44 @@ export function AuthProvider({ children }: { children: ReactNode }) {
         return { error };
       }
 
-      toast({
-        title: "Success!",
-        description: "Please check your email to verify your account.",
-      });
+      // Insert role into user_roles
+      if (data.user && role) {
+        await supabase.from('user_roles').upsert({
+          user_id: data.user.id,
+          role: role === 'job_seeker' ? 'job_seeker' : role
+        } as any, { onConflict: 'user_id' });
+      }
+
+      if (data.session) {
+        // Auto sign-in (email confirmation disabled in Supabase)
+        const userId = data.user?.id;
+        if (userId) {
+          const { data: roleData } = await supabase.rpc('get_user_role', { _user_id: userId });
+          if (roleData === 'admin') navigate("/admin");
+          else if (roleData === 'company') navigate("/company");
+          else if (roleData === 'recruiter') navigate("/recruiter");
+          else navigate("/jobseeker");
+        }
+        toast({ title: "Welcome!", description: "Account created successfully." });
+      } else {
+        toast({ title: "Verification email sent!", description: "Check your email to verify account." });
+      }
 
       return { error: null };
-    } catch (error) {
-      return { error: error as Error };
+    } catch (error: any) {
+      toast({ title: "Sign up failed", description: error.message, variant: "destructive" });
+      return { error };
     }
   };
 
   const signIn = async (email: string, password: string) => {
+    console.log('signIn called with email:', email);
     try {
       const { data: signInData, error } = await supabase.auth.signInWithPassword({
         email,
         password,
       });
+      console.log('signInWithPassword result:', { error });
 
       if (error) {
         toast({
@@ -91,6 +112,7 @@ export function AuthProvider({ children }: { children: ReactNode }) {
         return { error };
       }
 
+      console.log('About to show toast and navigate');
       toast({
         title: "Welcome back!",
         description: "You have successfully signed in.",
@@ -98,28 +120,46 @@ export function AuthProvider({ children }: { children: ReactNode }) {
 
       // Route based on role
       const userId = signInData.user?.id;
+      console.log('Sign in success, userId:', userId);
+      
+      // Show role on screen for debugging
+      document.title = `Signed in as ${userId?.slice(0,8)}...`;
+      
       if (userId) {
-        const { data: roleData } = await supabase.rpc('get_user_role', { _user_id: userId });
+        const { data: roleData, error: roleError } = await supabase.rpc('get_user_role', { _user_id: userId });
+        console.log('Role data:', roleData, 'error:', roleError);
+        
+        // Navigate based on role
         if (roleData === 'admin') {
-          navigate("/admin");
+          console.log('Navigating to /admin');
+          navigate("/admin", { replace: true });
         } else if (roleData === 'company') {
-          navigate("/company");
+          console.log('Navigating to /company');
+          navigate("/company", { replace: true });
+        } else if (roleData === 'recruiter') {
+          console.log('Navigating to /recruiter');
+          navigate("/recruiter", { replace: true });
         } else {
-          navigate("/jobseeker");
+          console.log('Navigating to /jobseeker (default)');
+          navigate("/jobseeker", { replace: true });
         }
       } else {
-        navigate("/jobseeker");
+        console.log('Navigating to /jobseeker (no user id)');
+        navigate("/jobseeker", { replace: true });
       }
       return { error: null };
     } catch (error) {
+      console.error('Sign in error:', error);
       return { error: error as Error };
     }
   };
 
   const signOut = async () => {
+    console.log('signOut called');
     await supabase.auth.signOut();
     setUser(null);
     setSession(null);
+    console.log('signOut - about to navigate to /auth');
     navigate("/auth");
     toast({
       title: "Signed out",

@@ -1,9 +1,9 @@
 import { useState, useEffect, useRef } from "react";
 import { Link, useLocation, useNavigate } from "react-router-dom";
 import { Button } from "@/components/ui/button";
-import { Menu, X, ChevronDown, Briefcase, Code, FileText, HelpCircle, Users, Building, Zap, BarChart3, BookOpen, Phone, Mail, MapPin, Star, Settings } from "lucide-react";
+import { Menu, X, ChevronDown, Star, Settings } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
-import { useAuth } from "@/contexts/AuthContext";
+import { useAuth } from "@/contexts/SimpleAuthContext";
 import { supabase } from "@/integrations/supabase/client";
 
 interface NavItem {
@@ -23,7 +23,6 @@ const EnhancedNavigation = () => {
   const location = useLocation();
   const navigate = useNavigate();
 
-  // Navigation structure
   const navigationItems: NavItem[] = [
     {
       label: "Product",
@@ -38,7 +37,7 @@ const EnhancedNavigation = () => {
         {
           label: "Integrations",
           href: "/integrations",
-          icon: Zap,
+          icon: Star,
           description: "Connect with your tools"
         }
       ]
@@ -57,7 +56,6 @@ const EnhancedNavigation = () => {
     },
   ];
 
-  // Check if user is admin
   const [isAdmin, setIsAdmin] = useState(false);
 
   useEffect(() => {
@@ -77,7 +75,6 @@ const EnhancedNavigation = () => {
     checkAdmin();
   }, [user]);
 
-  // Handle scroll effects
   useEffect(() => {
     const handleScroll = () => {
       setIsScrolled(window.scrollY > 20);
@@ -86,13 +83,11 @@ const EnhancedNavigation = () => {
     return () => window.removeEventListener("scroll", handleScroll);
   }, []);
 
-  // Close mobile menu when route changes
   useEffect(() => {
     setIsMobileMenuOpen(false);
     setActiveDropdown(null);
   }, [location.pathname]);
 
-  // Close dropdown when clicking outside
   useEffect(() => {
     const handleClickOutside = (event: MouseEvent) => {
       if (dropdownRef.current && !dropdownRef.current.contains(event.target as Node)) {
@@ -103,7 +98,6 @@ const EnhancedNavigation = () => {
     return () => document.removeEventListener("mousedown", handleClickOutside);
   }, []);
 
-  // Analytics tracking
   const trackNavigation = (label: string, href?: string) => {
     if (href) {
       navigate(href);
@@ -131,27 +125,18 @@ const EnhancedNavigation = () => {
         animate={{ y: 0 }}
         className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
           isScrolled
-            ? "bg-background/92 backdrop-blur-md shadow-sm border-b border-border/60"
-            : "bg-slate-950/35 backdrop-blur-md border-b border-white/10"
+            ? "bg-white/95 backdrop-blur-md shadow-sm border-b border-slate-200"
+            : "bg-slate-900/80 backdrop-blur-md border-b border-white/10"
         }`}
       >
         <div className="container mx-auto px-4 lg:px-8">
           {/* Row 1: Logo + Auth */}
           <div className="flex items-center justify-between py-3">
             <Link to="/" className="flex items-center gap-3 group transition-smooth" onClick={() => setIsMobileMenuOpen(false)}>
-              <div className={`rounded-xl p-1.5 transition-all ${isScrolled ? "bg-transparent" : "bg-white/95 shadow-sm ring-1 ring-white/15"}`}>
-                <img src="/interq-logo.png" alt="InterQ – Technical Interview & Hiring Platform" className="h-10 sm:h-12 w-auto max-w-full" loading="lazy" decoding="async" />
+              <div className={`rounded-xl p-1.5 transition-all ${isScrolled ? "bg-transparent" : "bg-white shadow-sm"}`}>
+                <img src="/interq-logo.png" alt="InterQ" className="h-10 sm:h-12 w-auto max-w-full" loading="lazy" decoding="async" />
               </div>
-              <span
-                className="text-2xl font-bold !text-white group-hover:opacity-80 transition-smooth"
-                style={{
-                  color: "#fff",
-                  WebkitTextFillColor: "#fff",
-                  background: "none",
-                  WebkitBackgroundClip: "initial",
-                  backgroundClip: "initial",
-                }}
-              >
+              <span className={`text-2xl font-bold transition-smooth ${isScrolled ? "text-slate-900 group-hover:text-cyan-600" : "text-white"}`}>
                 InterQ
               </span>
             </Link>
@@ -161,11 +146,11 @@ const EnhancedNavigation = () => {
               {user ? (
                 <div className="flex items-center space-x-3">
                   <Link to="/settings">
-                    <Button variant="ghost" size="sm" className="hover:bg-muted/50">
+                    <Button variant="ghost" size="sm" className={isScrolled ? "text-slate-700 hover:bg-slate-100" : "text-white/90 hover:bg-white/10"}>
                       <Settings size={16} className="mr-1" /> Settings
                     </Button>
                   </Link>
-                  <Button variant="ghost" size="sm" onClick={signOut} className="hover:bg-muted/50 text-destructive">
+                  <Button variant="ghost" size="sm" onClick={signOut} className="text-red-600 hover:bg-red-50">
                     Sign Out
                   </Button>
                 </div>
@@ -174,13 +159,14 @@ const EnhancedNavigation = () => {
                   <Link to="/auth">
                     <Button
                       variant="ghost"
-                      className={`text-sm font-medium ${isScrolled ? "hover:bg-muted/50" : "text-white/90 hover:bg-white/10 hover:text-white"}`}
+                      size="sm"
+                      className={`text-sm font-medium ${isScrolled ? "text-slate-700 hover:bg-slate-100" : "text-white/90 hover:bg-white/10 hover:text-white"}`}
                     >
                       Sign In
                     </Button>
                   </Link>
                   <Link to="/get-started">
-                    <Button variant="premium" className="text-sm shadow-glow hover:brightness-110 transition-all duration-300">
+                    <Button className="text-sm font-semibold bg-gradient-to-r from-cyan-500 to-blue-500 hover:from-cyan-600 hover:to-blue-600 text-white shadow-md hover:shadow-lg transition-all">
                       Book Demo
                     </Button>
                   </Link>
@@ -191,23 +177,23 @@ const EnhancedNavigation = () => {
             {/* Mobile Menu Button */}
             <button
               onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
-              className="lg:hidden p-2.5 rounded-lg border border-border bg-background/80 text-foreground shadow-sm hover:bg-accent hover:text-accent-foreground transition-colors"
+              className={`lg:hidden p-2.5 rounded-lg border transition-colors ${isScrolled ? "border-slate-200 bg-white text-slate-700 hover:bg-slate-50" : "border-white/20 bg-white/10 text-white hover:bg-white/20"}`}
               aria-label={isMobileMenuOpen ? "Close menu" : "Open menu"}
             >
               {isMobileMenuOpen ? <X size={24} /> : <Menu size={24} />}
             </button>
           </div>
 
-          {/* Row 2: Nav links in a centered strip */}
-          <nav className={`hidden lg:flex items-center justify-center gap-1 pb-3 border-t pt-3 ${isScrolled ? "border-border/40" : "border-white/10"}`} ref={dropdownRef}>
+          {/* Row 2: Nav links */}
+          <nav className={`hidden lg:flex items-center justify-center gap-1 pb-3 border-t pt-3 ${isScrolled ? "border-slate-100" : "border-white/10"}`} ref={dropdownRef}>
             {navigationItems.map((item) => (
               <div key={item.label} className="relative">
                 <button
                   onClick={() => handleNavItemClick(item)}
                   className={`flex items-center gap-1 px-5 py-2 rounded-lg text-sm font-medium transition-all duration-200 ${
                     isActive(item.href) || item.children?.some(child => isActive(child.href))
-                      ? "bg-primary/10 text-primary shadow-sm"
-                      : (isScrolled ? "text-muted-foreground hover:text-foreground hover:bg-muted/60" : "text-white/90 hover:text-white hover:bg-white/10")
+                      ? "bg-cyan-100 text-cyan-700 shadow-sm"
+                      : (isScrolled ? "text-slate-600 hover:text-slate-900 hover:bg-slate-100" : "text-white/90 hover:text-white hover:bg-white/10")
                   }`}
                   aria-expanded={activeDropdown === item.label}
                   aria-haspopup={item.children ? "true" : "false"}
@@ -226,21 +212,21 @@ const EnhancedNavigation = () => {
                         initial={{ opacity: 0, y: -10 }}
                         animate={{ opacity: 1, y: 0 }}
                         exit={{ opacity: 0, y: -10 }}
-                        className="absolute top-full left-0 mt-2 w-64 bg-popover border border-border rounded-lg shadow-xl z-50"
+                        className="absolute top-full left-0 mt-2 w-64 bg-white border border-slate-200 rounded-lg shadow-xl z-50"
                       >
                         <div className="p-2">
                           {item.children.map((child) => (
                             <button
-                          key={child.label}
-                          onClick={() => trackNavigation(child.label, child.href)}
-                          className={`w-full flex items-center gap-3 p-3 text-left rounded-md transition-all duration-200 hover:bg-muted/50 ${
-                            isActive(child.href) ? "text-primary bg-primary/10" : "text-foreground hover:text-primary"
-                          }`}
-                        >
-                              {child.icon && <child.icon size={18} className="text-primary" />}
+                              key={child.label}
+                              onClick={() => trackNavigation(child.label, child.href)}
+                              className={`w-full flex items-center gap-3 p-3 text-left rounded-md transition-all duration-200 hover:bg-slate-50 ${
+                                isActive(child.href) ? "text-cyan-600 bg-cyan-50" : "text-slate-700 hover:text-cyan-600"
+                              }`}
+                            >
+                              {child.icon && <child.icon size={18} className="text-cyan-500" />}
                               <div>
                                 <div className="font-medium text-sm">{child.label}</div>
-                                {child.description && <div className="text-xs text-muted-foreground mt-0.5">{child.description}</div>}
+                                {child.description && <div className="text-xs text-slate-500 mt-0.5">{child.description}</div>}
                               </div>
                             </button>
                           ))}
@@ -257,8 +243,8 @@ const EnhancedNavigation = () => {
                 to="/admin"
                 className={`px-5 py-2 rounded-lg text-sm font-medium transition-all duration-200 ${
                   isActive("/admin")
-                    ? "bg-primary/10 text-primary shadow-sm"
-                    : (isScrolled ? "text-foreground/90 hover:text-primary hover:bg-muted/60" : "text-white/90 hover:text-white hover:bg-white/10")
+                    ? "bg-cyan-100 text-cyan-700 shadow-sm"
+                    : (isScrolled ? "text-slate-600 hover:text-slate-900 hover:bg-slate-100" : "text-white/90 hover:text-white hover:bg-white/10")
                 }`}
               >
                 Admin
@@ -283,7 +269,7 @@ const EnhancedNavigation = () => {
                 initial={{ opacity: 0, height: 0 }}
                 animate={{ opacity: 1, height: "auto" }}
                 exit={{ opacity: 0, height: 0 }}
-                className="lg:hidden bg-background border-b border-border shadow-soft overflow-hidden fixed left-0 right-0 z-50"
+                className="lg:hidden bg-white border-b border-slate-200 shadow-lg overflow-hidden fixed left-0 right-0 z-50"
                 style={{ top: "72px" }}
               >
                 <div className="container mx-auto px-4 py-6 space-y-2 max-h-[80vh] overflow-y-auto">
@@ -291,7 +277,7 @@ const EnhancedNavigation = () => {
                     <div key={item.label} className="space-y-2">
                       <button
                         onClick={() => handleNavItemClick(item)}
-                        className="w-full flex items-center justify-between p-3 text-left rounded-lg transition-smooth hover:bg-muted/50"
+                        className="w-full flex items-center justify-between p-3 text-left rounded-lg transition-colors hover:bg-slate-50 text-slate-700"
                       >
                         <span className="font-medium">{item.label}</span>
                         {item.children && <ChevronDown size={20} className={`transition-transform ${activeDropdown === item.label ? "rotate-180" : ""}`} />}
@@ -302,12 +288,12 @@ const EnhancedNavigation = () => {
                             <button
                               key={child.label}
                               onClick={() => trackNavigation(child.label, child.href)}
-                              className={`w-full flex items-center gap-3 p-3 text-left rounded-md transition-smooth hover:bg-muted/50 ${isActive(child.href) ? "text-primary bg-primary/10" : "text-foreground hover:text-primary"}`}
+                              className={`w-full flex items-center gap-3 p-3 text-left rounded-md transition-colors hover:bg-slate-50 ${isActive(child.href) ? "text-cyan-600 bg-cyan-50" : "text-slate-600"}`}
                             >
-                              {child.icon && <child.icon size={16} className="text-primary" />}
+                              {child.icon && <child.icon size={16} className="text-cyan-500" />}
                               <div>
                                 <div className="font-medium text-sm">{child.label}</div>
-                                {child.description && <div className="text-xs text-muted-foreground mt-0.5">{child.description}</div>}
+                                {child.description && <div className="text-xs text-slate-500 mt-0.5">{child.description}</div>}
                               </div>
                             </button>
                           ))}
@@ -316,18 +302,18 @@ const EnhancedNavigation = () => {
                     </div>
                   ))}
                   {isAdmin && (
-                    <Link to="/admin" onClick={() => setIsMobileMenuOpen(false)} className={`block p-3 rounded-lg transition-smooth hover:bg-muted/50 ${isActive("/admin") ? "text-primary bg-primary/10" : "text-foreground hover:text-primary"}`}>
+                    <Link to="/admin" onClick={() => setIsMobileMenuOpen(false)} className={`block p-3 rounded-lg transition-colors hover:bg-slate-50 ${isActive("/admin") ? "text-cyan-600 bg-cyan-50" : "text-slate-700"}`}>
                       Admin Dashboard
                     </Link>
                   )}
-                  <div className="h-px bg-border my-4" />
+                  <div className="h-px bg-slate-200 my-4" />
                   <div className="space-y-3">
                     {user ? (
-                      <Button variant="ghost" size="lg" className="w-full justify-start text-destructive hover:bg-destructive/10" onClick={() => { signOut(); setIsMobileMenuOpen(false); }}>Sign Out</Button>
+                      <Button variant="ghost" size="lg" className="w-full justify-start text-red-600 hover:bg-red-50" onClick={() => { signOut(); setIsMobileMenuOpen(false); }}>Sign Out</Button>
                     ) : (
                       <div className="grid gap-3">
-                        <Link to="/auth" onClick={() => setIsMobileMenuOpen(false)}><Button variant="outline" size="lg" className="w-full justify-center">Sign In</Button></Link>
-                        <Link to="/get-started" onClick={() => setIsMobileMenuOpen(false)}><Button variant="default" size="lg" className="w-full justify-center">Book Demo</Button></Link>
+                        <Link to="/auth" onClick={() => setIsMobileMenuOpen(false)}><Button variant="outline" size="lg" className="w-full justify-center border-slate-300 text-slate-700">Sign In</Button></Link>
+                        <Link to="/get-started" onClick={() => setIsMobileMenuOpen(false)}><Button size="lg" className="w-full justify-center bg-gradient-to-r from-cyan-500 to-blue-500 text-white">Book Demo</Button></Link>
                       </div>
                     )}
                   </div>
