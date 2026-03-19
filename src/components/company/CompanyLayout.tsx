@@ -31,7 +31,7 @@ interface Company {
 }
 
 export function CompanyLayout() {
-  const { user, signOut, loading: authLoading } = useAuth();
+  const { user, signOut, isLoading: authLoading } = useAuth();
   const navigate = useNavigate();
   const location = useLocation();
   const [company, setCompany] = useState<Company | null>(null);
@@ -141,7 +141,7 @@ export function CompanyLayout() {
           </Button>
           <div className="flex items-center gap-2">
             <span className="text-sm text-muted-foreground hidden sm:inline">
-              Welcome, <span className="font-medium text-foreground">{user?.user_metadata?.full_name || user?.email}</span>
+              Welcome, <span className="font-medium text-foreground">{user?.name || user?.email}</span>
             </span>
           </div>
           <div className="flex items-center gap-2">
