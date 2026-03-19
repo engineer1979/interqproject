@@ -64,7 +64,10 @@ const Auth = () => {
     const result = await login(email, password);
     
     if (result.success) {
-      navigate("/dashboard");
+      if (result.needsVerification) {
+        navigate("/verify-email");
+      }
+      // Navigation is handled by useEffect in SimpleAuthProvider
     } else {
       setError(result.error || "Login failed");
     }
@@ -78,7 +81,7 @@ const Auth = () => {
     const result = await loginWithDemo(role);
     
     if (result.success) {
-      navigate("/dashboard");
+      // Navigation is handled by useEffect in SimpleAuthProvider
     } else {
       setError(result.error || "Demo login failed");
     }

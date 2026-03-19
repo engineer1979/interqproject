@@ -28,7 +28,7 @@ import { Progress } from "@/components/ui/progress";
 import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover";
 import { useTheme } from "next-themes";
 import { useNavigate } from "react-router-dom";
-import { supabase } from "@/integrations/supabase/client";
+import { useAuth } from "@/contexts/SimpleAuthContext";
 import {
   LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer,
   PieChart as RechartsPie, Pie, Cell, BarChart, Bar, Legend, Area, AreaChart
@@ -134,13 +134,11 @@ export function RecruiterLayout() {
   const [showCreateJob, setShowCreateJob] = useState(false);
   const [jobStatus, setJobStatus] = useState("all");
   const [candidateStage, setCandidateStage] = useState("all");
+  const { logout } = useAuth();
 
   const handleLogout = async () => {
-    await supabase.auth.signOut();
-    localStorage.removeItem("hireflow_user");
     setIsMobileMenuOpen(false);
-    navigate("/auth");
-    window.location.reload();
+    await logout();
   };
 
   const getStageColor = (stage: string) => {
