@@ -1,0 +1,3260 @@
+{
+  "easy": [
+    {
+      "id": "Kubernetes-DevOps-E001",
+      "question": "Default subnet mask for Class C network in Kubernetes-DevOps?",
+      "options": [
+        "Incorrect approach",
+        "Correct Kubernetes-DevOps procedure",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "e",
+      "explanation": "**Kubernetes-DevOps E Solution:** Default subnet mask for Class C network in Kubernetes-DevOps?. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-E002",
+      "question": "What is the primary function of Kubernetes DHCP?",
+      "options": [
+        "Correct Kubernetes-DevOps procedure",
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "e",
+      "explanation": "**Kubernetes-DevOps E Solution:** What is the primary function of Kubernetes DHCP?. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-E003",
+      "question": "Common protocol for Kubernetes-DevOps remote access?",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Kubernetes-DevOps procedure"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "e",
+      "explanation": "**Kubernetes-DevOps E Solution:** Common protocol for Kubernetes-DevOps remote access?. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-E004",
+      "question": "What does Kubernetes ACL stand for?",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Kubernetes-DevOps procedure"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "e",
+      "explanation": "**Kubernetes-DevOps E Solution:** What does Kubernetes ACL stand for?. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-E005",
+      "question": "Which port does Kubernetes-DevOps service use by default?",
+      "options": [
+        "Incorrect approach",
+        "Correct Kubernetes-DevOps procedure",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "e",
+      "explanation": "**Kubernetes-DevOps E Solution:** Which port does Kubernetes-DevOps service use by default?. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-E006",
+      "question": "What is the primary function of Kubernetes DHCP?",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Kubernetes-DevOps procedure"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "e",
+      "explanation": "**Kubernetes-DevOps E Solution:** What is the primary function of Kubernetes DHCP?. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-E007",
+      "question": "Which port does Kubernetes-DevOps service use by default?",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Kubernetes-DevOps procedure"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "e",
+      "explanation": "**Kubernetes-DevOps E Solution:** Which port does Kubernetes-DevOps service use by default?. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-E008",
+      "question": "Default subnet mask for Class C network in Kubernetes-DevOps?",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Correct Kubernetes-DevOps procedure",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "e",
+      "explanation": "**Kubernetes-DevOps E Solution:** Default subnet mask for Class C network in Kubernetes-DevOps?. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-E009",
+      "question": "What does Kubernetes ACL stand for?",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Correct Kubernetes-DevOps procedure",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "e",
+      "explanation": "**Kubernetes-DevOps E Solution:** What does Kubernetes ACL stand for?. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-E010",
+      "question": "What does Kubernetes ACL stand for?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Kubernetes-DevOps procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "e",
+      "explanation": "**Kubernetes-DevOps E Solution:** What does Kubernetes ACL stand for?. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-E011",
+      "question": "What does Kubernetes ACL stand for?",
+      "options": [
+        "Dangerous method",
+        "Correct Kubernetes-DevOps procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "e",
+      "explanation": "**Kubernetes-DevOps E Solution:** What does Kubernetes ACL stand for?. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-E012",
+      "question": "What does Kubernetes ACL stand for?",
+      "options": [
+        "Dangerous method",
+        "Correct Kubernetes-DevOps procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "e",
+      "explanation": "**Kubernetes-DevOps E Solution:** What does Kubernetes ACL stand for?. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-E013",
+      "question": "Which port does Kubernetes-DevOps service use by default?",
+      "options": [
+        "Dangerous method",
+        "Correct Kubernetes-DevOps procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "e",
+      "explanation": "**Kubernetes-DevOps E Solution:** Which port does Kubernetes-DevOps service use by default?. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-E014",
+      "question": "What does Kubernetes ACL stand for?",
+      "options": [
+        "Dangerous method",
+        "Correct Kubernetes-DevOps procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "e",
+      "explanation": "**Kubernetes-DevOps E Solution:** What does Kubernetes ACL stand for?. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-E015",
+      "question": "Default subnet mask for Class C network in Kubernetes-DevOps?",
+      "options": [
+        "Correct Kubernetes-DevOps procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "e",
+      "explanation": "**Kubernetes-DevOps E Solution:** Default subnet mask for Class C network in Kubernetes-DevOps?. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-E016",
+      "question": "What is the primary function of Kubernetes DHCP?",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Kubernetes-DevOps procedure"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "e",
+      "explanation": "**Kubernetes-DevOps E Solution:** What is the primary function of Kubernetes DHCP?. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-E017",
+      "question": "What is the primary function of Kubernetes DHCP?",
+      "options": [
+        "Correct Kubernetes-DevOps procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "e",
+      "explanation": "**Kubernetes-DevOps E Solution:** What is the primary function of Kubernetes DHCP?. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-E018",
+      "question": "What does Kubernetes ACL stand for?",
+      "options": [
+        "Partially correct",
+        "Correct Kubernetes-DevOps procedure",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "e",
+      "explanation": "**Kubernetes-DevOps E Solution:** What does Kubernetes ACL stand for?. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-E019",
+      "question": "What does Kubernetes ACL stand for?",
+      "options": [
+        "Partially correct",
+        "Correct Kubernetes-DevOps procedure",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "e",
+      "explanation": "**Kubernetes-DevOps E Solution:** What does Kubernetes ACL stand for?. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-E020",
+      "question": "What is the primary function of Kubernetes DHCP?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Kubernetes-DevOps procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "e",
+      "explanation": "**Kubernetes-DevOps E Solution:** What is the primary function of Kubernetes DHCP?. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-E021",
+      "question": "Common protocol for Kubernetes-DevOps remote access?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Kubernetes-DevOps procedure"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "e",
+      "explanation": "**Kubernetes-DevOps E Solution:** Common protocol for Kubernetes-DevOps remote access?. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-E022",
+      "question": "Default subnet mask for Class C network in Kubernetes-DevOps?",
+      "options": [
+        "Dangerous method",
+        "Correct Kubernetes-DevOps procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "e",
+      "explanation": "**Kubernetes-DevOps E Solution:** Default subnet mask for Class C network in Kubernetes-DevOps?. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-E023",
+      "question": "What does Kubernetes ACL stand for?",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Kubernetes-DevOps procedure"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "e",
+      "explanation": "**Kubernetes-DevOps E Solution:** What does Kubernetes ACL stand for?. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-E024",
+      "question": "Common protocol for Kubernetes-DevOps remote access?",
+      "options": [
+        "Dangerous method",
+        "Correct Kubernetes-DevOps procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "e",
+      "explanation": "**Kubernetes-DevOps E Solution:** Common protocol for Kubernetes-DevOps remote access?. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-E025",
+      "question": "Default subnet mask for Class C network in Kubernetes-DevOps?",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Kubernetes-DevOps procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "e",
+      "explanation": "**Kubernetes-DevOps E Solution:** Default subnet mask for Class C network in Kubernetes-DevOps?. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-E026",
+      "question": "What is the primary function of Kubernetes DHCP?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Kubernetes-DevOps procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "e",
+      "explanation": "**Kubernetes-DevOps E Solution:** What is the primary function of Kubernetes DHCP?. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-E027",
+      "question": "What does Kubernetes ACL stand for?",
+      "options": [
+        "Dangerous method",
+        "Correct Kubernetes-DevOps procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "e",
+      "explanation": "**Kubernetes-DevOps E Solution:** What does Kubernetes ACL stand for?. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-E028",
+      "question": "Common protocol for Kubernetes-DevOps remote access?",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Kubernetes-DevOps procedure"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "e",
+      "explanation": "**Kubernetes-DevOps E Solution:** Common protocol for Kubernetes-DevOps remote access?. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-E029",
+      "question": "What is the primary function of Kubernetes DHCP?",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Kubernetes-DevOps procedure"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "e",
+      "explanation": "**Kubernetes-DevOps E Solution:** What is the primary function of Kubernetes DHCP?. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-E030",
+      "question": "Default subnet mask for Class C network in Kubernetes-DevOps?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Kubernetes-DevOps procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "e",
+      "explanation": "**Kubernetes-DevOps E Solution:** Default subnet mask for Class C network in Kubernetes-DevOps?. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-E031",
+      "question": "Common protocol for Kubernetes-DevOps remote access?",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Correct Kubernetes-DevOps procedure",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "e",
+      "explanation": "**Kubernetes-DevOps E Solution:** Common protocol for Kubernetes-DevOps remote access?. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-E032",
+      "question": "Default subnet mask for Class C network in Kubernetes-DevOps?",
+      "options": [
+        "Correct Kubernetes-DevOps procedure",
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "e",
+      "explanation": "**Kubernetes-DevOps E Solution:** Default subnet mask for Class C network in Kubernetes-DevOps?. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-E033",
+      "question": "What does Kubernetes ACL stand for?",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Kubernetes-DevOps procedure"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "e",
+      "explanation": "**Kubernetes-DevOps E Solution:** What does Kubernetes ACL stand for?. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-E034",
+      "question": "Common protocol for Kubernetes-DevOps remote access?",
+      "options": [
+        "Dangerous method",
+        "Correct Kubernetes-DevOps procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "e",
+      "explanation": "**Kubernetes-DevOps E Solution:** Common protocol for Kubernetes-DevOps remote access?. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-E035",
+      "question": "Which port does Kubernetes-DevOps service use by default?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Kubernetes-DevOps procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "e",
+      "explanation": "**Kubernetes-DevOps E Solution:** Which port does Kubernetes-DevOps service use by default?. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-E036",
+      "question": "Which port does Kubernetes-DevOps service use by default?",
+      "options": [
+        "Partially correct",
+        "Correct Kubernetes-DevOps procedure",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "e",
+      "explanation": "**Kubernetes-DevOps E Solution:** Which port does Kubernetes-DevOps service use by default?. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-E037",
+      "question": "Which port does Kubernetes-DevOps service use by default?",
+      "options": [
+        "Dangerous method",
+        "Correct Kubernetes-DevOps procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "e",
+      "explanation": "**Kubernetes-DevOps E Solution:** Which port does Kubernetes-DevOps service use by default?. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-E038",
+      "question": "What is the primary function of Kubernetes DHCP?",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Kubernetes-DevOps procedure"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "e",
+      "explanation": "**Kubernetes-DevOps E Solution:** What is the primary function of Kubernetes DHCP?. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-E039",
+      "question": "Common protocol for Kubernetes-DevOps remote access?",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Correct Kubernetes-DevOps procedure",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "e",
+      "explanation": "**Kubernetes-DevOps E Solution:** Common protocol for Kubernetes-DevOps remote access?. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-E040",
+      "question": "Which port does Kubernetes-DevOps service use by default?",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Kubernetes-DevOps procedure"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "e",
+      "explanation": "**Kubernetes-DevOps E Solution:** Which port does Kubernetes-DevOps service use by default?. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-E041",
+      "question": "Which port does Kubernetes-DevOps service use by default?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Kubernetes-DevOps procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "e",
+      "explanation": "**Kubernetes-DevOps E Solution:** Which port does Kubernetes-DevOps service use by default?. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-E042",
+      "question": "What is the primary function of Kubernetes DHCP?",
+      "options": [
+        "Correct Kubernetes-DevOps procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "e",
+      "explanation": "**Kubernetes-DevOps E Solution:** What is the primary function of Kubernetes DHCP?. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-E043",
+      "question": "Which port does Kubernetes-DevOps service use by default?",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Kubernetes-DevOps procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "e",
+      "explanation": "**Kubernetes-DevOps E Solution:** Which port does Kubernetes-DevOps service use by default?. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-E044",
+      "question": "Common protocol for Kubernetes-DevOps remote access?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Kubernetes-DevOps procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "e",
+      "explanation": "**Kubernetes-DevOps E Solution:** Common protocol for Kubernetes-DevOps remote access?. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-E045",
+      "question": "Which port does Kubernetes-DevOps service use by default?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Kubernetes-DevOps procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "e",
+      "explanation": "**Kubernetes-DevOps E Solution:** Which port does Kubernetes-DevOps service use by default?. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-E046",
+      "question": "Which port does Kubernetes-DevOps service use by default?",
+      "options": [
+        "Partially correct",
+        "Correct Kubernetes-DevOps procedure",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "e",
+      "explanation": "**Kubernetes-DevOps E Solution:** Which port does Kubernetes-DevOps service use by default?. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-E047",
+      "question": "Common protocol for Kubernetes-DevOps remote access?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Kubernetes-DevOps procedure"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "e",
+      "explanation": "**Kubernetes-DevOps E Solution:** Common protocol for Kubernetes-DevOps remote access?. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-E048",
+      "question": "Which port does Kubernetes-DevOps service use by default?",
+      "options": [
+        "Dangerous method",
+        "Correct Kubernetes-DevOps procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "e",
+      "explanation": "**Kubernetes-DevOps E Solution:** Which port does Kubernetes-DevOps service use by default?. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-E049",
+      "question": "Which port does Kubernetes-DevOps service use by default?",
+      "options": [
+        "Dangerous method",
+        "Correct Kubernetes-DevOps procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "e",
+      "explanation": "**Kubernetes-DevOps E Solution:** Which port does Kubernetes-DevOps service use by default?. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-E050",
+      "question": "What is the primary function of Kubernetes DHCP?",
+      "options": [
+        "Dangerous method",
+        "Correct Kubernetes-DevOps procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "e",
+      "explanation": "**Kubernetes-DevOps E Solution:** What is the primary function of Kubernetes DHCP?. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    }
+  ],
+  "medium": [
+    {
+      "id": "Kubernetes-DevOps-M001",
+      "question": "Optimize Kubernetes-DevOps query performance",
+      "options": [
+        "Dangerous method",
+        "Correct Kubernetes-DevOps procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "m",
+      "explanation": "**Kubernetes-DevOps M Solution:** Optimize Kubernetes-DevOps query performance. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-M002",
+      "question": "Configure Kubernetes-DevOps load balancer for high availability",
+      "options": [
+        "Correct Kubernetes-DevOps procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "m",
+      "explanation": "**Kubernetes-DevOps M Solution:** Configure Kubernetes-DevOps load balancer for high availability. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-M003",
+      "question": "Configure Kubernetes-DevOps load balancer for high availability",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Kubernetes-DevOps procedure"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "m",
+      "explanation": "**Kubernetes-DevOps M Solution:** Configure Kubernetes-DevOps load balancer for high availability. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-M004",
+      "question": "Troubleshoot Kubernetes-DevOps connectivity issue between VLANs",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Kubernetes-DevOps procedure"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "m",
+      "explanation": "**Kubernetes-DevOps M Solution:** Troubleshoot Kubernetes-DevOps connectivity issue between VLANs. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-M005",
+      "question": "Set up Kubernetes-DevOps failover clustering",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Kubernetes-DevOps procedure"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "m",
+      "explanation": "**Kubernetes-DevOps M Solution:** Set up Kubernetes-DevOps failover clustering. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-M006",
+      "question": "Set up Kubernetes-DevOps failover clustering",
+      "options": [
+        "Correct Kubernetes-DevOps procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "m",
+      "explanation": "**Kubernetes-DevOps M Solution:** Set up Kubernetes-DevOps failover clustering. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-M007",
+      "question": "Troubleshoot Kubernetes-DevOps connectivity issue between VLANs",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Kubernetes-DevOps procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "m",
+      "explanation": "**Kubernetes-DevOps M Solution:** Troubleshoot Kubernetes-DevOps connectivity issue between VLANs. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-M008",
+      "question": "Set up Kubernetes-DevOps failover clustering",
+      "options": [
+        "Dangerous method",
+        "Correct Kubernetes-DevOps procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "m",
+      "explanation": "**Kubernetes-DevOps M Solution:** Set up Kubernetes-DevOps failover clustering. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-M009",
+      "question": "Configure Kubernetes-DevOps load balancer for high availability",
+      "options": [
+        "Correct Kubernetes-DevOps procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "m",
+      "explanation": "**Kubernetes-DevOps M Solution:** Configure Kubernetes-DevOps load balancer for high availability. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-M010",
+      "question": "Implement Kubernetes-DevOps backup strategy for compliance",
+      "options": [
+        "Dangerous method",
+        "Correct Kubernetes-DevOps procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "m",
+      "explanation": "**Kubernetes-DevOps M Solution:** Implement Kubernetes-DevOps backup strategy for compliance. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-M011",
+      "question": "Implement Kubernetes-DevOps backup strategy for compliance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Kubernetes-DevOps procedure"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "m",
+      "explanation": "**Kubernetes-DevOps M Solution:** Implement Kubernetes-DevOps backup strategy for compliance. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-M012",
+      "question": "Set up Kubernetes-DevOps failover clustering",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Kubernetes-DevOps procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "m",
+      "explanation": "**Kubernetes-DevOps M Solution:** Set up Kubernetes-DevOps failover clustering. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-M013",
+      "question": "Troubleshoot Kubernetes-DevOps connectivity issue between VLANs",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Kubernetes-DevOps procedure"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "m",
+      "explanation": "**Kubernetes-DevOps M Solution:** Troubleshoot Kubernetes-DevOps connectivity issue between VLANs. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-M014",
+      "question": "Implement Kubernetes-DevOps backup strategy for compliance",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Kubernetes-DevOps procedure"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "m",
+      "explanation": "**Kubernetes-DevOps M Solution:** Implement Kubernetes-DevOps backup strategy for compliance. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-M015",
+      "question": "Configure Kubernetes-DevOps load balancer for high availability",
+      "options": [
+        "Dangerous method",
+        "Correct Kubernetes-DevOps procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "m",
+      "explanation": "**Kubernetes-DevOps M Solution:** Configure Kubernetes-DevOps load balancer for high availability. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-M016",
+      "question": "Set up Kubernetes-DevOps failover clustering",
+      "options": [
+        "Partially correct",
+        "Correct Kubernetes-DevOps procedure",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "m",
+      "explanation": "**Kubernetes-DevOps M Solution:** Set up Kubernetes-DevOps failover clustering. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-M017",
+      "question": "Configure Kubernetes-DevOps load balancer for high availability",
+      "options": [
+        "Correct Kubernetes-DevOps procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "m",
+      "explanation": "**Kubernetes-DevOps M Solution:** Configure Kubernetes-DevOps load balancer for high availability. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-M018",
+      "question": "Implement Kubernetes-DevOps backup strategy for compliance",
+      "options": [
+        "Dangerous method",
+        "Correct Kubernetes-DevOps procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "m",
+      "explanation": "**Kubernetes-DevOps M Solution:** Implement Kubernetes-DevOps backup strategy for compliance. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-M019",
+      "question": "Set up Kubernetes-DevOps failover clustering",
+      "options": [
+        "Dangerous method",
+        "Correct Kubernetes-DevOps procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "m",
+      "explanation": "**Kubernetes-DevOps M Solution:** Set up Kubernetes-DevOps failover clustering. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-M020",
+      "question": "Optimize Kubernetes-DevOps query performance",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Kubernetes-DevOps procedure"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "m",
+      "explanation": "**Kubernetes-DevOps M Solution:** Optimize Kubernetes-DevOps query performance. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-M021",
+      "question": "Implement Kubernetes-DevOps backup strategy for compliance",
+      "options": [
+        "Correct Kubernetes-DevOps procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "m",
+      "explanation": "**Kubernetes-DevOps M Solution:** Implement Kubernetes-DevOps backup strategy for compliance. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-M022",
+      "question": "Set up Kubernetes-DevOps failover clustering",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Kubernetes-DevOps procedure"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "m",
+      "explanation": "**Kubernetes-DevOps M Solution:** Set up Kubernetes-DevOps failover clustering. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-M023",
+      "question": "Optimize Kubernetes-DevOps query performance",
+      "options": [
+        "Dangerous method",
+        "Correct Kubernetes-DevOps procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "m",
+      "explanation": "**Kubernetes-DevOps M Solution:** Optimize Kubernetes-DevOps query performance. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-M024",
+      "question": "Configure Kubernetes-DevOps load balancer for high availability",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Kubernetes-DevOps procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "m",
+      "explanation": "**Kubernetes-DevOps M Solution:** Configure Kubernetes-DevOps load balancer for high availability. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-M025",
+      "question": "Configure Kubernetes-DevOps load balancer for high availability",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Kubernetes-DevOps procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "m",
+      "explanation": "**Kubernetes-DevOps M Solution:** Configure Kubernetes-DevOps load balancer for high availability. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-M026",
+      "question": "Set up Kubernetes-DevOps failover clustering",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Kubernetes-DevOps procedure"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "m",
+      "explanation": "**Kubernetes-DevOps M Solution:** Set up Kubernetes-DevOps failover clustering. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-M027",
+      "question": "Configure Kubernetes-DevOps load balancer for high availability",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Kubernetes-DevOps procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "m",
+      "explanation": "**Kubernetes-DevOps M Solution:** Configure Kubernetes-DevOps load balancer for high availability. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-M028",
+      "question": "Configure Kubernetes-DevOps load balancer for high availability",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Kubernetes-DevOps procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "m",
+      "explanation": "**Kubernetes-DevOps M Solution:** Configure Kubernetes-DevOps load balancer for high availability. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-M029",
+      "question": "Optimize Kubernetes-DevOps query performance",
+      "options": [
+        "Dangerous method",
+        "Correct Kubernetes-DevOps procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "m",
+      "explanation": "**Kubernetes-DevOps M Solution:** Optimize Kubernetes-DevOps query performance. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-M030",
+      "question": "Optimize Kubernetes-DevOps query performance",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Kubernetes-DevOps procedure"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "m",
+      "explanation": "**Kubernetes-DevOps M Solution:** Optimize Kubernetes-DevOps query performance. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-M031",
+      "question": "Set up Kubernetes-DevOps failover clustering",
+      "options": [
+        "Partially correct",
+        "Correct Kubernetes-DevOps procedure",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "m",
+      "explanation": "**Kubernetes-DevOps M Solution:** Set up Kubernetes-DevOps failover clustering. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-M032",
+      "question": "Set up Kubernetes-DevOps failover clustering",
+      "options": [
+        "Correct Kubernetes-DevOps procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "m",
+      "explanation": "**Kubernetes-DevOps M Solution:** Set up Kubernetes-DevOps failover clustering. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-M033",
+      "question": "Troubleshoot Kubernetes-DevOps connectivity issue between VLANs",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Kubernetes-DevOps procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "m",
+      "explanation": "**Kubernetes-DevOps M Solution:** Troubleshoot Kubernetes-DevOps connectivity issue between VLANs. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-M034",
+      "question": "Implement Kubernetes-DevOps backup strategy for compliance",
+      "options": [
+        "Dangerous method",
+        "Correct Kubernetes-DevOps procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "m",
+      "explanation": "**Kubernetes-DevOps M Solution:** Implement Kubernetes-DevOps backup strategy for compliance. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-M035",
+      "question": "Optimize Kubernetes-DevOps query performance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Kubernetes-DevOps procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "m",
+      "explanation": "**Kubernetes-DevOps M Solution:** Optimize Kubernetes-DevOps query performance. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-M036",
+      "question": "Optimize Kubernetes-DevOps query performance",
+      "options": [
+        "Partially correct",
+        "Correct Kubernetes-DevOps procedure",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "m",
+      "explanation": "**Kubernetes-DevOps M Solution:** Optimize Kubernetes-DevOps query performance. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-M037",
+      "question": "Set up Kubernetes-DevOps failover clustering",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Kubernetes-DevOps procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "m",
+      "explanation": "**Kubernetes-DevOps M Solution:** Set up Kubernetes-DevOps failover clustering. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-M038",
+      "question": "Optimize Kubernetes-DevOps query performance",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Kubernetes-DevOps procedure"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "m",
+      "explanation": "**Kubernetes-DevOps M Solution:** Optimize Kubernetes-DevOps query performance. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-M039",
+      "question": "Set up Kubernetes-DevOps failover clustering",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Kubernetes-DevOps procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "m",
+      "explanation": "**Kubernetes-DevOps M Solution:** Set up Kubernetes-DevOps failover clustering. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-M040",
+      "question": "Implement Kubernetes-DevOps backup strategy for compliance",
+      "options": [
+        "Partially correct",
+        "Correct Kubernetes-DevOps procedure",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "m",
+      "explanation": "**Kubernetes-DevOps M Solution:** Implement Kubernetes-DevOps backup strategy for compliance. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-M041",
+      "question": "Implement Kubernetes-DevOps backup strategy for compliance",
+      "options": [
+        "Dangerous method",
+        "Correct Kubernetes-DevOps procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "m",
+      "explanation": "**Kubernetes-DevOps M Solution:** Implement Kubernetes-DevOps backup strategy for compliance. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-M042",
+      "question": "Configure Kubernetes-DevOps load balancer for high availability",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Kubernetes-DevOps procedure"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "m",
+      "explanation": "**Kubernetes-DevOps M Solution:** Configure Kubernetes-DevOps load balancer for high availability. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-M043",
+      "question": "Configure Kubernetes-DevOps load balancer for high availability",
+      "options": [
+        "Correct Kubernetes-DevOps procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "m",
+      "explanation": "**Kubernetes-DevOps M Solution:** Configure Kubernetes-DevOps load balancer for high availability. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-M044",
+      "question": "Set up Kubernetes-DevOps failover clustering",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Kubernetes-DevOps procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "m",
+      "explanation": "**Kubernetes-DevOps M Solution:** Set up Kubernetes-DevOps failover clustering. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-M045",
+      "question": "Implement Kubernetes-DevOps backup strategy for compliance",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Kubernetes-DevOps procedure"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "m",
+      "explanation": "**Kubernetes-DevOps M Solution:** Implement Kubernetes-DevOps backup strategy for compliance. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-M046",
+      "question": "Optimize Kubernetes-DevOps query performance",
+      "options": [
+        "Correct Kubernetes-DevOps procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "m",
+      "explanation": "**Kubernetes-DevOps M Solution:** Optimize Kubernetes-DevOps query performance. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-M047",
+      "question": "Set up Kubernetes-DevOps failover clustering",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Kubernetes-DevOps procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "m",
+      "explanation": "**Kubernetes-DevOps M Solution:** Set up Kubernetes-DevOps failover clustering. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-M048",
+      "question": "Troubleshoot Kubernetes-DevOps connectivity issue between VLANs",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Kubernetes-DevOps procedure"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "m",
+      "explanation": "**Kubernetes-DevOps M Solution:** Troubleshoot Kubernetes-DevOps connectivity issue between VLANs. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-M049",
+      "question": "Optimize Kubernetes-DevOps query performance",
+      "options": [
+        "Dangerous method",
+        "Correct Kubernetes-DevOps procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "m",
+      "explanation": "**Kubernetes-DevOps M Solution:** Optimize Kubernetes-DevOps query performance. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-M050",
+      "question": "Set up Kubernetes-DevOps failover clustering",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Kubernetes-DevOps procedure"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "m",
+      "explanation": "**Kubernetes-DevOps M Solution:** Set up Kubernetes-DevOps failover clustering. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    }
+  ],
+  "hard": [
+    {
+      "id": "Kubernetes-DevOps-H001",
+      "question": "Migrate legacy Kubernetes-DevOps systems to cloud-native architecture",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Kubernetes-DevOps procedure"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "h",
+      "explanation": "**Kubernetes-DevOps H Solution:** Migrate legacy Kubernetes-DevOps systems to cloud-native architecture. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-H002",
+      "question": "Create disaster recovery plan with RTO < 15min for Kubernetes-DevOps",
+      "options": [
+        "Dangerous method",
+        "Correct Kubernetes-DevOps procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "h",
+      "explanation": "**Kubernetes-DevOps H Solution:** Create disaster recovery plan with RTO < 15min for Kubernetes-DevOps. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-H003",
+      "question": "Implement zero-trust security model in Kubernetes-DevOps",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Kubernetes-DevOps procedure"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "h",
+      "explanation": "**Kubernetes-DevOps H Solution:** Implement zero-trust security model in Kubernetes-DevOps. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-H004",
+      "question": "Implement zero-trust security model in Kubernetes-DevOps",
+      "options": [
+        "Correct Kubernetes-DevOps procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "h",
+      "explanation": "**Kubernetes-DevOps H Solution:** Implement zero-trust security model in Kubernetes-DevOps. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-H005",
+      "question": "Implement zero-trust security model in Kubernetes-DevOps",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Kubernetes-DevOps procedure"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "h",
+      "explanation": "**Kubernetes-DevOps H Solution:** Implement zero-trust security model in Kubernetes-DevOps. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-H006",
+      "question": "Create disaster recovery plan with RTO < 15min for Kubernetes-DevOps",
+      "options": [
+        "Correct Kubernetes-DevOps procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "h",
+      "explanation": "**Kubernetes-DevOps H Solution:** Create disaster recovery plan with RTO < 15min for Kubernetes-DevOps. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-H007",
+      "question": "Optimize Kubernetes-DevOps performance under DDoS attack",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Kubernetes-DevOps procedure"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "h",
+      "explanation": "**Kubernetes-DevOps H Solution:** Optimize Kubernetes-DevOps performance under DDoS attack. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-H008",
+      "question": "Create disaster recovery plan with RTO < 15min for Kubernetes-DevOps",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Kubernetes-DevOps procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "h",
+      "explanation": "**Kubernetes-DevOps H Solution:** Create disaster recovery plan with RTO < 15min for Kubernetes-DevOps. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-H009",
+      "question": "Optimize Kubernetes-DevOps performance under DDoS attack",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Kubernetes-DevOps procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "h",
+      "explanation": "**Kubernetes-DevOps H Solution:** Optimize Kubernetes-DevOps performance under DDoS attack. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-H010",
+      "question": "Optimize Kubernetes-DevOps performance under DDoS attack",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Kubernetes-DevOps procedure"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "h",
+      "explanation": "**Kubernetes-DevOps H Solution:** Optimize Kubernetes-DevOps performance under DDoS attack. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-H011",
+      "question": "Optimize Kubernetes-DevOps performance under DDoS attack",
+      "options": [
+        "Correct Kubernetes-DevOps procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "h",
+      "explanation": "**Kubernetes-DevOps H Solution:** Optimize Kubernetes-DevOps performance under DDoS attack. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-H012",
+      "question": "Migrate legacy Kubernetes-DevOps systems to cloud-native architecture",
+      "options": [
+        "Dangerous method",
+        "Correct Kubernetes-DevOps procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "h",
+      "explanation": "**Kubernetes-DevOps H Solution:** Migrate legacy Kubernetes-DevOps systems to cloud-native architecture. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-H013",
+      "question": "Migrate legacy Kubernetes-DevOps systems to cloud-native architecture",
+      "options": [
+        "Dangerous method",
+        "Correct Kubernetes-DevOps procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "h",
+      "explanation": "**Kubernetes-DevOps H Solution:** Migrate legacy Kubernetes-DevOps systems to cloud-native architecture. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-H014",
+      "question": "Migrate legacy Kubernetes-DevOps systems to cloud-native architecture",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Kubernetes-DevOps procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "h",
+      "explanation": "**Kubernetes-DevOps H Solution:** Migrate legacy Kubernetes-DevOps systems to cloud-native architecture. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-H015",
+      "question": "Design Kubernetes-DevOps architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Correct Kubernetes-DevOps procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "h",
+      "explanation": "**Kubernetes-DevOps H Solution:** Design Kubernetes-DevOps architecture for 10k users with 99.99% uptime. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-H016",
+      "question": "Migrate legacy Kubernetes-DevOps systems to cloud-native architecture",
+      "options": [
+        "Dangerous method",
+        "Correct Kubernetes-DevOps procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "h",
+      "explanation": "**Kubernetes-DevOps H Solution:** Migrate legacy Kubernetes-DevOps systems to cloud-native architecture. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-H017",
+      "question": "Implement zero-trust security model in Kubernetes-DevOps",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Kubernetes-DevOps procedure"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "h",
+      "explanation": "**Kubernetes-DevOps H Solution:** Implement zero-trust security model in Kubernetes-DevOps. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-H018",
+      "question": "Optimize Kubernetes-DevOps performance under DDoS attack",
+      "options": [
+        "Dangerous method",
+        "Correct Kubernetes-DevOps procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "h",
+      "explanation": "**Kubernetes-DevOps H Solution:** Optimize Kubernetes-DevOps performance under DDoS attack. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-H019",
+      "question": "Design Kubernetes-DevOps architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Kubernetes-DevOps procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "h",
+      "explanation": "**Kubernetes-DevOps H Solution:** Design Kubernetes-DevOps architecture for 10k users with 99.99% uptime. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-H020",
+      "question": "Implement zero-trust security model in Kubernetes-DevOps",
+      "options": [
+        "Correct Kubernetes-DevOps procedure",
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "h",
+      "explanation": "**Kubernetes-DevOps H Solution:** Implement zero-trust security model in Kubernetes-DevOps. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-H021",
+      "question": "Implement zero-trust security model in Kubernetes-DevOps",
+      "options": [
+        "Dangerous method",
+        "Correct Kubernetes-DevOps procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "h",
+      "explanation": "**Kubernetes-DevOps H Solution:** Implement zero-trust security model in Kubernetes-DevOps. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-H022",
+      "question": "Implement zero-trust security model in Kubernetes-DevOps",
+      "options": [
+        "Correct Kubernetes-DevOps procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "h",
+      "explanation": "**Kubernetes-DevOps H Solution:** Implement zero-trust security model in Kubernetes-DevOps. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-H023",
+      "question": "Design Kubernetes-DevOps architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Dangerous method",
+        "Correct Kubernetes-DevOps procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "h",
+      "explanation": "**Kubernetes-DevOps H Solution:** Design Kubernetes-DevOps architecture for 10k users with 99.99% uptime. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-H024",
+      "question": "Implement zero-trust security model in Kubernetes-DevOps",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Kubernetes-DevOps procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "h",
+      "explanation": "**Kubernetes-DevOps H Solution:** Implement zero-trust security model in Kubernetes-DevOps. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-H025",
+      "question": "Design Kubernetes-DevOps architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Dangerous method",
+        "Correct Kubernetes-DevOps procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "h",
+      "explanation": "**Kubernetes-DevOps H Solution:** Design Kubernetes-DevOps architecture for 10k users with 99.99% uptime. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-H026",
+      "question": "Design Kubernetes-DevOps architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Kubernetes-DevOps procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "h",
+      "explanation": "**Kubernetes-DevOps H Solution:** Design Kubernetes-DevOps architecture for 10k users with 99.99% uptime. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-H027",
+      "question": "Design Kubernetes-DevOps architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Dangerous method",
+        "Correct Kubernetes-DevOps procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "h",
+      "explanation": "**Kubernetes-DevOps H Solution:** Design Kubernetes-DevOps architecture for 10k users with 99.99% uptime. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-H028",
+      "question": "Create disaster recovery plan with RTO < 15min for Kubernetes-DevOps",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Correct Kubernetes-DevOps procedure",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "h",
+      "explanation": "**Kubernetes-DevOps H Solution:** Create disaster recovery plan with RTO < 15min for Kubernetes-DevOps. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-H029",
+      "question": "Optimize Kubernetes-DevOps performance under DDoS attack",
+      "options": [
+        "Dangerous method",
+        "Correct Kubernetes-DevOps procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "h",
+      "explanation": "**Kubernetes-DevOps H Solution:** Optimize Kubernetes-DevOps performance under DDoS attack. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-H030",
+      "question": "Create disaster recovery plan with RTO < 15min for Kubernetes-DevOps",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Kubernetes-DevOps procedure"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "h",
+      "explanation": "**Kubernetes-DevOps H Solution:** Create disaster recovery plan with RTO < 15min for Kubernetes-DevOps. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-H031",
+      "question": "Design Kubernetes-DevOps architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Dangerous method",
+        "Correct Kubernetes-DevOps procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "h",
+      "explanation": "**Kubernetes-DevOps H Solution:** Design Kubernetes-DevOps architecture for 10k users with 99.99% uptime. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-H032",
+      "question": "Create disaster recovery plan with RTO < 15min for Kubernetes-DevOps",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Kubernetes-DevOps procedure"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "h",
+      "explanation": "**Kubernetes-DevOps H Solution:** Create disaster recovery plan with RTO < 15min for Kubernetes-DevOps. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-H033",
+      "question": "Optimize Kubernetes-DevOps performance under DDoS attack",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Kubernetes-DevOps procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "h",
+      "explanation": "**Kubernetes-DevOps H Solution:** Optimize Kubernetes-DevOps performance under DDoS attack. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-H034",
+      "question": "Create disaster recovery plan with RTO < 15min for Kubernetes-DevOps",
+      "options": [
+        "Correct Kubernetes-DevOps procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "h",
+      "explanation": "**Kubernetes-DevOps H Solution:** Create disaster recovery plan with RTO < 15min for Kubernetes-DevOps. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-H035",
+      "question": "Migrate legacy Kubernetes-DevOps systems to cloud-native architecture",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Kubernetes-DevOps procedure"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "h",
+      "explanation": "**Kubernetes-DevOps H Solution:** Migrate legacy Kubernetes-DevOps systems to cloud-native architecture. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-H036",
+      "question": "Implement zero-trust security model in Kubernetes-DevOps",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Kubernetes-DevOps procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "h",
+      "explanation": "**Kubernetes-DevOps H Solution:** Implement zero-trust security model in Kubernetes-DevOps. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-H037",
+      "question": "Optimize Kubernetes-DevOps performance under DDoS attack",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Kubernetes-DevOps procedure"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "h",
+      "explanation": "**Kubernetes-DevOps H Solution:** Optimize Kubernetes-DevOps performance under DDoS attack. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-H038",
+      "question": "Migrate legacy Kubernetes-DevOps systems to cloud-native architecture",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Kubernetes-DevOps procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "h",
+      "explanation": "**Kubernetes-DevOps H Solution:** Migrate legacy Kubernetes-DevOps systems to cloud-native architecture. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-H039",
+      "question": "Optimize Kubernetes-DevOps performance under DDoS attack",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Kubernetes-DevOps procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "h",
+      "explanation": "**Kubernetes-DevOps H Solution:** Optimize Kubernetes-DevOps performance under DDoS attack. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-H040",
+      "question": "Optimize Kubernetes-DevOps performance under DDoS attack",
+      "options": [
+        "Dangerous method",
+        "Correct Kubernetes-DevOps procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "h",
+      "explanation": "**Kubernetes-DevOps H Solution:** Optimize Kubernetes-DevOps performance under DDoS attack. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-H041",
+      "question": "Optimize Kubernetes-DevOps performance under DDoS attack",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Kubernetes-DevOps procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "h",
+      "explanation": "**Kubernetes-DevOps H Solution:** Optimize Kubernetes-DevOps performance under DDoS attack. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-H042",
+      "question": "Migrate legacy Kubernetes-DevOps systems to cloud-native architecture",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Kubernetes-DevOps procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "h",
+      "explanation": "**Kubernetes-DevOps H Solution:** Migrate legacy Kubernetes-DevOps systems to cloud-native architecture. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-H043",
+      "question": "Create disaster recovery plan with RTO < 15min for Kubernetes-DevOps",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Kubernetes-DevOps procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "h",
+      "explanation": "**Kubernetes-DevOps H Solution:** Create disaster recovery plan with RTO < 15min for Kubernetes-DevOps. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-H044",
+      "question": "Implement zero-trust security model in Kubernetes-DevOps",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Kubernetes-DevOps procedure"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "h",
+      "explanation": "**Kubernetes-DevOps H Solution:** Implement zero-trust security model in Kubernetes-DevOps. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-H045",
+      "question": "Design Kubernetes-DevOps architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Kubernetes-DevOps procedure"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "h",
+      "explanation": "**Kubernetes-DevOps H Solution:** Design Kubernetes-DevOps architecture for 10k users with 99.99% uptime. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-H046",
+      "question": "Design Kubernetes-DevOps architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Kubernetes-DevOps procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "h",
+      "explanation": "**Kubernetes-DevOps H Solution:** Design Kubernetes-DevOps architecture for 10k users with 99.99% uptime. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-H047",
+      "question": "Migrate legacy Kubernetes-DevOps systems to cloud-native architecture",
+      "options": [
+        "Dangerous method",
+        "Correct Kubernetes-DevOps procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "h",
+      "explanation": "**Kubernetes-DevOps H Solution:** Migrate legacy Kubernetes-DevOps systems to cloud-native architecture. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-H048",
+      "question": "Optimize Kubernetes-DevOps performance under DDoS attack",
+      "options": [
+        "Correct Kubernetes-DevOps procedure",
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "h",
+      "explanation": "**Kubernetes-DevOps H Solution:** Optimize Kubernetes-DevOps performance under DDoS attack. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-H049",
+      "question": "Migrate legacy Kubernetes-DevOps systems to cloud-native architecture",
+      "options": [
+        "Incorrect approach",
+        "Correct Kubernetes-DevOps procedure",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "h",
+      "explanation": "**Kubernetes-DevOps H Solution:** Migrate legacy Kubernetes-DevOps systems to cloud-native architecture. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    },
+    {
+      "id": "Kubernetes-DevOps-H050",
+      "question": "Design Kubernetes-DevOps architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Kubernetes-DevOps procedure"
+      ],
+      "answer": "Correct Kubernetes-DevOps procedure",
+      "difficulty": "h",
+      "explanation": "**Kubernetes-DevOps H Solution:** Design Kubernetes-DevOps architecture for 10k users with 99.99% uptime. Always verify Kubernetes-DevOps documentation and test in lab environment first."
+    }
+  ],
+  "scenarios": [
+    {
+      "id": "Kubernetes-DevOps-S01-01",
+      "question": "1. Security incident response: ransomware attack detected in Kubernetes-DevOps environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S01-02",
+      "question": "1. Security incident response: ransomware attack detected in Kubernetes-DevOps environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S01-03",
+      "question": "1. Security incident response: ransomware attack detected in Kubernetes-DevOps environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S01-04",
+      "question": "1. Security incident response: ransomware attack detected in Kubernetes-DevOps environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S01-05",
+      "question": "1. Security incident response: ransomware attack detected in Kubernetes-DevOps environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S02-01",
+      "question": "2. Database performance degradation after upgrade in Kubernetes-DevOps environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S02-02",
+      "question": "2. Database performance degradation after upgrade in Kubernetes-DevOps environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S02-03",
+      "question": "2. Database performance degradation after upgrade in Kubernetes-DevOps environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S02-04",
+      "question": "2. Database performance degradation after upgrade in Kubernetes-DevOps environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S02-05",
+      "question": "2. Database performance degradation after upgrade in Kubernetes-DevOps environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S03-01",
+      "question": "3. Network latency issue affecting VoIP calls in Kubernetes-DevOps environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S03-02",
+      "question": "3. Network latency issue affecting VoIP calls in Kubernetes-DevOps environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S03-03",
+      "question": "3. Network latency issue affecting VoIP calls in Kubernetes-DevOps environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S03-04",
+      "question": "3. Network latency issue affecting VoIP calls in Kubernetes-DevOps environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S03-05",
+      "question": "3. Network latency issue affecting VoIP calls in Kubernetes-DevOps environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S04-01",
+      "question": "4. Backup failure during scheduled window in Kubernetes-DevOps environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S04-02",
+      "question": "4. Backup failure during scheduled window in Kubernetes-DevOps environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S04-03",
+      "question": "4. Backup failure during scheduled window in Kubernetes-DevOps environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S04-04",
+      "question": "4. Backup failure during scheduled window in Kubernetes-DevOps environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S04-05",
+      "question": "4. Backup failure during scheduled window in Kubernetes-DevOps environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S05-01",
+      "question": "5. Firewall blocking legitimate traffic in Kubernetes-DevOps environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S05-02",
+      "question": "5. Firewall blocking legitimate traffic in Kubernetes-DevOps environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S05-03",
+      "question": "5. Firewall blocking legitimate traffic in Kubernetes-DevOps environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S05-04",
+      "question": "5. Firewall blocking legitimate traffic in Kubernetes-DevOps environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S05-05",
+      "question": "5. Firewall blocking legitimate traffic in Kubernetes-DevOps environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S06-01",
+      "question": "6. VPN connectivity failure for remote users in Kubernetes-DevOps environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S06-02",
+      "question": "6. VPN connectivity failure for remote users in Kubernetes-DevOps environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S06-03",
+      "question": "6. VPN connectivity failure for remote users in Kubernetes-DevOps environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S06-04",
+      "question": "6. VPN connectivity failure for remote users in Kubernetes-DevOps environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S06-05",
+      "question": "6. VPN connectivity failure for remote users in Kubernetes-DevOps environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S07-01",
+      "question": "7. Load balancer health check failing in Kubernetes-DevOps environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S07-02",
+      "question": "7. Load balancer health check failing in Kubernetes-DevOps environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S07-03",
+      "question": "7. Load balancer health check failing in Kubernetes-DevOps environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S07-04",
+      "question": "7. Load balancer health check failing in Kubernetes-DevOps environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S07-05",
+      "question": "7. Load balancer health check failing in Kubernetes-DevOps environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S08-01",
+      "question": "8. Production outage during peak hours: diagnose and resolve in Kubernetes-DevOps environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S08-02",
+      "question": "8. Production outage during peak hours: diagnose and resolve in Kubernetes-DevOps environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S08-03",
+      "question": "8. Production outage during peak hours: diagnose and resolve in Kubernetes-DevOps environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S08-04",
+      "question": "8. Production outage during peak hours: diagnose and resolve in Kubernetes-DevOps environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S08-05",
+      "question": "8. Production outage during peak hours: diagnose and resolve in Kubernetes-DevOps environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S09-01",
+      "question": "9. Backup failure during scheduled window in Kubernetes-DevOps environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S09-02",
+      "question": "9. Backup failure during scheduled window in Kubernetes-DevOps environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S09-03",
+      "question": "9. Backup failure during scheduled window in Kubernetes-DevOps environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S09-04",
+      "question": "9. Backup failure during scheduled window in Kubernetes-DevOps environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S09-05",
+      "question": "9. Backup failure during scheduled window in Kubernetes-DevOps environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S10-01",
+      "question": "10. VPN connectivity failure for remote users in Kubernetes-DevOps environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S10-02",
+      "question": "10. VPN connectivity failure for remote users in Kubernetes-DevOps environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S10-03",
+      "question": "10. VPN connectivity failure for remote users in Kubernetes-DevOps environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S10-04",
+      "question": "10. VPN connectivity failure for remote users in Kubernetes-DevOps environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S10-05",
+      "question": "10. VPN connectivity failure for remote users in Kubernetes-DevOps environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S11-01",
+      "question": "11. Security incident response: ransomware attack detected in Kubernetes-DevOps environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S11-02",
+      "question": "11. Security incident response: ransomware attack detected in Kubernetes-DevOps environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S11-03",
+      "question": "11. Security incident response: ransomware attack detected in Kubernetes-DevOps environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S11-04",
+      "question": "11. Security incident response: ransomware attack detected in Kubernetes-DevOps environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S11-05",
+      "question": "11. Security incident response: ransomware attack detected in Kubernetes-DevOps environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S12-01",
+      "question": "12. Cloud migration failure: rollback strategy in Kubernetes-DevOps environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S12-02",
+      "question": "12. Cloud migration failure: rollback strategy in Kubernetes-DevOps environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S12-03",
+      "question": "12. Cloud migration failure: rollback strategy in Kubernetes-DevOps environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S12-04",
+      "question": "12. Cloud migration failure: rollback strategy in Kubernetes-DevOps environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S12-05",
+      "question": "12. Cloud migration failure: rollback strategy in Kubernetes-DevOps environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S13-01",
+      "question": "13. Backup failure during scheduled window in Kubernetes-DevOps environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S13-02",
+      "question": "13. Backup failure during scheduled window in Kubernetes-DevOps environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S13-03",
+      "question": "13. Backup failure during scheduled window in Kubernetes-DevOps environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S13-04",
+      "question": "13. Backup failure during scheduled window in Kubernetes-DevOps environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S13-05",
+      "question": "13. Backup failure during scheduled window in Kubernetes-DevOps environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S14-01",
+      "question": "14. VPN connectivity failure for remote users in Kubernetes-DevOps environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S14-02",
+      "question": "14. VPN connectivity failure for remote users in Kubernetes-DevOps environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S14-03",
+      "question": "14. VPN connectivity failure for remote users in Kubernetes-DevOps environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S14-04",
+      "question": "14. VPN connectivity failure for remote users in Kubernetes-DevOps environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S14-05",
+      "question": "14. VPN connectivity failure for remote users in Kubernetes-DevOps environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S15-01",
+      "question": "15. Network latency issue affecting VoIP calls in Kubernetes-DevOps environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S15-02",
+      "question": "15. Network latency issue affecting VoIP calls in Kubernetes-DevOps environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S15-03",
+      "question": "15. Network latency issue affecting VoIP calls in Kubernetes-DevOps environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S15-04",
+      "question": "15. Network latency issue affecting VoIP calls in Kubernetes-DevOps environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S15-05",
+      "question": "15. Network latency issue affecting VoIP calls in Kubernetes-DevOps environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S16-01",
+      "question": "16. Security incident response: ransomware attack detected in Kubernetes-DevOps environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S16-02",
+      "question": "16. Security incident response: ransomware attack detected in Kubernetes-DevOps environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S16-03",
+      "question": "16. Security incident response: ransomware attack detected in Kubernetes-DevOps environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S16-04",
+      "question": "16. Security incident response: ransomware attack detected in Kubernetes-DevOps environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S16-05",
+      "question": "16. Security incident response: ransomware attack detected in Kubernetes-DevOps environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S17-01",
+      "question": "17. Load balancer health check failing in Kubernetes-DevOps environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S17-02",
+      "question": "17. Load balancer health check failing in Kubernetes-DevOps environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S17-03",
+      "question": "17. Load balancer health check failing in Kubernetes-DevOps environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S17-04",
+      "question": "17. Load balancer health check failing in Kubernetes-DevOps environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S17-05",
+      "question": "17. Load balancer health check failing in Kubernetes-DevOps environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S18-01",
+      "question": "18. Network latency issue affecting VoIP calls in Kubernetes-DevOps environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S18-02",
+      "question": "18. Network latency issue affecting VoIP calls in Kubernetes-DevOps environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S18-03",
+      "question": "18. Network latency issue affecting VoIP calls in Kubernetes-DevOps environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S18-04",
+      "question": "18. Network latency issue affecting VoIP calls in Kubernetes-DevOps environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S18-05",
+      "question": "18. Network latency issue affecting VoIP calls in Kubernetes-DevOps environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S19-01",
+      "question": "19. VPN connectivity failure for remote users in Kubernetes-DevOps environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S19-02",
+      "question": "19. VPN connectivity failure for remote users in Kubernetes-DevOps environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S19-03",
+      "question": "19. VPN connectivity failure for remote users in Kubernetes-DevOps environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S19-04",
+      "question": "19. VPN connectivity failure for remote users in Kubernetes-DevOps environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S19-05",
+      "question": "19. VPN connectivity failure for remote users in Kubernetes-DevOps environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S20-01",
+      "question": "20. Network latency issue affecting VoIP calls in Kubernetes-DevOps environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S20-02",
+      "question": "20. Network latency issue affecting VoIP calls in Kubernetes-DevOps environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S20-03",
+      "question": "20. Network latency issue affecting VoIP calls in Kubernetes-DevOps environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S20-04",
+      "question": "20. Network latency issue affecting VoIP calls in Kubernetes-DevOps environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Kubernetes-DevOps-S20-05",
+      "question": "20. Network latency issue affecting VoIP calls in Kubernetes-DevOps environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Kubernetes-DevOps troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Kubernetes-DevOps troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Kubernetes-DevOps best practices. Document all steps for RCA."
+    }
+  ]
+}

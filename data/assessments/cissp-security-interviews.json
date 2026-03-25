@@ -1,0 +1,215 @@
+[
+  {
+    "id": "CISSP-Security-I01",
+    "title": "CISSP-Security Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level CISSP-Security certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain CISSP-Security HA design",
+      "Troubleshoot CISSP-Security outage",
+      "Scale CISSP-Security for 100k users"
+    ],
+    "expected_skills": [
+      "Production CISSP-Security experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "CISSP-Security-I02",
+    "title": "CISSP-Security Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level CISSP-Security certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain CISSP-Security HA design",
+      "Troubleshoot CISSP-Security outage",
+      "Scale CISSP-Security for 100k users"
+    ],
+    "expected_skills": [
+      "Production CISSP-Security experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "CISSP-Security-I03",
+    "title": "CISSP-Security Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level CISSP-Security certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain CISSP-Security HA design",
+      "Troubleshoot CISSP-Security outage",
+      "Scale CISSP-Security for 100k users"
+    ],
+    "expected_skills": [
+      "Production CISSP-Security experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "CISSP-Security-I04",
+    "title": "CISSP-Security Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level CISSP-Security certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain CISSP-Security HA design",
+      "Troubleshoot CISSP-Security outage",
+      "Scale CISSP-Security for 100k users"
+    ],
+    "expected_skills": [
+      "Production CISSP-Security experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "CISSP-Security-I05",
+    "title": "CISSP-Security Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level CISSP-Security certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain CISSP-Security HA design",
+      "Troubleshoot CISSP-Security outage",
+      "Scale CISSP-Security for 100k users"
+    ],
+    "expected_skills": [
+      "Production CISSP-Security experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "CISSP-Security-I06",
+    "title": "CISSP-Security Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level CISSP-Security certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain CISSP-Security HA design",
+      "Troubleshoot CISSP-Security outage",
+      "Scale CISSP-Security for 100k users"
+    ],
+    "expected_skills": [
+      "Production CISSP-Security experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "CISSP-Security-I07",
+    "title": "CISSP-Security Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level CISSP-Security certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain CISSP-Security HA design",
+      "Troubleshoot CISSP-Security outage",
+      "Scale CISSP-Security for 100k users"
+    ],
+    "expected_skills": [
+      "Production CISSP-Security experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "CISSP-Security-I08",
+    "title": "CISSP-Security Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level CISSP-Security certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain CISSP-Security HA design",
+      "Troubleshoot CISSP-Security outage",
+      "Scale CISSP-Security for 100k users"
+    ],
+    "expected_skills": [
+      "Production CISSP-Security experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "CISSP-Security-I09",
+    "title": "CISSP-Security Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level CISSP-Security certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain CISSP-Security HA design",
+      "Troubleshoot CISSP-Security outage",
+      "Scale CISSP-Security for 100k users"
+    ],
+    "expected_skills": [
+      "Production CISSP-Security experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "CISSP-Security-I10",
+    "title": "CISSP-Security Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level CISSP-Security certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain CISSP-Security HA design",
+      "Troubleshoot CISSP-Security outage",
+      "Scale CISSP-Security for 100k users"
+    ],
+    "expected_skills": [
+      "Production CISSP-Security experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  }
+]

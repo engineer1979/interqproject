@@ -1,0 +1,3252 @@
+[
+  {
+    "id": "CompTIA-Network+-E001",
+    "question": "Default subnet mask for Class C network in CompTIA-Network+?",
+    "options": [
+      "Correct CompTIA-Network+ procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Network+ E Solution:** Default subnet mask for Class C network in CompTIA-Network+?. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-E002",
+    "question": "Which port does CompTIA-Network+ service use by default?",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct CompTIA-Network+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Network+ E Solution:** Which port does CompTIA-Network+ service use by default?. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-E003",
+    "question": "Common protocol for CompTIA-Network+ remote access?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Network+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Network+ E Solution:** Common protocol for CompTIA-Network+ remote access?. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-E004",
+    "question": "What does CompTIA ACL stand for?",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Correct CompTIA-Network+ procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Network+ E Solution:** What does CompTIA ACL stand for?. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-E005",
+    "question": "Which port does CompTIA-Network+ service use by default?",
+    "options": [
+      "Dangerous method",
+      "Correct CompTIA-Network+ procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Network+ E Solution:** Which port does CompTIA-Network+ service use by default?. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-E006",
+    "question": "Common protocol for CompTIA-Network+ remote access?",
+    "options": [
+      "Incorrect approach",
+      "Correct CompTIA-Network+ procedure",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Network+ E Solution:** Common protocol for CompTIA-Network+ remote access?. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-E007",
+    "question": "What is the primary function of CompTIA DHCP?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Network+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Network+ E Solution:** What is the primary function of CompTIA DHCP?. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-E008",
+    "question": "What does CompTIA ACL stand for?",
+    "options": [
+      "Incorrect approach",
+      "Correct CompTIA-Network+ procedure",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Network+ E Solution:** What does CompTIA ACL stand for?. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-E009",
+    "question": "What does CompTIA ACL stand for?",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct CompTIA-Network+ procedure"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Network+ E Solution:** What does CompTIA ACL stand for?. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-E010",
+    "question": "Which port does CompTIA-Network+ service use by default?",
+    "options": [
+      "Dangerous method",
+      "Correct CompTIA-Network+ procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Network+ E Solution:** Which port does CompTIA-Network+ service use by default?. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-E011",
+    "question": "Common protocol for CompTIA-Network+ remote access?",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach",
+      "Correct CompTIA-Network+ procedure"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Network+ E Solution:** Common protocol for CompTIA-Network+ remote access?. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-E012",
+    "question": "What does CompTIA ACL stand for?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct CompTIA-Network+ procedure"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Network+ E Solution:** What does CompTIA ACL stand for?. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-E013",
+    "question": "What does CompTIA ACL stand for?",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct CompTIA-Network+ procedure"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Network+ E Solution:** What does CompTIA ACL stand for?. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-E014",
+    "question": "Which port does CompTIA-Network+ service use by default?",
+    "options": [
+      "Dangerous method",
+      "Correct CompTIA-Network+ procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Network+ E Solution:** Which port does CompTIA-Network+ service use by default?. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-E015",
+    "question": "Which port does CompTIA-Network+ service use by default?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Network+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Network+ E Solution:** Which port does CompTIA-Network+ service use by default?. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-E016",
+    "question": "What is the primary function of CompTIA DHCP?",
+    "options": [
+      "Partially correct",
+      "Correct CompTIA-Network+ procedure",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Network+ E Solution:** What is the primary function of CompTIA DHCP?. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-E017",
+    "question": "Which port does CompTIA-Network+ service use by default?",
+    "options": [
+      "Correct CompTIA-Network+ procedure",
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Network+ E Solution:** Which port does CompTIA-Network+ service use by default?. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-E018",
+    "question": "What is the primary function of CompTIA DHCP?",
+    "options": [
+      "Dangerous method",
+      "Correct CompTIA-Network+ procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Network+ E Solution:** What is the primary function of CompTIA DHCP?. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-E019",
+    "question": "What does CompTIA ACL stand for?",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Correct CompTIA-Network+ procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Network+ E Solution:** What does CompTIA ACL stand for?. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-E020",
+    "question": "What is the primary function of CompTIA DHCP?",
+    "options": [
+      "Correct CompTIA-Network+ procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Network+ E Solution:** What is the primary function of CompTIA DHCP?. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-E021",
+    "question": "Which port does CompTIA-Network+ service use by default?",
+    "options": [
+      "Correct CompTIA-Network+ procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Network+ E Solution:** Which port does CompTIA-Network+ service use by default?. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-E022",
+    "question": "Default subnet mask for Class C network in CompTIA-Network+?",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct CompTIA-Network+ procedure"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Network+ E Solution:** Default subnet mask for Class C network in CompTIA-Network+?. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-E023",
+    "question": "Default subnet mask for Class C network in CompTIA-Network+?",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct CompTIA-Network+ procedure"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Network+ E Solution:** Default subnet mask for Class C network in CompTIA-Network+?. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-E024",
+    "question": "Default subnet mask for Class C network in CompTIA-Network+?",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Network+ procedure"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Network+ E Solution:** Default subnet mask for Class C network in CompTIA-Network+?. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-E025",
+    "question": "What is the primary function of CompTIA DHCP?",
+    "options": [
+      "Correct CompTIA-Network+ procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Network+ E Solution:** What is the primary function of CompTIA DHCP?. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-E026",
+    "question": "Common protocol for CompTIA-Network+ remote access?",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct CompTIA-Network+ procedure"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Network+ E Solution:** Common protocol for CompTIA-Network+ remote access?. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-E027",
+    "question": "Which port does CompTIA-Network+ service use by default?",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct CompTIA-Network+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Network+ E Solution:** Which port does CompTIA-Network+ service use by default?. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-E028",
+    "question": "Common protocol for CompTIA-Network+ remote access?",
+    "options": [
+      "Dangerous method",
+      "Correct CompTIA-Network+ procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Network+ E Solution:** Common protocol for CompTIA-Network+ remote access?. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-E029",
+    "question": "What does CompTIA ACL stand for?",
+    "options": [
+      "Dangerous method",
+      "Correct CompTIA-Network+ procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Network+ E Solution:** What does CompTIA ACL stand for?. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-E030",
+    "question": "Default subnet mask for Class C network in CompTIA-Network+?",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct CompTIA-Network+ procedure"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Network+ E Solution:** Default subnet mask for Class C network in CompTIA-Network+?. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-E031",
+    "question": "Default subnet mask for Class C network in CompTIA-Network+?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct CompTIA-Network+ procedure"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Network+ E Solution:** Default subnet mask for Class C network in CompTIA-Network+?. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-E032",
+    "question": "Which port does CompTIA-Network+ service use by default?",
+    "options": [
+      "Dangerous method",
+      "Correct CompTIA-Network+ procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Network+ E Solution:** Which port does CompTIA-Network+ service use by default?. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-E033",
+    "question": "What is the primary function of CompTIA DHCP?",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct CompTIA-Network+ procedure"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Network+ E Solution:** What is the primary function of CompTIA DHCP?. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-E034",
+    "question": "Which port does CompTIA-Network+ service use by default?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Network+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Network+ E Solution:** Which port does CompTIA-Network+ service use by default?. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-E035",
+    "question": "Common protocol for CompTIA-Network+ remote access?",
+    "options": [
+      "Correct CompTIA-Network+ procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Network+ E Solution:** Common protocol for CompTIA-Network+ remote access?. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-E036",
+    "question": "Default subnet mask for Class C network in CompTIA-Network+?",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct CompTIA-Network+ procedure"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Network+ E Solution:** Default subnet mask for Class C network in CompTIA-Network+?. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-E037",
+    "question": "Common protocol for CompTIA-Network+ remote access?",
+    "options": [
+      "Dangerous method",
+      "Correct CompTIA-Network+ procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Network+ E Solution:** Common protocol for CompTIA-Network+ remote access?. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-E038",
+    "question": "What does CompTIA ACL stand for?",
+    "options": [
+      "Correct CompTIA-Network+ procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Network+ E Solution:** What does CompTIA ACL stand for?. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-E039",
+    "question": "What is the primary function of CompTIA DHCP?",
+    "options": [
+      "Correct CompTIA-Network+ procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Network+ E Solution:** What is the primary function of CompTIA DHCP?. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-E040",
+    "question": "Common protocol for CompTIA-Network+ remote access?",
+    "options": [
+      "Correct CompTIA-Network+ procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Network+ E Solution:** Common protocol for CompTIA-Network+ remote access?. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-E041",
+    "question": "Common protocol for CompTIA-Network+ remote access?",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct CompTIA-Network+ procedure"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Network+ E Solution:** Common protocol for CompTIA-Network+ remote access?. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-E042",
+    "question": "Default subnet mask for Class C network in CompTIA-Network+?",
+    "options": [
+      "Partially correct",
+      "Correct CompTIA-Network+ procedure",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Network+ E Solution:** Default subnet mask for Class C network in CompTIA-Network+?. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-E043",
+    "question": "Which port does CompTIA-Network+ service use by default?",
+    "options": [
+      "Dangerous method",
+      "Correct CompTIA-Network+ procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Network+ E Solution:** Which port does CompTIA-Network+ service use by default?. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-E044",
+    "question": "What is the primary function of CompTIA DHCP?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Network+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Network+ E Solution:** What is the primary function of CompTIA DHCP?. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-E045",
+    "question": "Common protocol for CompTIA-Network+ remote access?",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct CompTIA-Network+ procedure"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Network+ E Solution:** Common protocol for CompTIA-Network+ remote access?. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-E046",
+    "question": "What does CompTIA ACL stand for?",
+    "options": [
+      "Dangerous method",
+      "Correct CompTIA-Network+ procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Network+ E Solution:** What does CompTIA ACL stand for?. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-E047",
+    "question": "What is the primary function of CompTIA DHCP?",
+    "options": [
+      "Correct CompTIA-Network+ procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Network+ E Solution:** What is the primary function of CompTIA DHCP?. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-E048",
+    "question": "What is the primary function of CompTIA DHCP?",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct CompTIA-Network+ procedure"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Network+ E Solution:** What is the primary function of CompTIA DHCP?. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-E049",
+    "question": "Default subnet mask for Class C network in CompTIA-Network+?",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct CompTIA-Network+ procedure"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Network+ E Solution:** Default subnet mask for Class C network in CompTIA-Network+?. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-E050",
+    "question": "What is the primary function of CompTIA DHCP?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct CompTIA-Network+ procedure"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Network+ E Solution:** What is the primary function of CompTIA DHCP?. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-M001",
+    "question": "Implement CompTIA-Network+ backup strategy for compliance",
+    "options": [
+      "Dangerous method",
+      "Correct CompTIA-Network+ procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Network+ M Solution:** Implement CompTIA-Network+ backup strategy for compliance. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-M002",
+    "question": "Optimize CompTIA-Network+ query performance",
+    "options": [
+      "Dangerous method",
+      "Correct CompTIA-Network+ procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Network+ M Solution:** Optimize CompTIA-Network+ query performance. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-M003",
+    "question": "Implement CompTIA-Network+ backup strategy for compliance",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct CompTIA-Network+ procedure",
+      "Partially correct"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Network+ M Solution:** Implement CompTIA-Network+ backup strategy for compliance. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-M004",
+    "question": "Implement CompTIA-Network+ backup strategy for compliance",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct CompTIA-Network+ procedure"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Network+ M Solution:** Implement CompTIA-Network+ backup strategy for compliance. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-M005",
+    "question": "Optimize CompTIA-Network+ query performance",
+    "options": [
+      "Dangerous method",
+      "Correct CompTIA-Network+ procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Network+ M Solution:** Optimize CompTIA-Network+ query performance. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-M006",
+    "question": "Configure CompTIA-Network+ load balancer for high availability",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct CompTIA-Network+ procedure"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Network+ M Solution:** Configure CompTIA-Network+ load balancer for high availability. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-M007",
+    "question": "Set up CompTIA-Network+ failover clustering",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct CompTIA-Network+ procedure"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Network+ M Solution:** Set up CompTIA-Network+ failover clustering. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-M008",
+    "question": "Implement CompTIA-Network+ backup strategy for compliance",
+    "options": [
+      "Incorrect approach",
+      "Correct CompTIA-Network+ procedure",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Network+ M Solution:** Implement CompTIA-Network+ backup strategy for compliance. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-M009",
+    "question": "Troubleshoot CompTIA-Network+ connectivity issue between VLANs",
+    "options": [
+      "Correct CompTIA-Network+ procedure",
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Network+ M Solution:** Troubleshoot CompTIA-Network+ connectivity issue between VLANs. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-M010",
+    "question": "Implement CompTIA-Network+ backup strategy for compliance",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct CompTIA-Network+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Network+ M Solution:** Implement CompTIA-Network+ backup strategy for compliance. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-M011",
+    "question": "Configure CompTIA-Network+ load balancer for high availability",
+    "options": [
+      "Dangerous method",
+      "Correct CompTIA-Network+ procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Network+ M Solution:** Configure CompTIA-Network+ load balancer for high availability. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-M012",
+    "question": "Troubleshoot CompTIA-Network+ connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct CompTIA-Network+ procedure"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Network+ M Solution:** Troubleshoot CompTIA-Network+ connectivity issue between VLANs. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-M013",
+    "question": "Set up CompTIA-Network+ failover clustering",
+    "options": [
+      "Correct CompTIA-Network+ procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Network+ M Solution:** Set up CompTIA-Network+ failover clustering. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-M014",
+    "question": "Optimize CompTIA-Network+ query performance",
+    "options": [
+      "Correct CompTIA-Network+ procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Network+ M Solution:** Optimize CompTIA-Network+ query performance. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-M015",
+    "question": "Configure CompTIA-Network+ load balancer for high availability",
+    "options": [
+      "Correct CompTIA-Network+ procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Network+ M Solution:** Configure CompTIA-Network+ load balancer for high availability. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-M016",
+    "question": "Optimize CompTIA-Network+ query performance",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Network+ procedure"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Network+ M Solution:** Optimize CompTIA-Network+ query performance. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-M017",
+    "question": "Set up CompTIA-Network+ failover clustering",
+    "options": [
+      "Dangerous method",
+      "Correct CompTIA-Network+ procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Network+ M Solution:** Set up CompTIA-Network+ failover clustering. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-M018",
+    "question": "Troubleshoot CompTIA-Network+ connectivity issue between VLANs",
+    "options": [
+      "Dangerous method",
+      "Correct CompTIA-Network+ procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Network+ M Solution:** Troubleshoot CompTIA-Network+ connectivity issue between VLANs. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-M019",
+    "question": "Implement CompTIA-Network+ backup strategy for compliance",
+    "options": [
+      "Correct CompTIA-Network+ procedure",
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Network+ M Solution:** Implement CompTIA-Network+ backup strategy for compliance. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-M020",
+    "question": "Configure CompTIA-Network+ load balancer for high availability",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct CompTIA-Network+ procedure"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Network+ M Solution:** Configure CompTIA-Network+ load balancer for high availability. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-M021",
+    "question": "Set up CompTIA-Network+ failover clustering",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Network+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Network+ M Solution:** Set up CompTIA-Network+ failover clustering. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-M022",
+    "question": "Optimize CompTIA-Network+ query performance",
+    "options": [
+      "Correct CompTIA-Network+ procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Network+ M Solution:** Optimize CompTIA-Network+ query performance. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-M023",
+    "question": "Set up CompTIA-Network+ failover clustering",
+    "options": [
+      "Dangerous method",
+      "Correct CompTIA-Network+ procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Network+ M Solution:** Set up CompTIA-Network+ failover clustering. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-M024",
+    "question": "Configure CompTIA-Network+ load balancer for high availability",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct CompTIA-Network+ procedure"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Network+ M Solution:** Configure CompTIA-Network+ load balancer for high availability. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-M025",
+    "question": "Troubleshoot CompTIA-Network+ connectivity issue between VLANs",
+    "options": [
+      "Correct CompTIA-Network+ procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Network+ M Solution:** Troubleshoot CompTIA-Network+ connectivity issue between VLANs. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-M026",
+    "question": "Troubleshoot CompTIA-Network+ connectivity issue between VLANs",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach",
+      "Correct CompTIA-Network+ procedure"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Network+ M Solution:** Troubleshoot CompTIA-Network+ connectivity issue between VLANs. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-M027",
+    "question": "Configure CompTIA-Network+ load balancer for high availability",
+    "options": [
+      "Incorrect approach",
+      "Correct CompTIA-Network+ procedure",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Network+ M Solution:** Configure CompTIA-Network+ load balancer for high availability. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-M028",
+    "question": "Optimize CompTIA-Network+ query performance",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Network+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Network+ M Solution:** Optimize CompTIA-Network+ query performance. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-M029",
+    "question": "Optimize CompTIA-Network+ query performance",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Network+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Network+ M Solution:** Optimize CompTIA-Network+ query performance. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-M030",
+    "question": "Optimize CompTIA-Network+ query performance",
+    "options": [
+      "Dangerous method",
+      "Correct CompTIA-Network+ procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Network+ M Solution:** Optimize CompTIA-Network+ query performance. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-M031",
+    "question": "Troubleshoot CompTIA-Network+ connectivity issue between VLANs",
+    "options": [
+      "Dangerous method",
+      "Correct CompTIA-Network+ procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Network+ M Solution:** Troubleshoot CompTIA-Network+ connectivity issue between VLANs. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-M032",
+    "question": "Optimize CompTIA-Network+ query performance",
+    "options": [
+      "Correct CompTIA-Network+ procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Network+ M Solution:** Optimize CompTIA-Network+ query performance. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-M033",
+    "question": "Configure CompTIA-Network+ load balancer for high availability",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct CompTIA-Network+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Network+ M Solution:** Configure CompTIA-Network+ load balancer for high availability. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-M034",
+    "question": "Optimize CompTIA-Network+ query performance",
+    "options": [
+      "Dangerous method",
+      "Correct CompTIA-Network+ procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Network+ M Solution:** Optimize CompTIA-Network+ query performance. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-M035",
+    "question": "Optimize CompTIA-Network+ query performance",
+    "options": [
+      "Incorrect approach",
+      "Correct CompTIA-Network+ procedure",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Network+ M Solution:** Optimize CompTIA-Network+ query performance. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-M036",
+    "question": "Troubleshoot CompTIA-Network+ connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct CompTIA-Network+ procedure"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Network+ M Solution:** Troubleshoot CompTIA-Network+ connectivity issue between VLANs. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-M037",
+    "question": "Implement CompTIA-Network+ backup strategy for compliance",
+    "options": [
+      "Correct CompTIA-Network+ procedure",
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Network+ M Solution:** Implement CompTIA-Network+ backup strategy for compliance. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-M038",
+    "question": "Implement CompTIA-Network+ backup strategy for compliance",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct CompTIA-Network+ procedure"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Network+ M Solution:** Implement CompTIA-Network+ backup strategy for compliance. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-M039",
+    "question": "Optimize CompTIA-Network+ query performance",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct CompTIA-Network+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Network+ M Solution:** Optimize CompTIA-Network+ query performance. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-M040",
+    "question": "Troubleshoot CompTIA-Network+ connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct CompTIA-Network+ procedure"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Network+ M Solution:** Troubleshoot CompTIA-Network+ connectivity issue between VLANs. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-M041",
+    "question": "Configure CompTIA-Network+ load balancer for high availability",
+    "options": [
+      "Dangerous method",
+      "Correct CompTIA-Network+ procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Network+ M Solution:** Configure CompTIA-Network+ load balancer for high availability. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-M042",
+    "question": "Optimize CompTIA-Network+ query performance",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Network+ procedure"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Network+ M Solution:** Optimize CompTIA-Network+ query performance. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-M043",
+    "question": "Optimize CompTIA-Network+ query performance",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct CompTIA-Network+ procedure"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Network+ M Solution:** Optimize CompTIA-Network+ query performance. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-M044",
+    "question": "Troubleshoot CompTIA-Network+ connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Network+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Network+ M Solution:** Troubleshoot CompTIA-Network+ connectivity issue between VLANs. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-M045",
+    "question": "Set up CompTIA-Network+ failover clustering",
+    "options": [
+      "Dangerous method",
+      "Correct CompTIA-Network+ procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Network+ M Solution:** Set up CompTIA-Network+ failover clustering. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-M046",
+    "question": "Set up CompTIA-Network+ failover clustering",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct CompTIA-Network+ procedure",
+      "Partially correct"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Network+ M Solution:** Set up CompTIA-Network+ failover clustering. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-M047",
+    "question": "Set up CompTIA-Network+ failover clustering",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct CompTIA-Network+ procedure"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Network+ M Solution:** Set up CompTIA-Network+ failover clustering. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-M048",
+    "question": "Optimize CompTIA-Network+ query performance",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct CompTIA-Network+ procedure"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Network+ M Solution:** Optimize CompTIA-Network+ query performance. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-M049",
+    "question": "Configure CompTIA-Network+ load balancer for high availability",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct CompTIA-Network+ procedure"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Network+ M Solution:** Configure CompTIA-Network+ load balancer for high availability. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-M050",
+    "question": "Configure CompTIA-Network+ load balancer for high availability",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct CompTIA-Network+ procedure",
+      "Partially correct"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Network+ M Solution:** Configure CompTIA-Network+ load balancer for high availability. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-H001",
+    "question": "Migrate legacy CompTIA-Network+ systems to cloud-native architecture",
+    "options": [
+      "Dangerous method",
+      "Correct CompTIA-Network+ procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Network+ H Solution:** Migrate legacy CompTIA-Network+ systems to cloud-native architecture. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-H002",
+    "question": "Create disaster recovery plan with RTO < 15min for CompTIA-Network+",
+    "options": [
+      "Correct CompTIA-Network+ procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Network+ H Solution:** Create disaster recovery plan with RTO < 15min for CompTIA-Network+. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-H003",
+    "question": "Create disaster recovery plan with RTO < 15min for CompTIA-Network+",
+    "options": [
+      "Correct CompTIA-Network+ procedure",
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Network+ H Solution:** Create disaster recovery plan with RTO < 15min for CompTIA-Network+. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-H004",
+    "question": "Design CompTIA-Network+ architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Network+ procedure"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Network+ H Solution:** Design CompTIA-Network+ architecture for 10k users with 99.99% uptime. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-H005",
+    "question": "Optimize CompTIA-Network+ performance under DDoS attack",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct CompTIA-Network+ procedure"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Network+ H Solution:** Optimize CompTIA-Network+ performance under DDoS attack. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-H006",
+    "question": "Design CompTIA-Network+ architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Dangerous method",
+      "Correct CompTIA-Network+ procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Network+ H Solution:** Design CompTIA-Network+ architecture for 10k users with 99.99% uptime. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-H007",
+    "question": "Optimize CompTIA-Network+ performance under DDoS attack",
+    "options": [
+      "Partially correct",
+      "Correct CompTIA-Network+ procedure",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Network+ H Solution:** Optimize CompTIA-Network+ performance under DDoS attack. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-H008",
+    "question": "Design CompTIA-Network+ architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Correct CompTIA-Network+ procedure",
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Network+ H Solution:** Design CompTIA-Network+ architecture for 10k users with 99.99% uptime. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-H009",
+    "question": "Migrate legacy CompTIA-Network+ systems to cloud-native architecture",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct CompTIA-Network+ procedure"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Network+ H Solution:** Migrate legacy CompTIA-Network+ systems to cloud-native architecture. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-H010",
+    "question": "Design CompTIA-Network+ architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Correct CompTIA-Network+ procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Network+ H Solution:** Design CompTIA-Network+ architecture for 10k users with 99.99% uptime. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-H011",
+    "question": "Design CompTIA-Network+ architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Correct CompTIA-Network+ procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Network+ H Solution:** Design CompTIA-Network+ architecture for 10k users with 99.99% uptime. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-H012",
+    "question": "Create disaster recovery plan with RTO < 15min for CompTIA-Network+",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct CompTIA-Network+ procedure"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Network+ H Solution:** Create disaster recovery plan with RTO < 15min for CompTIA-Network+. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-H013",
+    "question": "Create disaster recovery plan with RTO < 15min for CompTIA-Network+",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Network+ procedure"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Network+ H Solution:** Create disaster recovery plan with RTO < 15min for CompTIA-Network+. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-H014",
+    "question": "Migrate legacy CompTIA-Network+ systems to cloud-native architecture",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct CompTIA-Network+ procedure",
+      "Partially correct"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Network+ H Solution:** Migrate legacy CompTIA-Network+ systems to cloud-native architecture. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-H015",
+    "question": "Implement zero-trust security model in CompTIA-Network+",
+    "options": [
+      "Partially correct",
+      "Correct CompTIA-Network+ procedure",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Network+ H Solution:** Implement zero-trust security model in CompTIA-Network+. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-H016",
+    "question": "Create disaster recovery plan with RTO < 15min for CompTIA-Network+",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Network+ procedure"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Network+ H Solution:** Create disaster recovery plan with RTO < 15min for CompTIA-Network+. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-H017",
+    "question": "Create disaster recovery plan with RTO < 15min for CompTIA-Network+",
+    "options": [
+      "Correct CompTIA-Network+ procedure",
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Network+ H Solution:** Create disaster recovery plan with RTO < 15min for CompTIA-Network+. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-H018",
+    "question": "Optimize CompTIA-Network+ performance under DDoS attack",
+    "options": [
+      "Incorrect approach",
+      "Correct CompTIA-Network+ procedure",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Network+ H Solution:** Optimize CompTIA-Network+ performance under DDoS attack. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-H019",
+    "question": "Optimize CompTIA-Network+ performance under DDoS attack",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Network+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Network+ H Solution:** Optimize CompTIA-Network+ performance under DDoS attack. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-H020",
+    "question": "Design CompTIA-Network+ architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct CompTIA-Network+ procedure"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Network+ H Solution:** Design CompTIA-Network+ architecture for 10k users with 99.99% uptime. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-H021",
+    "question": "Optimize CompTIA-Network+ performance under DDoS attack",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Network+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Network+ H Solution:** Optimize CompTIA-Network+ performance under DDoS attack. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-H022",
+    "question": "Optimize CompTIA-Network+ performance under DDoS attack",
+    "options": [
+      "Dangerous method",
+      "Correct CompTIA-Network+ procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Network+ H Solution:** Optimize CompTIA-Network+ performance under DDoS attack. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-H023",
+    "question": "Create disaster recovery plan with RTO < 15min for CompTIA-Network+",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Network+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Network+ H Solution:** Create disaster recovery plan with RTO < 15min for CompTIA-Network+. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-H024",
+    "question": "Optimize CompTIA-Network+ performance under DDoS attack",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach",
+      "Correct CompTIA-Network+ procedure"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Network+ H Solution:** Optimize CompTIA-Network+ performance under DDoS attack. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-H025",
+    "question": "Implement zero-trust security model in CompTIA-Network+",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Network+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Network+ H Solution:** Implement zero-trust security model in CompTIA-Network+. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-H026",
+    "question": "Design CompTIA-Network+ architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Partially correct",
+      "Correct CompTIA-Network+ procedure",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Network+ H Solution:** Design CompTIA-Network+ architecture for 10k users with 99.99% uptime. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-H027",
+    "question": "Implement zero-trust security model in CompTIA-Network+",
+    "options": [
+      "Correct CompTIA-Network+ procedure",
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Network+ H Solution:** Implement zero-trust security model in CompTIA-Network+. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-H028",
+    "question": "Design CompTIA-Network+ architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Dangerous method",
+      "Correct CompTIA-Network+ procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Network+ H Solution:** Design CompTIA-Network+ architecture for 10k users with 99.99% uptime. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-H029",
+    "question": "Migrate legacy CompTIA-Network+ systems to cloud-native architecture",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct CompTIA-Network+ procedure"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Network+ H Solution:** Migrate legacy CompTIA-Network+ systems to cloud-native architecture. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-H030",
+    "question": "Migrate legacy CompTIA-Network+ systems to cloud-native architecture",
+    "options": [
+      "Dangerous method",
+      "Correct CompTIA-Network+ procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Network+ H Solution:** Migrate legacy CompTIA-Network+ systems to cloud-native architecture. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-H031",
+    "question": "Optimize CompTIA-Network+ performance under DDoS attack",
+    "options": [
+      "Dangerous method",
+      "Correct CompTIA-Network+ procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Network+ H Solution:** Optimize CompTIA-Network+ performance under DDoS attack. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-H032",
+    "question": "Implement zero-trust security model in CompTIA-Network+",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Network+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Network+ H Solution:** Implement zero-trust security model in CompTIA-Network+. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-H033",
+    "question": "Design CompTIA-Network+ architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Network+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Network+ H Solution:** Design CompTIA-Network+ architecture for 10k users with 99.99% uptime. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-H034",
+    "question": "Design CompTIA-Network+ architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Incorrect approach",
+      "Correct CompTIA-Network+ procedure",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Network+ H Solution:** Design CompTIA-Network+ architecture for 10k users with 99.99% uptime. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-H035",
+    "question": "Create disaster recovery plan with RTO < 15min for CompTIA-Network+",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Network+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Network+ H Solution:** Create disaster recovery plan with RTO < 15min for CompTIA-Network+. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-H036",
+    "question": "Create disaster recovery plan with RTO < 15min for CompTIA-Network+",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct CompTIA-Network+ procedure"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Network+ H Solution:** Create disaster recovery plan with RTO < 15min for CompTIA-Network+. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-H037",
+    "question": "Migrate legacy CompTIA-Network+ systems to cloud-native architecture",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct CompTIA-Network+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Network+ H Solution:** Migrate legacy CompTIA-Network+ systems to cloud-native architecture. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-H038",
+    "question": "Optimize CompTIA-Network+ performance under DDoS attack",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach",
+      "Correct CompTIA-Network+ procedure"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Network+ H Solution:** Optimize CompTIA-Network+ performance under DDoS attack. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-H039",
+    "question": "Create disaster recovery plan with RTO < 15min for CompTIA-Network+",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Network+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Network+ H Solution:** Create disaster recovery plan with RTO < 15min for CompTIA-Network+. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-H040",
+    "question": "Design CompTIA-Network+ architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct CompTIA-Network+ procedure"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Network+ H Solution:** Design CompTIA-Network+ architecture for 10k users with 99.99% uptime. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-H041",
+    "question": "Optimize CompTIA-Network+ performance under DDoS attack",
+    "options": [
+      "Dangerous method",
+      "Correct CompTIA-Network+ procedure",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Network+ H Solution:** Optimize CompTIA-Network+ performance under DDoS attack. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-H042",
+    "question": "Create disaster recovery plan with RTO < 15min for CompTIA-Network+",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach",
+      "Correct CompTIA-Network+ procedure"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Network+ H Solution:** Create disaster recovery plan with RTO < 15min for CompTIA-Network+. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-H043",
+    "question": "Create disaster recovery plan with RTO < 15min for CompTIA-Network+",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct CompTIA-Network+ procedure"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Network+ H Solution:** Create disaster recovery plan with RTO < 15min for CompTIA-Network+. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-H044",
+    "question": "Create disaster recovery plan with RTO < 15min for CompTIA-Network+",
+    "options": [
+      "Correct CompTIA-Network+ procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Network+ H Solution:** Create disaster recovery plan with RTO < 15min for CompTIA-Network+. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-H045",
+    "question": "Implement zero-trust security model in CompTIA-Network+",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Network+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Network+ H Solution:** Implement zero-trust security model in CompTIA-Network+. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-H046",
+    "question": "Migrate legacy CompTIA-Network+ systems to cloud-native architecture",
+    "options": [
+      "Correct CompTIA-Network+ procedure",
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Network+ H Solution:** Migrate legacy CompTIA-Network+ systems to cloud-native architecture. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-H047",
+    "question": "Design CompTIA-Network+ architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Correct CompTIA-Network+ procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Network+ H Solution:** Design CompTIA-Network+ architecture for 10k users with 99.99% uptime. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-H048",
+    "question": "Create disaster recovery plan with RTO < 15min for CompTIA-Network+",
+    "options": [
+      "Correct CompTIA-Network+ procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Network+ H Solution:** Create disaster recovery plan with RTO < 15min for CompTIA-Network+. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-H049",
+    "question": "Design CompTIA-Network+ architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct CompTIA-Network+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Network+ H Solution:** Design CompTIA-Network+ architecture for 10k users with 99.99% uptime. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-H050",
+    "question": "Migrate legacy CompTIA-Network+ systems to cloud-native architecture",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Network+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Network+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Network+ H Solution:** Migrate legacy CompTIA-Network+ systems to cloud-native architecture. Always verify CompTIA-Network+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Network+-S01-01",
+    "question": "1. Database performance degradation after upgrade in CompTIA-Network+ environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S01-02",
+    "question": "1. Database performance degradation after upgrade in CompTIA-Network+ environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S01-03",
+    "question": "1. Database performance degradation after upgrade in CompTIA-Network+ environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S01-04",
+    "question": "1. Database performance degradation after upgrade in CompTIA-Network+ environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S01-05",
+    "question": "1. Database performance degradation after upgrade in CompTIA-Network+ environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S02-01",
+    "question": "2. Database performance degradation after upgrade in CompTIA-Network+ environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S02-02",
+    "question": "2. Database performance degradation after upgrade in CompTIA-Network+ environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S02-03",
+    "question": "2. Database performance degradation after upgrade in CompTIA-Network+ environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S02-04",
+    "question": "2. Database performance degradation after upgrade in CompTIA-Network+ environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S02-05",
+    "question": "2. Database performance degradation after upgrade in CompTIA-Network+ environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S03-01",
+    "question": "3. Production outage during peak hours: diagnose and resolve in CompTIA-Network+ environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S03-02",
+    "question": "3. Production outage during peak hours: diagnose and resolve in CompTIA-Network+ environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S03-03",
+    "question": "3. Production outage during peak hours: diagnose and resolve in CompTIA-Network+ environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S03-04",
+    "question": "3. Production outage during peak hours: diagnose and resolve in CompTIA-Network+ environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S03-05",
+    "question": "3. Production outage during peak hours: diagnose and resolve in CompTIA-Network+ environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S04-01",
+    "question": "4. Network latency issue affecting VoIP calls in CompTIA-Network+ environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S04-02",
+    "question": "4. Network latency issue affecting VoIP calls in CompTIA-Network+ environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S04-03",
+    "question": "4. Network latency issue affecting VoIP calls in CompTIA-Network+ environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S04-04",
+    "question": "4. Network latency issue affecting VoIP calls in CompTIA-Network+ environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S04-05",
+    "question": "4. Network latency issue affecting VoIP calls in CompTIA-Network+ environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S05-01",
+    "question": "5. Network latency issue affecting VoIP calls in CompTIA-Network+ environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S05-02",
+    "question": "5. Network latency issue affecting VoIP calls in CompTIA-Network+ environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S05-03",
+    "question": "5. Network latency issue affecting VoIP calls in CompTIA-Network+ environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S05-04",
+    "question": "5. Network latency issue affecting VoIP calls in CompTIA-Network+ environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S05-05",
+    "question": "5. Network latency issue affecting VoIP calls in CompTIA-Network+ environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S06-01",
+    "question": "6. Backup failure during scheduled window in CompTIA-Network+ environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S06-02",
+    "question": "6. Backup failure during scheduled window in CompTIA-Network+ environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S06-03",
+    "question": "6. Backup failure during scheduled window in CompTIA-Network+ environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S06-04",
+    "question": "6. Backup failure during scheduled window in CompTIA-Network+ environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S06-05",
+    "question": "6. Backup failure during scheduled window in CompTIA-Network+ environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S07-01",
+    "question": "7. Backup failure during scheduled window in CompTIA-Network+ environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S07-02",
+    "question": "7. Backup failure during scheduled window in CompTIA-Network+ environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S07-03",
+    "question": "7. Backup failure during scheduled window in CompTIA-Network+ environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S07-04",
+    "question": "7. Backup failure during scheduled window in CompTIA-Network+ environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S07-05",
+    "question": "7. Backup failure during scheduled window in CompTIA-Network+ environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S08-01",
+    "question": "8. Firewall blocking legitimate traffic in CompTIA-Network+ environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S08-02",
+    "question": "8. Firewall blocking legitimate traffic in CompTIA-Network+ environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S08-03",
+    "question": "8. Firewall blocking legitimate traffic in CompTIA-Network+ environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S08-04",
+    "question": "8. Firewall blocking legitimate traffic in CompTIA-Network+ environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S08-05",
+    "question": "8. Firewall blocking legitimate traffic in CompTIA-Network+ environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S09-01",
+    "question": "9. Server overload during quarterly report generation in CompTIA-Network+ environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S09-02",
+    "question": "9. Server overload during quarterly report generation in CompTIA-Network+ environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S09-03",
+    "question": "9. Server overload during quarterly report generation in CompTIA-Network+ environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S09-04",
+    "question": "9. Server overload during quarterly report generation in CompTIA-Network+ environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S09-05",
+    "question": "9. Server overload during quarterly report generation in CompTIA-Network+ environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S10-01",
+    "question": "10. Load balancer health check failing in CompTIA-Network+ environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S10-02",
+    "question": "10. Load balancer health check failing in CompTIA-Network+ environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S10-03",
+    "question": "10. Load balancer health check failing in CompTIA-Network+ environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S10-04",
+    "question": "10. Load balancer health check failing in CompTIA-Network+ environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S10-05",
+    "question": "10. Load balancer health check failing in CompTIA-Network+ environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S11-01",
+    "question": "11. Cloud migration failure: rollback strategy in CompTIA-Network+ environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S11-02",
+    "question": "11. Cloud migration failure: rollback strategy in CompTIA-Network+ environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S11-03",
+    "question": "11. Cloud migration failure: rollback strategy in CompTIA-Network+ environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S11-04",
+    "question": "11. Cloud migration failure: rollback strategy in CompTIA-Network+ environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S11-05",
+    "question": "11. Cloud migration failure: rollback strategy in CompTIA-Network+ environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S12-01",
+    "question": "12. Database performance degradation after upgrade in CompTIA-Network+ environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S12-02",
+    "question": "12. Database performance degradation after upgrade in CompTIA-Network+ environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S12-03",
+    "question": "12. Database performance degradation after upgrade in CompTIA-Network+ environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S12-04",
+    "question": "12. Database performance degradation after upgrade in CompTIA-Network+ environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S12-05",
+    "question": "12. Database performance degradation after upgrade in CompTIA-Network+ environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S13-01",
+    "question": "13. Server overload during quarterly report generation in CompTIA-Network+ environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S13-02",
+    "question": "13. Server overload during quarterly report generation in CompTIA-Network+ environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S13-03",
+    "question": "13. Server overload during quarterly report generation in CompTIA-Network+ environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S13-04",
+    "question": "13. Server overload during quarterly report generation in CompTIA-Network+ environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S13-05",
+    "question": "13. Server overload during quarterly report generation in CompTIA-Network+ environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S14-01",
+    "question": "14. Production outage during peak hours: diagnose and resolve in CompTIA-Network+ environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S14-02",
+    "question": "14. Production outage during peak hours: diagnose and resolve in CompTIA-Network+ environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S14-03",
+    "question": "14. Production outage during peak hours: diagnose and resolve in CompTIA-Network+ environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S14-04",
+    "question": "14. Production outage during peak hours: diagnose and resolve in CompTIA-Network+ environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S14-05",
+    "question": "14. Production outage during peak hours: diagnose and resolve in CompTIA-Network+ environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S15-01",
+    "question": "15. VPN connectivity failure for remote users in CompTIA-Network+ environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S15-02",
+    "question": "15. VPN connectivity failure for remote users in CompTIA-Network+ environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S15-03",
+    "question": "15. VPN connectivity failure for remote users in CompTIA-Network+ environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S15-04",
+    "question": "15. VPN connectivity failure for remote users in CompTIA-Network+ environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S15-05",
+    "question": "15. VPN connectivity failure for remote users in CompTIA-Network+ environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S16-01",
+    "question": "16. Server overload during quarterly report generation in CompTIA-Network+ environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S16-02",
+    "question": "16. Server overload during quarterly report generation in CompTIA-Network+ environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S16-03",
+    "question": "16. Server overload during quarterly report generation in CompTIA-Network+ environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S16-04",
+    "question": "16. Server overload during quarterly report generation in CompTIA-Network+ environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S16-05",
+    "question": "16. Server overload during quarterly report generation in CompTIA-Network+ environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S17-01",
+    "question": "17. Backup failure during scheduled window in CompTIA-Network+ environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S17-02",
+    "question": "17. Backup failure during scheduled window in CompTIA-Network+ environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S17-03",
+    "question": "17. Backup failure during scheduled window in CompTIA-Network+ environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S17-04",
+    "question": "17. Backup failure during scheduled window in CompTIA-Network+ environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S17-05",
+    "question": "17. Backup failure during scheduled window in CompTIA-Network+ environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S18-01",
+    "question": "18. Cloud migration failure: rollback strategy in CompTIA-Network+ environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S18-02",
+    "question": "18. Cloud migration failure: rollback strategy in CompTIA-Network+ environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S18-03",
+    "question": "18. Cloud migration failure: rollback strategy in CompTIA-Network+ environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S18-04",
+    "question": "18. Cloud migration failure: rollback strategy in CompTIA-Network+ environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S18-05",
+    "question": "18. Cloud migration failure: rollback strategy in CompTIA-Network+ environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S19-01",
+    "question": "19. Firewall blocking legitimate traffic in CompTIA-Network+ environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S19-02",
+    "question": "19. Firewall blocking legitimate traffic in CompTIA-Network+ environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S19-03",
+    "question": "19. Firewall blocking legitimate traffic in CompTIA-Network+ environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S19-04",
+    "question": "19. Firewall blocking legitimate traffic in CompTIA-Network+ environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S19-05",
+    "question": "19. Firewall blocking legitimate traffic in CompTIA-Network+ environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S20-01",
+    "question": "20. Backup failure during scheduled window in CompTIA-Network+ environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S20-02",
+    "question": "20. Backup failure during scheduled window in CompTIA-Network+ environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S20-03",
+    "question": "20. Backup failure during scheduled window in CompTIA-Network+ environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S20-04",
+    "question": "20. Backup failure during scheduled window in CompTIA-Network+ environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Network+-S20-05",
+    "question": "20. Backup failure during scheduled window in CompTIA-Network+ environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Network+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Network+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Network+ best practices. Document all steps for RCA."
+  }
+]

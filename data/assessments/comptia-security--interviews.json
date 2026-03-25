@@ -1,0 +1,215 @@
+[
+  {
+    "id": "CompTIA-Security+-I01",
+    "title": "CompTIA-Security+ Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level CompTIA-Security+ certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain CompTIA-Security+ HA design",
+      "Troubleshoot CompTIA-Security+ outage",
+      "Scale CompTIA-Security+ for 100k users"
+    ],
+    "expected_skills": [
+      "Production CompTIA-Security+ experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "CompTIA-Security+-I02",
+    "title": "CompTIA-Security+ Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level CompTIA-Security+ certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain CompTIA-Security+ HA design",
+      "Troubleshoot CompTIA-Security+ outage",
+      "Scale CompTIA-Security+ for 100k users"
+    ],
+    "expected_skills": [
+      "Production CompTIA-Security+ experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "CompTIA-Security+-I03",
+    "title": "CompTIA-Security+ Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level CompTIA-Security+ certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain CompTIA-Security+ HA design",
+      "Troubleshoot CompTIA-Security+ outage",
+      "Scale CompTIA-Security+ for 100k users"
+    ],
+    "expected_skills": [
+      "Production CompTIA-Security+ experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "CompTIA-Security+-I04",
+    "title": "CompTIA-Security+ Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level CompTIA-Security+ certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain CompTIA-Security+ HA design",
+      "Troubleshoot CompTIA-Security+ outage",
+      "Scale CompTIA-Security+ for 100k users"
+    ],
+    "expected_skills": [
+      "Production CompTIA-Security+ experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "CompTIA-Security+-I05",
+    "title": "CompTIA-Security+ Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level CompTIA-Security+ certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain CompTIA-Security+ HA design",
+      "Troubleshoot CompTIA-Security+ outage",
+      "Scale CompTIA-Security+ for 100k users"
+    ],
+    "expected_skills": [
+      "Production CompTIA-Security+ experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "CompTIA-Security+-I06",
+    "title": "CompTIA-Security+ Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level CompTIA-Security+ certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain CompTIA-Security+ HA design",
+      "Troubleshoot CompTIA-Security+ outage",
+      "Scale CompTIA-Security+ for 100k users"
+    ],
+    "expected_skills": [
+      "Production CompTIA-Security+ experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "CompTIA-Security+-I07",
+    "title": "CompTIA-Security+ Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level CompTIA-Security+ certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain CompTIA-Security+ HA design",
+      "Troubleshoot CompTIA-Security+ outage",
+      "Scale CompTIA-Security+ for 100k users"
+    ],
+    "expected_skills": [
+      "Production CompTIA-Security+ experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "CompTIA-Security+-I08",
+    "title": "CompTIA-Security+ Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level CompTIA-Security+ certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain CompTIA-Security+ HA design",
+      "Troubleshoot CompTIA-Security+ outage",
+      "Scale CompTIA-Security+ for 100k users"
+    ],
+    "expected_skills": [
+      "Production CompTIA-Security+ experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "CompTIA-Security+-I09",
+    "title": "CompTIA-Security+ Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level CompTIA-Security+ certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain CompTIA-Security+ HA design",
+      "Troubleshoot CompTIA-Security+ outage",
+      "Scale CompTIA-Security+ for 100k users"
+    ],
+    "expected_skills": [
+      "Production CompTIA-Security+ experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "CompTIA-Security+-I10",
+    "title": "CompTIA-Security+ Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level CompTIA-Security+ certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain CompTIA-Security+ HA design",
+      "Troubleshoot CompTIA-Security+ outage",
+      "Scale CompTIA-Security+ for 100k users"
+    ],
+    "expected_skills": [
+      "Production CompTIA-Security+ experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  }
+]

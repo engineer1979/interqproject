@@ -1,0 +1,83 @@
+[
+  {
+    "id": "WEB-001-E1",
+    "question": "Which HTML tag is used to create a link?",
+    "options": ["<a>", "<link>", "<ul>", "<li>"],
+    "answer": "<a>",
+    "explanation": "The 'a' (anchor) tag is used to create hyperlinks in HTML.",
+    "tag": "Frontend",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "WEB-001-E2",
+    "question": "What is 'Responsive Design' in web development?",
+    "options": ["A layout that adapts to different screen sizes", "A website that loads quickly", "A webpage that allows user interaction", "An accessible website for disabled users"],
+    "answer": "A layout that adapts to different screen sizes",
+    "explanation": "Responsive web design (RWD) uses flexible grid-based layouts and CSS media queries to make websites viewable on a variety of devices and screen sizes.",
+    "tag": "Frontend",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "WEB-001-E3",
+    "question": "Which CSS property is used to change the background color?",
+    "options": ["background-color", "color", "font-size", "margin"],
+    "answer": "background-color",
+    "explanation": "Working with the 'background-color' property allows you to define the background color of an element in CSS.",
+    "tag": "Frontend",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "WEB-001-M1",
+    "question": "What is 'CORS' (Cross-Origin Resource Sharing)?",
+    "options": ["A web browser feature that controls requests between different domains", "A way to synchronize data across multiple devices", "A tool for debugging JavaScript code", "A method for encrypting user credentials"],
+    "answer": "A web browser feature that controls requests between different domains",
+    "explanation": "CORS is a security mechanism that allows web browsers to control which origins are permitted to access resources on a server to prevent cross-site request forgery.",
+    "tag": "Security",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "WEB-001-M2",
+    "question": "Which JavaScript method is used to add an element at the end of an array?",
+    "options": ["push()", "pop()", "shift()", "unshift()"],
+    "answer": "push()",
+    "explanation": "The 'push()' method adds one or more elements to the end of an array and returns the new length of the array.",
+    "tag": "JavaScript",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "WEB-001-M3",
+    "question": "In React, what are 'Hooks' used for?",
+    "options": ["Managing state and lifecycle features in functional components", "Connecting to external databases", "Manipulating the DOM directly", "Handling user authentication"],
+    "answer": "Managing state and lifecycle features in functional components",
+    "explanation": "React Hooks (like `useState` and `useEffect`) allow you to use state and other React features in functional components without writing classes.",
+    "tag": "React",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "WEB-001-H1",
+    "question": "Which of the following describes 'Critical Path Rendering' in web performance optimization?",
+    "options": ["The sequence of steps the browser takes to convert HTML, CSS, and JS into pixels on the screen", "The process of Minifying JavaScript code", "A method for compressing images", "A tool for analyzing network latency"],
+    "answer": "The sequence of steps the browser takes to convert HTML, CSS, and JS into pixels on the screen",
+    "explanation": "Optimizing the critical path improves initial page load performance by ensuring essential content is loaded and rendered as quickly as possible.",
+    "tag": "Performance",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "WEB-001-H2",
+    "question": "What is 'JWT' (JSON Web Token) commonly used for in web applications?",
+    "options": ["Representing information transmitted between two parties securely using JSON", "A type of database schema configuration", "A tool for performance testing", "Managing user sessions on the server side only"],
+    "answer": "Representing information transmitted between two parties securely using JSON",
+    "explanation": "JWTs are compact, self-contained tokens often used for authentication and authorization in modern web applications, particularly in stateless RESTful APIs.",
+    "tag": "Security",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "WEB-001-H3",
+    "question": "What is the primary difference between 'Client-Side Rendering' (CSR) and 'Server-Side Rendering' (SSR)?",
+    "options": ["SSR generates HTML on the server, while CSR generates it in the browser using JavaScript", "SSR is for mobile apps, while CSR is for desktop only", "CSR is always faster than SSR", "There is no difference in rendering speed"],
+    "answer": "SSR generates HTML on the server, while CSR generates it in the browser using JavaScript",
+    "explanation": "SSR delivers fully rendered HTML to the client for faster initial paint, whereas CSR sends a minimal HTML file and relies on JavaScript to build the UI on the fly.",
+    "tag": "Modern Web",
+    "difficulty": "Hard"
+  }
+]

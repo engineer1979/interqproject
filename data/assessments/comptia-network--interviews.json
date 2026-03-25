@@ -1,0 +1,207 @@
+[
+  {
+    "id": "CompTIA-Network+-I01",
+    "title": "CompTIA-Network+ Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level CompTIA-Network+ certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain CompTIA-Network+ HA design",
+      "Troubleshoot CompTIA-Network+ outage",
+      "Scale CompTIA-Network+ for 100k users"
+    ],
+    "expected_skills": [
+      "Production CompTIA-Network+ experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "CompTIA-Network+-I02",
+    "title": "CompTIA-Network+ Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level CompTIA-Network+ certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain CompTIA-Network+ HA design",
+      "Troubleshoot CompTIA-Network+ outage",
+      "Scale CompTIA-Network+ for 100k users"
+    ],
+    "expected_skills": [
+      "Production CompTIA-Network+ experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "CompTIA-Network+-I03",
+    "title": "CompTIA-Network+ Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level CompTIA-Network+ certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain CompTIA-Network+ HA design",
+      "Troubleshoot CompTIA-Network+ outage",
+      "Scale CompTIA-Network+ for 100k users"
+    ],
+    "expected_skills": [
+      "Production CompTIA-Network+ experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "CompTIA-Network+-I04",
+    "title": "CompTIA-Network+ Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level CompTIA-Network+ certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain CompTIA-Network+ HA design",
+      "Troubleshoot CompTIA-Network+ outage",
+      "Scale CompTIA-Network+ for 100k users"
+    ],
+    "expected_skills": [
+      "Production CompTIA-Network+ experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "CompTIA-Network+-I05",
+    "title": "CompTIA-Network+ Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level CompTIA-Network+ certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain CompTIA-Network+ HA design",
+      "Troubleshoot CompTIA-Network+ outage",
+      "Scale CompTIA-Network+ for 100k users"
+    ],
+    "expected_skills": [
+      "Production CompTIA-Network+ experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "CompTIA-Network+-I06",
+    "title": "CompTIA-Network+ Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level CompTIA-Network+ certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain CompTIA-Network+ HA design",
+      "Troubleshoot CompTIA-Network+ outage",
+      "Scale CompTIA-Network+ for 100k users"
+    ],
+    "expected_skills": [
+      "Production CompTIA-Network+ experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "CompTIA-Network+-I07",
+    "title": "CompTIA-Network+ Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level CompTIA-Network+ certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain CompTIA-Network+ HA design",
+      "Troubleshoot CompTIA-Network+ outage",
+      "Scale CompTIA-Network+ for 100k users"
+    ],
+    "expected_skills": [
+      "Production CompTIA-Network+ experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "CompTIA-Network+-I08",
+    "title": "CompTIA-Network+ Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level CompTIA-Network+ certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain CompTIA-Network+ HA design",
+      "Troubleshoot CompTIA-Network+ outage",
+      "Scale CompTIA-Network+ for 100k users"
+    ],
+    "expected_skills": [
+      "Production CompTIA-Network+ experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "CompTIA-Network+-I09",
+    "title": "CompTIA-Network+ Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level CompTIA-Network+ certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain CompTIA-Network+ HA design",
+      "Troubleshoot CompTIA-Network+ outage",
+      "Scale CompTIA-Network+ for 100k users"
+    ],
+    "expected_skills": [
+      "Production CompTIA-Network+ experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "CompTIA-Network+-I10",
+    "title": "CompTIA-Network+ Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level CompTIA-Network+ certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain CompTIA-Network+ HA design",
+      "Troubleshoot CompTIA-Network+ outage",
+      "Scale CompTIA-Network+ for 100k users"
+    ],
+    "expected_skills": [
+      "Production CompTIA-Network+ experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  }
+]

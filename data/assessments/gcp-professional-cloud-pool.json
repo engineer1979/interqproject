@@ -1,0 +1,3260 @@
+{
+  "easy": [
+    {
+      "id": "GCP-Professional-Cloud-E001",
+      "question": "What is the primary function of GCP DHCP?",
+      "options": [
+        "Dangerous method",
+        "Correct GCP-Professional-Cloud procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "e",
+      "explanation": "**GCP-Professional-Cloud E Solution:** What is the primary function of GCP DHCP?. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-E002",
+      "question": "Which port does GCP-Professional-Cloud service use by default?",
+      "options": [
+        "Dangerous method",
+        "Correct GCP-Professional-Cloud procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "e",
+      "explanation": "**GCP-Professional-Cloud E Solution:** Which port does GCP-Professional-Cloud service use by default?. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-E003",
+      "question": "Default subnet mask for Class C network in GCP-Professional-Cloud?",
+      "options": [
+        "Dangerous method",
+        "Correct GCP-Professional-Cloud procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "e",
+      "explanation": "**GCP-Professional-Cloud E Solution:** Default subnet mask for Class C network in GCP-Professional-Cloud?. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-E004",
+      "question": "What is the primary function of GCP DHCP?",
+      "options": [
+        "Correct GCP-Professional-Cloud procedure",
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "e",
+      "explanation": "**GCP-Professional-Cloud E Solution:** What is the primary function of GCP DHCP?. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-E005",
+      "question": "Default subnet mask for Class C network in GCP-Professional-Cloud?",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct GCP-Professional-Cloud procedure"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "e",
+      "explanation": "**GCP-Professional-Cloud E Solution:** Default subnet mask for Class C network in GCP-Professional-Cloud?. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-E006",
+      "question": "Common protocol for GCP-Professional-Cloud remote access?",
+      "options": [
+        "Correct GCP-Professional-Cloud procedure",
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "e",
+      "explanation": "**GCP-Professional-Cloud E Solution:** Common protocol for GCP-Professional-Cloud remote access?. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-E007",
+      "question": "Default subnet mask for Class C network in GCP-Professional-Cloud?",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct GCP-Professional-Cloud procedure"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "e",
+      "explanation": "**GCP-Professional-Cloud E Solution:** Default subnet mask for Class C network in GCP-Professional-Cloud?. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-E008",
+      "question": "Common protocol for GCP-Professional-Cloud remote access?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct GCP-Professional-Cloud procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "e",
+      "explanation": "**GCP-Professional-Cloud E Solution:** Common protocol for GCP-Professional-Cloud remote access?. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-E009",
+      "question": "What is the primary function of GCP DHCP?",
+      "options": [
+        "Correct GCP-Professional-Cloud procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "e",
+      "explanation": "**GCP-Professional-Cloud E Solution:** What is the primary function of GCP DHCP?. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-E010",
+      "question": "What does GCP ACL stand for?",
+      "options": [
+        "Dangerous method",
+        "Correct GCP-Professional-Cloud procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "e",
+      "explanation": "**GCP-Professional-Cloud E Solution:** What does GCP ACL stand for?. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-E011",
+      "question": "Common protocol for GCP-Professional-Cloud remote access?",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct GCP-Professional-Cloud procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "e",
+      "explanation": "**GCP-Professional-Cloud E Solution:** Common protocol for GCP-Professional-Cloud remote access?. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-E012",
+      "question": "Common protocol for GCP-Professional-Cloud remote access?",
+      "options": [
+        "Correct GCP-Professional-Cloud procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "e",
+      "explanation": "**GCP-Professional-Cloud E Solution:** Common protocol for GCP-Professional-Cloud remote access?. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-E013",
+      "question": "Default subnet mask for Class C network in GCP-Professional-Cloud?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct GCP-Professional-Cloud procedure"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "e",
+      "explanation": "**GCP-Professional-Cloud E Solution:** Default subnet mask for Class C network in GCP-Professional-Cloud?. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-E014",
+      "question": "Default subnet mask for Class C network in GCP-Professional-Cloud?",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct GCP-Professional-Cloud procedure"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "e",
+      "explanation": "**GCP-Professional-Cloud E Solution:** Default subnet mask for Class C network in GCP-Professional-Cloud?. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-E015",
+      "question": "Which port does GCP-Professional-Cloud service use by default?",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct GCP-Professional-Cloud procedure"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "e",
+      "explanation": "**GCP-Professional-Cloud E Solution:** Which port does GCP-Professional-Cloud service use by default?. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-E016",
+      "question": "Default subnet mask for Class C network in GCP-Professional-Cloud?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct GCP-Professional-Cloud procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "e",
+      "explanation": "**GCP-Professional-Cloud E Solution:** Default subnet mask for Class C network in GCP-Professional-Cloud?. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-E017",
+      "question": "Common protocol for GCP-Professional-Cloud remote access?",
+      "options": [
+        "Partially correct",
+        "Correct GCP-Professional-Cloud procedure",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "e",
+      "explanation": "**GCP-Professional-Cloud E Solution:** Common protocol for GCP-Professional-Cloud remote access?. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-E018",
+      "question": "What is the primary function of GCP DHCP?",
+      "options": [
+        "Correct GCP-Professional-Cloud procedure",
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "e",
+      "explanation": "**GCP-Professional-Cloud E Solution:** What is the primary function of GCP DHCP?. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-E019",
+      "question": "Common protocol for GCP-Professional-Cloud remote access?",
+      "options": [
+        "Dangerous method",
+        "Correct GCP-Professional-Cloud procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "e",
+      "explanation": "**GCP-Professional-Cloud E Solution:** Common protocol for GCP-Professional-Cloud remote access?. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-E020",
+      "question": "What is the primary function of GCP DHCP?",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct GCP-Professional-Cloud procedure"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "e",
+      "explanation": "**GCP-Professional-Cloud E Solution:** What is the primary function of GCP DHCP?. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-E021",
+      "question": "What does GCP ACL stand for?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct GCP-Professional-Cloud procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "e",
+      "explanation": "**GCP-Professional-Cloud E Solution:** What does GCP ACL stand for?. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-E022",
+      "question": "What is the primary function of GCP DHCP?",
+      "options": [
+        "Dangerous method",
+        "Correct GCP-Professional-Cloud procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "e",
+      "explanation": "**GCP-Professional-Cloud E Solution:** What is the primary function of GCP DHCP?. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-E023",
+      "question": "Common protocol for GCP-Professional-Cloud remote access?",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct GCP-Professional-Cloud procedure"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "e",
+      "explanation": "**GCP-Professional-Cloud E Solution:** Common protocol for GCP-Professional-Cloud remote access?. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-E024",
+      "question": "Which port does GCP-Professional-Cloud service use by default?",
+      "options": [
+        "Dangerous method",
+        "Correct GCP-Professional-Cloud procedure",
+        "Incorrect approach",
+        "Partially correct"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "e",
+      "explanation": "**GCP-Professional-Cloud E Solution:** Which port does GCP-Professional-Cloud service use by default?. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-E025",
+      "question": "What is the primary function of GCP DHCP?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct GCP-Professional-Cloud procedure"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "e",
+      "explanation": "**GCP-Professional-Cloud E Solution:** What is the primary function of GCP DHCP?. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-E026",
+      "question": "What does GCP ACL stand for?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct GCP-Professional-Cloud procedure"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "e",
+      "explanation": "**GCP-Professional-Cloud E Solution:** What does GCP ACL stand for?. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-E027",
+      "question": "Which port does GCP-Professional-Cloud service use by default?",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct GCP-Professional-Cloud procedure"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "e",
+      "explanation": "**GCP-Professional-Cloud E Solution:** Which port does GCP-Professional-Cloud service use by default?. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-E028",
+      "question": "Default subnet mask for Class C network in GCP-Professional-Cloud?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct GCP-Professional-Cloud procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "e",
+      "explanation": "**GCP-Professional-Cloud E Solution:** Default subnet mask for Class C network in GCP-Professional-Cloud?. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-E029",
+      "question": "Which port does GCP-Professional-Cloud service use by default?",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct GCP-Professional-Cloud procedure"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "e",
+      "explanation": "**GCP-Professional-Cloud E Solution:** Which port does GCP-Professional-Cloud service use by default?. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-E030",
+      "question": "What does GCP ACL stand for?",
+      "options": [
+        "Dangerous method",
+        "Correct GCP-Professional-Cloud procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "e",
+      "explanation": "**GCP-Professional-Cloud E Solution:** What does GCP ACL stand for?. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-E031",
+      "question": "Which port does GCP-Professional-Cloud service use by default?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct GCP-Professional-Cloud procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "e",
+      "explanation": "**GCP-Professional-Cloud E Solution:** Which port does GCP-Professional-Cloud service use by default?. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-E032",
+      "question": "Common protocol for GCP-Professional-Cloud remote access?",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Correct GCP-Professional-Cloud procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "e",
+      "explanation": "**GCP-Professional-Cloud E Solution:** Common protocol for GCP-Professional-Cloud remote access?. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-E033",
+      "question": "What does GCP ACL stand for?",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Correct GCP-Professional-Cloud procedure",
+        "Incorrect approach"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "e",
+      "explanation": "**GCP-Professional-Cloud E Solution:** What does GCP ACL stand for?. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-E034",
+      "question": "Which port does GCP-Professional-Cloud service use by default?",
+      "options": [
+        "Correct GCP-Professional-Cloud procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "e",
+      "explanation": "**GCP-Professional-Cloud E Solution:** Which port does GCP-Professional-Cloud service use by default?. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-E035",
+      "question": "What does GCP ACL stand for?",
+      "options": [
+        "Correct GCP-Professional-Cloud procedure",
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "e",
+      "explanation": "**GCP-Professional-Cloud E Solution:** What does GCP ACL stand for?. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-E036",
+      "question": "Default subnet mask for Class C network in GCP-Professional-Cloud?",
+      "options": [
+        "Correct GCP-Professional-Cloud procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "e",
+      "explanation": "**GCP-Professional-Cloud E Solution:** Default subnet mask for Class C network in GCP-Professional-Cloud?. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-E037",
+      "question": "Common protocol for GCP-Professional-Cloud remote access?",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct GCP-Professional-Cloud procedure"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "e",
+      "explanation": "**GCP-Professional-Cloud E Solution:** Common protocol for GCP-Professional-Cloud remote access?. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-E038",
+      "question": "What does GCP ACL stand for?",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct GCP-Professional-Cloud procedure"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "e",
+      "explanation": "**GCP-Professional-Cloud E Solution:** What does GCP ACL stand for?. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-E039",
+      "question": "Which port does GCP-Professional-Cloud service use by default?",
+      "options": [
+        "Dangerous method",
+        "Correct GCP-Professional-Cloud procedure",
+        "Incorrect approach",
+        "Partially correct"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "e",
+      "explanation": "**GCP-Professional-Cloud E Solution:** Which port does GCP-Professional-Cloud service use by default?. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-E040",
+      "question": "Common protocol for GCP-Professional-Cloud remote access?",
+      "options": [
+        "Incorrect approach",
+        "Correct GCP-Professional-Cloud procedure",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "e",
+      "explanation": "**GCP-Professional-Cloud E Solution:** Common protocol for GCP-Professional-Cloud remote access?. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-E041",
+      "question": "What does GCP ACL stand for?",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct GCP-Professional-Cloud procedure"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "e",
+      "explanation": "**GCP-Professional-Cloud E Solution:** What does GCP ACL stand for?. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-E042",
+      "question": "Default subnet mask for Class C network in GCP-Professional-Cloud?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct GCP-Professional-Cloud procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "e",
+      "explanation": "**GCP-Professional-Cloud E Solution:** Default subnet mask for Class C network in GCP-Professional-Cloud?. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-E043",
+      "question": "Common protocol for GCP-Professional-Cloud remote access?",
+      "options": [
+        "Dangerous method",
+        "Correct GCP-Professional-Cloud procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "e",
+      "explanation": "**GCP-Professional-Cloud E Solution:** Common protocol for GCP-Professional-Cloud remote access?. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-E044",
+      "question": "Common protocol for GCP-Professional-Cloud remote access?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct GCP-Professional-Cloud procedure"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "e",
+      "explanation": "**GCP-Professional-Cloud E Solution:** Common protocol for GCP-Professional-Cloud remote access?. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-E045",
+      "question": "What does GCP ACL stand for?",
+      "options": [
+        "Correct GCP-Professional-Cloud procedure",
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "e",
+      "explanation": "**GCP-Professional-Cloud E Solution:** What does GCP ACL stand for?. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-E046",
+      "question": "What does GCP ACL stand for?",
+      "options": [
+        "Correct GCP-Professional-Cloud procedure",
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "e",
+      "explanation": "**GCP-Professional-Cloud E Solution:** What does GCP ACL stand for?. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-E047",
+      "question": "What is the primary function of GCP DHCP?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct GCP-Professional-Cloud procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "e",
+      "explanation": "**GCP-Professional-Cloud E Solution:** What is the primary function of GCP DHCP?. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-E048",
+      "question": "Common protocol for GCP-Professional-Cloud remote access?",
+      "options": [
+        "Dangerous method",
+        "Correct GCP-Professional-Cloud procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "e",
+      "explanation": "**GCP-Professional-Cloud E Solution:** Common protocol for GCP-Professional-Cloud remote access?. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-E049",
+      "question": "Default subnet mask for Class C network in GCP-Professional-Cloud?",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct GCP-Professional-Cloud procedure"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "e",
+      "explanation": "**GCP-Professional-Cloud E Solution:** Default subnet mask for Class C network in GCP-Professional-Cloud?. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-E050",
+      "question": "What is the primary function of GCP DHCP?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct GCP-Professional-Cloud procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "e",
+      "explanation": "**GCP-Professional-Cloud E Solution:** What is the primary function of GCP DHCP?. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    }
+  ],
+  "medium": [
+    {
+      "id": "GCP-Professional-Cloud-M001",
+      "question": "Set up GCP-Professional-Cloud failover clustering",
+      "options": [
+        "Dangerous method",
+        "Correct GCP-Professional-Cloud procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "m",
+      "explanation": "**GCP-Professional-Cloud M Solution:** Set up GCP-Professional-Cloud failover clustering. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-M002",
+      "question": "Implement GCP-Professional-Cloud backup strategy for compliance",
+      "options": [
+        "Dangerous method",
+        "Correct GCP-Professional-Cloud procedure",
+        "Incorrect approach",
+        "Partially correct"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "m",
+      "explanation": "**GCP-Professional-Cloud M Solution:** Implement GCP-Professional-Cloud backup strategy for compliance. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-M003",
+      "question": "Configure GCP-Professional-Cloud load balancer for high availability",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Correct GCP-Professional-Cloud procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "m",
+      "explanation": "**GCP-Professional-Cloud M Solution:** Configure GCP-Professional-Cloud load balancer for high availability. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-M004",
+      "question": "Implement GCP-Professional-Cloud backup strategy for compliance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct GCP-Professional-Cloud procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "m",
+      "explanation": "**GCP-Professional-Cloud M Solution:** Implement GCP-Professional-Cloud backup strategy for compliance. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-M005",
+      "question": "Optimize GCP-Professional-Cloud query performance",
+      "options": [
+        "Incorrect approach",
+        "Correct GCP-Professional-Cloud procedure",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "m",
+      "explanation": "**GCP-Professional-Cloud M Solution:** Optimize GCP-Professional-Cloud query performance. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-M006",
+      "question": "Troubleshoot GCP-Professional-Cloud connectivity issue between VLANs",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct GCP-Professional-Cloud procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "m",
+      "explanation": "**GCP-Professional-Cloud M Solution:** Troubleshoot GCP-Professional-Cloud connectivity issue between VLANs. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-M007",
+      "question": "Set up GCP-Professional-Cloud failover clustering",
+      "options": [
+        "Dangerous method",
+        "Correct GCP-Professional-Cloud procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "m",
+      "explanation": "**GCP-Professional-Cloud M Solution:** Set up GCP-Professional-Cloud failover clustering. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-M008",
+      "question": "Implement GCP-Professional-Cloud backup strategy for compliance",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct GCP-Professional-Cloud procedure"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "m",
+      "explanation": "**GCP-Professional-Cloud M Solution:** Implement GCP-Professional-Cloud backup strategy for compliance. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-M009",
+      "question": "Set up GCP-Professional-Cloud failover clustering",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct GCP-Professional-Cloud procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "m",
+      "explanation": "**GCP-Professional-Cloud M Solution:** Set up GCP-Professional-Cloud failover clustering. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-M010",
+      "question": "Optimize GCP-Professional-Cloud query performance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct GCP-Professional-Cloud procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "m",
+      "explanation": "**GCP-Professional-Cloud M Solution:** Optimize GCP-Professional-Cloud query performance. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-M011",
+      "question": "Implement GCP-Professional-Cloud backup strategy for compliance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct GCP-Professional-Cloud procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "m",
+      "explanation": "**GCP-Professional-Cloud M Solution:** Implement GCP-Professional-Cloud backup strategy for compliance. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-M012",
+      "question": "Optimize GCP-Professional-Cloud query performance",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct GCP-Professional-Cloud procedure"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "m",
+      "explanation": "**GCP-Professional-Cloud M Solution:** Optimize GCP-Professional-Cloud query performance. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-M013",
+      "question": "Optimize GCP-Professional-Cloud query performance",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct GCP-Professional-Cloud procedure"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "m",
+      "explanation": "**GCP-Professional-Cloud M Solution:** Optimize GCP-Professional-Cloud query performance. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-M014",
+      "question": "Implement GCP-Professional-Cloud backup strategy for compliance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct GCP-Professional-Cloud procedure"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "m",
+      "explanation": "**GCP-Professional-Cloud M Solution:** Implement GCP-Professional-Cloud backup strategy for compliance. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-M015",
+      "question": "Configure GCP-Professional-Cloud load balancer for high availability",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct GCP-Professional-Cloud procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "m",
+      "explanation": "**GCP-Professional-Cloud M Solution:** Configure GCP-Professional-Cloud load balancer for high availability. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-M016",
+      "question": "Implement GCP-Professional-Cloud backup strategy for compliance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct GCP-Professional-Cloud procedure"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "m",
+      "explanation": "**GCP-Professional-Cloud M Solution:** Implement GCP-Professional-Cloud backup strategy for compliance. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-M017",
+      "question": "Configure GCP-Professional-Cloud load balancer for high availability",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct GCP-Professional-Cloud procedure"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "m",
+      "explanation": "**GCP-Professional-Cloud M Solution:** Configure GCP-Professional-Cloud load balancer for high availability. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-M018",
+      "question": "Troubleshoot GCP-Professional-Cloud connectivity issue between VLANs",
+      "options": [
+        "Correct GCP-Professional-Cloud procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "m",
+      "explanation": "**GCP-Professional-Cloud M Solution:** Troubleshoot GCP-Professional-Cloud connectivity issue between VLANs. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-M019",
+      "question": "Implement GCP-Professional-Cloud backup strategy for compliance",
+      "options": [
+        "Dangerous method",
+        "Correct GCP-Professional-Cloud procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "m",
+      "explanation": "**GCP-Professional-Cloud M Solution:** Implement GCP-Professional-Cloud backup strategy for compliance. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-M020",
+      "question": "Configure GCP-Professional-Cloud load balancer for high availability",
+      "options": [
+        "Dangerous method",
+        "Correct GCP-Professional-Cloud procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "m",
+      "explanation": "**GCP-Professional-Cloud M Solution:** Configure GCP-Professional-Cloud load balancer for high availability. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-M021",
+      "question": "Configure GCP-Professional-Cloud load balancer for high availability",
+      "options": [
+        "Incorrect approach",
+        "Correct GCP-Professional-Cloud procedure",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "m",
+      "explanation": "**GCP-Professional-Cloud M Solution:** Configure GCP-Professional-Cloud load balancer for high availability. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-M022",
+      "question": "Implement GCP-Professional-Cloud backup strategy for compliance",
+      "options": [
+        "Dangerous method",
+        "Correct GCP-Professional-Cloud procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "m",
+      "explanation": "**GCP-Professional-Cloud M Solution:** Implement GCP-Professional-Cloud backup strategy for compliance. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-M023",
+      "question": "Configure GCP-Professional-Cloud load balancer for high availability",
+      "options": [
+        "Dangerous method",
+        "Correct GCP-Professional-Cloud procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "m",
+      "explanation": "**GCP-Professional-Cloud M Solution:** Configure GCP-Professional-Cloud load balancer for high availability. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-M024",
+      "question": "Implement GCP-Professional-Cloud backup strategy for compliance",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct GCP-Professional-Cloud procedure"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "m",
+      "explanation": "**GCP-Professional-Cloud M Solution:** Implement GCP-Professional-Cloud backup strategy for compliance. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-M025",
+      "question": "Configure GCP-Professional-Cloud load balancer for high availability",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Correct GCP-Professional-Cloud procedure",
+        "Incorrect approach"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "m",
+      "explanation": "**GCP-Professional-Cloud M Solution:** Configure GCP-Professional-Cloud load balancer for high availability. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-M026",
+      "question": "Implement GCP-Professional-Cloud backup strategy for compliance",
+      "options": [
+        "Dangerous method",
+        "Correct GCP-Professional-Cloud procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "m",
+      "explanation": "**GCP-Professional-Cloud M Solution:** Implement GCP-Professional-Cloud backup strategy for compliance. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-M027",
+      "question": "Optimize GCP-Professional-Cloud query performance",
+      "options": [
+        "Dangerous method",
+        "Correct GCP-Professional-Cloud procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "m",
+      "explanation": "**GCP-Professional-Cloud M Solution:** Optimize GCP-Professional-Cloud query performance. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-M028",
+      "question": "Troubleshoot GCP-Professional-Cloud connectivity issue between VLANs",
+      "options": [
+        "Correct GCP-Professional-Cloud procedure",
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "m",
+      "explanation": "**GCP-Professional-Cloud M Solution:** Troubleshoot GCP-Professional-Cloud connectivity issue between VLANs. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-M029",
+      "question": "Set up GCP-Professional-Cloud failover clustering",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct GCP-Professional-Cloud procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "m",
+      "explanation": "**GCP-Professional-Cloud M Solution:** Set up GCP-Professional-Cloud failover clustering. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-M030",
+      "question": "Implement GCP-Professional-Cloud backup strategy for compliance",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Correct GCP-Professional-Cloud procedure",
+        "Incorrect approach"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "m",
+      "explanation": "**GCP-Professional-Cloud M Solution:** Implement GCP-Professional-Cloud backup strategy for compliance. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-M031",
+      "question": "Implement GCP-Professional-Cloud backup strategy for compliance",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Correct GCP-Professional-Cloud procedure",
+        "Incorrect approach"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "m",
+      "explanation": "**GCP-Professional-Cloud M Solution:** Implement GCP-Professional-Cloud backup strategy for compliance. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-M032",
+      "question": "Set up GCP-Professional-Cloud failover clustering",
+      "options": [
+        "Incorrect approach",
+        "Correct GCP-Professional-Cloud procedure",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "m",
+      "explanation": "**GCP-Professional-Cloud M Solution:** Set up GCP-Professional-Cloud failover clustering. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-M033",
+      "question": "Troubleshoot GCP-Professional-Cloud connectivity issue between VLANs",
+      "options": [
+        "Correct GCP-Professional-Cloud procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "m",
+      "explanation": "**GCP-Professional-Cloud M Solution:** Troubleshoot GCP-Professional-Cloud connectivity issue between VLANs. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-M034",
+      "question": "Implement GCP-Professional-Cloud backup strategy for compliance",
+      "options": [
+        "Correct GCP-Professional-Cloud procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "m",
+      "explanation": "**GCP-Professional-Cloud M Solution:** Implement GCP-Professional-Cloud backup strategy for compliance. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-M035",
+      "question": "Configure GCP-Professional-Cloud load balancer for high availability",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct GCP-Professional-Cloud procedure"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "m",
+      "explanation": "**GCP-Professional-Cloud M Solution:** Configure GCP-Professional-Cloud load balancer for high availability. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-M036",
+      "question": "Optimize GCP-Professional-Cloud query performance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct GCP-Professional-Cloud procedure"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "m",
+      "explanation": "**GCP-Professional-Cloud M Solution:** Optimize GCP-Professional-Cloud query performance. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-M037",
+      "question": "Set up GCP-Professional-Cloud failover clustering",
+      "options": [
+        "Dangerous method",
+        "Correct GCP-Professional-Cloud procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "m",
+      "explanation": "**GCP-Professional-Cloud M Solution:** Set up GCP-Professional-Cloud failover clustering. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-M038",
+      "question": "Implement GCP-Professional-Cloud backup strategy for compliance",
+      "options": [
+        "Partially correct",
+        "Correct GCP-Professional-Cloud procedure",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "m",
+      "explanation": "**GCP-Professional-Cloud M Solution:** Implement GCP-Professional-Cloud backup strategy for compliance. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-M039",
+      "question": "Troubleshoot GCP-Professional-Cloud connectivity issue between VLANs",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct GCP-Professional-Cloud procedure"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "m",
+      "explanation": "**GCP-Professional-Cloud M Solution:** Troubleshoot GCP-Professional-Cloud connectivity issue between VLANs. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-M040",
+      "question": "Optimize GCP-Professional-Cloud query performance",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct GCP-Professional-Cloud procedure"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "m",
+      "explanation": "**GCP-Professional-Cloud M Solution:** Optimize GCP-Professional-Cloud query performance. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-M041",
+      "question": "Implement GCP-Professional-Cloud backup strategy for compliance",
+      "options": [
+        "Partially correct",
+        "Correct GCP-Professional-Cloud procedure",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "m",
+      "explanation": "**GCP-Professional-Cloud M Solution:** Implement GCP-Professional-Cloud backup strategy for compliance. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-M042",
+      "question": "Configure GCP-Professional-Cloud load balancer for high availability",
+      "options": [
+        "Correct GCP-Professional-Cloud procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "m",
+      "explanation": "**GCP-Professional-Cloud M Solution:** Configure GCP-Professional-Cloud load balancer for high availability. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-M043",
+      "question": "Troubleshoot GCP-Professional-Cloud connectivity issue between VLANs",
+      "options": [
+        "Correct GCP-Professional-Cloud procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "m",
+      "explanation": "**GCP-Professional-Cloud M Solution:** Troubleshoot GCP-Professional-Cloud connectivity issue between VLANs. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-M044",
+      "question": "Troubleshoot GCP-Professional-Cloud connectivity issue between VLANs",
+      "options": [
+        "Dangerous method",
+        "Correct GCP-Professional-Cloud procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "m",
+      "explanation": "**GCP-Professional-Cloud M Solution:** Troubleshoot GCP-Professional-Cloud connectivity issue between VLANs. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-M045",
+      "question": "Implement GCP-Professional-Cloud backup strategy for compliance",
+      "options": [
+        "Correct GCP-Professional-Cloud procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "m",
+      "explanation": "**GCP-Professional-Cloud M Solution:** Implement GCP-Professional-Cloud backup strategy for compliance. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-M046",
+      "question": "Set up GCP-Professional-Cloud failover clustering",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct GCP-Professional-Cloud procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "m",
+      "explanation": "**GCP-Professional-Cloud M Solution:** Set up GCP-Professional-Cloud failover clustering. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-M047",
+      "question": "Configure GCP-Professional-Cloud load balancer for high availability",
+      "options": [
+        "Correct GCP-Professional-Cloud procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "m",
+      "explanation": "**GCP-Professional-Cloud M Solution:** Configure GCP-Professional-Cloud load balancer for high availability. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-M048",
+      "question": "Implement GCP-Professional-Cloud backup strategy for compliance",
+      "options": [
+        "Incorrect approach",
+        "Correct GCP-Professional-Cloud procedure",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "m",
+      "explanation": "**GCP-Professional-Cloud M Solution:** Implement GCP-Professional-Cloud backup strategy for compliance. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-M049",
+      "question": "Implement GCP-Professional-Cloud backup strategy for compliance",
+      "options": [
+        "Dangerous method",
+        "Correct GCP-Professional-Cloud procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "m",
+      "explanation": "**GCP-Professional-Cloud M Solution:** Implement GCP-Professional-Cloud backup strategy for compliance. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-M050",
+      "question": "Troubleshoot GCP-Professional-Cloud connectivity issue between VLANs",
+      "options": [
+        "Correct GCP-Professional-Cloud procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "m",
+      "explanation": "**GCP-Professional-Cloud M Solution:** Troubleshoot GCP-Professional-Cloud connectivity issue between VLANs. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    }
+  ],
+  "hard": [
+    {
+      "id": "GCP-Professional-Cloud-H001",
+      "question": "Create disaster recovery plan with RTO < 15min for GCP-Professional-Cloud",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct GCP-Professional-Cloud procedure"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "h",
+      "explanation": "**GCP-Professional-Cloud H Solution:** Create disaster recovery plan with RTO < 15min for GCP-Professional-Cloud. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-H002",
+      "question": "Create disaster recovery plan with RTO < 15min for GCP-Professional-Cloud",
+      "options": [
+        "Correct GCP-Professional-Cloud procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "h",
+      "explanation": "**GCP-Professional-Cloud H Solution:** Create disaster recovery plan with RTO < 15min for GCP-Professional-Cloud. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-H003",
+      "question": "Implement zero-trust security model in GCP-Professional-Cloud",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct GCP-Professional-Cloud procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "h",
+      "explanation": "**GCP-Professional-Cloud H Solution:** Implement zero-trust security model in GCP-Professional-Cloud. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-H004",
+      "question": "Design GCP-Professional-Cloud architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Incorrect approach",
+        "Correct GCP-Professional-Cloud procedure",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "h",
+      "explanation": "**GCP-Professional-Cloud H Solution:** Design GCP-Professional-Cloud architecture for 10k users with 99.99% uptime. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-H005",
+      "question": "Optimize GCP-Professional-Cloud performance under DDoS attack",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct GCP-Professional-Cloud procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "h",
+      "explanation": "**GCP-Professional-Cloud H Solution:** Optimize GCP-Professional-Cloud performance under DDoS attack. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-H006",
+      "question": "Implement zero-trust security model in GCP-Professional-Cloud",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Correct GCP-Professional-Cloud procedure",
+        "Incorrect approach"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "h",
+      "explanation": "**GCP-Professional-Cloud H Solution:** Implement zero-trust security model in GCP-Professional-Cloud. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-H007",
+      "question": "Implement zero-trust security model in GCP-Professional-Cloud",
+      "options": [
+        "Partially correct",
+        "Correct GCP-Professional-Cloud procedure",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "h",
+      "explanation": "**GCP-Professional-Cloud H Solution:** Implement zero-trust security model in GCP-Professional-Cloud. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-H008",
+      "question": "Optimize GCP-Professional-Cloud performance under DDoS attack",
+      "options": [
+        "Dangerous method",
+        "Correct GCP-Professional-Cloud procedure",
+        "Incorrect approach",
+        "Partially correct"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "h",
+      "explanation": "**GCP-Professional-Cloud H Solution:** Optimize GCP-Professional-Cloud performance under DDoS attack. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-H009",
+      "question": "Design GCP-Professional-Cloud architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Correct GCP-Professional-Cloud procedure",
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "h",
+      "explanation": "**GCP-Professional-Cloud H Solution:** Design GCP-Professional-Cloud architecture for 10k users with 99.99% uptime. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-H010",
+      "question": "Create disaster recovery plan with RTO < 15min for GCP-Professional-Cloud",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Correct GCP-Professional-Cloud procedure",
+        "Incorrect approach"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "h",
+      "explanation": "**GCP-Professional-Cloud H Solution:** Create disaster recovery plan with RTO < 15min for GCP-Professional-Cloud. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-H011",
+      "question": "Migrate legacy GCP-Professional-Cloud systems to cloud-native architecture",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct GCP-Professional-Cloud procedure"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "h",
+      "explanation": "**GCP-Professional-Cloud H Solution:** Migrate legacy GCP-Professional-Cloud systems to cloud-native architecture. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-H012",
+      "question": "Design GCP-Professional-Cloud architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct GCP-Professional-Cloud procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "h",
+      "explanation": "**GCP-Professional-Cloud H Solution:** Design GCP-Professional-Cloud architecture for 10k users with 99.99% uptime. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-H013",
+      "question": "Design GCP-Professional-Cloud architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct GCP-Professional-Cloud procedure"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "h",
+      "explanation": "**GCP-Professional-Cloud H Solution:** Design GCP-Professional-Cloud architecture for 10k users with 99.99% uptime. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-H014",
+      "question": "Design GCP-Professional-Cloud architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Correct GCP-Professional-Cloud procedure",
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "h",
+      "explanation": "**GCP-Professional-Cloud H Solution:** Design GCP-Professional-Cloud architecture for 10k users with 99.99% uptime. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-H015",
+      "question": "Implement zero-trust security model in GCP-Professional-Cloud",
+      "options": [
+        "Dangerous method",
+        "Correct GCP-Professional-Cloud procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "h",
+      "explanation": "**GCP-Professional-Cloud H Solution:** Implement zero-trust security model in GCP-Professional-Cloud. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-H016",
+      "question": "Create disaster recovery plan with RTO < 15min for GCP-Professional-Cloud",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Correct GCP-Professional-Cloud procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "h",
+      "explanation": "**GCP-Professional-Cloud H Solution:** Create disaster recovery plan with RTO < 15min for GCP-Professional-Cloud. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-H017",
+      "question": "Design GCP-Professional-Cloud architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Dangerous method",
+        "Correct GCP-Professional-Cloud procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "h",
+      "explanation": "**GCP-Professional-Cloud H Solution:** Design GCP-Professional-Cloud architecture for 10k users with 99.99% uptime. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-H018",
+      "question": "Implement zero-trust security model in GCP-Professional-Cloud",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct GCP-Professional-Cloud procedure"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "h",
+      "explanation": "**GCP-Professional-Cloud H Solution:** Implement zero-trust security model in GCP-Professional-Cloud. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-H019",
+      "question": "Optimize GCP-Professional-Cloud performance under DDoS attack",
+      "options": [
+        "Dangerous method",
+        "Correct GCP-Professional-Cloud procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "h",
+      "explanation": "**GCP-Professional-Cloud H Solution:** Optimize GCP-Professional-Cloud performance under DDoS attack. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-H020",
+      "question": "Implement zero-trust security model in GCP-Professional-Cloud",
+      "options": [
+        "Dangerous method",
+        "Correct GCP-Professional-Cloud procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "h",
+      "explanation": "**GCP-Professional-Cloud H Solution:** Implement zero-trust security model in GCP-Professional-Cloud. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-H021",
+      "question": "Optimize GCP-Professional-Cloud performance under DDoS attack",
+      "options": [
+        "Correct GCP-Professional-Cloud procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "h",
+      "explanation": "**GCP-Professional-Cloud H Solution:** Optimize GCP-Professional-Cloud performance under DDoS attack. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-H022",
+      "question": "Optimize GCP-Professional-Cloud performance under DDoS attack",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Correct GCP-Professional-Cloud procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "h",
+      "explanation": "**GCP-Professional-Cloud H Solution:** Optimize GCP-Professional-Cloud performance under DDoS attack. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-H023",
+      "question": "Optimize GCP-Professional-Cloud performance under DDoS attack",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct GCP-Professional-Cloud procedure"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "h",
+      "explanation": "**GCP-Professional-Cloud H Solution:** Optimize GCP-Professional-Cloud performance under DDoS attack. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-H024",
+      "question": "Design GCP-Professional-Cloud architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct GCP-Professional-Cloud procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "h",
+      "explanation": "**GCP-Professional-Cloud H Solution:** Design GCP-Professional-Cloud architecture for 10k users with 99.99% uptime. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-H025",
+      "question": "Migrate legacy GCP-Professional-Cloud systems to cloud-native architecture",
+      "options": [
+        "Dangerous method",
+        "Correct GCP-Professional-Cloud procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "h",
+      "explanation": "**GCP-Professional-Cloud H Solution:** Migrate legacy GCP-Professional-Cloud systems to cloud-native architecture. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-H026",
+      "question": "Migrate legacy GCP-Professional-Cloud systems to cloud-native architecture",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct GCP-Professional-Cloud procedure"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "h",
+      "explanation": "**GCP-Professional-Cloud H Solution:** Migrate legacy GCP-Professional-Cloud systems to cloud-native architecture. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-H027",
+      "question": "Design GCP-Professional-Cloud architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Correct GCP-Professional-Cloud procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "h",
+      "explanation": "**GCP-Professional-Cloud H Solution:** Design GCP-Professional-Cloud architecture for 10k users with 99.99% uptime. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-H028",
+      "question": "Design GCP-Professional-Cloud architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Correct GCP-Professional-Cloud procedure",
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "h",
+      "explanation": "**GCP-Professional-Cloud H Solution:** Design GCP-Professional-Cloud architecture for 10k users with 99.99% uptime. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-H029",
+      "question": "Create disaster recovery plan with RTO < 15min for GCP-Professional-Cloud",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct GCP-Professional-Cloud procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "h",
+      "explanation": "**GCP-Professional-Cloud H Solution:** Create disaster recovery plan with RTO < 15min for GCP-Professional-Cloud. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-H030",
+      "question": "Implement zero-trust security model in GCP-Professional-Cloud",
+      "options": [
+        "Dangerous method",
+        "Correct GCP-Professional-Cloud procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "h",
+      "explanation": "**GCP-Professional-Cloud H Solution:** Implement zero-trust security model in GCP-Professional-Cloud. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-H031",
+      "question": "Implement zero-trust security model in GCP-Professional-Cloud",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct GCP-Professional-Cloud procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "h",
+      "explanation": "**GCP-Professional-Cloud H Solution:** Implement zero-trust security model in GCP-Professional-Cloud. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-H032",
+      "question": "Create disaster recovery plan with RTO < 15min for GCP-Professional-Cloud",
+      "options": [
+        "Correct GCP-Professional-Cloud procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "h",
+      "explanation": "**GCP-Professional-Cloud H Solution:** Create disaster recovery plan with RTO < 15min for GCP-Professional-Cloud. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-H033",
+      "question": "Design GCP-Professional-Cloud architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct GCP-Professional-Cloud procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "h",
+      "explanation": "**GCP-Professional-Cloud H Solution:** Design GCP-Professional-Cloud architecture for 10k users with 99.99% uptime. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-H034",
+      "question": "Migrate legacy GCP-Professional-Cloud systems to cloud-native architecture",
+      "options": [
+        "Correct GCP-Professional-Cloud procedure",
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "h",
+      "explanation": "**GCP-Professional-Cloud H Solution:** Migrate legacy GCP-Professional-Cloud systems to cloud-native architecture. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-H035",
+      "question": "Create disaster recovery plan with RTO < 15min for GCP-Professional-Cloud",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct GCP-Professional-Cloud procedure"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "h",
+      "explanation": "**GCP-Professional-Cloud H Solution:** Create disaster recovery plan with RTO < 15min for GCP-Professional-Cloud. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-H036",
+      "question": "Create disaster recovery plan with RTO < 15min for GCP-Professional-Cloud",
+      "options": [
+        "Dangerous method",
+        "Correct GCP-Professional-Cloud procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "h",
+      "explanation": "**GCP-Professional-Cloud H Solution:** Create disaster recovery plan with RTO < 15min for GCP-Professional-Cloud. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-H037",
+      "question": "Optimize GCP-Professional-Cloud performance under DDoS attack",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct GCP-Professional-Cloud procedure"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "h",
+      "explanation": "**GCP-Professional-Cloud H Solution:** Optimize GCP-Professional-Cloud performance under DDoS attack. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-H038",
+      "question": "Migrate legacy GCP-Professional-Cloud systems to cloud-native architecture",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct GCP-Professional-Cloud procedure"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "h",
+      "explanation": "**GCP-Professional-Cloud H Solution:** Migrate legacy GCP-Professional-Cloud systems to cloud-native architecture. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-H039",
+      "question": "Design GCP-Professional-Cloud architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Dangerous method",
+        "Correct GCP-Professional-Cloud procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "h",
+      "explanation": "**GCP-Professional-Cloud H Solution:** Design GCP-Professional-Cloud architecture for 10k users with 99.99% uptime. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-H040",
+      "question": "Implement zero-trust security model in GCP-Professional-Cloud",
+      "options": [
+        "Incorrect approach",
+        "Correct GCP-Professional-Cloud procedure",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "h",
+      "explanation": "**GCP-Professional-Cloud H Solution:** Implement zero-trust security model in GCP-Professional-Cloud. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-H041",
+      "question": "Design GCP-Professional-Cloud architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct GCP-Professional-Cloud procedure"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "h",
+      "explanation": "**GCP-Professional-Cloud H Solution:** Design GCP-Professional-Cloud architecture for 10k users with 99.99% uptime. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-H042",
+      "question": "Migrate legacy GCP-Professional-Cloud systems to cloud-native architecture",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct GCP-Professional-Cloud procedure"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "h",
+      "explanation": "**GCP-Professional-Cloud H Solution:** Migrate legacy GCP-Professional-Cloud systems to cloud-native architecture. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-H043",
+      "question": "Optimize GCP-Professional-Cloud performance under DDoS attack",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct GCP-Professional-Cloud procedure"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "h",
+      "explanation": "**GCP-Professional-Cloud H Solution:** Optimize GCP-Professional-Cloud performance under DDoS attack. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-H044",
+      "question": "Design GCP-Professional-Cloud architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Dangerous method",
+        "Correct GCP-Professional-Cloud procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "h",
+      "explanation": "**GCP-Professional-Cloud H Solution:** Design GCP-Professional-Cloud architecture for 10k users with 99.99% uptime. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-H045",
+      "question": "Create disaster recovery plan with RTO < 15min for GCP-Professional-Cloud",
+      "options": [
+        "Partially correct",
+        "Correct GCP-Professional-Cloud procedure",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "h",
+      "explanation": "**GCP-Professional-Cloud H Solution:** Create disaster recovery plan with RTO < 15min for GCP-Professional-Cloud. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-H046",
+      "question": "Implement zero-trust security model in GCP-Professional-Cloud",
+      "options": [
+        "Correct GCP-Professional-Cloud procedure",
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "h",
+      "explanation": "**GCP-Professional-Cloud H Solution:** Implement zero-trust security model in GCP-Professional-Cloud. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-H047",
+      "question": "Create disaster recovery plan with RTO < 15min for GCP-Professional-Cloud",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct GCP-Professional-Cloud procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "h",
+      "explanation": "**GCP-Professional-Cloud H Solution:** Create disaster recovery plan with RTO < 15min for GCP-Professional-Cloud. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-H048",
+      "question": "Migrate legacy GCP-Professional-Cloud systems to cloud-native architecture",
+      "options": [
+        "Dangerous method",
+        "Correct GCP-Professional-Cloud procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "h",
+      "explanation": "**GCP-Professional-Cloud H Solution:** Migrate legacy GCP-Professional-Cloud systems to cloud-native architecture. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-H049",
+      "question": "Design GCP-Professional-Cloud architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Correct GCP-Professional-Cloud procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "h",
+      "explanation": "**GCP-Professional-Cloud H Solution:** Design GCP-Professional-Cloud architecture for 10k users with 99.99% uptime. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    },
+    {
+      "id": "GCP-Professional-Cloud-H050",
+      "question": "Create disaster recovery plan with RTO < 15min for GCP-Professional-Cloud",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct GCP-Professional-Cloud procedure"
+      ],
+      "answer": "Correct GCP-Professional-Cloud procedure",
+      "difficulty": "h",
+      "explanation": "**GCP-Professional-Cloud H Solution:** Create disaster recovery plan with RTO < 15min for GCP-Professional-Cloud. Always verify GCP-Professional-Cloud documentation and test in lab environment first."
+    }
+  ],
+  "scenarios": [
+    {
+      "id": "GCP-Professional-Cloud-S01-01",
+      "question": "1. Security incident response: ransomware attack detected in GCP-Professional-Cloud environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S01-02",
+      "question": "1. Security incident response: ransomware attack detected in GCP-Professional-Cloud environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S01-03",
+      "question": "1. Security incident response: ransomware attack detected in GCP-Professional-Cloud environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S01-04",
+      "question": "1. Security incident response: ransomware attack detected in GCP-Professional-Cloud environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S01-05",
+      "question": "1. Security incident response: ransomware attack detected in GCP-Professional-Cloud environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S02-01",
+      "question": "2. VPN connectivity failure for remote users in GCP-Professional-Cloud environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S02-02",
+      "question": "2. VPN connectivity failure for remote users in GCP-Professional-Cloud environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S02-03",
+      "question": "2. VPN connectivity failure for remote users in GCP-Professional-Cloud environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S02-04",
+      "question": "2. VPN connectivity failure for remote users in GCP-Professional-Cloud environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S02-05",
+      "question": "2. VPN connectivity failure for remote users in GCP-Professional-Cloud environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S03-01",
+      "question": "3. Network latency issue affecting VoIP calls in GCP-Professional-Cloud environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S03-02",
+      "question": "3. Network latency issue affecting VoIP calls in GCP-Professional-Cloud environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S03-03",
+      "question": "3. Network latency issue affecting VoIP calls in GCP-Professional-Cloud environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S03-04",
+      "question": "3. Network latency issue affecting VoIP calls in GCP-Professional-Cloud environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S03-05",
+      "question": "3. Network latency issue affecting VoIP calls in GCP-Professional-Cloud environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S04-01",
+      "question": "4. Server overload during quarterly report generation in GCP-Professional-Cloud environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S04-02",
+      "question": "4. Server overload during quarterly report generation in GCP-Professional-Cloud environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S04-03",
+      "question": "4. Server overload during quarterly report generation in GCP-Professional-Cloud environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S04-04",
+      "question": "4. Server overload during quarterly report generation in GCP-Professional-Cloud environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S04-05",
+      "question": "4. Server overload during quarterly report generation in GCP-Professional-Cloud environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S05-01",
+      "question": "5. Load balancer health check failing in GCP-Professional-Cloud environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S05-02",
+      "question": "5. Load balancer health check failing in GCP-Professional-Cloud environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S05-03",
+      "question": "5. Load balancer health check failing in GCP-Professional-Cloud environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S05-04",
+      "question": "5. Load balancer health check failing in GCP-Professional-Cloud environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S05-05",
+      "question": "5. Load balancer health check failing in GCP-Professional-Cloud environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S06-01",
+      "question": "6. Production outage during peak hours: diagnose and resolve in GCP-Professional-Cloud environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S06-02",
+      "question": "6. Production outage during peak hours: diagnose and resolve in GCP-Professional-Cloud environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S06-03",
+      "question": "6. Production outage during peak hours: diagnose and resolve in GCP-Professional-Cloud environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S06-04",
+      "question": "6. Production outage during peak hours: diagnose and resolve in GCP-Professional-Cloud environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S06-05",
+      "question": "6. Production outage during peak hours: diagnose and resolve in GCP-Professional-Cloud environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S07-01",
+      "question": "7. Cloud migration failure: rollback strategy in GCP-Professional-Cloud environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S07-02",
+      "question": "7. Cloud migration failure: rollback strategy in GCP-Professional-Cloud environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S07-03",
+      "question": "7. Cloud migration failure: rollback strategy in GCP-Professional-Cloud environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S07-04",
+      "question": "7. Cloud migration failure: rollback strategy in GCP-Professional-Cloud environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S07-05",
+      "question": "7. Cloud migration failure: rollback strategy in GCP-Professional-Cloud environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S08-01",
+      "question": "8. VPN connectivity failure for remote users in GCP-Professional-Cloud environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S08-02",
+      "question": "8. VPN connectivity failure for remote users in GCP-Professional-Cloud environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S08-03",
+      "question": "8. VPN connectivity failure for remote users in GCP-Professional-Cloud environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S08-04",
+      "question": "8. VPN connectivity failure for remote users in GCP-Professional-Cloud environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S08-05",
+      "question": "8. VPN connectivity failure for remote users in GCP-Professional-Cloud environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S09-01",
+      "question": "9. Firewall blocking legitimate traffic in GCP-Professional-Cloud environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S09-02",
+      "question": "9. Firewall blocking legitimate traffic in GCP-Professional-Cloud environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S09-03",
+      "question": "9. Firewall blocking legitimate traffic in GCP-Professional-Cloud environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S09-04",
+      "question": "9. Firewall blocking legitimate traffic in GCP-Professional-Cloud environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S09-05",
+      "question": "9. Firewall blocking legitimate traffic in GCP-Professional-Cloud environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S10-01",
+      "question": "10. Firewall blocking legitimate traffic in GCP-Professional-Cloud environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S10-02",
+      "question": "10. Firewall blocking legitimate traffic in GCP-Professional-Cloud environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S10-03",
+      "question": "10. Firewall blocking legitimate traffic in GCP-Professional-Cloud environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S10-04",
+      "question": "10. Firewall blocking legitimate traffic in GCP-Professional-Cloud environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S10-05",
+      "question": "10. Firewall blocking legitimate traffic in GCP-Professional-Cloud environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S11-01",
+      "question": "11. Load balancer health check failing in GCP-Professional-Cloud environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S11-02",
+      "question": "11. Load balancer health check failing in GCP-Professional-Cloud environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S11-03",
+      "question": "11. Load balancer health check failing in GCP-Professional-Cloud environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S11-04",
+      "question": "11. Load balancer health check failing in GCP-Professional-Cloud environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S11-05",
+      "question": "11. Load balancer health check failing in GCP-Professional-Cloud environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S12-01",
+      "question": "12. Production outage during peak hours: diagnose and resolve in GCP-Professional-Cloud environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S12-02",
+      "question": "12. Production outage during peak hours: diagnose and resolve in GCP-Professional-Cloud environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S12-03",
+      "question": "12. Production outage during peak hours: diagnose and resolve in GCP-Professional-Cloud environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S12-04",
+      "question": "12. Production outage during peak hours: diagnose and resolve in GCP-Professional-Cloud environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S12-05",
+      "question": "12. Production outage during peak hours: diagnose and resolve in GCP-Professional-Cloud environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S13-01",
+      "question": "13. VPN connectivity failure for remote users in GCP-Professional-Cloud environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S13-02",
+      "question": "13. VPN connectivity failure for remote users in GCP-Professional-Cloud environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S13-03",
+      "question": "13. VPN connectivity failure for remote users in GCP-Professional-Cloud environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S13-04",
+      "question": "13. VPN connectivity failure for remote users in GCP-Professional-Cloud environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S13-05",
+      "question": "13. VPN connectivity failure for remote users in GCP-Professional-Cloud environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S14-01",
+      "question": "14. Network latency issue affecting VoIP calls in GCP-Professional-Cloud environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S14-02",
+      "question": "14. Network latency issue affecting VoIP calls in GCP-Professional-Cloud environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S14-03",
+      "question": "14. Network latency issue affecting VoIP calls in GCP-Professional-Cloud environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S14-04",
+      "question": "14. Network latency issue affecting VoIP calls in GCP-Professional-Cloud environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S14-05",
+      "question": "14. Network latency issue affecting VoIP calls in GCP-Professional-Cloud environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S15-01",
+      "question": "15. Backup failure during scheduled window in GCP-Professional-Cloud environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S15-02",
+      "question": "15. Backup failure during scheduled window in GCP-Professional-Cloud environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S15-03",
+      "question": "15. Backup failure during scheduled window in GCP-Professional-Cloud environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S15-04",
+      "question": "15. Backup failure during scheduled window in GCP-Professional-Cloud environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S15-05",
+      "question": "15. Backup failure during scheduled window in GCP-Professional-Cloud environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S16-01",
+      "question": "16. Server overload during quarterly report generation in GCP-Professional-Cloud environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S16-02",
+      "question": "16. Server overload during quarterly report generation in GCP-Professional-Cloud environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S16-03",
+      "question": "16. Server overload during quarterly report generation in GCP-Professional-Cloud environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S16-04",
+      "question": "16. Server overload during quarterly report generation in GCP-Professional-Cloud environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S16-05",
+      "question": "16. Server overload during quarterly report generation in GCP-Professional-Cloud environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S17-01",
+      "question": "17. VPN connectivity failure for remote users in GCP-Professional-Cloud environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S17-02",
+      "question": "17. VPN connectivity failure for remote users in GCP-Professional-Cloud environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S17-03",
+      "question": "17. VPN connectivity failure for remote users in GCP-Professional-Cloud environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S17-04",
+      "question": "17. VPN connectivity failure for remote users in GCP-Professional-Cloud environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S17-05",
+      "question": "17. VPN connectivity failure for remote users in GCP-Professional-Cloud environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S18-01",
+      "question": "18. Load balancer health check failing in GCP-Professional-Cloud environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S18-02",
+      "question": "18. Load balancer health check failing in GCP-Professional-Cloud environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S18-03",
+      "question": "18. Load balancer health check failing in GCP-Professional-Cloud environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S18-04",
+      "question": "18. Load balancer health check failing in GCP-Professional-Cloud environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S18-05",
+      "question": "18. Load balancer health check failing in GCP-Professional-Cloud environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S19-01",
+      "question": "19. Cloud migration failure: rollback strategy in GCP-Professional-Cloud environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S19-02",
+      "question": "19. Cloud migration failure: rollback strategy in GCP-Professional-Cloud environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S19-03",
+      "question": "19. Cloud migration failure: rollback strategy in GCP-Professional-Cloud environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S19-04",
+      "question": "19. Cloud migration failure: rollback strategy in GCP-Professional-Cloud environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S19-05",
+      "question": "19. Cloud migration failure: rollback strategy in GCP-Professional-Cloud environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S20-01",
+      "question": "20. Security incident response: ransomware attack detected in GCP-Professional-Cloud environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S20-02",
+      "question": "20. Security incident response: ransomware attack detected in GCP-Professional-Cloud environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S20-03",
+      "question": "20. Security incident response: ransomware attack detected in GCP-Professional-Cloud environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S20-04",
+      "question": "20. Security incident response: ransomware attack detected in GCP-Professional-Cloud environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    },
+    {
+      "id": "GCP-Professional-Cloud-S20-05",
+      "question": "20. Security incident response: ransomware attack detected in GCP-Professional-Cloud environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow GCP-Professional-Cloud troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow GCP-Professional-Cloud troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per GCP-Professional-Cloud best practices. Document all steps for RCA."
+    }
+  ]
+}

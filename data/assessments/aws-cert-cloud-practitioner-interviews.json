@@ -1,0 +1,211 @@
+[
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-I01",
+    "title": "AWS-Certified-Cloud-Practitioner Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level AWS-Certified-Cloud-Practitioner certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain AWS-Certified-Cloud-Practitioner HA design",
+      "Troubleshoot AWS-Certified-Cloud-Practitioner outage",
+      "Scale AWS-Certified-Cloud-Practitioner for 100k users"
+    ],
+    "expected_skills": [
+      "Production AWS-Certified-Cloud-Practitioner experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-I02",
+    "title": "AWS-Certified-Cloud-Practitioner Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level AWS-Certified-Cloud-Practitioner certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain AWS-Certified-Cloud-Practitioner HA design",
+      "Troubleshoot AWS-Certified-Cloud-Practitioner outage",
+      "Scale AWS-Certified-Cloud-Practitioner for 100k users"
+    ],
+    "expected_skills": [
+      "Production AWS-Certified-Cloud-Practitioner experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-I03",
+    "title": "AWS-Certified-Cloud-Practitioner Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level AWS-Certified-Cloud-Practitioner certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain AWS-Certified-Cloud-Practitioner HA design",
+      "Troubleshoot AWS-Certified-Cloud-Practitioner outage",
+      "Scale AWS-Certified-Cloud-Practitioner for 100k users"
+    ],
+    "expected_skills": [
+      "Production AWS-Certified-Cloud-Practitioner experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-I04",
+    "title": "AWS-Certified-Cloud-Practitioner Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level AWS-Certified-Cloud-Practitioner certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain AWS-Certified-Cloud-Practitioner HA design",
+      "Troubleshoot AWS-Certified-Cloud-Practitioner outage",
+      "Scale AWS-Certified-Cloud-Practitioner for 100k users"
+    ],
+    "expected_skills": [
+      "Production AWS-Certified-Cloud-Practitioner experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-I05",
+    "title": "AWS-Certified-Cloud-Practitioner Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level AWS-Certified-Cloud-Practitioner certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain AWS-Certified-Cloud-Practitioner HA design",
+      "Troubleshoot AWS-Certified-Cloud-Practitioner outage",
+      "Scale AWS-Certified-Cloud-Practitioner for 100k users"
+    ],
+    "expected_skills": [
+      "Production AWS-Certified-Cloud-Practitioner experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-I06",
+    "title": "AWS-Certified-Cloud-Practitioner Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level AWS-Certified-Cloud-Practitioner certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain AWS-Certified-Cloud-Practitioner HA design",
+      "Troubleshoot AWS-Certified-Cloud-Practitioner outage",
+      "Scale AWS-Certified-Cloud-Practitioner for 100k users"
+    ],
+    "expected_skills": [
+      "Production AWS-Certified-Cloud-Practitioner experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-I07",
+    "title": "AWS-Certified-Cloud-Practitioner Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level AWS-Certified-Cloud-Practitioner certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain AWS-Certified-Cloud-Practitioner HA design",
+      "Troubleshoot AWS-Certified-Cloud-Practitioner outage",
+      "Scale AWS-Certified-Cloud-Practitioner for 100k users"
+    ],
+    "expected_skills": [
+      "Production AWS-Certified-Cloud-Practitioner experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-I08",
+    "title": "AWS-Certified-Cloud-Practitioner Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level AWS-Certified-Cloud-Practitioner certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain AWS-Certified-Cloud-Practitioner HA design",
+      "Troubleshoot AWS-Certified-Cloud-Practitioner outage",
+      "Scale AWS-Certified-Cloud-Practitioner for 100k users"
+    ],
+    "expected_skills": [
+      "Production AWS-Certified-Cloud-Practitioner experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-I09",
+    "title": "AWS-Certified-Cloud-Practitioner Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level AWS-Certified-Cloud-Practitioner certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain AWS-Certified-Cloud-Practitioner HA design",
+      "Troubleshoot AWS-Certified-Cloud-Practitioner outage",
+      "Scale AWS-Certified-Cloud-Practitioner for 100k users"
+    ],
+    "expected_skills": [
+      "Production AWS-Certified-Cloud-Practitioner experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-I10",
+    "title": "AWS-Certified-Cloud-Practitioner Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level AWS-Certified-Cloud-Practitioner certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain AWS-Certified-Cloud-Practitioner HA design",
+      "Troubleshoot AWS-Certified-Cloud-Practitioner outage",
+      "Scale AWS-Certified-Cloud-Practitioner for 100k users"
+    ],
+    "expected_skills": [
+      "Production AWS-Certified-Cloud-Practitioner experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "ETH-001-E1",
+    "question": "What is 'White Box' penetration testing?",
+    "options": ["Testing with full knowledge of the target system", "Testing with no knowledge of the target", "Testing a cloud-only system", "Testing a physical network"],
+    "answer": "Testing with full knowledge of the target system",
+    "explanation": "White Box testing involves giving the tester full information about the system's internal workings and source code to perform an in-depth assessment.",
+    "tag": "Ethical Hacking",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "ETH-001-E2",
+    "question": "Which of these is a common reconnaissance tool?",
+    "options": ["Whois", "Putty", "Notepad", "Wireshark"],
+    "answer": "Whois",
+    "explanation": "Whois is a protocol used to query databases that store the registered users or assignees of an Internet resource, such as a domain name or IP address block.",
+    "tag": "Recon",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "ETH-001-M1",
+    "question": "What is the primary purpose of 'Nmap' (Network Mapper)?",
+    "options": ["Scanning networks for hosts and services to discover vulnerabilities", "Writing exploit code", "Intercepting user passwords", "Managing server backups"],
+    "answer": "Scanning networks for hosts and services to discover vulnerabilities",
+    "explanation": "Nmap is an open-source utility for network exploration and security auditing, used to discover hosts and services on a computer network.",
+    "tag": "Tools",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "ETH-001-M2",
+    "question": "Which of these represents a 'Social Engineering' attack?",
+    "options": ["Pretexting", "Buffer Overflow", "SQL Injection", "DDoS"],
+    "answer": "Pretexting",
+    "explanation": "Pretexting is a type of social engineering where an attacker invents a scenario (pretext) to convince a victim to reveal information or perform an action.",
+    "tag": "Social Engineering",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "ETH-001-H1",
+    "question": "What is 'Buffer Overflow' and how does it relate to exploitation?",
+    "options": ["When more data is written to a block of memory than it is allocated to hold", "When a server is overloaded with too many requests", "When a computer's CPU is running too hot", "A type of database indexing error"],
+    "answer": "When more data is written to a block of memory than it is allocated to hold",
+    "explanation": "Buffer overflows occur when data exceeds the boundaries of its buffer, leading to overwriting of adjacent memory and allowing attackers to inject and execute malicious code.",
+    "tag": "Exploitation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ETH-001-H2",
+    "question": "In a penetration test, what is 'Lateral Movement'?",
+    "options": ["Moving through a network from one system to another to find sensitive data", "Physically moving servers across a data center", "Scaling an application horizontally", "Migrating data between cloud providers"],
+    "answer": "Moving through a network from one system to another to find sensitive data",
+    "explanation": "Lateral movement is a common tactic where an attacker uses an initial entry point to pivot and gain access to more systems in the network.",
+    "tag": "Post-Exploitation",
+    "difficulty": "Hard"
+  }
+]

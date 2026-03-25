@@ -1,0 +1,3260 @@
+{
+  "easy": [
+    {
+      "id": "Azure-Fundamentals-E001",
+      "question": "Default subnet mask for Class C network in Azure-Fundamentals?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Azure-Fundamentals procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "e",
+      "explanation": "**Azure-Fundamentals E Solution:** Default subnet mask for Class C network in Azure-Fundamentals?. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-E002",
+      "question": "What does Azure ACL stand for?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Azure-Fundamentals procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "e",
+      "explanation": "**Azure-Fundamentals E Solution:** What does Azure ACL stand for?. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-E003",
+      "question": "What does Azure ACL stand for?",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Azure-Fundamentals procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "e",
+      "explanation": "**Azure-Fundamentals E Solution:** What does Azure ACL stand for?. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-E004",
+      "question": "Common protocol for Azure-Fundamentals remote access?",
+      "options": [
+        "Dangerous method",
+        "Correct Azure-Fundamentals procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "e",
+      "explanation": "**Azure-Fundamentals E Solution:** Common protocol for Azure-Fundamentals remote access?. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-E005",
+      "question": "Which port does Azure-Fundamentals service use by default?",
+      "options": [
+        "Dangerous method",
+        "Correct Azure-Fundamentals procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "e",
+      "explanation": "**Azure-Fundamentals E Solution:** Which port does Azure-Fundamentals service use by default?. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-E006",
+      "question": "What is the primary function of Azure DHCP?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Azure-Fundamentals procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "e",
+      "explanation": "**Azure-Fundamentals E Solution:** What is the primary function of Azure DHCP?. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-E007",
+      "question": "What is the primary function of Azure DHCP?",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Azure-Fundamentals procedure"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "e",
+      "explanation": "**Azure-Fundamentals E Solution:** What is the primary function of Azure DHCP?. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-E008",
+      "question": "Which port does Azure-Fundamentals service use by default?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Azure-Fundamentals procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "e",
+      "explanation": "**Azure-Fundamentals E Solution:** Which port does Azure-Fundamentals service use by default?. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-E009",
+      "question": "Which port does Azure-Fundamentals service use by default?",
+      "options": [
+        "Dangerous method",
+        "Correct Azure-Fundamentals procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "e",
+      "explanation": "**Azure-Fundamentals E Solution:** Which port does Azure-Fundamentals service use by default?. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-E010",
+      "question": "Common protocol for Azure-Fundamentals remote access?",
+      "options": [
+        "Correct Azure-Fundamentals procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "e",
+      "explanation": "**Azure-Fundamentals E Solution:** Common protocol for Azure-Fundamentals remote access?. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-E011",
+      "question": "Which port does Azure-Fundamentals service use by default?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Azure-Fundamentals procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "e",
+      "explanation": "**Azure-Fundamentals E Solution:** Which port does Azure-Fundamentals service use by default?. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-E012",
+      "question": "What is the primary function of Azure DHCP?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Azure-Fundamentals procedure"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "e",
+      "explanation": "**Azure-Fundamentals E Solution:** What is the primary function of Azure DHCP?. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-E013",
+      "question": "Default subnet mask for Class C network in Azure-Fundamentals?",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Azure-Fundamentals procedure"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "e",
+      "explanation": "**Azure-Fundamentals E Solution:** Default subnet mask for Class C network in Azure-Fundamentals?. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-E014",
+      "question": "Which port does Azure-Fundamentals service use by default?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Azure-Fundamentals procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "e",
+      "explanation": "**Azure-Fundamentals E Solution:** Which port does Azure-Fundamentals service use by default?. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-E015",
+      "question": "Which port does Azure-Fundamentals service use by default?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Azure-Fundamentals procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "e",
+      "explanation": "**Azure-Fundamentals E Solution:** Which port does Azure-Fundamentals service use by default?. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-E016",
+      "question": "What is the primary function of Azure DHCP?",
+      "options": [
+        "Dangerous method",
+        "Correct Azure-Fundamentals procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "e",
+      "explanation": "**Azure-Fundamentals E Solution:** What is the primary function of Azure DHCP?. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-E017",
+      "question": "What does Azure ACL stand for?",
+      "options": [
+        "Dangerous method",
+        "Correct Azure-Fundamentals procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "e",
+      "explanation": "**Azure-Fundamentals E Solution:** What does Azure ACL stand for?. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-E018",
+      "question": "Default subnet mask for Class C network in Azure-Fundamentals?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Azure-Fundamentals procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "e",
+      "explanation": "**Azure-Fundamentals E Solution:** Default subnet mask for Class C network in Azure-Fundamentals?. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-E019",
+      "question": "Default subnet mask for Class C network in Azure-Fundamentals?",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Azure-Fundamentals procedure"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "e",
+      "explanation": "**Azure-Fundamentals E Solution:** Default subnet mask for Class C network in Azure-Fundamentals?. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-E020",
+      "question": "Default subnet mask for Class C network in Azure-Fundamentals?",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Azure-Fundamentals procedure"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "e",
+      "explanation": "**Azure-Fundamentals E Solution:** Default subnet mask for Class C network in Azure-Fundamentals?. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-E021",
+      "question": "Common protocol for Azure-Fundamentals remote access?",
+      "options": [
+        "Correct Azure-Fundamentals procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "e",
+      "explanation": "**Azure-Fundamentals E Solution:** Common protocol for Azure-Fundamentals remote access?. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-E022",
+      "question": "What does Azure ACL stand for?",
+      "options": [
+        "Correct Azure-Fundamentals procedure",
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "e",
+      "explanation": "**Azure-Fundamentals E Solution:** What does Azure ACL stand for?. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-E023",
+      "question": "What does Azure ACL stand for?",
+      "options": [
+        "Correct Azure-Fundamentals procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "e",
+      "explanation": "**Azure-Fundamentals E Solution:** What does Azure ACL stand for?. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-E024",
+      "question": "What does Azure ACL stand for?",
+      "options": [
+        "Correct Azure-Fundamentals procedure",
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "e",
+      "explanation": "**Azure-Fundamentals E Solution:** What does Azure ACL stand for?. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-E025",
+      "question": "What is the primary function of Azure DHCP?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Azure-Fundamentals procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "e",
+      "explanation": "**Azure-Fundamentals E Solution:** What is the primary function of Azure DHCP?. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-E026",
+      "question": "What is the primary function of Azure DHCP?",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Azure-Fundamentals procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "e",
+      "explanation": "**Azure-Fundamentals E Solution:** What is the primary function of Azure DHCP?. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-E027",
+      "question": "What is the primary function of Azure DHCP?",
+      "options": [
+        "Correct Azure-Fundamentals procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "e",
+      "explanation": "**Azure-Fundamentals E Solution:** What is the primary function of Azure DHCP?. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-E028",
+      "question": "What is the primary function of Azure DHCP?",
+      "options": [
+        "Incorrect approach",
+        "Correct Azure-Fundamentals procedure",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "e",
+      "explanation": "**Azure-Fundamentals E Solution:** What is the primary function of Azure DHCP?. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-E029",
+      "question": "Common protocol for Azure-Fundamentals remote access?",
+      "options": [
+        "Dangerous method",
+        "Correct Azure-Fundamentals procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "e",
+      "explanation": "**Azure-Fundamentals E Solution:** Common protocol for Azure-Fundamentals remote access?. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-E030",
+      "question": "Common protocol for Azure-Fundamentals remote access?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Azure-Fundamentals procedure"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "e",
+      "explanation": "**Azure-Fundamentals E Solution:** Common protocol for Azure-Fundamentals remote access?. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-E031",
+      "question": "Default subnet mask for Class C network in Azure-Fundamentals?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Azure-Fundamentals procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "e",
+      "explanation": "**Azure-Fundamentals E Solution:** Default subnet mask for Class C network in Azure-Fundamentals?. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-E032",
+      "question": "Default subnet mask for Class C network in Azure-Fundamentals?",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Azure-Fundamentals procedure"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "e",
+      "explanation": "**Azure-Fundamentals E Solution:** Default subnet mask for Class C network in Azure-Fundamentals?. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-E033",
+      "question": "What is the primary function of Azure DHCP?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Azure-Fundamentals procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "e",
+      "explanation": "**Azure-Fundamentals E Solution:** What is the primary function of Azure DHCP?. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-E034",
+      "question": "Default subnet mask for Class C network in Azure-Fundamentals?",
+      "options": [
+        "Incorrect approach",
+        "Correct Azure-Fundamentals procedure",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "e",
+      "explanation": "**Azure-Fundamentals E Solution:** Default subnet mask for Class C network in Azure-Fundamentals?. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-E035",
+      "question": "What is the primary function of Azure DHCP?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Azure-Fundamentals procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "e",
+      "explanation": "**Azure-Fundamentals E Solution:** What is the primary function of Azure DHCP?. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-E036",
+      "question": "Which port does Azure-Fundamentals service use by default?",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Azure-Fundamentals procedure"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "e",
+      "explanation": "**Azure-Fundamentals E Solution:** Which port does Azure-Fundamentals service use by default?. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-E037",
+      "question": "What does Azure ACL stand for?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Azure-Fundamentals procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "e",
+      "explanation": "**Azure-Fundamentals E Solution:** What does Azure ACL stand for?. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-E038",
+      "question": "What does Azure ACL stand for?",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Azure-Fundamentals procedure"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "e",
+      "explanation": "**Azure-Fundamentals E Solution:** What does Azure ACL stand for?. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-E039",
+      "question": "Which port does Azure-Fundamentals service use by default?",
+      "options": [
+        "Dangerous method",
+        "Correct Azure-Fundamentals procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "e",
+      "explanation": "**Azure-Fundamentals E Solution:** Which port does Azure-Fundamentals service use by default?. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-E040",
+      "question": "Default subnet mask for Class C network in Azure-Fundamentals?",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Azure-Fundamentals procedure"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "e",
+      "explanation": "**Azure-Fundamentals E Solution:** Default subnet mask for Class C network in Azure-Fundamentals?. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-E041",
+      "question": "Default subnet mask for Class C network in Azure-Fundamentals?",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Azure-Fundamentals procedure"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "e",
+      "explanation": "**Azure-Fundamentals E Solution:** Default subnet mask for Class C network in Azure-Fundamentals?. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-E042",
+      "question": "What does Azure ACL stand for?",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Azure-Fundamentals procedure"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "e",
+      "explanation": "**Azure-Fundamentals E Solution:** What does Azure ACL stand for?. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-E043",
+      "question": "Common protocol for Azure-Fundamentals remote access?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Azure-Fundamentals procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "e",
+      "explanation": "**Azure-Fundamentals E Solution:** Common protocol for Azure-Fundamentals remote access?. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-E044",
+      "question": "What is the primary function of Azure DHCP?",
+      "options": [
+        "Partially correct",
+        "Correct Azure-Fundamentals procedure",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "e",
+      "explanation": "**Azure-Fundamentals E Solution:** What is the primary function of Azure DHCP?. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-E045",
+      "question": "What does Azure ACL stand for?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Azure-Fundamentals procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "e",
+      "explanation": "**Azure-Fundamentals E Solution:** What does Azure ACL stand for?. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-E046",
+      "question": "Default subnet mask for Class C network in Azure-Fundamentals?",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Azure-Fundamentals procedure"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "e",
+      "explanation": "**Azure-Fundamentals E Solution:** Default subnet mask for Class C network in Azure-Fundamentals?. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-E047",
+      "question": "What does Azure ACL stand for?",
+      "options": [
+        "Partially correct",
+        "Correct Azure-Fundamentals procedure",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "e",
+      "explanation": "**Azure-Fundamentals E Solution:** What does Azure ACL stand for?. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-E048",
+      "question": "Default subnet mask for Class C network in Azure-Fundamentals?",
+      "options": [
+        "Dangerous method",
+        "Correct Azure-Fundamentals procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "e",
+      "explanation": "**Azure-Fundamentals E Solution:** Default subnet mask for Class C network in Azure-Fundamentals?. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-E049",
+      "question": "What is the primary function of Azure DHCP?",
+      "options": [
+        "Correct Azure-Fundamentals procedure",
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "e",
+      "explanation": "**Azure-Fundamentals E Solution:** What is the primary function of Azure DHCP?. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-E050",
+      "question": "Default subnet mask for Class C network in Azure-Fundamentals?",
+      "options": [
+        "Dangerous method",
+        "Correct Azure-Fundamentals procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "e",
+      "explanation": "**Azure-Fundamentals E Solution:** Default subnet mask for Class C network in Azure-Fundamentals?. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    }
+  ],
+  "medium": [
+    {
+      "id": "Azure-Fundamentals-M001",
+      "question": "Set up Azure-Fundamentals failover clustering",
+      "options": [
+        "Dangerous method",
+        "Correct Azure-Fundamentals procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "m",
+      "explanation": "**Azure-Fundamentals M Solution:** Set up Azure-Fundamentals failover clustering. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-M002",
+      "question": "Optimize Azure-Fundamentals query performance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Azure-Fundamentals procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "m",
+      "explanation": "**Azure-Fundamentals M Solution:** Optimize Azure-Fundamentals query performance. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-M003",
+      "question": "Troubleshoot Azure-Fundamentals connectivity issue between VLANs",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Azure-Fundamentals procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "m",
+      "explanation": "**Azure-Fundamentals M Solution:** Troubleshoot Azure-Fundamentals connectivity issue between VLANs. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-M004",
+      "question": "Set up Azure-Fundamentals failover clustering",
+      "options": [
+        "Dangerous method",
+        "Correct Azure-Fundamentals procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "m",
+      "explanation": "**Azure-Fundamentals M Solution:** Set up Azure-Fundamentals failover clustering. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-M005",
+      "question": "Implement Azure-Fundamentals backup strategy for compliance",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Azure-Fundamentals procedure"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "m",
+      "explanation": "**Azure-Fundamentals M Solution:** Implement Azure-Fundamentals backup strategy for compliance. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-M006",
+      "question": "Configure Azure-Fundamentals load balancer for high availability",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Azure-Fundamentals procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "m",
+      "explanation": "**Azure-Fundamentals M Solution:** Configure Azure-Fundamentals load balancer for high availability. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-M007",
+      "question": "Optimize Azure-Fundamentals query performance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Azure-Fundamentals procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "m",
+      "explanation": "**Azure-Fundamentals M Solution:** Optimize Azure-Fundamentals query performance. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-M008",
+      "question": "Configure Azure-Fundamentals load balancer for high availability",
+      "options": [
+        "Dangerous method",
+        "Correct Azure-Fundamentals procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "m",
+      "explanation": "**Azure-Fundamentals M Solution:** Configure Azure-Fundamentals load balancer for high availability. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-M009",
+      "question": "Implement Azure-Fundamentals backup strategy for compliance",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Azure-Fundamentals procedure"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "m",
+      "explanation": "**Azure-Fundamentals M Solution:** Implement Azure-Fundamentals backup strategy for compliance. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-M010",
+      "question": "Optimize Azure-Fundamentals query performance",
+      "options": [
+        "Correct Azure-Fundamentals procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "m",
+      "explanation": "**Azure-Fundamentals M Solution:** Optimize Azure-Fundamentals query performance. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-M011",
+      "question": "Set up Azure-Fundamentals failover clustering",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Azure-Fundamentals procedure"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "m",
+      "explanation": "**Azure-Fundamentals M Solution:** Set up Azure-Fundamentals failover clustering. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-M012",
+      "question": "Troubleshoot Azure-Fundamentals connectivity issue between VLANs",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Azure-Fundamentals procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "m",
+      "explanation": "**Azure-Fundamentals M Solution:** Troubleshoot Azure-Fundamentals connectivity issue between VLANs. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-M013",
+      "question": "Optimize Azure-Fundamentals query performance",
+      "options": [
+        "Incorrect approach",
+        "Correct Azure-Fundamentals procedure",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "m",
+      "explanation": "**Azure-Fundamentals M Solution:** Optimize Azure-Fundamentals query performance. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-M014",
+      "question": "Configure Azure-Fundamentals load balancer for high availability",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Azure-Fundamentals procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "m",
+      "explanation": "**Azure-Fundamentals M Solution:** Configure Azure-Fundamentals load balancer for high availability. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-M015",
+      "question": "Troubleshoot Azure-Fundamentals connectivity issue between VLANs",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Azure-Fundamentals procedure"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "m",
+      "explanation": "**Azure-Fundamentals M Solution:** Troubleshoot Azure-Fundamentals connectivity issue between VLANs. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-M016",
+      "question": "Set up Azure-Fundamentals failover clustering",
+      "options": [
+        "Incorrect approach",
+        "Correct Azure-Fundamentals procedure",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "m",
+      "explanation": "**Azure-Fundamentals M Solution:** Set up Azure-Fundamentals failover clustering. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-M017",
+      "question": "Implement Azure-Fundamentals backup strategy for compliance",
+      "options": [
+        "Correct Azure-Fundamentals procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "m",
+      "explanation": "**Azure-Fundamentals M Solution:** Implement Azure-Fundamentals backup strategy for compliance. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-M018",
+      "question": "Set up Azure-Fundamentals failover clustering",
+      "options": [
+        "Correct Azure-Fundamentals procedure",
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "m",
+      "explanation": "**Azure-Fundamentals M Solution:** Set up Azure-Fundamentals failover clustering. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-M019",
+      "question": "Set up Azure-Fundamentals failover clustering",
+      "options": [
+        "Correct Azure-Fundamentals procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "m",
+      "explanation": "**Azure-Fundamentals M Solution:** Set up Azure-Fundamentals failover clustering. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-M020",
+      "question": "Configure Azure-Fundamentals load balancer for high availability",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Azure-Fundamentals procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "m",
+      "explanation": "**Azure-Fundamentals M Solution:** Configure Azure-Fundamentals load balancer for high availability. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-M021",
+      "question": "Optimize Azure-Fundamentals query performance",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Azure-Fundamentals procedure"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "m",
+      "explanation": "**Azure-Fundamentals M Solution:** Optimize Azure-Fundamentals query performance. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-M022",
+      "question": "Configure Azure-Fundamentals load balancer for high availability",
+      "options": [
+        "Partially correct",
+        "Correct Azure-Fundamentals procedure",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "m",
+      "explanation": "**Azure-Fundamentals M Solution:** Configure Azure-Fundamentals load balancer for high availability. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-M023",
+      "question": "Configure Azure-Fundamentals load balancer for high availability",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Azure-Fundamentals procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "m",
+      "explanation": "**Azure-Fundamentals M Solution:** Configure Azure-Fundamentals load balancer for high availability. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-M024",
+      "question": "Implement Azure-Fundamentals backup strategy for compliance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Azure-Fundamentals procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "m",
+      "explanation": "**Azure-Fundamentals M Solution:** Implement Azure-Fundamentals backup strategy for compliance. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-M025",
+      "question": "Implement Azure-Fundamentals backup strategy for compliance",
+      "options": [
+        "Incorrect approach",
+        "Correct Azure-Fundamentals procedure",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "m",
+      "explanation": "**Azure-Fundamentals M Solution:** Implement Azure-Fundamentals backup strategy for compliance. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-M026",
+      "question": "Implement Azure-Fundamentals backup strategy for compliance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Azure-Fundamentals procedure"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "m",
+      "explanation": "**Azure-Fundamentals M Solution:** Implement Azure-Fundamentals backup strategy for compliance. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-M027",
+      "question": "Configure Azure-Fundamentals load balancer for high availability",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Azure-Fundamentals procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "m",
+      "explanation": "**Azure-Fundamentals M Solution:** Configure Azure-Fundamentals load balancer for high availability. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-M028",
+      "question": "Configure Azure-Fundamentals load balancer for high availability",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Correct Azure-Fundamentals procedure",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "m",
+      "explanation": "**Azure-Fundamentals M Solution:** Configure Azure-Fundamentals load balancer for high availability. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-M029",
+      "question": "Troubleshoot Azure-Fundamentals connectivity issue between VLANs",
+      "options": [
+        "Dangerous method",
+        "Correct Azure-Fundamentals procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "m",
+      "explanation": "**Azure-Fundamentals M Solution:** Troubleshoot Azure-Fundamentals connectivity issue between VLANs. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-M030",
+      "question": "Configure Azure-Fundamentals load balancer for high availability",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Azure-Fundamentals procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "m",
+      "explanation": "**Azure-Fundamentals M Solution:** Configure Azure-Fundamentals load balancer for high availability. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-M031",
+      "question": "Set up Azure-Fundamentals failover clustering",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Azure-Fundamentals procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "m",
+      "explanation": "**Azure-Fundamentals M Solution:** Set up Azure-Fundamentals failover clustering. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-M032",
+      "question": "Configure Azure-Fundamentals load balancer for high availability",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Azure-Fundamentals procedure"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "m",
+      "explanation": "**Azure-Fundamentals M Solution:** Configure Azure-Fundamentals load balancer for high availability. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-M033",
+      "question": "Optimize Azure-Fundamentals query performance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Azure-Fundamentals procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "m",
+      "explanation": "**Azure-Fundamentals M Solution:** Optimize Azure-Fundamentals query performance. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-M034",
+      "question": "Optimize Azure-Fundamentals query performance",
+      "options": [
+        "Incorrect approach",
+        "Correct Azure-Fundamentals procedure",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "m",
+      "explanation": "**Azure-Fundamentals M Solution:** Optimize Azure-Fundamentals query performance. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-M035",
+      "question": "Troubleshoot Azure-Fundamentals connectivity issue between VLANs",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Azure-Fundamentals procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "m",
+      "explanation": "**Azure-Fundamentals M Solution:** Troubleshoot Azure-Fundamentals connectivity issue between VLANs. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-M036",
+      "question": "Set up Azure-Fundamentals failover clustering",
+      "options": [
+        "Correct Azure-Fundamentals procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "m",
+      "explanation": "**Azure-Fundamentals M Solution:** Set up Azure-Fundamentals failover clustering. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-M037",
+      "question": "Troubleshoot Azure-Fundamentals connectivity issue between VLANs",
+      "options": [
+        "Correct Azure-Fundamentals procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "m",
+      "explanation": "**Azure-Fundamentals M Solution:** Troubleshoot Azure-Fundamentals connectivity issue between VLANs. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-M038",
+      "question": "Set up Azure-Fundamentals failover clustering",
+      "options": [
+        "Dangerous method",
+        "Correct Azure-Fundamentals procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "m",
+      "explanation": "**Azure-Fundamentals M Solution:** Set up Azure-Fundamentals failover clustering. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-M039",
+      "question": "Implement Azure-Fundamentals backup strategy for compliance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Azure-Fundamentals procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "m",
+      "explanation": "**Azure-Fundamentals M Solution:** Implement Azure-Fundamentals backup strategy for compliance. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-M040",
+      "question": "Troubleshoot Azure-Fundamentals connectivity issue between VLANs",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Azure-Fundamentals procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "m",
+      "explanation": "**Azure-Fundamentals M Solution:** Troubleshoot Azure-Fundamentals connectivity issue between VLANs. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-M041",
+      "question": "Optimize Azure-Fundamentals query performance",
+      "options": [
+        "Incorrect approach",
+        "Correct Azure-Fundamentals procedure",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "m",
+      "explanation": "**Azure-Fundamentals M Solution:** Optimize Azure-Fundamentals query performance. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-M042",
+      "question": "Set up Azure-Fundamentals failover clustering",
+      "options": [
+        "Correct Azure-Fundamentals procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "m",
+      "explanation": "**Azure-Fundamentals M Solution:** Set up Azure-Fundamentals failover clustering. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-M043",
+      "question": "Set up Azure-Fundamentals failover clustering",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Azure-Fundamentals procedure"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "m",
+      "explanation": "**Azure-Fundamentals M Solution:** Set up Azure-Fundamentals failover clustering. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-M044",
+      "question": "Set up Azure-Fundamentals failover clustering",
+      "options": [
+        "Dangerous method",
+        "Correct Azure-Fundamentals procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "m",
+      "explanation": "**Azure-Fundamentals M Solution:** Set up Azure-Fundamentals failover clustering. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-M045",
+      "question": "Troubleshoot Azure-Fundamentals connectivity issue between VLANs",
+      "options": [
+        "Dangerous method",
+        "Correct Azure-Fundamentals procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "m",
+      "explanation": "**Azure-Fundamentals M Solution:** Troubleshoot Azure-Fundamentals connectivity issue between VLANs. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-M046",
+      "question": "Troubleshoot Azure-Fundamentals connectivity issue between VLANs",
+      "options": [
+        "Dangerous method",
+        "Correct Azure-Fundamentals procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "m",
+      "explanation": "**Azure-Fundamentals M Solution:** Troubleshoot Azure-Fundamentals connectivity issue between VLANs. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-M047",
+      "question": "Implement Azure-Fundamentals backup strategy for compliance",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Azure-Fundamentals procedure"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "m",
+      "explanation": "**Azure-Fundamentals M Solution:** Implement Azure-Fundamentals backup strategy for compliance. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-M048",
+      "question": "Configure Azure-Fundamentals load balancer for high availability",
+      "options": [
+        "Dangerous method",
+        "Correct Azure-Fundamentals procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "m",
+      "explanation": "**Azure-Fundamentals M Solution:** Configure Azure-Fundamentals load balancer for high availability. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-M049",
+      "question": "Troubleshoot Azure-Fundamentals connectivity issue between VLANs",
+      "options": [
+        "Correct Azure-Fundamentals procedure",
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "m",
+      "explanation": "**Azure-Fundamentals M Solution:** Troubleshoot Azure-Fundamentals connectivity issue between VLANs. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-M050",
+      "question": "Optimize Azure-Fundamentals query performance",
+      "options": [
+        "Dangerous method",
+        "Correct Azure-Fundamentals procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "m",
+      "explanation": "**Azure-Fundamentals M Solution:** Optimize Azure-Fundamentals query performance. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    }
+  ],
+  "hard": [
+    {
+      "id": "Azure-Fundamentals-H001",
+      "question": "Implement zero-trust security model in Azure-Fundamentals",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Azure-Fundamentals procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "h",
+      "explanation": "**Azure-Fundamentals H Solution:** Implement zero-trust security model in Azure-Fundamentals. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-H002",
+      "question": "Design Azure-Fundamentals architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Azure-Fundamentals procedure"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "h",
+      "explanation": "**Azure-Fundamentals H Solution:** Design Azure-Fundamentals architecture for 10k users with 99.99% uptime. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-H003",
+      "question": "Optimize Azure-Fundamentals performance under DDoS attack",
+      "options": [
+        "Correct Azure-Fundamentals procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "h",
+      "explanation": "**Azure-Fundamentals H Solution:** Optimize Azure-Fundamentals performance under DDoS attack. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-H004",
+      "question": "Implement zero-trust security model in Azure-Fundamentals",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Azure-Fundamentals procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "h",
+      "explanation": "**Azure-Fundamentals H Solution:** Implement zero-trust security model in Azure-Fundamentals. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-H005",
+      "question": "Create disaster recovery plan with RTO < 15min for Azure-Fundamentals",
+      "options": [
+        "Correct Azure-Fundamentals procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "h",
+      "explanation": "**Azure-Fundamentals H Solution:** Create disaster recovery plan with RTO < 15min for Azure-Fundamentals. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-H006",
+      "question": "Migrate legacy Azure-Fundamentals systems to cloud-native architecture",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Azure-Fundamentals procedure"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "h",
+      "explanation": "**Azure-Fundamentals H Solution:** Migrate legacy Azure-Fundamentals systems to cloud-native architecture. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-H007",
+      "question": "Optimize Azure-Fundamentals performance under DDoS attack",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Azure-Fundamentals procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "h",
+      "explanation": "**Azure-Fundamentals H Solution:** Optimize Azure-Fundamentals performance under DDoS attack. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-H008",
+      "question": "Migrate legacy Azure-Fundamentals systems to cloud-native architecture",
+      "options": [
+        "Dangerous method",
+        "Correct Azure-Fundamentals procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "h",
+      "explanation": "**Azure-Fundamentals H Solution:** Migrate legacy Azure-Fundamentals systems to cloud-native architecture. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-H009",
+      "question": "Design Azure-Fundamentals architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Azure-Fundamentals procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "h",
+      "explanation": "**Azure-Fundamentals H Solution:** Design Azure-Fundamentals architecture for 10k users with 99.99% uptime. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-H010",
+      "question": "Implement zero-trust security model in Azure-Fundamentals",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Azure-Fundamentals procedure"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "h",
+      "explanation": "**Azure-Fundamentals H Solution:** Implement zero-trust security model in Azure-Fundamentals. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-H011",
+      "question": "Migrate legacy Azure-Fundamentals systems to cloud-native architecture",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Azure-Fundamentals procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "h",
+      "explanation": "**Azure-Fundamentals H Solution:** Migrate legacy Azure-Fundamentals systems to cloud-native architecture. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-H012",
+      "question": "Migrate legacy Azure-Fundamentals systems to cloud-native architecture",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Azure-Fundamentals procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "h",
+      "explanation": "**Azure-Fundamentals H Solution:** Migrate legacy Azure-Fundamentals systems to cloud-native architecture. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-H013",
+      "question": "Design Azure-Fundamentals architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Correct Azure-Fundamentals procedure",
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "h",
+      "explanation": "**Azure-Fundamentals H Solution:** Design Azure-Fundamentals architecture for 10k users with 99.99% uptime. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-H014",
+      "question": "Design Azure-Fundamentals architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Azure-Fundamentals procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "h",
+      "explanation": "**Azure-Fundamentals H Solution:** Design Azure-Fundamentals architecture for 10k users with 99.99% uptime. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-H015",
+      "question": "Design Azure-Fundamentals architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Correct Azure-Fundamentals procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "h",
+      "explanation": "**Azure-Fundamentals H Solution:** Design Azure-Fundamentals architecture for 10k users with 99.99% uptime. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-H016",
+      "question": "Create disaster recovery plan with RTO < 15min for Azure-Fundamentals",
+      "options": [
+        "Dangerous method",
+        "Correct Azure-Fundamentals procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "h",
+      "explanation": "**Azure-Fundamentals H Solution:** Create disaster recovery plan with RTO < 15min for Azure-Fundamentals. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-H017",
+      "question": "Optimize Azure-Fundamentals performance under DDoS attack",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Azure-Fundamentals procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "h",
+      "explanation": "**Azure-Fundamentals H Solution:** Optimize Azure-Fundamentals performance under DDoS attack. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-H018",
+      "question": "Migrate legacy Azure-Fundamentals systems to cloud-native architecture",
+      "options": [
+        "Correct Azure-Fundamentals procedure",
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "h",
+      "explanation": "**Azure-Fundamentals H Solution:** Migrate legacy Azure-Fundamentals systems to cloud-native architecture. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-H019",
+      "question": "Design Azure-Fundamentals architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Correct Azure-Fundamentals procedure",
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "h",
+      "explanation": "**Azure-Fundamentals H Solution:** Design Azure-Fundamentals architecture for 10k users with 99.99% uptime. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-H020",
+      "question": "Optimize Azure-Fundamentals performance under DDoS attack",
+      "options": [
+        "Correct Azure-Fundamentals procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "h",
+      "explanation": "**Azure-Fundamentals H Solution:** Optimize Azure-Fundamentals performance under DDoS attack. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-H021",
+      "question": "Implement zero-trust security model in Azure-Fundamentals",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Azure-Fundamentals procedure"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "h",
+      "explanation": "**Azure-Fundamentals H Solution:** Implement zero-trust security model in Azure-Fundamentals. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-H022",
+      "question": "Optimize Azure-Fundamentals performance under DDoS attack",
+      "options": [
+        "Correct Azure-Fundamentals procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "h",
+      "explanation": "**Azure-Fundamentals H Solution:** Optimize Azure-Fundamentals performance under DDoS attack. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-H023",
+      "question": "Design Azure-Fundamentals architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Azure-Fundamentals procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "h",
+      "explanation": "**Azure-Fundamentals H Solution:** Design Azure-Fundamentals architecture for 10k users with 99.99% uptime. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-H024",
+      "question": "Migrate legacy Azure-Fundamentals systems to cloud-native architecture",
+      "options": [
+        "Dangerous method",
+        "Correct Azure-Fundamentals procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "h",
+      "explanation": "**Azure-Fundamentals H Solution:** Migrate legacy Azure-Fundamentals systems to cloud-native architecture. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-H025",
+      "question": "Design Azure-Fundamentals architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Azure-Fundamentals procedure"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "h",
+      "explanation": "**Azure-Fundamentals H Solution:** Design Azure-Fundamentals architecture for 10k users with 99.99% uptime. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-H026",
+      "question": "Optimize Azure-Fundamentals performance under DDoS attack",
+      "options": [
+        "Dangerous method",
+        "Correct Azure-Fundamentals procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "h",
+      "explanation": "**Azure-Fundamentals H Solution:** Optimize Azure-Fundamentals performance under DDoS attack. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-H027",
+      "question": "Create disaster recovery plan with RTO < 15min for Azure-Fundamentals",
+      "options": [
+        "Dangerous method",
+        "Correct Azure-Fundamentals procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "h",
+      "explanation": "**Azure-Fundamentals H Solution:** Create disaster recovery plan with RTO < 15min for Azure-Fundamentals. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-H028",
+      "question": "Create disaster recovery plan with RTO < 15min for Azure-Fundamentals",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Azure-Fundamentals procedure"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "h",
+      "explanation": "**Azure-Fundamentals H Solution:** Create disaster recovery plan with RTO < 15min for Azure-Fundamentals. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-H029",
+      "question": "Implement zero-trust security model in Azure-Fundamentals",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Azure-Fundamentals procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "h",
+      "explanation": "**Azure-Fundamentals H Solution:** Implement zero-trust security model in Azure-Fundamentals. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-H030",
+      "question": "Implement zero-trust security model in Azure-Fundamentals",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Azure-Fundamentals procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "h",
+      "explanation": "**Azure-Fundamentals H Solution:** Implement zero-trust security model in Azure-Fundamentals. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-H031",
+      "question": "Optimize Azure-Fundamentals performance under DDoS attack",
+      "options": [
+        "Incorrect approach",
+        "Correct Azure-Fundamentals procedure",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "h",
+      "explanation": "**Azure-Fundamentals H Solution:** Optimize Azure-Fundamentals performance under DDoS attack. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-H032",
+      "question": "Design Azure-Fundamentals architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Azure-Fundamentals procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "h",
+      "explanation": "**Azure-Fundamentals H Solution:** Design Azure-Fundamentals architecture for 10k users with 99.99% uptime. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-H033",
+      "question": "Implement zero-trust security model in Azure-Fundamentals",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Azure-Fundamentals procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "h",
+      "explanation": "**Azure-Fundamentals H Solution:** Implement zero-trust security model in Azure-Fundamentals. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-H034",
+      "question": "Migrate legacy Azure-Fundamentals systems to cloud-native architecture",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Azure-Fundamentals procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "h",
+      "explanation": "**Azure-Fundamentals H Solution:** Migrate legacy Azure-Fundamentals systems to cloud-native architecture. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-H035",
+      "question": "Optimize Azure-Fundamentals performance under DDoS attack",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Correct Azure-Fundamentals procedure",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "h",
+      "explanation": "**Azure-Fundamentals H Solution:** Optimize Azure-Fundamentals performance under DDoS attack. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-H036",
+      "question": "Optimize Azure-Fundamentals performance under DDoS attack",
+      "options": [
+        "Correct Azure-Fundamentals procedure",
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "h",
+      "explanation": "**Azure-Fundamentals H Solution:** Optimize Azure-Fundamentals performance under DDoS attack. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-H037",
+      "question": "Create disaster recovery plan with RTO < 15min for Azure-Fundamentals",
+      "options": [
+        "Correct Azure-Fundamentals procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "h",
+      "explanation": "**Azure-Fundamentals H Solution:** Create disaster recovery plan with RTO < 15min for Azure-Fundamentals. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-H038",
+      "question": "Migrate legacy Azure-Fundamentals systems to cloud-native architecture",
+      "options": [
+        "Correct Azure-Fundamentals procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "h",
+      "explanation": "**Azure-Fundamentals H Solution:** Migrate legacy Azure-Fundamentals systems to cloud-native architecture. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-H039",
+      "question": "Optimize Azure-Fundamentals performance under DDoS attack",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Azure-Fundamentals procedure"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "h",
+      "explanation": "**Azure-Fundamentals H Solution:** Optimize Azure-Fundamentals performance under DDoS attack. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-H040",
+      "question": "Design Azure-Fundamentals architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Azure-Fundamentals procedure"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "h",
+      "explanation": "**Azure-Fundamentals H Solution:** Design Azure-Fundamentals architecture for 10k users with 99.99% uptime. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-H041",
+      "question": "Migrate legacy Azure-Fundamentals systems to cloud-native architecture",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Azure-Fundamentals procedure"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "h",
+      "explanation": "**Azure-Fundamentals H Solution:** Migrate legacy Azure-Fundamentals systems to cloud-native architecture. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-H042",
+      "question": "Design Azure-Fundamentals architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Dangerous method",
+        "Correct Azure-Fundamentals procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "h",
+      "explanation": "**Azure-Fundamentals H Solution:** Design Azure-Fundamentals architecture for 10k users with 99.99% uptime. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-H043",
+      "question": "Migrate legacy Azure-Fundamentals systems to cloud-native architecture",
+      "options": [
+        "Dangerous method",
+        "Correct Azure-Fundamentals procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "h",
+      "explanation": "**Azure-Fundamentals H Solution:** Migrate legacy Azure-Fundamentals systems to cloud-native architecture. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-H044",
+      "question": "Create disaster recovery plan with RTO < 15min for Azure-Fundamentals",
+      "options": [
+        "Dangerous method",
+        "Correct Azure-Fundamentals procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "h",
+      "explanation": "**Azure-Fundamentals H Solution:** Create disaster recovery plan with RTO < 15min for Azure-Fundamentals. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-H045",
+      "question": "Migrate legacy Azure-Fundamentals systems to cloud-native architecture",
+      "options": [
+        "Partially correct",
+        "Correct Azure-Fundamentals procedure",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "h",
+      "explanation": "**Azure-Fundamentals H Solution:** Migrate legacy Azure-Fundamentals systems to cloud-native architecture. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-H046",
+      "question": "Design Azure-Fundamentals architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Dangerous method",
+        "Correct Azure-Fundamentals procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "h",
+      "explanation": "**Azure-Fundamentals H Solution:** Design Azure-Fundamentals architecture for 10k users with 99.99% uptime. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-H047",
+      "question": "Design Azure-Fundamentals architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Azure-Fundamentals procedure"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "h",
+      "explanation": "**Azure-Fundamentals H Solution:** Design Azure-Fundamentals architecture for 10k users with 99.99% uptime. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-H048",
+      "question": "Design Azure-Fundamentals architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Correct Azure-Fundamentals procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "h",
+      "explanation": "**Azure-Fundamentals H Solution:** Design Azure-Fundamentals architecture for 10k users with 99.99% uptime. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-H049",
+      "question": "Migrate legacy Azure-Fundamentals systems to cloud-native architecture",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Azure-Fundamentals procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "h",
+      "explanation": "**Azure-Fundamentals H Solution:** Migrate legacy Azure-Fundamentals systems to cloud-native architecture. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    },
+    {
+      "id": "Azure-Fundamentals-H050",
+      "question": "Implement zero-trust security model in Azure-Fundamentals",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Azure-Fundamentals procedure"
+      ],
+      "answer": "Correct Azure-Fundamentals procedure",
+      "difficulty": "h",
+      "explanation": "**Azure-Fundamentals H Solution:** Implement zero-trust security model in Azure-Fundamentals. Always verify Azure-Fundamentals documentation and test in lab environment first."
+    }
+  ],
+  "scenarios": [
+    {
+      "id": "Azure-Fundamentals-S01-01",
+      "question": "1. Firewall blocking legitimate traffic in Azure-Fundamentals environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S01-02",
+      "question": "1. Firewall blocking legitimate traffic in Azure-Fundamentals environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S01-03",
+      "question": "1. Firewall blocking legitimate traffic in Azure-Fundamentals environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S01-04",
+      "question": "1. Firewall blocking legitimate traffic in Azure-Fundamentals environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S01-05",
+      "question": "1. Firewall blocking legitimate traffic in Azure-Fundamentals environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S02-01",
+      "question": "2. Database performance degradation after upgrade in Azure-Fundamentals environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S02-02",
+      "question": "2. Database performance degradation after upgrade in Azure-Fundamentals environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S02-03",
+      "question": "2. Database performance degradation after upgrade in Azure-Fundamentals environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S02-04",
+      "question": "2. Database performance degradation after upgrade in Azure-Fundamentals environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S02-05",
+      "question": "2. Database performance degradation after upgrade in Azure-Fundamentals environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S03-01",
+      "question": "3. Security incident response: ransomware attack detected in Azure-Fundamentals environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S03-02",
+      "question": "3. Security incident response: ransomware attack detected in Azure-Fundamentals environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S03-03",
+      "question": "3. Security incident response: ransomware attack detected in Azure-Fundamentals environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S03-04",
+      "question": "3. Security incident response: ransomware attack detected in Azure-Fundamentals environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S03-05",
+      "question": "3. Security incident response: ransomware attack detected in Azure-Fundamentals environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S04-01",
+      "question": "4. VPN connectivity failure for remote users in Azure-Fundamentals environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S04-02",
+      "question": "4. VPN connectivity failure for remote users in Azure-Fundamentals environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S04-03",
+      "question": "4. VPN connectivity failure for remote users in Azure-Fundamentals environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S04-04",
+      "question": "4. VPN connectivity failure for remote users in Azure-Fundamentals environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S04-05",
+      "question": "4. VPN connectivity failure for remote users in Azure-Fundamentals environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S05-01",
+      "question": "5. Production outage during peak hours: diagnose and resolve in Azure-Fundamentals environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S05-02",
+      "question": "5. Production outage during peak hours: diagnose and resolve in Azure-Fundamentals environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S05-03",
+      "question": "5. Production outage during peak hours: diagnose and resolve in Azure-Fundamentals environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S05-04",
+      "question": "5. Production outage during peak hours: diagnose and resolve in Azure-Fundamentals environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S05-05",
+      "question": "5. Production outage during peak hours: diagnose and resolve in Azure-Fundamentals environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S06-01",
+      "question": "6. Cloud migration failure: rollback strategy in Azure-Fundamentals environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S06-02",
+      "question": "6. Cloud migration failure: rollback strategy in Azure-Fundamentals environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S06-03",
+      "question": "6. Cloud migration failure: rollback strategy in Azure-Fundamentals environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S06-04",
+      "question": "6. Cloud migration failure: rollback strategy in Azure-Fundamentals environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S06-05",
+      "question": "6. Cloud migration failure: rollback strategy in Azure-Fundamentals environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S07-01",
+      "question": "7. VPN connectivity failure for remote users in Azure-Fundamentals environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S07-02",
+      "question": "7. VPN connectivity failure for remote users in Azure-Fundamentals environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S07-03",
+      "question": "7. VPN connectivity failure for remote users in Azure-Fundamentals environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S07-04",
+      "question": "7. VPN connectivity failure for remote users in Azure-Fundamentals environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S07-05",
+      "question": "7. VPN connectivity failure for remote users in Azure-Fundamentals environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S08-01",
+      "question": "8. Production outage during peak hours: diagnose and resolve in Azure-Fundamentals environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S08-02",
+      "question": "8. Production outage during peak hours: diagnose and resolve in Azure-Fundamentals environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S08-03",
+      "question": "8. Production outage during peak hours: diagnose and resolve in Azure-Fundamentals environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S08-04",
+      "question": "8. Production outage during peak hours: diagnose and resolve in Azure-Fundamentals environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S08-05",
+      "question": "8. Production outage during peak hours: diagnose and resolve in Azure-Fundamentals environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S09-01",
+      "question": "9. Server overload during quarterly report generation in Azure-Fundamentals environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S09-02",
+      "question": "9. Server overload during quarterly report generation in Azure-Fundamentals environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S09-03",
+      "question": "9. Server overload during quarterly report generation in Azure-Fundamentals environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S09-04",
+      "question": "9. Server overload during quarterly report generation in Azure-Fundamentals environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S09-05",
+      "question": "9. Server overload during quarterly report generation in Azure-Fundamentals environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S10-01",
+      "question": "10. Server overload during quarterly report generation in Azure-Fundamentals environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S10-02",
+      "question": "10. Server overload during quarterly report generation in Azure-Fundamentals environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S10-03",
+      "question": "10. Server overload during quarterly report generation in Azure-Fundamentals environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S10-04",
+      "question": "10. Server overload during quarterly report generation in Azure-Fundamentals environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S10-05",
+      "question": "10. Server overload during quarterly report generation in Azure-Fundamentals environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S11-01",
+      "question": "11. Production outage during peak hours: diagnose and resolve in Azure-Fundamentals environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S11-02",
+      "question": "11. Production outage during peak hours: diagnose and resolve in Azure-Fundamentals environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S11-03",
+      "question": "11. Production outage during peak hours: diagnose and resolve in Azure-Fundamentals environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S11-04",
+      "question": "11. Production outage during peak hours: diagnose and resolve in Azure-Fundamentals environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S11-05",
+      "question": "11. Production outage during peak hours: diagnose and resolve in Azure-Fundamentals environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S12-01",
+      "question": "12. VPN connectivity failure for remote users in Azure-Fundamentals environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S12-02",
+      "question": "12. VPN connectivity failure for remote users in Azure-Fundamentals environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S12-03",
+      "question": "12. VPN connectivity failure for remote users in Azure-Fundamentals environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S12-04",
+      "question": "12. VPN connectivity failure for remote users in Azure-Fundamentals environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S12-05",
+      "question": "12. VPN connectivity failure for remote users in Azure-Fundamentals environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S13-01",
+      "question": "13. Firewall blocking legitimate traffic in Azure-Fundamentals environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S13-02",
+      "question": "13. Firewall blocking legitimate traffic in Azure-Fundamentals environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S13-03",
+      "question": "13. Firewall blocking legitimate traffic in Azure-Fundamentals environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S13-04",
+      "question": "13. Firewall blocking legitimate traffic in Azure-Fundamentals environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S13-05",
+      "question": "13. Firewall blocking legitimate traffic in Azure-Fundamentals environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S14-01",
+      "question": "14. Security incident response: ransomware attack detected in Azure-Fundamentals environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S14-02",
+      "question": "14. Security incident response: ransomware attack detected in Azure-Fundamentals environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S14-03",
+      "question": "14. Security incident response: ransomware attack detected in Azure-Fundamentals environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S14-04",
+      "question": "14. Security incident response: ransomware attack detected in Azure-Fundamentals environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S14-05",
+      "question": "14. Security incident response: ransomware attack detected in Azure-Fundamentals environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S15-01",
+      "question": "15. Database performance degradation after upgrade in Azure-Fundamentals environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S15-02",
+      "question": "15. Database performance degradation after upgrade in Azure-Fundamentals environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S15-03",
+      "question": "15. Database performance degradation after upgrade in Azure-Fundamentals environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S15-04",
+      "question": "15. Database performance degradation after upgrade in Azure-Fundamentals environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S15-05",
+      "question": "15. Database performance degradation after upgrade in Azure-Fundamentals environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S16-01",
+      "question": "16. Server overload during quarterly report generation in Azure-Fundamentals environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S16-02",
+      "question": "16. Server overload during quarterly report generation in Azure-Fundamentals environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S16-03",
+      "question": "16. Server overload during quarterly report generation in Azure-Fundamentals environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S16-04",
+      "question": "16. Server overload during quarterly report generation in Azure-Fundamentals environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S16-05",
+      "question": "16. Server overload during quarterly report generation in Azure-Fundamentals environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S17-01",
+      "question": "17. Server overload during quarterly report generation in Azure-Fundamentals environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S17-02",
+      "question": "17. Server overload during quarterly report generation in Azure-Fundamentals environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S17-03",
+      "question": "17. Server overload during quarterly report generation in Azure-Fundamentals environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S17-04",
+      "question": "17. Server overload during quarterly report generation in Azure-Fundamentals environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S17-05",
+      "question": "17. Server overload during quarterly report generation in Azure-Fundamentals environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S18-01",
+      "question": "18. Load balancer health check failing in Azure-Fundamentals environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S18-02",
+      "question": "18. Load balancer health check failing in Azure-Fundamentals environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S18-03",
+      "question": "18. Load balancer health check failing in Azure-Fundamentals environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S18-04",
+      "question": "18. Load balancer health check failing in Azure-Fundamentals environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S18-05",
+      "question": "18. Load balancer health check failing in Azure-Fundamentals environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S19-01",
+      "question": "19. VPN connectivity failure for remote users in Azure-Fundamentals environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S19-02",
+      "question": "19. VPN connectivity failure for remote users in Azure-Fundamentals environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S19-03",
+      "question": "19. VPN connectivity failure for remote users in Azure-Fundamentals environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S19-04",
+      "question": "19. VPN connectivity failure for remote users in Azure-Fundamentals environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S19-05",
+      "question": "19. VPN connectivity failure for remote users in Azure-Fundamentals environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S20-01",
+      "question": "20. Network latency issue affecting VoIP calls in Azure-Fundamentals environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S20-02",
+      "question": "20. Network latency issue affecting VoIP calls in Azure-Fundamentals environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S20-03",
+      "question": "20. Network latency issue affecting VoIP calls in Azure-Fundamentals environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S20-04",
+      "question": "20. Network latency issue affecting VoIP calls in Azure-Fundamentals environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Azure-Fundamentals-S20-05",
+      "question": "20. Network latency issue affecting VoIP calls in Azure-Fundamentals environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Azure-Fundamentals troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Azure-Fundamentals troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Fundamentals best practices. Document all steps for RCA."
+    }
+  ]
+}

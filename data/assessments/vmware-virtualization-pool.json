@@ -1,0 +1,3260 @@
+{
+  "easy": [
+    {
+      "id": "VMware-Virtualization-E001",
+      "question": "What does VMware ACL stand for?",
+      "options": [
+        "Dangerous method",
+        "Correct VMware-Virtualization procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "e",
+      "explanation": "**VMware-Virtualization E Solution:** What does VMware ACL stand for?. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-E002",
+      "question": "What does VMware ACL stand for?",
+      "options": [
+        "Dangerous method",
+        "Correct VMware-Virtualization procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "e",
+      "explanation": "**VMware-Virtualization E Solution:** What does VMware ACL stand for?. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-E003",
+      "question": "What does VMware ACL stand for?",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct VMware-Virtualization procedure"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "e",
+      "explanation": "**VMware-Virtualization E Solution:** What does VMware ACL stand for?. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-E004",
+      "question": "Common protocol for VMware-Virtualization remote access?",
+      "options": [
+        "Correct VMware-Virtualization procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "e",
+      "explanation": "**VMware-Virtualization E Solution:** Common protocol for VMware-Virtualization remote access?. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-E005",
+      "question": "What is the primary function of VMware DHCP?",
+      "options": [
+        "Correct VMware-Virtualization procedure",
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "e",
+      "explanation": "**VMware-Virtualization E Solution:** What is the primary function of VMware DHCP?. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-E006",
+      "question": "Common protocol for VMware-Virtualization remote access?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct VMware-Virtualization procedure"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "e",
+      "explanation": "**VMware-Virtualization E Solution:** Common protocol for VMware-Virtualization remote access?. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-E007",
+      "question": "Default subnet mask for Class C network in VMware-Virtualization?",
+      "options": [
+        "Incorrect approach",
+        "Correct VMware-Virtualization procedure",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "e",
+      "explanation": "**VMware-Virtualization E Solution:** Default subnet mask for Class C network in VMware-Virtualization?. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-E008",
+      "question": "What is the primary function of VMware DHCP?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct VMware-Virtualization procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "e",
+      "explanation": "**VMware-Virtualization E Solution:** What is the primary function of VMware DHCP?. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-E009",
+      "question": "Which port does VMware-Virtualization service use by default?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct VMware-Virtualization procedure"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "e",
+      "explanation": "**VMware-Virtualization E Solution:** Which port does VMware-Virtualization service use by default?. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-E010",
+      "question": "What is the primary function of VMware DHCP?",
+      "options": [
+        "Dangerous method",
+        "Correct VMware-Virtualization procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "e",
+      "explanation": "**VMware-Virtualization E Solution:** What is the primary function of VMware DHCP?. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-E011",
+      "question": "Which port does VMware-Virtualization service use by default?",
+      "options": [
+        "Correct VMware-Virtualization procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "e",
+      "explanation": "**VMware-Virtualization E Solution:** Which port does VMware-Virtualization service use by default?. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-E012",
+      "question": "What does VMware ACL stand for?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct VMware-Virtualization procedure"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "e",
+      "explanation": "**VMware-Virtualization E Solution:** What does VMware ACL stand for?. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-E013",
+      "question": "What is the primary function of VMware DHCP?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct VMware-Virtualization procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "e",
+      "explanation": "**VMware-Virtualization E Solution:** What is the primary function of VMware DHCP?. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-E014",
+      "question": "Common protocol for VMware-Virtualization remote access?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct VMware-Virtualization procedure"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "e",
+      "explanation": "**VMware-Virtualization E Solution:** Common protocol for VMware-Virtualization remote access?. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-E015",
+      "question": "What is the primary function of VMware DHCP?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct VMware-Virtualization procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "e",
+      "explanation": "**VMware-Virtualization E Solution:** What is the primary function of VMware DHCP?. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-E016",
+      "question": "What is the primary function of VMware DHCP?",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct VMware-Virtualization procedure"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "e",
+      "explanation": "**VMware-Virtualization E Solution:** What is the primary function of VMware DHCP?. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-E017",
+      "question": "Common protocol for VMware-Virtualization remote access?",
+      "options": [
+        "Incorrect approach",
+        "Correct VMware-Virtualization procedure",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "e",
+      "explanation": "**VMware-Virtualization E Solution:** Common protocol for VMware-Virtualization remote access?. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-E018",
+      "question": "Which port does VMware-Virtualization service use by default?",
+      "options": [
+        "Correct VMware-Virtualization procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "e",
+      "explanation": "**VMware-Virtualization E Solution:** Which port does VMware-Virtualization service use by default?. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-E019",
+      "question": "Common protocol for VMware-Virtualization remote access?",
+      "options": [
+        "Dangerous method",
+        "Correct VMware-Virtualization procedure",
+        "Incorrect approach",
+        "Partially correct"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "e",
+      "explanation": "**VMware-Virtualization E Solution:** Common protocol for VMware-Virtualization remote access?. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-E020",
+      "question": "Which port does VMware-Virtualization service use by default?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct VMware-Virtualization procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "e",
+      "explanation": "**VMware-Virtualization E Solution:** Which port does VMware-Virtualization service use by default?. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-E021",
+      "question": "Which port does VMware-Virtualization service use by default?",
+      "options": [
+        "Correct VMware-Virtualization procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "e",
+      "explanation": "**VMware-Virtualization E Solution:** Which port does VMware-Virtualization service use by default?. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-E022",
+      "question": "Default subnet mask for Class C network in VMware-Virtualization?",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct VMware-Virtualization procedure"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "e",
+      "explanation": "**VMware-Virtualization E Solution:** Default subnet mask for Class C network in VMware-Virtualization?. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-E023",
+      "question": "Common protocol for VMware-Virtualization remote access?",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct VMware-Virtualization procedure"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "e",
+      "explanation": "**VMware-Virtualization E Solution:** Common protocol for VMware-Virtualization remote access?. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-E024",
+      "question": "What does VMware ACL stand for?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct VMware-Virtualization procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "e",
+      "explanation": "**VMware-Virtualization E Solution:** What does VMware ACL stand for?. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-E025",
+      "question": "Which port does VMware-Virtualization service use by default?",
+      "options": [
+        "Correct VMware-Virtualization procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "e",
+      "explanation": "**VMware-Virtualization E Solution:** Which port does VMware-Virtualization service use by default?. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-E026",
+      "question": "What does VMware ACL stand for?",
+      "options": [
+        "Dangerous method",
+        "Correct VMware-Virtualization procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "e",
+      "explanation": "**VMware-Virtualization E Solution:** What does VMware ACL stand for?. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-E027",
+      "question": "Common protocol for VMware-Virtualization remote access?",
+      "options": [
+        "Dangerous method",
+        "Correct VMware-Virtualization procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "e",
+      "explanation": "**VMware-Virtualization E Solution:** Common protocol for VMware-Virtualization remote access?. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-E028",
+      "question": "Default subnet mask for Class C network in VMware-Virtualization?",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct VMware-Virtualization procedure"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "e",
+      "explanation": "**VMware-Virtualization E Solution:** Default subnet mask for Class C network in VMware-Virtualization?. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-E029",
+      "question": "What is the primary function of VMware DHCP?",
+      "options": [
+        "Dangerous method",
+        "Correct VMware-Virtualization procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "e",
+      "explanation": "**VMware-Virtualization E Solution:** What is the primary function of VMware DHCP?. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-E030",
+      "question": "What does VMware ACL stand for?",
+      "options": [
+        "Correct VMware-Virtualization procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "e",
+      "explanation": "**VMware-Virtualization E Solution:** What does VMware ACL stand for?. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-E031",
+      "question": "Default subnet mask for Class C network in VMware-Virtualization?",
+      "options": [
+        "Correct VMware-Virtualization procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "e",
+      "explanation": "**VMware-Virtualization E Solution:** Default subnet mask for Class C network in VMware-Virtualization?. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-E032",
+      "question": "What does VMware ACL stand for?",
+      "options": [
+        "Correct VMware-Virtualization procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "e",
+      "explanation": "**VMware-Virtualization E Solution:** What does VMware ACL stand for?. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-E033",
+      "question": "What is the primary function of VMware DHCP?",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct VMware-Virtualization procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "e",
+      "explanation": "**VMware-Virtualization E Solution:** What is the primary function of VMware DHCP?. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-E034",
+      "question": "Common protocol for VMware-Virtualization remote access?",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Correct VMware-Virtualization procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "e",
+      "explanation": "**VMware-Virtualization E Solution:** Common protocol for VMware-Virtualization remote access?. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-E035",
+      "question": "Common protocol for VMware-Virtualization remote access?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct VMware-Virtualization procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "e",
+      "explanation": "**VMware-Virtualization E Solution:** Common protocol for VMware-Virtualization remote access?. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-E036",
+      "question": "Which port does VMware-Virtualization service use by default?",
+      "options": [
+        "Dangerous method",
+        "Correct VMware-Virtualization procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "e",
+      "explanation": "**VMware-Virtualization E Solution:** Which port does VMware-Virtualization service use by default?. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-E037",
+      "question": "Default subnet mask for Class C network in VMware-Virtualization?",
+      "options": [
+        "Correct VMware-Virtualization procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "e",
+      "explanation": "**VMware-Virtualization E Solution:** Default subnet mask for Class C network in VMware-Virtualization?. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-E038",
+      "question": "What is the primary function of VMware DHCP?",
+      "options": [
+        "Dangerous method",
+        "Correct VMware-Virtualization procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "e",
+      "explanation": "**VMware-Virtualization E Solution:** What is the primary function of VMware DHCP?. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-E039",
+      "question": "What does VMware ACL stand for?",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Correct VMware-Virtualization procedure",
+        "Incorrect approach"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "e",
+      "explanation": "**VMware-Virtualization E Solution:** What does VMware ACL stand for?. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-E040",
+      "question": "What does VMware ACL stand for?",
+      "options": [
+        "Dangerous method",
+        "Correct VMware-Virtualization procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "e",
+      "explanation": "**VMware-Virtualization E Solution:** What does VMware ACL stand for?. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-E041",
+      "question": "What does VMware ACL stand for?",
+      "options": [
+        "Dangerous method",
+        "Correct VMware-Virtualization procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "e",
+      "explanation": "**VMware-Virtualization E Solution:** What does VMware ACL stand for?. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-E042",
+      "question": "Common protocol for VMware-Virtualization remote access?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct VMware-Virtualization procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "e",
+      "explanation": "**VMware-Virtualization E Solution:** Common protocol for VMware-Virtualization remote access?. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-E043",
+      "question": "Default subnet mask for Class C network in VMware-Virtualization?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct VMware-Virtualization procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "e",
+      "explanation": "**VMware-Virtualization E Solution:** Default subnet mask for Class C network in VMware-Virtualization?. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-E044",
+      "question": "Common protocol for VMware-Virtualization remote access?",
+      "options": [
+        "Dangerous method",
+        "Correct VMware-Virtualization procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "e",
+      "explanation": "**VMware-Virtualization E Solution:** Common protocol for VMware-Virtualization remote access?. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-E045",
+      "question": "Default subnet mask for Class C network in VMware-Virtualization?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct VMware-Virtualization procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "e",
+      "explanation": "**VMware-Virtualization E Solution:** Default subnet mask for Class C network in VMware-Virtualization?. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-E046",
+      "question": "Which port does VMware-Virtualization service use by default?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct VMware-Virtualization procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "e",
+      "explanation": "**VMware-Virtualization E Solution:** Which port does VMware-Virtualization service use by default?. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-E047",
+      "question": "Default subnet mask for Class C network in VMware-Virtualization?",
+      "options": [
+        "Correct VMware-Virtualization procedure",
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "e",
+      "explanation": "**VMware-Virtualization E Solution:** Default subnet mask for Class C network in VMware-Virtualization?. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-E048",
+      "question": "Default subnet mask for Class C network in VMware-Virtualization?",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct VMware-Virtualization procedure"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "e",
+      "explanation": "**VMware-Virtualization E Solution:** Default subnet mask for Class C network in VMware-Virtualization?. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-E049",
+      "question": "Common protocol for VMware-Virtualization remote access?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct VMware-Virtualization procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "e",
+      "explanation": "**VMware-Virtualization E Solution:** Common protocol for VMware-Virtualization remote access?. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-E050",
+      "question": "Which port does VMware-Virtualization service use by default?",
+      "options": [
+        "Dangerous method",
+        "Correct VMware-Virtualization procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "e",
+      "explanation": "**VMware-Virtualization E Solution:** Which port does VMware-Virtualization service use by default?. Always verify VMware-Virtualization documentation and test in lab environment first."
+    }
+  ],
+  "medium": [
+    {
+      "id": "VMware-Virtualization-M001",
+      "question": "Troubleshoot VMware-Virtualization connectivity issue between VLANs",
+      "options": [
+        "Correct VMware-Virtualization procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "m",
+      "explanation": "**VMware-Virtualization M Solution:** Troubleshoot VMware-Virtualization connectivity issue between VLANs. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-M002",
+      "question": "Set up VMware-Virtualization failover clustering",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct VMware-Virtualization procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "m",
+      "explanation": "**VMware-Virtualization M Solution:** Set up VMware-Virtualization failover clustering. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-M003",
+      "question": "Troubleshoot VMware-Virtualization connectivity issue between VLANs",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct VMware-Virtualization procedure"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "m",
+      "explanation": "**VMware-Virtualization M Solution:** Troubleshoot VMware-Virtualization connectivity issue between VLANs. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-M004",
+      "question": "Implement VMware-Virtualization backup strategy for compliance",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Correct VMware-Virtualization procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "m",
+      "explanation": "**VMware-Virtualization M Solution:** Implement VMware-Virtualization backup strategy for compliance. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-M005",
+      "question": "Set up VMware-Virtualization failover clustering",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct VMware-Virtualization procedure"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "m",
+      "explanation": "**VMware-Virtualization M Solution:** Set up VMware-Virtualization failover clustering. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-M006",
+      "question": "Set up VMware-Virtualization failover clustering",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Correct VMware-Virtualization procedure",
+        "Incorrect approach"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "m",
+      "explanation": "**VMware-Virtualization M Solution:** Set up VMware-Virtualization failover clustering. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-M007",
+      "question": "Implement VMware-Virtualization backup strategy for compliance",
+      "options": [
+        "Partially correct",
+        "Correct VMware-Virtualization procedure",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "m",
+      "explanation": "**VMware-Virtualization M Solution:** Implement VMware-Virtualization backup strategy for compliance. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-M008",
+      "question": "Implement VMware-Virtualization backup strategy for compliance",
+      "options": [
+        "Correct VMware-Virtualization procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "m",
+      "explanation": "**VMware-Virtualization M Solution:** Implement VMware-Virtualization backup strategy for compliance. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-M009",
+      "question": "Implement VMware-Virtualization backup strategy for compliance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct VMware-Virtualization procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "m",
+      "explanation": "**VMware-Virtualization M Solution:** Implement VMware-Virtualization backup strategy for compliance. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-M010",
+      "question": "Implement VMware-Virtualization backup strategy for compliance",
+      "options": [
+        "Partially correct",
+        "Correct VMware-Virtualization procedure",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "m",
+      "explanation": "**VMware-Virtualization M Solution:** Implement VMware-Virtualization backup strategy for compliance. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-M011",
+      "question": "Optimize VMware-Virtualization query performance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct VMware-Virtualization procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "m",
+      "explanation": "**VMware-Virtualization M Solution:** Optimize VMware-Virtualization query performance. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-M012",
+      "question": "Implement VMware-Virtualization backup strategy for compliance",
+      "options": [
+        "Dangerous method",
+        "Correct VMware-Virtualization procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "m",
+      "explanation": "**VMware-Virtualization M Solution:** Implement VMware-Virtualization backup strategy for compliance. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-M013",
+      "question": "Configure VMware-Virtualization load balancer for high availability",
+      "options": [
+        "Correct VMware-Virtualization procedure",
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "m",
+      "explanation": "**VMware-Virtualization M Solution:** Configure VMware-Virtualization load balancer for high availability. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-M014",
+      "question": "Implement VMware-Virtualization backup strategy for compliance",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct VMware-Virtualization procedure"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "m",
+      "explanation": "**VMware-Virtualization M Solution:** Implement VMware-Virtualization backup strategy for compliance. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-M015",
+      "question": "Troubleshoot VMware-Virtualization connectivity issue between VLANs",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct VMware-Virtualization procedure"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "m",
+      "explanation": "**VMware-Virtualization M Solution:** Troubleshoot VMware-Virtualization connectivity issue between VLANs. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-M016",
+      "question": "Troubleshoot VMware-Virtualization connectivity issue between VLANs",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct VMware-Virtualization procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "m",
+      "explanation": "**VMware-Virtualization M Solution:** Troubleshoot VMware-Virtualization connectivity issue between VLANs. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-M017",
+      "question": "Set up VMware-Virtualization failover clustering",
+      "options": [
+        "Partially correct",
+        "Correct VMware-Virtualization procedure",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "m",
+      "explanation": "**VMware-Virtualization M Solution:** Set up VMware-Virtualization failover clustering. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-M018",
+      "question": "Implement VMware-Virtualization backup strategy for compliance",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct VMware-Virtualization procedure"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "m",
+      "explanation": "**VMware-Virtualization M Solution:** Implement VMware-Virtualization backup strategy for compliance. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-M019",
+      "question": "Set up VMware-Virtualization failover clustering",
+      "options": [
+        "Dangerous method",
+        "Correct VMware-Virtualization procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "m",
+      "explanation": "**VMware-Virtualization M Solution:** Set up VMware-Virtualization failover clustering. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-M020",
+      "question": "Set up VMware-Virtualization failover clustering",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct VMware-Virtualization procedure"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "m",
+      "explanation": "**VMware-Virtualization M Solution:** Set up VMware-Virtualization failover clustering. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-M021",
+      "question": "Configure VMware-Virtualization load balancer for high availability",
+      "options": [
+        "Correct VMware-Virtualization procedure",
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "m",
+      "explanation": "**VMware-Virtualization M Solution:** Configure VMware-Virtualization load balancer for high availability. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-M022",
+      "question": "Implement VMware-Virtualization backup strategy for compliance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct VMware-Virtualization procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "m",
+      "explanation": "**VMware-Virtualization M Solution:** Implement VMware-Virtualization backup strategy for compliance. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-M023",
+      "question": "Troubleshoot VMware-Virtualization connectivity issue between VLANs",
+      "options": [
+        "Correct VMware-Virtualization procedure",
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "m",
+      "explanation": "**VMware-Virtualization M Solution:** Troubleshoot VMware-Virtualization connectivity issue between VLANs. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-M024",
+      "question": "Optimize VMware-Virtualization query performance",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct VMware-Virtualization procedure"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "m",
+      "explanation": "**VMware-Virtualization M Solution:** Optimize VMware-Virtualization query performance. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-M025",
+      "question": "Implement VMware-Virtualization backup strategy for compliance",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct VMware-Virtualization procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "m",
+      "explanation": "**VMware-Virtualization M Solution:** Implement VMware-Virtualization backup strategy for compliance. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-M026",
+      "question": "Implement VMware-Virtualization backup strategy for compliance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct VMware-Virtualization procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "m",
+      "explanation": "**VMware-Virtualization M Solution:** Implement VMware-Virtualization backup strategy for compliance. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-M027",
+      "question": "Configure VMware-Virtualization load balancer for high availability",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct VMware-Virtualization procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "m",
+      "explanation": "**VMware-Virtualization M Solution:** Configure VMware-Virtualization load balancer for high availability. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-M028",
+      "question": "Optimize VMware-Virtualization query performance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct VMware-Virtualization procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "m",
+      "explanation": "**VMware-Virtualization M Solution:** Optimize VMware-Virtualization query performance. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-M029",
+      "question": "Optimize VMware-Virtualization query performance",
+      "options": [
+        "Correct VMware-Virtualization procedure",
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "m",
+      "explanation": "**VMware-Virtualization M Solution:** Optimize VMware-Virtualization query performance. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-M030",
+      "question": "Troubleshoot VMware-Virtualization connectivity issue between VLANs",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct VMware-Virtualization procedure"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "m",
+      "explanation": "**VMware-Virtualization M Solution:** Troubleshoot VMware-Virtualization connectivity issue between VLANs. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-M031",
+      "question": "Configure VMware-Virtualization load balancer for high availability",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct VMware-Virtualization procedure"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "m",
+      "explanation": "**VMware-Virtualization M Solution:** Configure VMware-Virtualization load balancer for high availability. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-M032",
+      "question": "Set up VMware-Virtualization failover clustering",
+      "options": [
+        "Incorrect approach",
+        "Correct VMware-Virtualization procedure",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "m",
+      "explanation": "**VMware-Virtualization M Solution:** Set up VMware-Virtualization failover clustering. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-M033",
+      "question": "Implement VMware-Virtualization backup strategy for compliance",
+      "options": [
+        "Dangerous method",
+        "Correct VMware-Virtualization procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "m",
+      "explanation": "**VMware-Virtualization M Solution:** Implement VMware-Virtualization backup strategy for compliance. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-M034",
+      "question": "Configure VMware-Virtualization load balancer for high availability",
+      "options": [
+        "Incorrect approach",
+        "Correct VMware-Virtualization procedure",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "m",
+      "explanation": "**VMware-Virtualization M Solution:** Configure VMware-Virtualization load balancer for high availability. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-M035",
+      "question": "Optimize VMware-Virtualization query performance",
+      "options": [
+        "Dangerous method",
+        "Correct VMware-Virtualization procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "m",
+      "explanation": "**VMware-Virtualization M Solution:** Optimize VMware-Virtualization query performance. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-M036",
+      "question": "Implement VMware-Virtualization backup strategy for compliance",
+      "options": [
+        "Correct VMware-Virtualization procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "m",
+      "explanation": "**VMware-Virtualization M Solution:** Implement VMware-Virtualization backup strategy for compliance. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-M037",
+      "question": "Optimize VMware-Virtualization query performance",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct VMware-Virtualization procedure"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "m",
+      "explanation": "**VMware-Virtualization M Solution:** Optimize VMware-Virtualization query performance. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-M038",
+      "question": "Troubleshoot VMware-Virtualization connectivity issue between VLANs",
+      "options": [
+        "Dangerous method",
+        "Correct VMware-Virtualization procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "m",
+      "explanation": "**VMware-Virtualization M Solution:** Troubleshoot VMware-Virtualization connectivity issue between VLANs. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-M039",
+      "question": "Implement VMware-Virtualization backup strategy for compliance",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct VMware-Virtualization procedure"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "m",
+      "explanation": "**VMware-Virtualization M Solution:** Implement VMware-Virtualization backup strategy for compliance. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-M040",
+      "question": "Configure VMware-Virtualization load balancer for high availability",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct VMware-Virtualization procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "m",
+      "explanation": "**VMware-Virtualization M Solution:** Configure VMware-Virtualization load balancer for high availability. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-M041",
+      "question": "Troubleshoot VMware-Virtualization connectivity issue between VLANs",
+      "options": [
+        "Incorrect approach",
+        "Correct VMware-Virtualization procedure",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "m",
+      "explanation": "**VMware-Virtualization M Solution:** Troubleshoot VMware-Virtualization connectivity issue between VLANs. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-M042",
+      "question": "Optimize VMware-Virtualization query performance",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Correct VMware-Virtualization procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "m",
+      "explanation": "**VMware-Virtualization M Solution:** Optimize VMware-Virtualization query performance. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-M043",
+      "question": "Configure VMware-Virtualization load balancer for high availability",
+      "options": [
+        "Dangerous method",
+        "Correct VMware-Virtualization procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "m",
+      "explanation": "**VMware-Virtualization M Solution:** Configure VMware-Virtualization load balancer for high availability. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-M044",
+      "question": "Implement VMware-Virtualization backup strategy for compliance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct VMware-Virtualization procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "m",
+      "explanation": "**VMware-Virtualization M Solution:** Implement VMware-Virtualization backup strategy for compliance. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-M045",
+      "question": "Implement VMware-Virtualization backup strategy for compliance",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct VMware-Virtualization procedure"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "m",
+      "explanation": "**VMware-Virtualization M Solution:** Implement VMware-Virtualization backup strategy for compliance. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-M046",
+      "question": "Optimize VMware-Virtualization query performance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct VMware-Virtualization procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "m",
+      "explanation": "**VMware-Virtualization M Solution:** Optimize VMware-Virtualization query performance. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-M047",
+      "question": "Optimize VMware-Virtualization query performance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct VMware-Virtualization procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "m",
+      "explanation": "**VMware-Virtualization M Solution:** Optimize VMware-Virtualization query performance. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-M048",
+      "question": "Troubleshoot VMware-Virtualization connectivity issue between VLANs",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct VMware-Virtualization procedure"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "m",
+      "explanation": "**VMware-Virtualization M Solution:** Troubleshoot VMware-Virtualization connectivity issue between VLANs. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-M049",
+      "question": "Troubleshoot VMware-Virtualization connectivity issue between VLANs",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct VMware-Virtualization procedure"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "m",
+      "explanation": "**VMware-Virtualization M Solution:** Troubleshoot VMware-Virtualization connectivity issue between VLANs. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-M050",
+      "question": "Optimize VMware-Virtualization query performance",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct VMware-Virtualization procedure"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "m",
+      "explanation": "**VMware-Virtualization M Solution:** Optimize VMware-Virtualization query performance. Always verify VMware-Virtualization documentation and test in lab environment first."
+    }
+  ],
+  "hard": [
+    {
+      "id": "VMware-Virtualization-H001",
+      "question": "Implement zero-trust security model in VMware-Virtualization",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct VMware-Virtualization procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "h",
+      "explanation": "**VMware-Virtualization H Solution:** Implement zero-trust security model in VMware-Virtualization. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-H002",
+      "question": "Create disaster recovery plan with RTO < 15min for VMware-Virtualization",
+      "options": [
+        "Correct VMware-Virtualization procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "h",
+      "explanation": "**VMware-Virtualization H Solution:** Create disaster recovery plan with RTO < 15min for VMware-Virtualization. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-H003",
+      "question": "Create disaster recovery plan with RTO < 15min for VMware-Virtualization",
+      "options": [
+        "Correct VMware-Virtualization procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "h",
+      "explanation": "**VMware-Virtualization H Solution:** Create disaster recovery plan with RTO < 15min for VMware-Virtualization. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-H004",
+      "question": "Optimize VMware-Virtualization performance under DDoS attack",
+      "options": [
+        "Correct VMware-Virtualization procedure",
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "h",
+      "explanation": "**VMware-Virtualization H Solution:** Optimize VMware-Virtualization performance under DDoS attack. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-H005",
+      "question": "Create disaster recovery plan with RTO < 15min for VMware-Virtualization",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct VMware-Virtualization procedure"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "h",
+      "explanation": "**VMware-Virtualization H Solution:** Create disaster recovery plan with RTO < 15min for VMware-Virtualization. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-H006",
+      "question": "Design VMware-Virtualization architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct VMware-Virtualization procedure"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "h",
+      "explanation": "**VMware-Virtualization H Solution:** Design VMware-Virtualization architecture for 10k users with 99.99% uptime. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-H007",
+      "question": "Create disaster recovery plan with RTO < 15min for VMware-Virtualization",
+      "options": [
+        "Correct VMware-Virtualization procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "h",
+      "explanation": "**VMware-Virtualization H Solution:** Create disaster recovery plan with RTO < 15min for VMware-Virtualization. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-H008",
+      "question": "Migrate legacy VMware-Virtualization systems to cloud-native architecture",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct VMware-Virtualization procedure"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "h",
+      "explanation": "**VMware-Virtualization H Solution:** Migrate legacy VMware-Virtualization systems to cloud-native architecture. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-H009",
+      "question": "Create disaster recovery plan with RTO < 15min for VMware-Virtualization",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct VMware-Virtualization procedure"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "h",
+      "explanation": "**VMware-Virtualization H Solution:** Create disaster recovery plan with RTO < 15min for VMware-Virtualization. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-H010",
+      "question": "Optimize VMware-Virtualization performance under DDoS attack",
+      "options": [
+        "Dangerous method",
+        "Correct VMware-Virtualization procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "h",
+      "explanation": "**VMware-Virtualization H Solution:** Optimize VMware-Virtualization performance under DDoS attack. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-H011",
+      "question": "Create disaster recovery plan with RTO < 15min for VMware-Virtualization",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct VMware-Virtualization procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "h",
+      "explanation": "**VMware-Virtualization H Solution:** Create disaster recovery plan with RTO < 15min for VMware-Virtualization. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-H012",
+      "question": "Migrate legacy VMware-Virtualization systems to cloud-native architecture",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct VMware-Virtualization procedure"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "h",
+      "explanation": "**VMware-Virtualization H Solution:** Migrate legacy VMware-Virtualization systems to cloud-native architecture. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-H013",
+      "question": "Optimize VMware-Virtualization performance under DDoS attack",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct VMware-Virtualization procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "h",
+      "explanation": "**VMware-Virtualization H Solution:** Optimize VMware-Virtualization performance under DDoS attack. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-H014",
+      "question": "Design VMware-Virtualization architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct VMware-Virtualization procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "h",
+      "explanation": "**VMware-Virtualization H Solution:** Design VMware-Virtualization architecture for 10k users with 99.99% uptime. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-H015",
+      "question": "Optimize VMware-Virtualization performance under DDoS attack",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct VMware-Virtualization procedure"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "h",
+      "explanation": "**VMware-Virtualization H Solution:** Optimize VMware-Virtualization performance under DDoS attack. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-H016",
+      "question": "Design VMware-Virtualization architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Correct VMware-Virtualization procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "h",
+      "explanation": "**VMware-Virtualization H Solution:** Design VMware-Virtualization architecture for 10k users with 99.99% uptime. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-H017",
+      "question": "Optimize VMware-Virtualization performance under DDoS attack",
+      "options": [
+        "Dangerous method",
+        "Correct VMware-Virtualization procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "h",
+      "explanation": "**VMware-Virtualization H Solution:** Optimize VMware-Virtualization performance under DDoS attack. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-H018",
+      "question": "Optimize VMware-Virtualization performance under DDoS attack",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct VMware-Virtualization procedure"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "h",
+      "explanation": "**VMware-Virtualization H Solution:** Optimize VMware-Virtualization performance under DDoS attack. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-H019",
+      "question": "Implement zero-trust security model in VMware-Virtualization",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct VMware-Virtualization procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "h",
+      "explanation": "**VMware-Virtualization H Solution:** Implement zero-trust security model in VMware-Virtualization. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-H020",
+      "question": "Create disaster recovery plan with RTO < 15min for VMware-Virtualization",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct VMware-Virtualization procedure"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "h",
+      "explanation": "**VMware-Virtualization H Solution:** Create disaster recovery plan with RTO < 15min for VMware-Virtualization. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-H021",
+      "question": "Migrate legacy VMware-Virtualization systems to cloud-native architecture",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct VMware-Virtualization procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "h",
+      "explanation": "**VMware-Virtualization H Solution:** Migrate legacy VMware-Virtualization systems to cloud-native architecture. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-H022",
+      "question": "Create disaster recovery plan with RTO < 15min for VMware-Virtualization",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Correct VMware-Virtualization procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "h",
+      "explanation": "**VMware-Virtualization H Solution:** Create disaster recovery plan with RTO < 15min for VMware-Virtualization. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-H023",
+      "question": "Optimize VMware-Virtualization performance under DDoS attack",
+      "options": [
+        "Dangerous method",
+        "Correct VMware-Virtualization procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "h",
+      "explanation": "**VMware-Virtualization H Solution:** Optimize VMware-Virtualization performance under DDoS attack. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-H024",
+      "question": "Create disaster recovery plan with RTO < 15min for VMware-Virtualization",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct VMware-Virtualization procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "h",
+      "explanation": "**VMware-Virtualization H Solution:** Create disaster recovery plan with RTO < 15min for VMware-Virtualization. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-H025",
+      "question": "Implement zero-trust security model in VMware-Virtualization",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Correct VMware-Virtualization procedure",
+        "Incorrect approach"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "h",
+      "explanation": "**VMware-Virtualization H Solution:** Implement zero-trust security model in VMware-Virtualization. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-H026",
+      "question": "Optimize VMware-Virtualization performance under DDoS attack",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct VMware-Virtualization procedure"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "h",
+      "explanation": "**VMware-Virtualization H Solution:** Optimize VMware-Virtualization performance under DDoS attack. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-H027",
+      "question": "Implement zero-trust security model in VMware-Virtualization",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct VMware-Virtualization procedure"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "h",
+      "explanation": "**VMware-Virtualization H Solution:** Implement zero-trust security model in VMware-Virtualization. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-H028",
+      "question": "Design VMware-Virtualization architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Dangerous method",
+        "Correct VMware-Virtualization procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "h",
+      "explanation": "**VMware-Virtualization H Solution:** Design VMware-Virtualization architecture for 10k users with 99.99% uptime. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-H029",
+      "question": "Optimize VMware-Virtualization performance under DDoS attack",
+      "options": [
+        "Correct VMware-Virtualization procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "h",
+      "explanation": "**VMware-Virtualization H Solution:** Optimize VMware-Virtualization performance under DDoS attack. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-H030",
+      "question": "Migrate legacy VMware-Virtualization systems to cloud-native architecture",
+      "options": [
+        "Dangerous method",
+        "Correct VMware-Virtualization procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "h",
+      "explanation": "**VMware-Virtualization H Solution:** Migrate legacy VMware-Virtualization systems to cloud-native architecture. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-H031",
+      "question": "Design VMware-Virtualization architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct VMware-Virtualization procedure"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "h",
+      "explanation": "**VMware-Virtualization H Solution:** Design VMware-Virtualization architecture for 10k users with 99.99% uptime. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-H032",
+      "question": "Optimize VMware-Virtualization performance under DDoS attack",
+      "options": [
+        "Incorrect approach",
+        "Correct VMware-Virtualization procedure",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "h",
+      "explanation": "**VMware-Virtualization H Solution:** Optimize VMware-Virtualization performance under DDoS attack. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-H033",
+      "question": "Create disaster recovery plan with RTO < 15min for VMware-Virtualization",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct VMware-Virtualization procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "h",
+      "explanation": "**VMware-Virtualization H Solution:** Create disaster recovery plan with RTO < 15min for VMware-Virtualization. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-H034",
+      "question": "Migrate legacy VMware-Virtualization systems to cloud-native architecture",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct VMware-Virtualization procedure"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "h",
+      "explanation": "**VMware-Virtualization H Solution:** Migrate legacy VMware-Virtualization systems to cloud-native architecture. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-H035",
+      "question": "Migrate legacy VMware-Virtualization systems to cloud-native architecture",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct VMware-Virtualization procedure"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "h",
+      "explanation": "**VMware-Virtualization H Solution:** Migrate legacy VMware-Virtualization systems to cloud-native architecture. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-H036",
+      "question": "Optimize VMware-Virtualization performance under DDoS attack",
+      "options": [
+        "Correct VMware-Virtualization procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "h",
+      "explanation": "**VMware-Virtualization H Solution:** Optimize VMware-Virtualization performance under DDoS attack. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-H037",
+      "question": "Optimize VMware-Virtualization performance under DDoS attack",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct VMware-Virtualization procedure"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "h",
+      "explanation": "**VMware-Virtualization H Solution:** Optimize VMware-Virtualization performance under DDoS attack. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-H038",
+      "question": "Optimize VMware-Virtualization performance under DDoS attack",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct VMware-Virtualization procedure"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "h",
+      "explanation": "**VMware-Virtualization H Solution:** Optimize VMware-Virtualization performance under DDoS attack. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-H039",
+      "question": "Migrate legacy VMware-Virtualization systems to cloud-native architecture",
+      "options": [
+        "Incorrect approach",
+        "Correct VMware-Virtualization procedure",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "h",
+      "explanation": "**VMware-Virtualization H Solution:** Migrate legacy VMware-Virtualization systems to cloud-native architecture. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-H040",
+      "question": "Design VMware-Virtualization architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Dangerous method",
+        "Correct VMware-Virtualization procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "h",
+      "explanation": "**VMware-Virtualization H Solution:** Design VMware-Virtualization architecture for 10k users with 99.99% uptime. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-H041",
+      "question": "Create disaster recovery plan with RTO < 15min for VMware-Virtualization",
+      "options": [
+        "Partially correct",
+        "Correct VMware-Virtualization procedure",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "h",
+      "explanation": "**VMware-Virtualization H Solution:** Create disaster recovery plan with RTO < 15min for VMware-Virtualization. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-H042",
+      "question": "Implement zero-trust security model in VMware-Virtualization",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct VMware-Virtualization procedure"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "h",
+      "explanation": "**VMware-Virtualization H Solution:** Implement zero-trust security model in VMware-Virtualization. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-H043",
+      "question": "Implement zero-trust security model in VMware-Virtualization",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct VMware-Virtualization procedure"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "h",
+      "explanation": "**VMware-Virtualization H Solution:** Implement zero-trust security model in VMware-Virtualization. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-H044",
+      "question": "Create disaster recovery plan with RTO < 15min for VMware-Virtualization",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Correct VMware-Virtualization procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "h",
+      "explanation": "**VMware-Virtualization H Solution:** Create disaster recovery plan with RTO < 15min for VMware-Virtualization. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-H045",
+      "question": "Create disaster recovery plan with RTO < 15min for VMware-Virtualization",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct VMware-Virtualization procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "h",
+      "explanation": "**VMware-Virtualization H Solution:** Create disaster recovery plan with RTO < 15min for VMware-Virtualization. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-H046",
+      "question": "Migrate legacy VMware-Virtualization systems to cloud-native architecture",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct VMware-Virtualization procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "h",
+      "explanation": "**VMware-Virtualization H Solution:** Migrate legacy VMware-Virtualization systems to cloud-native architecture. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-H047",
+      "question": "Optimize VMware-Virtualization performance under DDoS attack",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct VMware-Virtualization procedure"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "h",
+      "explanation": "**VMware-Virtualization H Solution:** Optimize VMware-Virtualization performance under DDoS attack. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-H048",
+      "question": "Create disaster recovery plan with RTO < 15min for VMware-Virtualization",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct VMware-Virtualization procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "h",
+      "explanation": "**VMware-Virtualization H Solution:** Create disaster recovery plan with RTO < 15min for VMware-Virtualization. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-H049",
+      "question": "Migrate legacy VMware-Virtualization systems to cloud-native architecture",
+      "options": [
+        "Dangerous method",
+        "Correct VMware-Virtualization procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "h",
+      "explanation": "**VMware-Virtualization H Solution:** Migrate legacy VMware-Virtualization systems to cloud-native architecture. Always verify VMware-Virtualization documentation and test in lab environment first."
+    },
+    {
+      "id": "VMware-Virtualization-H050",
+      "question": "Implement zero-trust security model in VMware-Virtualization",
+      "options": [
+        "Correct VMware-Virtualization procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct VMware-Virtualization procedure",
+      "difficulty": "h",
+      "explanation": "**VMware-Virtualization H Solution:** Implement zero-trust security model in VMware-Virtualization. Always verify VMware-Virtualization documentation and test in lab environment first."
+    }
+  ],
+  "scenarios": [
+    {
+      "id": "VMware-Virtualization-S01-01",
+      "question": "1. Server overload during quarterly report generation in VMware-Virtualization environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S01-02",
+      "question": "1. Server overload during quarterly report generation in VMware-Virtualization environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S01-03",
+      "question": "1. Server overload during quarterly report generation in VMware-Virtualization environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S01-04",
+      "question": "1. Server overload during quarterly report generation in VMware-Virtualization environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S01-05",
+      "question": "1. Server overload during quarterly report generation in VMware-Virtualization environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S02-01",
+      "question": "2. Cloud migration failure: rollback strategy in VMware-Virtualization environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S02-02",
+      "question": "2. Cloud migration failure: rollback strategy in VMware-Virtualization environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S02-03",
+      "question": "2. Cloud migration failure: rollback strategy in VMware-Virtualization environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S02-04",
+      "question": "2. Cloud migration failure: rollback strategy in VMware-Virtualization environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S02-05",
+      "question": "2. Cloud migration failure: rollback strategy in VMware-Virtualization environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S03-01",
+      "question": "3. Production outage during peak hours: diagnose and resolve in VMware-Virtualization environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S03-02",
+      "question": "3. Production outage during peak hours: diagnose and resolve in VMware-Virtualization environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S03-03",
+      "question": "3. Production outage during peak hours: diagnose and resolve in VMware-Virtualization environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S03-04",
+      "question": "3. Production outage during peak hours: diagnose and resolve in VMware-Virtualization environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S03-05",
+      "question": "3. Production outage during peak hours: diagnose and resolve in VMware-Virtualization environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S04-01",
+      "question": "4. Network latency issue affecting VoIP calls in VMware-Virtualization environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S04-02",
+      "question": "4. Network latency issue affecting VoIP calls in VMware-Virtualization environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S04-03",
+      "question": "4. Network latency issue affecting VoIP calls in VMware-Virtualization environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S04-04",
+      "question": "4. Network latency issue affecting VoIP calls in VMware-Virtualization environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S04-05",
+      "question": "4. Network latency issue affecting VoIP calls in VMware-Virtualization environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S05-01",
+      "question": "5. Cloud migration failure: rollback strategy in VMware-Virtualization environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S05-02",
+      "question": "5. Cloud migration failure: rollback strategy in VMware-Virtualization environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S05-03",
+      "question": "5. Cloud migration failure: rollback strategy in VMware-Virtualization environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S05-04",
+      "question": "5. Cloud migration failure: rollback strategy in VMware-Virtualization environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S05-05",
+      "question": "5. Cloud migration failure: rollback strategy in VMware-Virtualization environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S06-01",
+      "question": "6. Backup failure during scheduled window in VMware-Virtualization environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S06-02",
+      "question": "6. Backup failure during scheduled window in VMware-Virtualization environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S06-03",
+      "question": "6. Backup failure during scheduled window in VMware-Virtualization environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S06-04",
+      "question": "6. Backup failure during scheduled window in VMware-Virtualization environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S06-05",
+      "question": "6. Backup failure during scheduled window in VMware-Virtualization environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S07-01",
+      "question": "7. Load balancer health check failing in VMware-Virtualization environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S07-02",
+      "question": "7. Load balancer health check failing in VMware-Virtualization environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S07-03",
+      "question": "7. Load balancer health check failing in VMware-Virtualization environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S07-04",
+      "question": "7. Load balancer health check failing in VMware-Virtualization environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S07-05",
+      "question": "7. Load balancer health check failing in VMware-Virtualization environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S08-01",
+      "question": "8. Security incident response: ransomware attack detected in VMware-Virtualization environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S08-02",
+      "question": "8. Security incident response: ransomware attack detected in VMware-Virtualization environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S08-03",
+      "question": "8. Security incident response: ransomware attack detected in VMware-Virtualization environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S08-04",
+      "question": "8. Security incident response: ransomware attack detected in VMware-Virtualization environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S08-05",
+      "question": "8. Security incident response: ransomware attack detected in VMware-Virtualization environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S09-01",
+      "question": "9. Database performance degradation after upgrade in VMware-Virtualization environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S09-02",
+      "question": "9. Database performance degradation after upgrade in VMware-Virtualization environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S09-03",
+      "question": "9. Database performance degradation after upgrade in VMware-Virtualization environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S09-04",
+      "question": "9. Database performance degradation after upgrade in VMware-Virtualization environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S09-05",
+      "question": "9. Database performance degradation after upgrade in VMware-Virtualization environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S10-01",
+      "question": "10. Network latency issue affecting VoIP calls in VMware-Virtualization environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S10-02",
+      "question": "10. Network latency issue affecting VoIP calls in VMware-Virtualization environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S10-03",
+      "question": "10. Network latency issue affecting VoIP calls in VMware-Virtualization environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S10-04",
+      "question": "10. Network latency issue affecting VoIP calls in VMware-Virtualization environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S10-05",
+      "question": "10. Network latency issue affecting VoIP calls in VMware-Virtualization environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S11-01",
+      "question": "11. Cloud migration failure: rollback strategy in VMware-Virtualization environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S11-02",
+      "question": "11. Cloud migration failure: rollback strategy in VMware-Virtualization environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S11-03",
+      "question": "11. Cloud migration failure: rollback strategy in VMware-Virtualization environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S11-04",
+      "question": "11. Cloud migration failure: rollback strategy in VMware-Virtualization environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S11-05",
+      "question": "11. Cloud migration failure: rollback strategy in VMware-Virtualization environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S12-01",
+      "question": "12. Security incident response: ransomware attack detected in VMware-Virtualization environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S12-02",
+      "question": "12. Security incident response: ransomware attack detected in VMware-Virtualization environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S12-03",
+      "question": "12. Security incident response: ransomware attack detected in VMware-Virtualization environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S12-04",
+      "question": "12. Security incident response: ransomware attack detected in VMware-Virtualization environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S12-05",
+      "question": "12. Security incident response: ransomware attack detected in VMware-Virtualization environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S13-01",
+      "question": "13. Firewall blocking legitimate traffic in VMware-Virtualization environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S13-02",
+      "question": "13. Firewall blocking legitimate traffic in VMware-Virtualization environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S13-03",
+      "question": "13. Firewall blocking legitimate traffic in VMware-Virtualization environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S13-04",
+      "question": "13. Firewall blocking legitimate traffic in VMware-Virtualization environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S13-05",
+      "question": "13. Firewall blocking legitimate traffic in VMware-Virtualization environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S14-01",
+      "question": "14. Backup failure during scheduled window in VMware-Virtualization environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S14-02",
+      "question": "14. Backup failure during scheduled window in VMware-Virtualization environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S14-03",
+      "question": "14. Backup failure during scheduled window in VMware-Virtualization environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S14-04",
+      "question": "14. Backup failure during scheduled window in VMware-Virtualization environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S14-05",
+      "question": "14. Backup failure during scheduled window in VMware-Virtualization environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S15-01",
+      "question": "15. Cloud migration failure: rollback strategy in VMware-Virtualization environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S15-02",
+      "question": "15. Cloud migration failure: rollback strategy in VMware-Virtualization environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S15-03",
+      "question": "15. Cloud migration failure: rollback strategy in VMware-Virtualization environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S15-04",
+      "question": "15. Cloud migration failure: rollback strategy in VMware-Virtualization environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S15-05",
+      "question": "15. Cloud migration failure: rollback strategy in VMware-Virtualization environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S16-01",
+      "question": "16. Production outage during peak hours: diagnose and resolve in VMware-Virtualization environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S16-02",
+      "question": "16. Production outage during peak hours: diagnose and resolve in VMware-Virtualization environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S16-03",
+      "question": "16. Production outage during peak hours: diagnose and resolve in VMware-Virtualization environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S16-04",
+      "question": "16. Production outage during peak hours: diagnose and resolve in VMware-Virtualization environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S16-05",
+      "question": "16. Production outage during peak hours: diagnose and resolve in VMware-Virtualization environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S17-01",
+      "question": "17. Server overload during quarterly report generation in VMware-Virtualization environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S17-02",
+      "question": "17. Server overload during quarterly report generation in VMware-Virtualization environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S17-03",
+      "question": "17. Server overload during quarterly report generation in VMware-Virtualization environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S17-04",
+      "question": "17. Server overload during quarterly report generation in VMware-Virtualization environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S17-05",
+      "question": "17. Server overload during quarterly report generation in VMware-Virtualization environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S18-01",
+      "question": "18. Cloud migration failure: rollback strategy in VMware-Virtualization environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S18-02",
+      "question": "18. Cloud migration failure: rollback strategy in VMware-Virtualization environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S18-03",
+      "question": "18. Cloud migration failure: rollback strategy in VMware-Virtualization environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S18-04",
+      "question": "18. Cloud migration failure: rollback strategy in VMware-Virtualization environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S18-05",
+      "question": "18. Cloud migration failure: rollback strategy in VMware-Virtualization environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S19-01",
+      "question": "19. Backup failure during scheduled window in VMware-Virtualization environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S19-02",
+      "question": "19. Backup failure during scheduled window in VMware-Virtualization environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S19-03",
+      "question": "19. Backup failure during scheduled window in VMware-Virtualization environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S19-04",
+      "question": "19. Backup failure during scheduled window in VMware-Virtualization environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S19-05",
+      "question": "19. Backup failure during scheduled window in VMware-Virtualization environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S20-01",
+      "question": "20. Server overload during quarterly report generation in VMware-Virtualization environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S20-02",
+      "question": "20. Server overload during quarterly report generation in VMware-Virtualization environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S20-03",
+      "question": "20. Server overload during quarterly report generation in VMware-Virtualization environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S20-04",
+      "question": "20. Server overload during quarterly report generation in VMware-Virtualization environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    },
+    {
+      "id": "VMware-Virtualization-S20-05",
+      "question": "20. Server overload during quarterly report generation in VMware-Virtualization environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow VMware-Virtualization troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow VMware-Virtualization troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per VMware-Virtualization best practices. Document all steps for RCA."
+    }
+  ]
+}

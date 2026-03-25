@@ -1,0 +1,210 @@
+[
+  {
+    "id": "CCNA-Networking-I01",
+    "title": "CCNA-Networking Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level CCNA-Networking certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain CCNA-Networking HA design",
+      "Troubleshoot CCNA-Networking outage",
+      "Scale CCNA-Networking for 100k users"
+    ],
+    "expected_skills": [
+      "Production CCNA-Networking experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "CCNA-Networking-I02",
+    "title": "CCNA-Networking Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level CCNA-Networking certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain CCNA-Networking HA design",
+      "Troubleshoot CCNA-Networking outage",
+      "Scale CCNA-Networking for 100k users"
+    ],
+    "expected_skills": [
+      "Production CCNA-Networking experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "CCNA-Networking-I03",
+    "title": "CCNA-Networking Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level CCNA-Networking certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain CCNA-Networking HA design",
+      "Troubleshoot CCNA-Networking outage",
+      "Scale CCNA-Networking for 100k users"
+    ],
+    "expected_skills": [
+      "Production CCNA-Networking experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "CCNA-Networking-I04",
+    "title": "CCNA-Networking Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level CCNA-Networking certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain CCNA-Networking HA design",
+      "Troubleshoot CCNA-Networking outage",
+      "Scale CCNA-Networking for 100k users"
+    ],
+    "expected_skills": [
+      "Production CCNA-Networking experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "CCNA-Networking-I05",
+    "title": "CCNA-Networking Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level CCNA-Networking certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain CCNA-Networking HA design",
+      "Troubleshoot CCNA-Networking outage",
+      "Scale CCNA-Networking for 100k users"
+    ],
+    "expected_skills": [
+      "Production CCNA-Networking experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "CCNA-Networking-I06",
+    "title": "CCNA-Networking Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level CCNA-Networking certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain CCNA-Networking HA design",
+      "Troubleshoot CCNA-Networking outage",
+      "Scale CCNA-Networking for 100k users"
+    ],
+    "expected_skills": [
+      "Production CCNA-Networking experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "CCNA-Networking-I07",
+    "title": "CCNA-Networking Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level CCNA-Networking certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain CCNA-Networking HA design",
+      "Troubleshoot CCNA-Networking outage",
+      "Scale CCNA-Networking for 100k users"
+    ],
+    "expected_skills": [
+      "Production CCNA-Networking experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "CCNA-Networking-I08",
+    "title": "CCNA-Networking Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level CCNA-Networking certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain CCNA-Networking HA design",
+      "Troubleshoot CCNA-Networking outage",
+      "Scale CCNA-Networking for 100k users"
+    ],
+    "expected_skills": [
+      "Production CCNA-Networking experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "CCNA-Networking-I09",
+    "title": "CCNA-Networking Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level CCNA-Networking certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain CCNA-Networking HA design",
+      "Troubleshoot CCNA-Networking outage",
+      "Scale CCNA-Networking for 100k users"
+    ],
+    "expected_skills": [
+      "Production CCNA-Networking experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "CCNA-Networking-I10",
+    "title": "CCNA-Networking Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level CCNA-Networking certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain CCNA-Networking HA design",
+      "Troubleshoot CCNA-Networking outage",
+      "Scale CCNA-Networking for 100k users"
+    ],
+    "expected_skills": [
+      "Production CCNA-Networking experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  }
+]

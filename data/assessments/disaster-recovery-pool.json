@@ -1,0 +1,3260 @@
+{
+  "easy": [
+    {
+      "id": "Disaster-Recovery-E001",
+      "question": "Which port does Disaster-Recovery service use by default?",
+      "options": [
+        "Incorrect approach",
+        "Correct Disaster-Recovery procedure",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "e",
+      "explanation": "**Disaster-Recovery E Solution:** Which port does Disaster-Recovery service use by default?. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-E002",
+      "question": "Common protocol for Disaster-Recovery remote access?",
+      "options": [
+        "Correct Disaster-Recovery procedure",
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "e",
+      "explanation": "**Disaster-Recovery E Solution:** Common protocol for Disaster-Recovery remote access?. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-E003",
+      "question": "Default subnet mask for Class C network in Disaster-Recovery?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Disaster-Recovery procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "e",
+      "explanation": "**Disaster-Recovery E Solution:** Default subnet mask for Class C network in Disaster-Recovery?. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-E004",
+      "question": "Common protocol for Disaster-Recovery remote access?",
+      "options": [
+        "Correct Disaster-Recovery procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "e",
+      "explanation": "**Disaster-Recovery E Solution:** Common protocol for Disaster-Recovery remote access?. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-E005",
+      "question": "Common protocol for Disaster-Recovery remote access?",
+      "options": [
+        "Correct Disaster-Recovery procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "e",
+      "explanation": "**Disaster-Recovery E Solution:** Common protocol for Disaster-Recovery remote access?. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-E006",
+      "question": "What is the primary function of Disaster DHCP?",
+      "options": [
+        "Dangerous method",
+        "Correct Disaster-Recovery procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "e",
+      "explanation": "**Disaster-Recovery E Solution:** What is the primary function of Disaster DHCP?. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-E007",
+      "question": "Common protocol for Disaster-Recovery remote access?",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Disaster-Recovery procedure"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "e",
+      "explanation": "**Disaster-Recovery E Solution:** Common protocol for Disaster-Recovery remote access?. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-E008",
+      "question": "Common protocol for Disaster-Recovery remote access?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Disaster-Recovery procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "e",
+      "explanation": "**Disaster-Recovery E Solution:** Common protocol for Disaster-Recovery remote access?. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-E009",
+      "question": "What is the primary function of Disaster DHCP?",
+      "options": [
+        "Correct Disaster-Recovery procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "e",
+      "explanation": "**Disaster-Recovery E Solution:** What is the primary function of Disaster DHCP?. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-E010",
+      "question": "What is the primary function of Disaster DHCP?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Disaster-Recovery procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "e",
+      "explanation": "**Disaster-Recovery E Solution:** What is the primary function of Disaster DHCP?. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-E011",
+      "question": "What does Disaster ACL stand for?",
+      "options": [
+        "Incorrect approach",
+        "Correct Disaster-Recovery procedure",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "e",
+      "explanation": "**Disaster-Recovery E Solution:** What does Disaster ACL stand for?. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-E012",
+      "question": "What does Disaster ACL stand for?",
+      "options": [
+        "Incorrect approach",
+        "Correct Disaster-Recovery procedure",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "e",
+      "explanation": "**Disaster-Recovery E Solution:** What does Disaster ACL stand for?. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-E013",
+      "question": "Common protocol for Disaster-Recovery remote access?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Disaster-Recovery procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "e",
+      "explanation": "**Disaster-Recovery E Solution:** Common protocol for Disaster-Recovery remote access?. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-E014",
+      "question": "What is the primary function of Disaster DHCP?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Disaster-Recovery procedure"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "e",
+      "explanation": "**Disaster-Recovery E Solution:** What is the primary function of Disaster DHCP?. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-E015",
+      "question": "Default subnet mask for Class C network in Disaster-Recovery?",
+      "options": [
+        "Incorrect approach",
+        "Correct Disaster-Recovery procedure",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "e",
+      "explanation": "**Disaster-Recovery E Solution:** Default subnet mask for Class C network in Disaster-Recovery?. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-E016",
+      "question": "What does Disaster ACL stand for?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Disaster-Recovery procedure"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "e",
+      "explanation": "**Disaster-Recovery E Solution:** What does Disaster ACL stand for?. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-E017",
+      "question": "Which port does Disaster-Recovery service use by default?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Disaster-Recovery procedure"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "e",
+      "explanation": "**Disaster-Recovery E Solution:** Which port does Disaster-Recovery service use by default?. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-E018",
+      "question": "What does Disaster ACL stand for?",
+      "options": [
+        "Incorrect approach",
+        "Correct Disaster-Recovery procedure",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "e",
+      "explanation": "**Disaster-Recovery E Solution:** What does Disaster ACL stand for?. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-E019",
+      "question": "Common protocol for Disaster-Recovery remote access?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Disaster-Recovery procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "e",
+      "explanation": "**Disaster-Recovery E Solution:** Common protocol for Disaster-Recovery remote access?. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-E020",
+      "question": "What is the primary function of Disaster DHCP?",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Disaster-Recovery procedure"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "e",
+      "explanation": "**Disaster-Recovery E Solution:** What is the primary function of Disaster DHCP?. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-E021",
+      "question": "Which port does Disaster-Recovery service use by default?",
+      "options": [
+        "Incorrect approach",
+        "Correct Disaster-Recovery procedure",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "e",
+      "explanation": "**Disaster-Recovery E Solution:** Which port does Disaster-Recovery service use by default?. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-E022",
+      "question": "Common protocol for Disaster-Recovery remote access?",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Disaster-Recovery procedure"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "e",
+      "explanation": "**Disaster-Recovery E Solution:** Common protocol for Disaster-Recovery remote access?. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-E023",
+      "question": "Common protocol for Disaster-Recovery remote access?",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Disaster-Recovery procedure"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "e",
+      "explanation": "**Disaster-Recovery E Solution:** Common protocol for Disaster-Recovery remote access?. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-E024",
+      "question": "Common protocol for Disaster-Recovery remote access?",
+      "options": [
+        "Correct Disaster-Recovery procedure",
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "e",
+      "explanation": "**Disaster-Recovery E Solution:** Common protocol for Disaster-Recovery remote access?. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-E025",
+      "question": "What does Disaster ACL stand for?",
+      "options": [
+        "Incorrect approach",
+        "Correct Disaster-Recovery procedure",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "e",
+      "explanation": "**Disaster-Recovery E Solution:** What does Disaster ACL stand for?. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-E026",
+      "question": "Common protocol for Disaster-Recovery remote access?",
+      "options": [
+        "Correct Disaster-Recovery procedure",
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "e",
+      "explanation": "**Disaster-Recovery E Solution:** Common protocol for Disaster-Recovery remote access?. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-E027",
+      "question": "Which port does Disaster-Recovery service use by default?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Disaster-Recovery procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "e",
+      "explanation": "**Disaster-Recovery E Solution:** Which port does Disaster-Recovery service use by default?. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-E028",
+      "question": "Common protocol for Disaster-Recovery remote access?",
+      "options": [
+        "Correct Disaster-Recovery procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "e",
+      "explanation": "**Disaster-Recovery E Solution:** Common protocol for Disaster-Recovery remote access?. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-E029",
+      "question": "What is the primary function of Disaster DHCP?",
+      "options": [
+        "Correct Disaster-Recovery procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "e",
+      "explanation": "**Disaster-Recovery E Solution:** What is the primary function of Disaster DHCP?. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-E030",
+      "question": "Default subnet mask for Class C network in Disaster-Recovery?",
+      "options": [
+        "Correct Disaster-Recovery procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "e",
+      "explanation": "**Disaster-Recovery E Solution:** Default subnet mask for Class C network in Disaster-Recovery?. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-E031",
+      "question": "Default subnet mask for Class C network in Disaster-Recovery?",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Disaster-Recovery procedure"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "e",
+      "explanation": "**Disaster-Recovery E Solution:** Default subnet mask for Class C network in Disaster-Recovery?. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-E032",
+      "question": "Which port does Disaster-Recovery service use by default?",
+      "options": [
+        "Dangerous method",
+        "Correct Disaster-Recovery procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "e",
+      "explanation": "**Disaster-Recovery E Solution:** Which port does Disaster-Recovery service use by default?. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-E033",
+      "question": "What is the primary function of Disaster DHCP?",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Disaster-Recovery procedure"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "e",
+      "explanation": "**Disaster-Recovery E Solution:** What is the primary function of Disaster DHCP?. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-E034",
+      "question": "Common protocol for Disaster-Recovery remote access?",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Disaster-Recovery procedure"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "e",
+      "explanation": "**Disaster-Recovery E Solution:** Common protocol for Disaster-Recovery remote access?. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-E035",
+      "question": "What does Disaster ACL stand for?",
+      "options": [
+        "Correct Disaster-Recovery procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "e",
+      "explanation": "**Disaster-Recovery E Solution:** What does Disaster ACL stand for?. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-E036",
+      "question": "Default subnet mask for Class C network in Disaster-Recovery?",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Disaster-Recovery procedure"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "e",
+      "explanation": "**Disaster-Recovery E Solution:** Default subnet mask for Class C network in Disaster-Recovery?. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-E037",
+      "question": "What is the primary function of Disaster DHCP?",
+      "options": [
+        "Correct Disaster-Recovery procedure",
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "e",
+      "explanation": "**Disaster-Recovery E Solution:** What is the primary function of Disaster DHCP?. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-E038",
+      "question": "What does Disaster ACL stand for?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Disaster-Recovery procedure"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "e",
+      "explanation": "**Disaster-Recovery E Solution:** What does Disaster ACL stand for?. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-E039",
+      "question": "Common protocol for Disaster-Recovery remote access?",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Disaster-Recovery procedure"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "e",
+      "explanation": "**Disaster-Recovery E Solution:** Common protocol for Disaster-Recovery remote access?. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-E040",
+      "question": "What does Disaster ACL stand for?",
+      "options": [
+        "Correct Disaster-Recovery procedure",
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "e",
+      "explanation": "**Disaster-Recovery E Solution:** What does Disaster ACL stand for?. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-E041",
+      "question": "Default subnet mask for Class C network in Disaster-Recovery?",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Disaster-Recovery procedure"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "e",
+      "explanation": "**Disaster-Recovery E Solution:** Default subnet mask for Class C network in Disaster-Recovery?. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-E042",
+      "question": "What is the primary function of Disaster DHCP?",
+      "options": [
+        "Partially correct",
+        "Correct Disaster-Recovery procedure",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "e",
+      "explanation": "**Disaster-Recovery E Solution:** What is the primary function of Disaster DHCP?. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-E043",
+      "question": "What is the primary function of Disaster DHCP?",
+      "options": [
+        "Dangerous method",
+        "Correct Disaster-Recovery procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "e",
+      "explanation": "**Disaster-Recovery E Solution:** What is the primary function of Disaster DHCP?. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-E044",
+      "question": "What does Disaster ACL stand for?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Disaster-Recovery procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "e",
+      "explanation": "**Disaster-Recovery E Solution:** What does Disaster ACL stand for?. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-E045",
+      "question": "Common protocol for Disaster-Recovery remote access?",
+      "options": [
+        "Correct Disaster-Recovery procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "e",
+      "explanation": "**Disaster-Recovery E Solution:** Common protocol for Disaster-Recovery remote access?. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-E046",
+      "question": "What is the primary function of Disaster DHCP?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Disaster-Recovery procedure"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "e",
+      "explanation": "**Disaster-Recovery E Solution:** What is the primary function of Disaster DHCP?. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-E047",
+      "question": "What does Disaster ACL stand for?",
+      "options": [
+        "Partially correct",
+        "Correct Disaster-Recovery procedure",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "e",
+      "explanation": "**Disaster-Recovery E Solution:** What does Disaster ACL stand for?. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-E048",
+      "question": "Common protocol for Disaster-Recovery remote access?",
+      "options": [
+        "Correct Disaster-Recovery procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "e",
+      "explanation": "**Disaster-Recovery E Solution:** Common protocol for Disaster-Recovery remote access?. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-E049",
+      "question": "Common protocol for Disaster-Recovery remote access?",
+      "options": [
+        "Correct Disaster-Recovery procedure",
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "e",
+      "explanation": "**Disaster-Recovery E Solution:** Common protocol for Disaster-Recovery remote access?. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-E050",
+      "question": "Default subnet mask for Class C network in Disaster-Recovery?",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Disaster-Recovery procedure"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "e",
+      "explanation": "**Disaster-Recovery E Solution:** Default subnet mask for Class C network in Disaster-Recovery?. Always verify Disaster-Recovery documentation and test in lab environment first."
+    }
+  ],
+  "medium": [
+    {
+      "id": "Disaster-Recovery-M001",
+      "question": "Implement Disaster-Recovery backup strategy for compliance",
+      "options": [
+        "Correct Disaster-Recovery procedure",
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "m",
+      "explanation": "**Disaster-Recovery M Solution:** Implement Disaster-Recovery backup strategy for compliance. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-M002",
+      "question": "Set up Disaster-Recovery failover clustering",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Disaster-Recovery procedure"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "m",
+      "explanation": "**Disaster-Recovery M Solution:** Set up Disaster-Recovery failover clustering. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-M003",
+      "question": "Optimize Disaster-Recovery query performance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Disaster-Recovery procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "m",
+      "explanation": "**Disaster-Recovery M Solution:** Optimize Disaster-Recovery query performance. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-M004",
+      "question": "Troubleshoot Disaster-Recovery connectivity issue between VLANs",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Disaster-Recovery procedure"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "m",
+      "explanation": "**Disaster-Recovery M Solution:** Troubleshoot Disaster-Recovery connectivity issue between VLANs. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-M005",
+      "question": "Optimize Disaster-Recovery query performance",
+      "options": [
+        "Correct Disaster-Recovery procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "m",
+      "explanation": "**Disaster-Recovery M Solution:** Optimize Disaster-Recovery query performance. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-M006",
+      "question": "Optimize Disaster-Recovery query performance",
+      "options": [
+        "Dangerous method",
+        "Correct Disaster-Recovery procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "m",
+      "explanation": "**Disaster-Recovery M Solution:** Optimize Disaster-Recovery query performance. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-M007",
+      "question": "Optimize Disaster-Recovery query performance",
+      "options": [
+        "Correct Disaster-Recovery procedure",
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "m",
+      "explanation": "**Disaster-Recovery M Solution:** Optimize Disaster-Recovery query performance. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-M008",
+      "question": "Troubleshoot Disaster-Recovery connectivity issue between VLANs",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Disaster-Recovery procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "m",
+      "explanation": "**Disaster-Recovery M Solution:** Troubleshoot Disaster-Recovery connectivity issue between VLANs. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-M009",
+      "question": "Set up Disaster-Recovery failover clustering",
+      "options": [
+        "Dangerous method",
+        "Correct Disaster-Recovery procedure",
+        "Incorrect approach",
+        "Partially correct"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "m",
+      "explanation": "**Disaster-Recovery M Solution:** Set up Disaster-Recovery failover clustering. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-M010",
+      "question": "Set up Disaster-Recovery failover clustering",
+      "options": [
+        "Correct Disaster-Recovery procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "m",
+      "explanation": "**Disaster-Recovery M Solution:** Set up Disaster-Recovery failover clustering. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-M011",
+      "question": "Configure Disaster-Recovery load balancer for high availability",
+      "options": [
+        "Correct Disaster-Recovery procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "m",
+      "explanation": "**Disaster-Recovery M Solution:** Configure Disaster-Recovery load balancer for high availability. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-M012",
+      "question": "Optimize Disaster-Recovery query performance",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Correct Disaster-Recovery procedure",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "m",
+      "explanation": "**Disaster-Recovery M Solution:** Optimize Disaster-Recovery query performance. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-M013",
+      "question": "Configure Disaster-Recovery load balancer for high availability",
+      "options": [
+        "Dangerous method",
+        "Correct Disaster-Recovery procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "m",
+      "explanation": "**Disaster-Recovery M Solution:** Configure Disaster-Recovery load balancer for high availability. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-M014",
+      "question": "Configure Disaster-Recovery load balancer for high availability",
+      "options": [
+        "Correct Disaster-Recovery procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "m",
+      "explanation": "**Disaster-Recovery M Solution:** Configure Disaster-Recovery load balancer for high availability. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-M015",
+      "question": "Set up Disaster-Recovery failover clustering",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Disaster-Recovery procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "m",
+      "explanation": "**Disaster-Recovery M Solution:** Set up Disaster-Recovery failover clustering. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-M016",
+      "question": "Set up Disaster-Recovery failover clustering",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Disaster-Recovery procedure"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "m",
+      "explanation": "**Disaster-Recovery M Solution:** Set up Disaster-Recovery failover clustering. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-M017",
+      "question": "Set up Disaster-Recovery failover clustering",
+      "options": [
+        "Correct Disaster-Recovery procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "m",
+      "explanation": "**Disaster-Recovery M Solution:** Set up Disaster-Recovery failover clustering. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-M018",
+      "question": "Implement Disaster-Recovery backup strategy for compliance",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Disaster-Recovery procedure"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "m",
+      "explanation": "**Disaster-Recovery M Solution:** Implement Disaster-Recovery backup strategy for compliance. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-M019",
+      "question": "Troubleshoot Disaster-Recovery connectivity issue between VLANs",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Disaster-Recovery procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "m",
+      "explanation": "**Disaster-Recovery M Solution:** Troubleshoot Disaster-Recovery connectivity issue between VLANs. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-M020",
+      "question": "Set up Disaster-Recovery failover clustering",
+      "options": [
+        "Dangerous method",
+        "Correct Disaster-Recovery procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "m",
+      "explanation": "**Disaster-Recovery M Solution:** Set up Disaster-Recovery failover clustering. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-M021",
+      "question": "Optimize Disaster-Recovery query performance",
+      "options": [
+        "Partially correct",
+        "Correct Disaster-Recovery procedure",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "m",
+      "explanation": "**Disaster-Recovery M Solution:** Optimize Disaster-Recovery query performance. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-M022",
+      "question": "Optimize Disaster-Recovery query performance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Disaster-Recovery procedure"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "m",
+      "explanation": "**Disaster-Recovery M Solution:** Optimize Disaster-Recovery query performance. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-M023",
+      "question": "Optimize Disaster-Recovery query performance",
+      "options": [
+        "Partially correct",
+        "Correct Disaster-Recovery procedure",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "m",
+      "explanation": "**Disaster-Recovery M Solution:** Optimize Disaster-Recovery query performance. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-M024",
+      "question": "Implement Disaster-Recovery backup strategy for compliance",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Disaster-Recovery procedure"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "m",
+      "explanation": "**Disaster-Recovery M Solution:** Implement Disaster-Recovery backup strategy for compliance. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-M025",
+      "question": "Troubleshoot Disaster-Recovery connectivity issue between VLANs",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Correct Disaster-Recovery procedure",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "m",
+      "explanation": "**Disaster-Recovery M Solution:** Troubleshoot Disaster-Recovery connectivity issue between VLANs. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-M026",
+      "question": "Optimize Disaster-Recovery query performance",
+      "options": [
+        "Correct Disaster-Recovery procedure",
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "m",
+      "explanation": "**Disaster-Recovery M Solution:** Optimize Disaster-Recovery query performance. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-M027",
+      "question": "Implement Disaster-Recovery backup strategy for compliance",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Correct Disaster-Recovery procedure",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "m",
+      "explanation": "**Disaster-Recovery M Solution:** Implement Disaster-Recovery backup strategy for compliance. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-M028",
+      "question": "Set up Disaster-Recovery failover clustering",
+      "options": [
+        "Incorrect approach",
+        "Correct Disaster-Recovery procedure",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "m",
+      "explanation": "**Disaster-Recovery M Solution:** Set up Disaster-Recovery failover clustering. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-M029",
+      "question": "Implement Disaster-Recovery backup strategy for compliance",
+      "options": [
+        "Correct Disaster-Recovery procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "m",
+      "explanation": "**Disaster-Recovery M Solution:** Implement Disaster-Recovery backup strategy for compliance. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-M030",
+      "question": "Troubleshoot Disaster-Recovery connectivity issue between VLANs",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Disaster-Recovery procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "m",
+      "explanation": "**Disaster-Recovery M Solution:** Troubleshoot Disaster-Recovery connectivity issue between VLANs. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-M031",
+      "question": "Set up Disaster-Recovery failover clustering",
+      "options": [
+        "Dangerous method",
+        "Correct Disaster-Recovery procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "m",
+      "explanation": "**Disaster-Recovery M Solution:** Set up Disaster-Recovery failover clustering. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-M032",
+      "question": "Set up Disaster-Recovery failover clustering",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Disaster-Recovery procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "m",
+      "explanation": "**Disaster-Recovery M Solution:** Set up Disaster-Recovery failover clustering. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-M033",
+      "question": "Troubleshoot Disaster-Recovery connectivity issue between VLANs",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Disaster-Recovery procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "m",
+      "explanation": "**Disaster-Recovery M Solution:** Troubleshoot Disaster-Recovery connectivity issue between VLANs. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-M034",
+      "question": "Set up Disaster-Recovery failover clustering",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Disaster-Recovery procedure"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "m",
+      "explanation": "**Disaster-Recovery M Solution:** Set up Disaster-Recovery failover clustering. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-M035",
+      "question": "Set up Disaster-Recovery failover clustering",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Disaster-Recovery procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "m",
+      "explanation": "**Disaster-Recovery M Solution:** Set up Disaster-Recovery failover clustering. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-M036",
+      "question": "Set up Disaster-Recovery failover clustering",
+      "options": [
+        "Partially correct",
+        "Correct Disaster-Recovery procedure",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "m",
+      "explanation": "**Disaster-Recovery M Solution:** Set up Disaster-Recovery failover clustering. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-M037",
+      "question": "Configure Disaster-Recovery load balancer for high availability",
+      "options": [
+        "Incorrect approach",
+        "Correct Disaster-Recovery procedure",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "m",
+      "explanation": "**Disaster-Recovery M Solution:** Configure Disaster-Recovery load balancer for high availability. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-M038",
+      "question": "Implement Disaster-Recovery backup strategy for compliance",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Disaster-Recovery procedure"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "m",
+      "explanation": "**Disaster-Recovery M Solution:** Implement Disaster-Recovery backup strategy for compliance. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-M039",
+      "question": "Optimize Disaster-Recovery query performance",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Disaster-Recovery procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "m",
+      "explanation": "**Disaster-Recovery M Solution:** Optimize Disaster-Recovery query performance. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-M040",
+      "question": "Optimize Disaster-Recovery query performance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Disaster-Recovery procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "m",
+      "explanation": "**Disaster-Recovery M Solution:** Optimize Disaster-Recovery query performance. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-M041",
+      "question": "Troubleshoot Disaster-Recovery connectivity issue between VLANs",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Disaster-Recovery procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "m",
+      "explanation": "**Disaster-Recovery M Solution:** Troubleshoot Disaster-Recovery connectivity issue between VLANs. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-M042",
+      "question": "Configure Disaster-Recovery load balancer for high availability",
+      "options": [
+        "Correct Disaster-Recovery procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "m",
+      "explanation": "**Disaster-Recovery M Solution:** Configure Disaster-Recovery load balancer for high availability. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-M043",
+      "question": "Troubleshoot Disaster-Recovery connectivity issue between VLANs",
+      "options": [
+        "Dangerous method",
+        "Correct Disaster-Recovery procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "m",
+      "explanation": "**Disaster-Recovery M Solution:** Troubleshoot Disaster-Recovery connectivity issue between VLANs. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-M044",
+      "question": "Optimize Disaster-Recovery query performance",
+      "options": [
+        "Dangerous method",
+        "Correct Disaster-Recovery procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "m",
+      "explanation": "**Disaster-Recovery M Solution:** Optimize Disaster-Recovery query performance. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-M045",
+      "question": "Configure Disaster-Recovery load balancer for high availability",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Disaster-Recovery procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "m",
+      "explanation": "**Disaster-Recovery M Solution:** Configure Disaster-Recovery load balancer for high availability. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-M046",
+      "question": "Configure Disaster-Recovery load balancer for high availability",
+      "options": [
+        "Dangerous method",
+        "Correct Disaster-Recovery procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "m",
+      "explanation": "**Disaster-Recovery M Solution:** Configure Disaster-Recovery load balancer for high availability. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-M047",
+      "question": "Implement Disaster-Recovery backup strategy for compliance",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Disaster-Recovery procedure"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "m",
+      "explanation": "**Disaster-Recovery M Solution:** Implement Disaster-Recovery backup strategy for compliance. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-M048",
+      "question": "Troubleshoot Disaster-Recovery connectivity issue between VLANs",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Disaster-Recovery procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "m",
+      "explanation": "**Disaster-Recovery M Solution:** Troubleshoot Disaster-Recovery connectivity issue between VLANs. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-M049",
+      "question": "Troubleshoot Disaster-Recovery connectivity issue between VLANs",
+      "options": [
+        "Partially correct",
+        "Correct Disaster-Recovery procedure",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "m",
+      "explanation": "**Disaster-Recovery M Solution:** Troubleshoot Disaster-Recovery connectivity issue between VLANs. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-M050",
+      "question": "Set up Disaster-Recovery failover clustering",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Disaster-Recovery procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "m",
+      "explanation": "**Disaster-Recovery M Solution:** Set up Disaster-Recovery failover clustering. Always verify Disaster-Recovery documentation and test in lab environment first."
+    }
+  ],
+  "hard": [
+    {
+      "id": "Disaster-Recovery-H001",
+      "question": "Design Disaster-Recovery architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Disaster-Recovery procedure"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "h",
+      "explanation": "**Disaster-Recovery H Solution:** Design Disaster-Recovery architecture for 10k users with 99.99% uptime. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-H002",
+      "question": "Optimize Disaster-Recovery performance under DDoS attack",
+      "options": [
+        "Incorrect approach",
+        "Correct Disaster-Recovery procedure",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "h",
+      "explanation": "**Disaster-Recovery H Solution:** Optimize Disaster-Recovery performance under DDoS attack. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-H003",
+      "question": "Optimize Disaster-Recovery performance under DDoS attack",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Disaster-Recovery procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "h",
+      "explanation": "**Disaster-Recovery H Solution:** Optimize Disaster-Recovery performance under DDoS attack. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-H004",
+      "question": "Optimize Disaster-Recovery performance under DDoS attack",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Disaster-Recovery procedure"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "h",
+      "explanation": "**Disaster-Recovery H Solution:** Optimize Disaster-Recovery performance under DDoS attack. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-H005",
+      "question": "Design Disaster-Recovery architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Correct Disaster-Recovery procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "h",
+      "explanation": "**Disaster-Recovery H Solution:** Design Disaster-Recovery architecture for 10k users with 99.99% uptime. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-H006",
+      "question": "Optimize Disaster-Recovery performance under DDoS attack",
+      "options": [
+        "Partially correct",
+        "Correct Disaster-Recovery procedure",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "h",
+      "explanation": "**Disaster-Recovery H Solution:** Optimize Disaster-Recovery performance under DDoS attack. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-H007",
+      "question": "Design Disaster-Recovery architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Disaster-Recovery procedure"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "h",
+      "explanation": "**Disaster-Recovery H Solution:** Design Disaster-Recovery architecture for 10k users with 99.99% uptime. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-H008",
+      "question": "Migrate legacy Disaster-Recovery systems to cloud-native architecture",
+      "options": [
+        "Partially correct",
+        "Correct Disaster-Recovery procedure",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "h",
+      "explanation": "**Disaster-Recovery H Solution:** Migrate legacy Disaster-Recovery systems to cloud-native architecture. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-H009",
+      "question": "Migrate legacy Disaster-Recovery systems to cloud-native architecture",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Disaster-Recovery procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "h",
+      "explanation": "**Disaster-Recovery H Solution:** Migrate legacy Disaster-Recovery systems to cloud-native architecture. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-H010",
+      "question": "Implement zero-trust security model in Disaster-Recovery",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Disaster-Recovery procedure"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "h",
+      "explanation": "**Disaster-Recovery H Solution:** Implement zero-trust security model in Disaster-Recovery. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-H011",
+      "question": "Design Disaster-Recovery architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Disaster-Recovery procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "h",
+      "explanation": "**Disaster-Recovery H Solution:** Design Disaster-Recovery architecture for 10k users with 99.99% uptime. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-H012",
+      "question": "Create disaster recovery plan with RTO < 15min for Disaster-Recovery",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Correct Disaster-Recovery procedure",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "h",
+      "explanation": "**Disaster-Recovery H Solution:** Create disaster recovery plan with RTO < 15min for Disaster-Recovery. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-H013",
+      "question": "Create disaster recovery plan with RTO < 15min for Disaster-Recovery",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Disaster-Recovery procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "h",
+      "explanation": "**Disaster-Recovery H Solution:** Create disaster recovery plan with RTO < 15min for Disaster-Recovery. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-H014",
+      "question": "Implement zero-trust security model in Disaster-Recovery",
+      "options": [
+        "Partially correct",
+        "Correct Disaster-Recovery procedure",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "h",
+      "explanation": "**Disaster-Recovery H Solution:** Implement zero-trust security model in Disaster-Recovery. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-H015",
+      "question": "Implement zero-trust security model in Disaster-Recovery",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Disaster-Recovery procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "h",
+      "explanation": "**Disaster-Recovery H Solution:** Implement zero-trust security model in Disaster-Recovery. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-H016",
+      "question": "Migrate legacy Disaster-Recovery systems to cloud-native architecture",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Disaster-Recovery procedure"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "h",
+      "explanation": "**Disaster-Recovery H Solution:** Migrate legacy Disaster-Recovery systems to cloud-native architecture. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-H017",
+      "question": "Optimize Disaster-Recovery performance under DDoS attack",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Disaster-Recovery procedure"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "h",
+      "explanation": "**Disaster-Recovery H Solution:** Optimize Disaster-Recovery performance under DDoS attack. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-H018",
+      "question": "Create disaster recovery plan with RTO < 15min for Disaster-Recovery",
+      "options": [
+        "Dangerous method",
+        "Correct Disaster-Recovery procedure",
+        "Incorrect approach",
+        "Partially correct"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "h",
+      "explanation": "**Disaster-Recovery H Solution:** Create disaster recovery plan with RTO < 15min for Disaster-Recovery. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-H019",
+      "question": "Optimize Disaster-Recovery performance under DDoS attack",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Disaster-Recovery procedure"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "h",
+      "explanation": "**Disaster-Recovery H Solution:** Optimize Disaster-Recovery performance under DDoS attack. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-H020",
+      "question": "Migrate legacy Disaster-Recovery systems to cloud-native architecture",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Disaster-Recovery procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "h",
+      "explanation": "**Disaster-Recovery H Solution:** Migrate legacy Disaster-Recovery systems to cloud-native architecture. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-H021",
+      "question": "Design Disaster-Recovery architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Disaster-Recovery procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "h",
+      "explanation": "**Disaster-Recovery H Solution:** Design Disaster-Recovery architecture for 10k users with 99.99% uptime. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-H022",
+      "question": "Migrate legacy Disaster-Recovery systems to cloud-native architecture",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Disaster-Recovery procedure"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "h",
+      "explanation": "**Disaster-Recovery H Solution:** Migrate legacy Disaster-Recovery systems to cloud-native architecture. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-H023",
+      "question": "Optimize Disaster-Recovery performance under DDoS attack",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Disaster-Recovery procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "h",
+      "explanation": "**Disaster-Recovery H Solution:** Optimize Disaster-Recovery performance under DDoS attack. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-H024",
+      "question": "Optimize Disaster-Recovery performance under DDoS attack",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Disaster-Recovery procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "h",
+      "explanation": "**Disaster-Recovery H Solution:** Optimize Disaster-Recovery performance under DDoS attack. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-H025",
+      "question": "Optimize Disaster-Recovery performance under DDoS attack",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Disaster-Recovery procedure"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "h",
+      "explanation": "**Disaster-Recovery H Solution:** Optimize Disaster-Recovery performance under DDoS attack. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-H026",
+      "question": "Design Disaster-Recovery architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Disaster-Recovery procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "h",
+      "explanation": "**Disaster-Recovery H Solution:** Design Disaster-Recovery architecture for 10k users with 99.99% uptime. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-H027",
+      "question": "Optimize Disaster-Recovery performance under DDoS attack",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Disaster-Recovery procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "h",
+      "explanation": "**Disaster-Recovery H Solution:** Optimize Disaster-Recovery performance under DDoS attack. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-H028",
+      "question": "Design Disaster-Recovery architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Partially correct",
+        "Correct Disaster-Recovery procedure",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "h",
+      "explanation": "**Disaster-Recovery H Solution:** Design Disaster-Recovery architecture for 10k users with 99.99% uptime. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-H029",
+      "question": "Create disaster recovery plan with RTO < 15min for Disaster-Recovery",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Disaster-Recovery procedure"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "h",
+      "explanation": "**Disaster-Recovery H Solution:** Create disaster recovery plan with RTO < 15min for Disaster-Recovery. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-H030",
+      "question": "Create disaster recovery plan with RTO < 15min for Disaster-Recovery",
+      "options": [
+        "Incorrect approach",
+        "Correct Disaster-Recovery procedure",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "h",
+      "explanation": "**Disaster-Recovery H Solution:** Create disaster recovery plan with RTO < 15min for Disaster-Recovery. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-H031",
+      "question": "Implement zero-trust security model in Disaster-Recovery",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Disaster-Recovery procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "h",
+      "explanation": "**Disaster-Recovery H Solution:** Implement zero-trust security model in Disaster-Recovery. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-H032",
+      "question": "Migrate legacy Disaster-Recovery systems to cloud-native architecture",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Disaster-Recovery procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "h",
+      "explanation": "**Disaster-Recovery H Solution:** Migrate legacy Disaster-Recovery systems to cloud-native architecture. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-H033",
+      "question": "Design Disaster-Recovery architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Disaster-Recovery procedure"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "h",
+      "explanation": "**Disaster-Recovery H Solution:** Design Disaster-Recovery architecture for 10k users with 99.99% uptime. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-H034",
+      "question": "Implement zero-trust security model in Disaster-Recovery",
+      "options": [
+        "Correct Disaster-Recovery procedure",
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "h",
+      "explanation": "**Disaster-Recovery H Solution:** Implement zero-trust security model in Disaster-Recovery. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-H035",
+      "question": "Migrate legacy Disaster-Recovery systems to cloud-native architecture",
+      "options": [
+        "Partially correct",
+        "Correct Disaster-Recovery procedure",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "h",
+      "explanation": "**Disaster-Recovery H Solution:** Migrate legacy Disaster-Recovery systems to cloud-native architecture. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-H036",
+      "question": "Design Disaster-Recovery architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Incorrect approach",
+        "Correct Disaster-Recovery procedure",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "h",
+      "explanation": "**Disaster-Recovery H Solution:** Design Disaster-Recovery architecture for 10k users with 99.99% uptime. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-H037",
+      "question": "Migrate legacy Disaster-Recovery systems to cloud-native architecture",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Disaster-Recovery procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "h",
+      "explanation": "**Disaster-Recovery H Solution:** Migrate legacy Disaster-Recovery systems to cloud-native architecture. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-H038",
+      "question": "Create disaster recovery plan with RTO < 15min for Disaster-Recovery",
+      "options": [
+        "Correct Disaster-Recovery procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "h",
+      "explanation": "**Disaster-Recovery H Solution:** Create disaster recovery plan with RTO < 15min for Disaster-Recovery. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-H039",
+      "question": "Optimize Disaster-Recovery performance under DDoS attack",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Disaster-Recovery procedure"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "h",
+      "explanation": "**Disaster-Recovery H Solution:** Optimize Disaster-Recovery performance under DDoS attack. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-H040",
+      "question": "Design Disaster-Recovery architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Disaster-Recovery procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "h",
+      "explanation": "**Disaster-Recovery H Solution:** Design Disaster-Recovery architecture for 10k users with 99.99% uptime. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-H041",
+      "question": "Create disaster recovery plan with RTO < 15min for Disaster-Recovery",
+      "options": [
+        "Partially correct",
+        "Correct Disaster-Recovery procedure",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "h",
+      "explanation": "**Disaster-Recovery H Solution:** Create disaster recovery plan with RTO < 15min for Disaster-Recovery. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-H042",
+      "question": "Design Disaster-Recovery architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Disaster-Recovery procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "h",
+      "explanation": "**Disaster-Recovery H Solution:** Design Disaster-Recovery architecture for 10k users with 99.99% uptime. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-H043",
+      "question": "Create disaster recovery plan with RTO < 15min for Disaster-Recovery",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Disaster-Recovery procedure"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "h",
+      "explanation": "**Disaster-Recovery H Solution:** Create disaster recovery plan with RTO < 15min for Disaster-Recovery. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-H044",
+      "question": "Implement zero-trust security model in Disaster-Recovery",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Disaster-Recovery procedure"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "h",
+      "explanation": "**Disaster-Recovery H Solution:** Implement zero-trust security model in Disaster-Recovery. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-H045",
+      "question": "Create disaster recovery plan with RTO < 15min for Disaster-Recovery",
+      "options": [
+        "Correct Disaster-Recovery procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "h",
+      "explanation": "**Disaster-Recovery H Solution:** Create disaster recovery plan with RTO < 15min for Disaster-Recovery. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-H046",
+      "question": "Optimize Disaster-Recovery performance under DDoS attack",
+      "options": [
+        "Dangerous method",
+        "Correct Disaster-Recovery procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "h",
+      "explanation": "**Disaster-Recovery H Solution:** Optimize Disaster-Recovery performance under DDoS attack. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-H047",
+      "question": "Optimize Disaster-Recovery performance under DDoS attack",
+      "options": [
+        "Correct Disaster-Recovery procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "h",
+      "explanation": "**Disaster-Recovery H Solution:** Optimize Disaster-Recovery performance under DDoS attack. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-H048",
+      "question": "Migrate legacy Disaster-Recovery systems to cloud-native architecture",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Disaster-Recovery procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "h",
+      "explanation": "**Disaster-Recovery H Solution:** Migrate legacy Disaster-Recovery systems to cloud-native architecture. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-H049",
+      "question": "Design Disaster-Recovery architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Disaster-Recovery procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "h",
+      "explanation": "**Disaster-Recovery H Solution:** Design Disaster-Recovery architecture for 10k users with 99.99% uptime. Always verify Disaster-Recovery documentation and test in lab environment first."
+    },
+    {
+      "id": "Disaster-Recovery-H050",
+      "question": "Migrate legacy Disaster-Recovery systems to cloud-native architecture",
+      "options": [
+        "Correct Disaster-Recovery procedure",
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct"
+      ],
+      "answer": "Correct Disaster-Recovery procedure",
+      "difficulty": "h",
+      "explanation": "**Disaster-Recovery H Solution:** Migrate legacy Disaster-Recovery systems to cloud-native architecture. Always verify Disaster-Recovery documentation and test in lab environment first."
+    }
+  ],
+  "scenarios": [
+    {
+      "id": "Disaster-Recovery-S01-01",
+      "question": "1. Firewall blocking legitimate traffic in Disaster-Recovery environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S01-02",
+      "question": "1. Firewall blocking legitimate traffic in Disaster-Recovery environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S01-03",
+      "question": "1. Firewall blocking legitimate traffic in Disaster-Recovery environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S01-04",
+      "question": "1. Firewall blocking legitimate traffic in Disaster-Recovery environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S01-05",
+      "question": "1. Firewall blocking legitimate traffic in Disaster-Recovery environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S02-01",
+      "question": "2. Server overload during quarterly report generation in Disaster-Recovery environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S02-02",
+      "question": "2. Server overload during quarterly report generation in Disaster-Recovery environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S02-03",
+      "question": "2. Server overload during quarterly report generation in Disaster-Recovery environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S02-04",
+      "question": "2. Server overload during quarterly report generation in Disaster-Recovery environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S02-05",
+      "question": "2. Server overload during quarterly report generation in Disaster-Recovery environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S03-01",
+      "question": "3. Server overload during quarterly report generation in Disaster-Recovery environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S03-02",
+      "question": "3. Server overload during quarterly report generation in Disaster-Recovery environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S03-03",
+      "question": "3. Server overload during quarterly report generation in Disaster-Recovery environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S03-04",
+      "question": "3. Server overload during quarterly report generation in Disaster-Recovery environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S03-05",
+      "question": "3. Server overload during quarterly report generation in Disaster-Recovery environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S04-01",
+      "question": "4. Backup failure during scheduled window in Disaster-Recovery environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S04-02",
+      "question": "4. Backup failure during scheduled window in Disaster-Recovery environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S04-03",
+      "question": "4. Backup failure during scheduled window in Disaster-Recovery environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S04-04",
+      "question": "4. Backup failure during scheduled window in Disaster-Recovery environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S04-05",
+      "question": "4. Backup failure during scheduled window in Disaster-Recovery environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S05-01",
+      "question": "5. Network latency issue affecting VoIP calls in Disaster-Recovery environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S05-02",
+      "question": "5. Network latency issue affecting VoIP calls in Disaster-Recovery environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S05-03",
+      "question": "5. Network latency issue affecting VoIP calls in Disaster-Recovery environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S05-04",
+      "question": "5. Network latency issue affecting VoIP calls in Disaster-Recovery environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S05-05",
+      "question": "5. Network latency issue affecting VoIP calls in Disaster-Recovery environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S06-01",
+      "question": "6. Cloud migration failure: rollback strategy in Disaster-Recovery environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S06-02",
+      "question": "6. Cloud migration failure: rollback strategy in Disaster-Recovery environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S06-03",
+      "question": "6. Cloud migration failure: rollback strategy in Disaster-Recovery environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S06-04",
+      "question": "6. Cloud migration failure: rollback strategy in Disaster-Recovery environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S06-05",
+      "question": "6. Cloud migration failure: rollback strategy in Disaster-Recovery environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S07-01",
+      "question": "7. Database performance degradation after upgrade in Disaster-Recovery environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S07-02",
+      "question": "7. Database performance degradation after upgrade in Disaster-Recovery environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S07-03",
+      "question": "7. Database performance degradation after upgrade in Disaster-Recovery environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S07-04",
+      "question": "7. Database performance degradation after upgrade in Disaster-Recovery environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S07-05",
+      "question": "7. Database performance degradation after upgrade in Disaster-Recovery environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S08-01",
+      "question": "8. Cloud migration failure: rollback strategy in Disaster-Recovery environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S08-02",
+      "question": "8. Cloud migration failure: rollback strategy in Disaster-Recovery environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S08-03",
+      "question": "8. Cloud migration failure: rollback strategy in Disaster-Recovery environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S08-04",
+      "question": "8. Cloud migration failure: rollback strategy in Disaster-Recovery environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S08-05",
+      "question": "8. Cloud migration failure: rollback strategy in Disaster-Recovery environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S09-01",
+      "question": "9. Production outage during peak hours: diagnose and resolve in Disaster-Recovery environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S09-02",
+      "question": "9. Production outage during peak hours: diagnose and resolve in Disaster-Recovery environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S09-03",
+      "question": "9. Production outage during peak hours: diagnose and resolve in Disaster-Recovery environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S09-04",
+      "question": "9. Production outage during peak hours: diagnose and resolve in Disaster-Recovery environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S09-05",
+      "question": "9. Production outage during peak hours: diagnose and resolve in Disaster-Recovery environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S10-01",
+      "question": "10. VPN connectivity failure for remote users in Disaster-Recovery environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S10-02",
+      "question": "10. VPN connectivity failure for remote users in Disaster-Recovery environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S10-03",
+      "question": "10. VPN connectivity failure for remote users in Disaster-Recovery environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S10-04",
+      "question": "10. VPN connectivity failure for remote users in Disaster-Recovery environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S10-05",
+      "question": "10. VPN connectivity failure for remote users in Disaster-Recovery environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S11-01",
+      "question": "11. Security incident response: ransomware attack detected in Disaster-Recovery environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S11-02",
+      "question": "11. Security incident response: ransomware attack detected in Disaster-Recovery environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S11-03",
+      "question": "11. Security incident response: ransomware attack detected in Disaster-Recovery environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S11-04",
+      "question": "11. Security incident response: ransomware attack detected in Disaster-Recovery environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S11-05",
+      "question": "11. Security incident response: ransomware attack detected in Disaster-Recovery environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S12-01",
+      "question": "12. Backup failure during scheduled window in Disaster-Recovery environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S12-02",
+      "question": "12. Backup failure during scheduled window in Disaster-Recovery environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S12-03",
+      "question": "12. Backup failure during scheduled window in Disaster-Recovery environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S12-04",
+      "question": "12. Backup failure during scheduled window in Disaster-Recovery environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S12-05",
+      "question": "12. Backup failure during scheduled window in Disaster-Recovery environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S13-01",
+      "question": "13. Server overload during quarterly report generation in Disaster-Recovery environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S13-02",
+      "question": "13. Server overload during quarterly report generation in Disaster-Recovery environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S13-03",
+      "question": "13. Server overload during quarterly report generation in Disaster-Recovery environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S13-04",
+      "question": "13. Server overload during quarterly report generation in Disaster-Recovery environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S13-05",
+      "question": "13. Server overload during quarterly report generation in Disaster-Recovery environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S14-01",
+      "question": "14. Network latency issue affecting VoIP calls in Disaster-Recovery environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S14-02",
+      "question": "14. Network latency issue affecting VoIP calls in Disaster-Recovery environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S14-03",
+      "question": "14. Network latency issue affecting VoIP calls in Disaster-Recovery environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S14-04",
+      "question": "14. Network latency issue affecting VoIP calls in Disaster-Recovery environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S14-05",
+      "question": "14. Network latency issue affecting VoIP calls in Disaster-Recovery environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S15-01",
+      "question": "15. Load balancer health check failing in Disaster-Recovery environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S15-02",
+      "question": "15. Load balancer health check failing in Disaster-Recovery environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S15-03",
+      "question": "15. Load balancer health check failing in Disaster-Recovery environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S15-04",
+      "question": "15. Load balancer health check failing in Disaster-Recovery environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S15-05",
+      "question": "15. Load balancer health check failing in Disaster-Recovery environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S16-01",
+      "question": "16. Production outage during peak hours: diagnose and resolve in Disaster-Recovery environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S16-02",
+      "question": "16. Production outage during peak hours: diagnose and resolve in Disaster-Recovery environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S16-03",
+      "question": "16. Production outage during peak hours: diagnose and resolve in Disaster-Recovery environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S16-04",
+      "question": "16. Production outage during peak hours: diagnose and resolve in Disaster-Recovery environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S16-05",
+      "question": "16. Production outage during peak hours: diagnose and resolve in Disaster-Recovery environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S17-01",
+      "question": "17. Load balancer health check failing in Disaster-Recovery environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S17-02",
+      "question": "17. Load balancer health check failing in Disaster-Recovery environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S17-03",
+      "question": "17. Load balancer health check failing in Disaster-Recovery environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S17-04",
+      "question": "17. Load balancer health check failing in Disaster-Recovery environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S17-05",
+      "question": "17. Load balancer health check failing in Disaster-Recovery environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S18-01",
+      "question": "18. Server overload during quarterly report generation in Disaster-Recovery environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S18-02",
+      "question": "18. Server overload during quarterly report generation in Disaster-Recovery environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S18-03",
+      "question": "18. Server overload during quarterly report generation in Disaster-Recovery environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S18-04",
+      "question": "18. Server overload during quarterly report generation in Disaster-Recovery environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S18-05",
+      "question": "18. Server overload during quarterly report generation in Disaster-Recovery environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S19-01",
+      "question": "19. Security incident response: ransomware attack detected in Disaster-Recovery environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S19-02",
+      "question": "19. Security incident response: ransomware attack detected in Disaster-Recovery environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S19-03",
+      "question": "19. Security incident response: ransomware attack detected in Disaster-Recovery environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S19-04",
+      "question": "19. Security incident response: ransomware attack detected in Disaster-Recovery environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S19-05",
+      "question": "19. Security incident response: ransomware attack detected in Disaster-Recovery environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S20-01",
+      "question": "20. Backup failure during scheduled window in Disaster-Recovery environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S20-02",
+      "question": "20. Backup failure during scheduled window in Disaster-Recovery environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S20-03",
+      "question": "20. Backup failure during scheduled window in Disaster-Recovery environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S20-04",
+      "question": "20. Backup failure during scheduled window in Disaster-Recovery environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Disaster-Recovery-S20-05",
+      "question": "20. Backup failure during scheduled window in Disaster-Recovery environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Disaster-Recovery troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Disaster-Recovery troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Disaster-Recovery best practices. Document all steps for RCA."
+    }
+  ]
+}

@@ -1,0 +1,3252 @@
+[
+  {
+    "id": "Azure-Administrator-E001",
+    "question": "Common protocol for Azure-Administrator remote access?",
+    "options": [
+      "Correct Azure-Administrator procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "e",
+    "explanation": "**Azure-Administrator E Solution:** Common protocol for Azure-Administrator remote access?. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-E002",
+    "question": "Default subnet mask for Class C network in Azure-Administrator?",
+    "options": [
+      "Dangerous method",
+      "Correct Azure-Administrator procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "e",
+    "explanation": "**Azure-Administrator E Solution:** Default subnet mask for Class C network in Azure-Administrator?. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-E003",
+    "question": "Common protocol for Azure-Administrator remote access?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Azure-Administrator procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "e",
+    "explanation": "**Azure-Administrator E Solution:** Common protocol for Azure-Administrator remote access?. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-E004",
+    "question": "Default subnet mask for Class C network in Azure-Administrator?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct Azure-Administrator procedure"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "e",
+    "explanation": "**Azure-Administrator E Solution:** Default subnet mask for Class C network in Azure-Administrator?. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-E005",
+    "question": "Default subnet mask for Class C network in Azure-Administrator?",
+    "options": [
+      "Dangerous method",
+      "Correct Azure-Administrator procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "e",
+    "explanation": "**Azure-Administrator E Solution:** Default subnet mask for Class C network in Azure-Administrator?. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-E006",
+    "question": "What is the primary function of Azure DHCP?",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct Azure-Administrator procedure"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "e",
+    "explanation": "**Azure-Administrator E Solution:** What is the primary function of Azure DHCP?. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-E007",
+    "question": "Common protocol for Azure-Administrator remote access?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Azure-Administrator procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "e",
+    "explanation": "**Azure-Administrator E Solution:** Common protocol for Azure-Administrator remote access?. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-E008",
+    "question": "Which port does Azure-Administrator service use by default?",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct Azure-Administrator procedure"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "e",
+    "explanation": "**Azure-Administrator E Solution:** Which port does Azure-Administrator service use by default?. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-E009",
+    "question": "What is the primary function of Azure DHCP?",
+    "options": [
+      "Dangerous method",
+      "Correct Azure-Administrator procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "e",
+    "explanation": "**Azure-Administrator E Solution:** What is the primary function of Azure DHCP?. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-E010",
+    "question": "What is the primary function of Azure DHCP?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Azure-Administrator procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "e",
+    "explanation": "**Azure-Administrator E Solution:** What is the primary function of Azure DHCP?. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-E011",
+    "question": "Which port does Azure-Administrator service use by default?",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct Azure-Administrator procedure"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "e",
+    "explanation": "**Azure-Administrator E Solution:** Which port does Azure-Administrator service use by default?. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-E012",
+    "question": "Default subnet mask for Class C network in Azure-Administrator?",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct Azure-Administrator procedure"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "e",
+    "explanation": "**Azure-Administrator E Solution:** Default subnet mask for Class C network in Azure-Administrator?. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-E013",
+    "question": "What does Azure ACL stand for?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Azure-Administrator procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "e",
+    "explanation": "**Azure-Administrator E Solution:** What does Azure ACL stand for?. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-E014",
+    "question": "What does Azure ACL stand for?",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Azure-Administrator procedure"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "e",
+    "explanation": "**Azure-Administrator E Solution:** What does Azure ACL stand for?. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-E015",
+    "question": "What does Azure ACL stand for?",
+    "options": [
+      "Dangerous method",
+      "Correct Azure-Administrator procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "e",
+    "explanation": "**Azure-Administrator E Solution:** What does Azure ACL stand for?. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-E016",
+    "question": "Common protocol for Azure-Administrator remote access?",
+    "options": [
+      "Dangerous method",
+      "Correct Azure-Administrator procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "e",
+    "explanation": "**Azure-Administrator E Solution:** Common protocol for Azure-Administrator remote access?. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-E017",
+    "question": "Which port does Azure-Administrator service use by default?",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct Azure-Administrator procedure"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "e",
+    "explanation": "**Azure-Administrator E Solution:** Which port does Azure-Administrator service use by default?. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-E018",
+    "question": "Which port does Azure-Administrator service use by default?",
+    "options": [
+      "Dangerous method",
+      "Correct Azure-Administrator procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "e",
+    "explanation": "**Azure-Administrator E Solution:** Which port does Azure-Administrator service use by default?. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-E019",
+    "question": "Which port does Azure-Administrator service use by default?",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct Azure-Administrator procedure"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "e",
+    "explanation": "**Azure-Administrator E Solution:** Which port does Azure-Administrator service use by default?. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-E020",
+    "question": "What does Azure ACL stand for?",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct Azure-Administrator procedure"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "e",
+    "explanation": "**Azure-Administrator E Solution:** What does Azure ACL stand for?. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-E021",
+    "question": "Common protocol for Azure-Administrator remote access?",
+    "options": [
+      "Dangerous method",
+      "Correct Azure-Administrator procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "e",
+    "explanation": "**Azure-Administrator E Solution:** Common protocol for Azure-Administrator remote access?. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-E022",
+    "question": "Which port does Azure-Administrator service use by default?",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct Azure-Administrator procedure"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "e",
+    "explanation": "**Azure-Administrator E Solution:** Which port does Azure-Administrator service use by default?. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-E023",
+    "question": "Common protocol for Azure-Administrator remote access?",
+    "options": [
+      "Dangerous method",
+      "Correct Azure-Administrator procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "e",
+    "explanation": "**Azure-Administrator E Solution:** Common protocol for Azure-Administrator remote access?. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-E024",
+    "question": "What does Azure ACL stand for?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct Azure-Administrator procedure"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "e",
+    "explanation": "**Azure-Administrator E Solution:** What does Azure ACL stand for?. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-E025",
+    "question": "Which port does Azure-Administrator service use by default?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Azure-Administrator procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "e",
+    "explanation": "**Azure-Administrator E Solution:** Which port does Azure-Administrator service use by default?. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-E026",
+    "question": "Default subnet mask for Class C network in Azure-Administrator?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Azure-Administrator procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "e",
+    "explanation": "**Azure-Administrator E Solution:** Default subnet mask for Class C network in Azure-Administrator?. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-E027",
+    "question": "What is the primary function of Azure DHCP?",
+    "options": [
+      "Dangerous method",
+      "Correct Azure-Administrator procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "e",
+    "explanation": "**Azure-Administrator E Solution:** What is the primary function of Azure DHCP?. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-E028",
+    "question": "What is the primary function of Azure DHCP?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct Azure-Administrator procedure"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "e",
+    "explanation": "**Azure-Administrator E Solution:** What is the primary function of Azure DHCP?. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-E029",
+    "question": "What does Azure ACL stand for?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Azure-Administrator procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "e",
+    "explanation": "**Azure-Administrator E Solution:** What does Azure ACL stand for?. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-E030",
+    "question": "What is the primary function of Azure DHCP?",
+    "options": [
+      "Dangerous method",
+      "Correct Azure-Administrator procedure",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "e",
+    "explanation": "**Azure-Administrator E Solution:** What is the primary function of Azure DHCP?. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-E031",
+    "question": "Default subnet mask for Class C network in Azure-Administrator?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Azure-Administrator procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "e",
+    "explanation": "**Azure-Administrator E Solution:** Default subnet mask for Class C network in Azure-Administrator?. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-E032",
+    "question": "Common protocol for Azure-Administrator remote access?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct Azure-Administrator procedure"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "e",
+    "explanation": "**Azure-Administrator E Solution:** Common protocol for Azure-Administrator remote access?. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-E033",
+    "question": "Common protocol for Azure-Administrator remote access?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Azure-Administrator procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "e",
+    "explanation": "**Azure-Administrator E Solution:** Common protocol for Azure-Administrator remote access?. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-E034",
+    "question": "What is the primary function of Azure DHCP?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Azure-Administrator procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "e",
+    "explanation": "**Azure-Administrator E Solution:** What is the primary function of Azure DHCP?. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-E035",
+    "question": "Which port does Azure-Administrator service use by default?",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Azure-Administrator procedure"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "e",
+    "explanation": "**Azure-Administrator E Solution:** Which port does Azure-Administrator service use by default?. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-E036",
+    "question": "What is the primary function of Azure DHCP?",
+    "options": [
+      "Correct Azure-Administrator procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "e",
+    "explanation": "**Azure-Administrator E Solution:** What is the primary function of Azure DHCP?. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-E037",
+    "question": "What does Azure ACL stand for?",
+    "options": [
+      "Correct Azure-Administrator procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "e",
+    "explanation": "**Azure-Administrator E Solution:** What does Azure ACL stand for?. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-E038",
+    "question": "What is the primary function of Azure DHCP?",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct Azure-Administrator procedure"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "e",
+    "explanation": "**Azure-Administrator E Solution:** What is the primary function of Azure DHCP?. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-E039",
+    "question": "What is the primary function of Azure DHCP?",
+    "options": [
+      "Incorrect approach",
+      "Correct Azure-Administrator procedure",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "e",
+    "explanation": "**Azure-Administrator E Solution:** What is the primary function of Azure DHCP?. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-E040",
+    "question": "Common protocol for Azure-Administrator remote access?",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct Azure-Administrator procedure"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "e",
+    "explanation": "**Azure-Administrator E Solution:** Common protocol for Azure-Administrator remote access?. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-E041",
+    "question": "What does Azure ACL stand for?",
+    "options": [
+      "Dangerous method",
+      "Correct Azure-Administrator procedure",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "e",
+    "explanation": "**Azure-Administrator E Solution:** What does Azure ACL stand for?. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-E042",
+    "question": "Common protocol for Azure-Administrator remote access?",
+    "options": [
+      "Correct Azure-Administrator procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "e",
+    "explanation": "**Azure-Administrator E Solution:** Common protocol for Azure-Administrator remote access?. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-E043",
+    "question": "What does Azure ACL stand for?",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct Azure-Administrator procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "e",
+    "explanation": "**Azure-Administrator E Solution:** What does Azure ACL stand for?. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-E044",
+    "question": "What does Azure ACL stand for?",
+    "options": [
+      "Correct Azure-Administrator procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "e",
+    "explanation": "**Azure-Administrator E Solution:** What does Azure ACL stand for?. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-E045",
+    "question": "Default subnet mask for Class C network in Azure-Administrator?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct Azure-Administrator procedure"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "e",
+    "explanation": "**Azure-Administrator E Solution:** Default subnet mask for Class C network in Azure-Administrator?. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-E046",
+    "question": "Default subnet mask for Class C network in Azure-Administrator?",
+    "options": [
+      "Correct Azure-Administrator procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "e",
+    "explanation": "**Azure-Administrator E Solution:** Default subnet mask for Class C network in Azure-Administrator?. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-E047",
+    "question": "What does Azure ACL stand for?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Azure-Administrator procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "e",
+    "explanation": "**Azure-Administrator E Solution:** What does Azure ACL stand for?. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-E048",
+    "question": "Which port does Azure-Administrator service use by default?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Azure-Administrator procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "e",
+    "explanation": "**Azure-Administrator E Solution:** Which port does Azure-Administrator service use by default?. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-E049",
+    "question": "Common protocol for Azure-Administrator remote access?",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct Azure-Administrator procedure"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "e",
+    "explanation": "**Azure-Administrator E Solution:** Common protocol for Azure-Administrator remote access?. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-E050",
+    "question": "Which port does Azure-Administrator service use by default?",
+    "options": [
+      "Dangerous method",
+      "Correct Azure-Administrator procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "e",
+    "explanation": "**Azure-Administrator E Solution:** Which port does Azure-Administrator service use by default?. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-M001",
+    "question": "Configure Azure-Administrator load balancer for high availability",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct Azure-Administrator procedure"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "m",
+    "explanation": "**Azure-Administrator M Solution:** Configure Azure-Administrator load balancer for high availability. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-M002",
+    "question": "Implement Azure-Administrator backup strategy for compliance",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Correct Azure-Administrator procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "m",
+    "explanation": "**Azure-Administrator M Solution:** Implement Azure-Administrator backup strategy for compliance. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-M003",
+    "question": "Optimize Azure-Administrator query performance",
+    "options": [
+      "Dangerous method",
+      "Correct Azure-Administrator procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "m",
+    "explanation": "**Azure-Administrator M Solution:** Optimize Azure-Administrator query performance. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-M004",
+    "question": "Optimize Azure-Administrator query performance",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct Azure-Administrator procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "m",
+    "explanation": "**Azure-Administrator M Solution:** Optimize Azure-Administrator query performance. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-M005",
+    "question": "Troubleshoot Azure-Administrator connectivity issue between VLANs",
+    "options": [
+      "Correct Azure-Administrator procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "m",
+    "explanation": "**Azure-Administrator M Solution:** Troubleshoot Azure-Administrator connectivity issue between VLANs. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-M006",
+    "question": "Troubleshoot Azure-Administrator connectivity issue between VLANs",
+    "options": [
+      "Correct Azure-Administrator procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "m",
+    "explanation": "**Azure-Administrator M Solution:** Troubleshoot Azure-Administrator connectivity issue between VLANs. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-M007",
+    "question": "Troubleshoot Azure-Administrator connectivity issue between VLANs",
+    "options": [
+      "Correct Azure-Administrator procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "m",
+    "explanation": "**Azure-Administrator M Solution:** Troubleshoot Azure-Administrator connectivity issue between VLANs. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-M008",
+    "question": "Troubleshoot Azure-Administrator connectivity issue between VLANs",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Correct Azure-Administrator procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "m",
+    "explanation": "**Azure-Administrator M Solution:** Troubleshoot Azure-Administrator connectivity issue between VLANs. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-M009",
+    "question": "Optimize Azure-Administrator query performance",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Azure-Administrator procedure"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "m",
+    "explanation": "**Azure-Administrator M Solution:** Optimize Azure-Administrator query performance. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-M010",
+    "question": "Optimize Azure-Administrator query performance",
+    "options": [
+      "Correct Azure-Administrator procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "m",
+    "explanation": "**Azure-Administrator M Solution:** Optimize Azure-Administrator query performance. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-M011",
+    "question": "Optimize Azure-Administrator query performance",
+    "options": [
+      "Correct Azure-Administrator procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "m",
+    "explanation": "**Azure-Administrator M Solution:** Optimize Azure-Administrator query performance. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-M012",
+    "question": "Troubleshoot Azure-Administrator connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Azure-Administrator procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "m",
+    "explanation": "**Azure-Administrator M Solution:** Troubleshoot Azure-Administrator connectivity issue between VLANs. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-M013",
+    "question": "Configure Azure-Administrator load balancer for high availability",
+    "options": [
+      "Correct Azure-Administrator procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "m",
+    "explanation": "**Azure-Administrator M Solution:** Configure Azure-Administrator load balancer for high availability. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-M014",
+    "question": "Troubleshoot Azure-Administrator connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Azure-Administrator procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "m",
+    "explanation": "**Azure-Administrator M Solution:** Troubleshoot Azure-Administrator connectivity issue between VLANs. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-M015",
+    "question": "Troubleshoot Azure-Administrator connectivity issue between VLANs",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct Azure-Administrator procedure",
+      "Partially correct"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "m",
+    "explanation": "**Azure-Administrator M Solution:** Troubleshoot Azure-Administrator connectivity issue between VLANs. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-M016",
+    "question": "Troubleshoot Azure-Administrator connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Azure-Administrator procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "m",
+    "explanation": "**Azure-Administrator M Solution:** Troubleshoot Azure-Administrator connectivity issue between VLANs. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-M017",
+    "question": "Set up Azure-Administrator failover clustering",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Azure-Administrator procedure"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "m",
+    "explanation": "**Azure-Administrator M Solution:** Set up Azure-Administrator failover clustering. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-M018",
+    "question": "Set up Azure-Administrator failover clustering",
+    "options": [
+      "Dangerous method",
+      "Correct Azure-Administrator procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "m",
+    "explanation": "**Azure-Administrator M Solution:** Set up Azure-Administrator failover clustering. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-M019",
+    "question": "Set up Azure-Administrator failover clustering",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct Azure-Administrator procedure"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "m",
+    "explanation": "**Azure-Administrator M Solution:** Set up Azure-Administrator failover clustering. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-M020",
+    "question": "Troubleshoot Azure-Administrator connectivity issue between VLANs",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Correct Azure-Administrator procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "m",
+    "explanation": "**Azure-Administrator M Solution:** Troubleshoot Azure-Administrator connectivity issue between VLANs. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-M021",
+    "question": "Troubleshoot Azure-Administrator connectivity issue between VLANs",
+    "options": [
+      "Correct Azure-Administrator procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "m",
+    "explanation": "**Azure-Administrator M Solution:** Troubleshoot Azure-Administrator connectivity issue between VLANs. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-M022",
+    "question": "Configure Azure-Administrator load balancer for high availability",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct Azure-Administrator procedure"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "m",
+    "explanation": "**Azure-Administrator M Solution:** Configure Azure-Administrator load balancer for high availability. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-M023",
+    "question": "Configure Azure-Administrator load balancer for high availability",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct Azure-Administrator procedure"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "m",
+    "explanation": "**Azure-Administrator M Solution:** Configure Azure-Administrator load balancer for high availability. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-M024",
+    "question": "Configure Azure-Administrator load balancer for high availability",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Correct Azure-Administrator procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "m",
+    "explanation": "**Azure-Administrator M Solution:** Configure Azure-Administrator load balancer for high availability. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-M025",
+    "question": "Configure Azure-Administrator load balancer for high availability",
+    "options": [
+      "Correct Azure-Administrator procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "m",
+    "explanation": "**Azure-Administrator M Solution:** Configure Azure-Administrator load balancer for high availability. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-M026",
+    "question": "Optimize Azure-Administrator query performance",
+    "options": [
+      "Partially correct",
+      "Correct Azure-Administrator procedure",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "m",
+    "explanation": "**Azure-Administrator M Solution:** Optimize Azure-Administrator query performance. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-M027",
+    "question": "Troubleshoot Azure-Administrator connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Azure-Administrator procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "m",
+    "explanation": "**Azure-Administrator M Solution:** Troubleshoot Azure-Administrator connectivity issue between VLANs. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-M028",
+    "question": "Troubleshoot Azure-Administrator connectivity issue between VLANs",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Azure-Administrator procedure"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "m",
+    "explanation": "**Azure-Administrator M Solution:** Troubleshoot Azure-Administrator connectivity issue between VLANs. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-M029",
+    "question": "Implement Azure-Administrator backup strategy for compliance",
+    "options": [
+      "Dangerous method",
+      "Correct Azure-Administrator procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "m",
+    "explanation": "**Azure-Administrator M Solution:** Implement Azure-Administrator backup strategy for compliance. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-M030",
+    "question": "Implement Azure-Administrator backup strategy for compliance",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Correct Azure-Administrator procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "m",
+    "explanation": "**Azure-Administrator M Solution:** Implement Azure-Administrator backup strategy for compliance. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-M031",
+    "question": "Set up Azure-Administrator failover clustering",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct Azure-Administrator procedure"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "m",
+    "explanation": "**Azure-Administrator M Solution:** Set up Azure-Administrator failover clustering. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-M032",
+    "question": "Optimize Azure-Administrator query performance",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct Azure-Administrator procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "m",
+    "explanation": "**Azure-Administrator M Solution:** Optimize Azure-Administrator query performance. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-M033",
+    "question": "Optimize Azure-Administrator query performance",
+    "options": [
+      "Correct Azure-Administrator procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "m",
+    "explanation": "**Azure-Administrator M Solution:** Optimize Azure-Administrator query performance. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-M034",
+    "question": "Troubleshoot Azure-Administrator connectivity issue between VLANs",
+    "options": [
+      "Correct Azure-Administrator procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "m",
+    "explanation": "**Azure-Administrator M Solution:** Troubleshoot Azure-Administrator connectivity issue between VLANs. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-M035",
+    "question": "Configure Azure-Administrator load balancer for high availability",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct Azure-Administrator procedure"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "m",
+    "explanation": "**Azure-Administrator M Solution:** Configure Azure-Administrator load balancer for high availability. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-M036",
+    "question": "Configure Azure-Administrator load balancer for high availability",
+    "options": [
+      "Correct Azure-Administrator procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "m",
+    "explanation": "**Azure-Administrator M Solution:** Configure Azure-Administrator load balancer for high availability. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-M037",
+    "question": "Set up Azure-Administrator failover clustering",
+    "options": [
+      "Dangerous method",
+      "Correct Azure-Administrator procedure",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "m",
+    "explanation": "**Azure-Administrator M Solution:** Set up Azure-Administrator failover clustering. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-M038",
+    "question": "Implement Azure-Administrator backup strategy for compliance",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct Azure-Administrator procedure"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "m",
+    "explanation": "**Azure-Administrator M Solution:** Implement Azure-Administrator backup strategy for compliance. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-M039",
+    "question": "Configure Azure-Administrator load balancer for high availability",
+    "options": [
+      "Dangerous method",
+      "Correct Azure-Administrator procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "m",
+    "explanation": "**Azure-Administrator M Solution:** Configure Azure-Administrator load balancer for high availability. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-M040",
+    "question": "Troubleshoot Azure-Administrator connectivity issue between VLANs",
+    "options": [
+      "Correct Azure-Administrator procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "m",
+    "explanation": "**Azure-Administrator M Solution:** Troubleshoot Azure-Administrator connectivity issue between VLANs. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-M041",
+    "question": "Implement Azure-Administrator backup strategy for compliance",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Correct Azure-Administrator procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "m",
+    "explanation": "**Azure-Administrator M Solution:** Implement Azure-Administrator backup strategy for compliance. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-M042",
+    "question": "Implement Azure-Administrator backup strategy for compliance",
+    "options": [
+      "Dangerous method",
+      "Correct Azure-Administrator procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "m",
+    "explanation": "**Azure-Administrator M Solution:** Implement Azure-Administrator backup strategy for compliance. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-M043",
+    "question": "Optimize Azure-Administrator query performance",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct Azure-Administrator procedure"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "m",
+    "explanation": "**Azure-Administrator M Solution:** Optimize Azure-Administrator query performance. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-M044",
+    "question": "Implement Azure-Administrator backup strategy for compliance",
+    "options": [
+      "Dangerous method",
+      "Correct Azure-Administrator procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "m",
+    "explanation": "**Azure-Administrator M Solution:** Implement Azure-Administrator backup strategy for compliance. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-M045",
+    "question": "Set up Azure-Administrator failover clustering",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct Azure-Administrator procedure"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "m",
+    "explanation": "**Azure-Administrator M Solution:** Set up Azure-Administrator failover clustering. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-M046",
+    "question": "Troubleshoot Azure-Administrator connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Correct Azure-Administrator procedure",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "m",
+    "explanation": "**Azure-Administrator M Solution:** Troubleshoot Azure-Administrator connectivity issue between VLANs. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-M047",
+    "question": "Troubleshoot Azure-Administrator connectivity issue between VLANs",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Azure-Administrator procedure"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "m",
+    "explanation": "**Azure-Administrator M Solution:** Troubleshoot Azure-Administrator connectivity issue between VLANs. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-M048",
+    "question": "Configure Azure-Administrator load balancer for high availability",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Azure-Administrator procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "m",
+    "explanation": "**Azure-Administrator M Solution:** Configure Azure-Administrator load balancer for high availability. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-M049",
+    "question": "Set up Azure-Administrator failover clustering",
+    "options": [
+      "Correct Azure-Administrator procedure",
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "m",
+    "explanation": "**Azure-Administrator M Solution:** Set up Azure-Administrator failover clustering. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-M050",
+    "question": "Troubleshoot Azure-Administrator connectivity issue between VLANs",
+    "options": [
+      "Correct Azure-Administrator procedure",
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "m",
+    "explanation": "**Azure-Administrator M Solution:** Troubleshoot Azure-Administrator connectivity issue between VLANs. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-H001",
+    "question": "Optimize Azure-Administrator performance under DDoS attack",
+    "options": [
+      "Dangerous method",
+      "Correct Azure-Administrator procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "h",
+    "explanation": "**Azure-Administrator H Solution:** Optimize Azure-Administrator performance under DDoS attack. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-H002",
+    "question": "Migrate legacy Azure-Administrator systems to cloud-native architecture",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Azure-Administrator procedure"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "h",
+    "explanation": "**Azure-Administrator H Solution:** Migrate legacy Azure-Administrator systems to cloud-native architecture. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-H003",
+    "question": "Optimize Azure-Administrator performance under DDoS attack",
+    "options": [
+      "Correct Azure-Administrator procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "h",
+    "explanation": "**Azure-Administrator H Solution:** Optimize Azure-Administrator performance under DDoS attack. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-H004",
+    "question": "Create disaster recovery plan with RTO < 15min for Azure-Administrator",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Azure-Administrator procedure"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "h",
+    "explanation": "**Azure-Administrator H Solution:** Create disaster recovery plan with RTO < 15min for Azure-Administrator. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-H005",
+    "question": "Optimize Azure-Administrator performance under DDoS attack",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Azure-Administrator procedure"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "h",
+    "explanation": "**Azure-Administrator H Solution:** Optimize Azure-Administrator performance under DDoS attack. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-H006",
+    "question": "Implement zero-trust security model in Azure-Administrator",
+    "options": [
+      "Correct Azure-Administrator procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "h",
+    "explanation": "**Azure-Administrator H Solution:** Implement zero-trust security model in Azure-Administrator. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-H007",
+    "question": "Migrate legacy Azure-Administrator systems to cloud-native architecture",
+    "options": [
+      "Dangerous method",
+      "Correct Azure-Administrator procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "h",
+    "explanation": "**Azure-Administrator H Solution:** Migrate legacy Azure-Administrator systems to cloud-native architecture. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-H008",
+    "question": "Optimize Azure-Administrator performance under DDoS attack",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct Azure-Administrator procedure"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "h",
+    "explanation": "**Azure-Administrator H Solution:** Optimize Azure-Administrator performance under DDoS attack. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-H009",
+    "question": "Create disaster recovery plan with RTO < 15min for Azure-Administrator",
+    "options": [
+      "Correct Azure-Administrator procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "h",
+    "explanation": "**Azure-Administrator H Solution:** Create disaster recovery plan with RTO < 15min for Azure-Administrator. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-H010",
+    "question": "Optimize Azure-Administrator performance under DDoS attack",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Azure-Administrator procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "h",
+    "explanation": "**Azure-Administrator H Solution:** Optimize Azure-Administrator performance under DDoS attack. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-H011",
+    "question": "Migrate legacy Azure-Administrator systems to cloud-native architecture",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct Azure-Administrator procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "h",
+    "explanation": "**Azure-Administrator H Solution:** Migrate legacy Azure-Administrator systems to cloud-native architecture. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-H012",
+    "question": "Design Azure-Administrator architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Partially correct",
+      "Correct Azure-Administrator procedure",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "h",
+    "explanation": "**Azure-Administrator H Solution:** Design Azure-Administrator architecture for 10k users with 99.99% uptime. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-H013",
+    "question": "Migrate legacy Azure-Administrator systems to cloud-native architecture",
+    "options": [
+      "Correct Azure-Administrator procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "h",
+    "explanation": "**Azure-Administrator H Solution:** Migrate legacy Azure-Administrator systems to cloud-native architecture. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-H014",
+    "question": "Optimize Azure-Administrator performance under DDoS attack",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Correct Azure-Administrator procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "h",
+    "explanation": "**Azure-Administrator H Solution:** Optimize Azure-Administrator performance under DDoS attack. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-H015",
+    "question": "Design Azure-Administrator architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Correct Azure-Administrator procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "h",
+    "explanation": "**Azure-Administrator H Solution:** Design Azure-Administrator architecture for 10k users with 99.99% uptime. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-H016",
+    "question": "Migrate legacy Azure-Administrator systems to cloud-native architecture",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Azure-Administrator procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "h",
+    "explanation": "**Azure-Administrator H Solution:** Migrate legacy Azure-Administrator systems to cloud-native architecture. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-H017",
+    "question": "Optimize Azure-Administrator performance under DDoS attack",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Azure-Administrator procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "h",
+    "explanation": "**Azure-Administrator H Solution:** Optimize Azure-Administrator performance under DDoS attack. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-H018",
+    "question": "Implement zero-trust security model in Azure-Administrator",
+    "options": [
+      "Incorrect approach",
+      "Correct Azure-Administrator procedure",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "h",
+    "explanation": "**Azure-Administrator H Solution:** Implement zero-trust security model in Azure-Administrator. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-H019",
+    "question": "Create disaster recovery plan with RTO < 15min for Azure-Administrator",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Azure-Administrator procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "h",
+    "explanation": "**Azure-Administrator H Solution:** Create disaster recovery plan with RTO < 15min for Azure-Administrator. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-H020",
+    "question": "Optimize Azure-Administrator performance under DDoS attack",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach",
+      "Correct Azure-Administrator procedure"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "h",
+    "explanation": "**Azure-Administrator H Solution:** Optimize Azure-Administrator performance under DDoS attack. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-H021",
+    "question": "Optimize Azure-Administrator performance under DDoS attack",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct Azure-Administrator procedure"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "h",
+    "explanation": "**Azure-Administrator H Solution:** Optimize Azure-Administrator performance under DDoS attack. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-H022",
+    "question": "Implement zero-trust security model in Azure-Administrator",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct Azure-Administrator procedure"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "h",
+    "explanation": "**Azure-Administrator H Solution:** Implement zero-trust security model in Azure-Administrator. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-H023",
+    "question": "Design Azure-Administrator architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Correct Azure-Administrator procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "h",
+    "explanation": "**Azure-Administrator H Solution:** Design Azure-Administrator architecture for 10k users with 99.99% uptime. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-H024",
+    "question": "Design Azure-Administrator architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Dangerous method",
+      "Correct Azure-Administrator procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "h",
+    "explanation": "**Azure-Administrator H Solution:** Design Azure-Administrator architecture for 10k users with 99.99% uptime. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-H025",
+    "question": "Migrate legacy Azure-Administrator systems to cloud-native architecture",
+    "options": [
+      "Correct Azure-Administrator procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "h",
+    "explanation": "**Azure-Administrator H Solution:** Migrate legacy Azure-Administrator systems to cloud-native architecture. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-H026",
+    "question": "Create disaster recovery plan with RTO < 15min for Azure-Administrator",
+    "options": [
+      "Correct Azure-Administrator procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "h",
+    "explanation": "**Azure-Administrator H Solution:** Create disaster recovery plan with RTO < 15min for Azure-Administrator. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-H027",
+    "question": "Design Azure-Administrator architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Partially correct",
+      "Correct Azure-Administrator procedure",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "h",
+    "explanation": "**Azure-Administrator H Solution:** Design Azure-Administrator architecture for 10k users with 99.99% uptime. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-H028",
+    "question": "Create disaster recovery plan with RTO < 15min for Azure-Administrator",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct Azure-Administrator procedure"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "h",
+    "explanation": "**Azure-Administrator H Solution:** Create disaster recovery plan with RTO < 15min for Azure-Administrator. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-H029",
+    "question": "Migrate legacy Azure-Administrator systems to cloud-native architecture",
+    "options": [
+      "Dangerous method",
+      "Correct Azure-Administrator procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "h",
+    "explanation": "**Azure-Administrator H Solution:** Migrate legacy Azure-Administrator systems to cloud-native architecture. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-H030",
+    "question": "Design Azure-Administrator architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct Azure-Administrator procedure"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "h",
+    "explanation": "**Azure-Administrator H Solution:** Design Azure-Administrator architecture for 10k users with 99.99% uptime. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-H031",
+    "question": "Create disaster recovery plan with RTO < 15min for Azure-Administrator",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct Azure-Administrator procedure"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "h",
+    "explanation": "**Azure-Administrator H Solution:** Create disaster recovery plan with RTO < 15min for Azure-Administrator. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-H032",
+    "question": "Design Azure-Administrator architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Dangerous method",
+      "Correct Azure-Administrator procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "h",
+    "explanation": "**Azure-Administrator H Solution:** Design Azure-Administrator architecture for 10k users with 99.99% uptime. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-H033",
+    "question": "Implement zero-trust security model in Azure-Administrator",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Correct Azure-Administrator procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "h",
+    "explanation": "**Azure-Administrator H Solution:** Implement zero-trust security model in Azure-Administrator. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-H034",
+    "question": "Optimize Azure-Administrator performance under DDoS attack",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Azure-Administrator procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "h",
+    "explanation": "**Azure-Administrator H Solution:** Optimize Azure-Administrator performance under DDoS attack. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-H035",
+    "question": "Create disaster recovery plan with RTO < 15min for Azure-Administrator",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach",
+      "Correct Azure-Administrator procedure"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "h",
+    "explanation": "**Azure-Administrator H Solution:** Create disaster recovery plan with RTO < 15min for Azure-Administrator. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-H036",
+    "question": "Create disaster recovery plan with RTO < 15min for Azure-Administrator",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct Azure-Administrator procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "h",
+    "explanation": "**Azure-Administrator H Solution:** Create disaster recovery plan with RTO < 15min for Azure-Administrator. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-H037",
+    "question": "Create disaster recovery plan with RTO < 15min for Azure-Administrator",
+    "options": [
+      "Correct Azure-Administrator procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "h",
+    "explanation": "**Azure-Administrator H Solution:** Create disaster recovery plan with RTO < 15min for Azure-Administrator. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-H038",
+    "question": "Create disaster recovery plan with RTO < 15min for Azure-Administrator",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Azure-Administrator procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "h",
+    "explanation": "**Azure-Administrator H Solution:** Create disaster recovery plan with RTO < 15min for Azure-Administrator. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-H039",
+    "question": "Create disaster recovery plan with RTO < 15min for Azure-Administrator",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Azure-Administrator procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "h",
+    "explanation": "**Azure-Administrator H Solution:** Create disaster recovery plan with RTO < 15min for Azure-Administrator. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-H040",
+    "question": "Create disaster recovery plan with RTO < 15min for Azure-Administrator",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct Azure-Administrator procedure"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "h",
+    "explanation": "**Azure-Administrator H Solution:** Create disaster recovery plan with RTO < 15min for Azure-Administrator. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-H041",
+    "question": "Optimize Azure-Administrator performance under DDoS attack",
+    "options": [
+      "Correct Azure-Administrator procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "h",
+    "explanation": "**Azure-Administrator H Solution:** Optimize Azure-Administrator performance under DDoS attack. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-H042",
+    "question": "Design Azure-Administrator architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Azure-Administrator procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "h",
+    "explanation": "**Azure-Administrator H Solution:** Design Azure-Administrator architecture for 10k users with 99.99% uptime. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-H043",
+    "question": "Optimize Azure-Administrator performance under DDoS attack",
+    "options": [
+      "Dangerous method",
+      "Correct Azure-Administrator procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "h",
+    "explanation": "**Azure-Administrator H Solution:** Optimize Azure-Administrator performance under DDoS attack. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-H044",
+    "question": "Optimize Azure-Administrator performance under DDoS attack",
+    "options": [
+      "Dangerous method",
+      "Correct Azure-Administrator procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "h",
+    "explanation": "**Azure-Administrator H Solution:** Optimize Azure-Administrator performance under DDoS attack. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-H045",
+    "question": "Design Azure-Administrator architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Dangerous method",
+      "Correct Azure-Administrator procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "h",
+    "explanation": "**Azure-Administrator H Solution:** Design Azure-Administrator architecture for 10k users with 99.99% uptime. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-H046",
+    "question": "Design Azure-Administrator architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Correct Azure-Administrator procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "h",
+    "explanation": "**Azure-Administrator H Solution:** Design Azure-Administrator architecture for 10k users with 99.99% uptime. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-H047",
+    "question": "Create disaster recovery plan with RTO < 15min for Azure-Administrator",
+    "options": [
+      "Dangerous method",
+      "Correct Azure-Administrator procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "h",
+    "explanation": "**Azure-Administrator H Solution:** Create disaster recovery plan with RTO < 15min for Azure-Administrator. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-H048",
+    "question": "Create disaster recovery plan with RTO < 15min for Azure-Administrator",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct Azure-Administrator procedure",
+      "Partially correct"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "h",
+    "explanation": "**Azure-Administrator H Solution:** Create disaster recovery plan with RTO < 15min for Azure-Administrator. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-H049",
+    "question": "Design Azure-Administrator architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Dangerous method",
+      "Correct Azure-Administrator procedure",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "h",
+    "explanation": "**Azure-Administrator H Solution:** Design Azure-Administrator architecture for 10k users with 99.99% uptime. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-H050",
+    "question": "Optimize Azure-Administrator performance under DDoS attack",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Correct Azure-Administrator procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Azure-Administrator procedure",
+    "difficulty": "h",
+    "explanation": "**Azure-Administrator H Solution:** Optimize Azure-Administrator performance under DDoS attack. Always verify Azure-Administrator documentation and test in lab environment first."
+  },
+  {
+    "id": "Azure-Administrator-S01-01",
+    "question": "1. Security incident response: ransomware attack detected in Azure-Administrator environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S01-02",
+    "question": "1. Security incident response: ransomware attack detected in Azure-Administrator environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S01-03",
+    "question": "1. Security incident response: ransomware attack detected in Azure-Administrator environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S01-04",
+    "question": "1. Security incident response: ransomware attack detected in Azure-Administrator environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S01-05",
+    "question": "1. Security incident response: ransomware attack detected in Azure-Administrator environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S02-01",
+    "question": "2. Firewall blocking legitimate traffic in Azure-Administrator environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S02-02",
+    "question": "2. Firewall blocking legitimate traffic in Azure-Administrator environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S02-03",
+    "question": "2. Firewall blocking legitimate traffic in Azure-Administrator environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S02-04",
+    "question": "2. Firewall blocking legitimate traffic in Azure-Administrator environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S02-05",
+    "question": "2. Firewall blocking legitimate traffic in Azure-Administrator environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S03-01",
+    "question": "3. VPN connectivity failure for remote users in Azure-Administrator environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S03-02",
+    "question": "3. VPN connectivity failure for remote users in Azure-Administrator environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S03-03",
+    "question": "3. VPN connectivity failure for remote users in Azure-Administrator environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S03-04",
+    "question": "3. VPN connectivity failure for remote users in Azure-Administrator environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S03-05",
+    "question": "3. VPN connectivity failure for remote users in Azure-Administrator environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S04-01",
+    "question": "4. Server overload during quarterly report generation in Azure-Administrator environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S04-02",
+    "question": "4. Server overload during quarterly report generation in Azure-Administrator environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S04-03",
+    "question": "4. Server overload during quarterly report generation in Azure-Administrator environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S04-04",
+    "question": "4. Server overload during quarterly report generation in Azure-Administrator environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S04-05",
+    "question": "4. Server overload during quarterly report generation in Azure-Administrator environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S05-01",
+    "question": "5. Backup failure during scheduled window in Azure-Administrator environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S05-02",
+    "question": "5. Backup failure during scheduled window in Azure-Administrator environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S05-03",
+    "question": "5. Backup failure during scheduled window in Azure-Administrator environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S05-04",
+    "question": "5. Backup failure during scheduled window in Azure-Administrator environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S05-05",
+    "question": "5. Backup failure during scheduled window in Azure-Administrator environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S06-01",
+    "question": "6. Production outage during peak hours: diagnose and resolve in Azure-Administrator environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S06-02",
+    "question": "6. Production outage during peak hours: diagnose and resolve in Azure-Administrator environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S06-03",
+    "question": "6. Production outage during peak hours: diagnose and resolve in Azure-Administrator environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S06-04",
+    "question": "6. Production outage during peak hours: diagnose and resolve in Azure-Administrator environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S06-05",
+    "question": "6. Production outage during peak hours: diagnose and resolve in Azure-Administrator environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S07-01",
+    "question": "7. Load balancer health check failing in Azure-Administrator environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S07-02",
+    "question": "7. Load balancer health check failing in Azure-Administrator environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S07-03",
+    "question": "7. Load balancer health check failing in Azure-Administrator environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S07-04",
+    "question": "7. Load balancer health check failing in Azure-Administrator environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S07-05",
+    "question": "7. Load balancer health check failing in Azure-Administrator environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S08-01",
+    "question": "8. Firewall blocking legitimate traffic in Azure-Administrator environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S08-02",
+    "question": "8. Firewall blocking legitimate traffic in Azure-Administrator environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S08-03",
+    "question": "8. Firewall blocking legitimate traffic in Azure-Administrator environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S08-04",
+    "question": "8. Firewall blocking legitimate traffic in Azure-Administrator environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S08-05",
+    "question": "8. Firewall blocking legitimate traffic in Azure-Administrator environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S09-01",
+    "question": "9. Firewall blocking legitimate traffic in Azure-Administrator environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S09-02",
+    "question": "9. Firewall blocking legitimate traffic in Azure-Administrator environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S09-03",
+    "question": "9. Firewall blocking legitimate traffic in Azure-Administrator environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S09-04",
+    "question": "9. Firewall blocking legitimate traffic in Azure-Administrator environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S09-05",
+    "question": "9. Firewall blocking legitimate traffic in Azure-Administrator environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S10-01",
+    "question": "10. Cloud migration failure: rollback strategy in Azure-Administrator environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S10-02",
+    "question": "10. Cloud migration failure: rollback strategy in Azure-Administrator environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S10-03",
+    "question": "10. Cloud migration failure: rollback strategy in Azure-Administrator environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S10-04",
+    "question": "10. Cloud migration failure: rollback strategy in Azure-Administrator environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S10-05",
+    "question": "10. Cloud migration failure: rollback strategy in Azure-Administrator environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S11-01",
+    "question": "11. Firewall blocking legitimate traffic in Azure-Administrator environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S11-02",
+    "question": "11. Firewall blocking legitimate traffic in Azure-Administrator environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S11-03",
+    "question": "11. Firewall blocking legitimate traffic in Azure-Administrator environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S11-04",
+    "question": "11. Firewall blocking legitimate traffic in Azure-Administrator environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S11-05",
+    "question": "11. Firewall blocking legitimate traffic in Azure-Administrator environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S12-01",
+    "question": "12. Production outage during peak hours: diagnose and resolve in Azure-Administrator environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S12-02",
+    "question": "12. Production outage during peak hours: diagnose and resolve in Azure-Administrator environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S12-03",
+    "question": "12. Production outage during peak hours: diagnose and resolve in Azure-Administrator environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S12-04",
+    "question": "12. Production outage during peak hours: diagnose and resolve in Azure-Administrator environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S12-05",
+    "question": "12. Production outage during peak hours: diagnose and resolve in Azure-Administrator environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S13-01",
+    "question": "13. Firewall blocking legitimate traffic in Azure-Administrator environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S13-02",
+    "question": "13. Firewall blocking legitimate traffic in Azure-Administrator environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S13-03",
+    "question": "13. Firewall blocking legitimate traffic in Azure-Administrator environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S13-04",
+    "question": "13. Firewall blocking legitimate traffic in Azure-Administrator environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S13-05",
+    "question": "13. Firewall blocking legitimate traffic in Azure-Administrator environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S14-01",
+    "question": "14. Network latency issue affecting VoIP calls in Azure-Administrator environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S14-02",
+    "question": "14. Network latency issue affecting VoIP calls in Azure-Administrator environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S14-03",
+    "question": "14. Network latency issue affecting VoIP calls in Azure-Administrator environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S14-04",
+    "question": "14. Network latency issue affecting VoIP calls in Azure-Administrator environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S14-05",
+    "question": "14. Network latency issue affecting VoIP calls in Azure-Administrator environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S15-01",
+    "question": "15. Load balancer health check failing in Azure-Administrator environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S15-02",
+    "question": "15. Load balancer health check failing in Azure-Administrator environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S15-03",
+    "question": "15. Load balancer health check failing in Azure-Administrator environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S15-04",
+    "question": "15. Load balancer health check failing in Azure-Administrator environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S15-05",
+    "question": "15. Load balancer health check failing in Azure-Administrator environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S16-01",
+    "question": "16. Network latency issue affecting VoIP calls in Azure-Administrator environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S16-02",
+    "question": "16. Network latency issue affecting VoIP calls in Azure-Administrator environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S16-03",
+    "question": "16. Network latency issue affecting VoIP calls in Azure-Administrator environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S16-04",
+    "question": "16. Network latency issue affecting VoIP calls in Azure-Administrator environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S16-05",
+    "question": "16. Network latency issue affecting VoIP calls in Azure-Administrator environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S17-01",
+    "question": "17. Production outage during peak hours: diagnose and resolve in Azure-Administrator environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S17-02",
+    "question": "17. Production outage during peak hours: diagnose and resolve in Azure-Administrator environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S17-03",
+    "question": "17. Production outage during peak hours: diagnose and resolve in Azure-Administrator environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S17-04",
+    "question": "17. Production outage during peak hours: diagnose and resolve in Azure-Administrator environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S17-05",
+    "question": "17. Production outage during peak hours: diagnose and resolve in Azure-Administrator environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S18-01",
+    "question": "18. Network latency issue affecting VoIP calls in Azure-Administrator environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S18-02",
+    "question": "18. Network latency issue affecting VoIP calls in Azure-Administrator environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S18-03",
+    "question": "18. Network latency issue affecting VoIP calls in Azure-Administrator environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S18-04",
+    "question": "18. Network latency issue affecting VoIP calls in Azure-Administrator environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S18-05",
+    "question": "18. Network latency issue affecting VoIP calls in Azure-Administrator environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S19-01",
+    "question": "19. VPN connectivity failure for remote users in Azure-Administrator environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S19-02",
+    "question": "19. VPN connectivity failure for remote users in Azure-Administrator environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S19-03",
+    "question": "19. VPN connectivity failure for remote users in Azure-Administrator environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S19-04",
+    "question": "19. VPN connectivity failure for remote users in Azure-Administrator environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S19-05",
+    "question": "19. VPN connectivity failure for remote users in Azure-Administrator environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S20-01",
+    "question": "20. Database performance degradation after upgrade in Azure-Administrator environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S20-02",
+    "question": "20. Database performance degradation after upgrade in Azure-Administrator environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S20-03",
+    "question": "20. Database performance degradation after upgrade in Azure-Administrator environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S20-04",
+    "question": "20. Database performance degradation after upgrade in Azure-Administrator environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Azure-Administrator-S20-05",
+    "question": "20. Database performance degradation after upgrade in Azure-Administrator environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Azure-Administrator troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Azure-Administrator troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Azure-Administrator best practices. Document all steps for RCA."
+  }
+]

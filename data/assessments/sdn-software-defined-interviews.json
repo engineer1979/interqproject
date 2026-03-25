@@ -1,0 +1,214 @@
+[
+  {
+    "id": "SDN-Software-Defined-I01",
+    "title": "SDN-Software-Defined Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level SDN-Software-Defined certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain SDN-Software-Defined HA design",
+      "Troubleshoot SDN-Software-Defined outage",
+      "Scale SDN-Software-Defined for 100k users"
+    ],
+    "expected_skills": [
+      "Production SDN-Software-Defined experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "SDN-Software-Defined-I02",
+    "title": "SDN-Software-Defined Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level SDN-Software-Defined certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain SDN-Software-Defined HA design",
+      "Troubleshoot SDN-Software-Defined outage",
+      "Scale SDN-Software-Defined for 100k users"
+    ],
+    "expected_skills": [
+      "Production SDN-Software-Defined experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "SDN-Software-Defined-I03",
+    "title": "SDN-Software-Defined Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level SDN-Software-Defined certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain SDN-Software-Defined HA design",
+      "Troubleshoot SDN-Software-Defined outage",
+      "Scale SDN-Software-Defined for 100k users"
+    ],
+    "expected_skills": [
+      "Production SDN-Software-Defined experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "SDN-Software-Defined-I04",
+    "title": "SDN-Software-Defined Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level SDN-Software-Defined certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain SDN-Software-Defined HA design",
+      "Troubleshoot SDN-Software-Defined outage",
+      "Scale SDN-Software-Defined for 100k users"
+    ],
+    "expected_skills": [
+      "Production SDN-Software-Defined experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "SDN-Software-Defined-I05",
+    "title": "SDN-Software-Defined Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level SDN-Software-Defined certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain SDN-Software-Defined HA design",
+      "Troubleshoot SDN-Software-Defined outage",
+      "Scale SDN-Software-Defined for 100k users"
+    ],
+    "expected_skills": [
+      "Production SDN-Software-Defined experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "SDN-Software-Defined-I06",
+    "title": "SDN-Software-Defined Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level SDN-Software-Defined certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain SDN-Software-Defined HA design",
+      "Troubleshoot SDN-Software-Defined outage",
+      "Scale SDN-Software-Defined for 100k users"
+    ],
+    "expected_skills": [
+      "Production SDN-Software-Defined experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "SDN-Software-Defined-I07",
+    "title": "SDN-Software-Defined Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level SDN-Software-Defined certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain SDN-Software-Defined HA design",
+      "Troubleshoot SDN-Software-Defined outage",
+      "Scale SDN-Software-Defined for 100k users"
+    ],
+    "expected_skills": [
+      "Production SDN-Software-Defined experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "SDN-Software-Defined-I08",
+    "title": "SDN-Software-Defined Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level SDN-Software-Defined certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain SDN-Software-Defined HA design",
+      "Troubleshoot SDN-Software-Defined outage",
+      "Scale SDN-Software-Defined for 100k users"
+    ],
+    "expected_skills": [
+      "Production SDN-Software-Defined experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "SDN-Software-Defined-I09",
+    "title": "SDN-Software-Defined Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level SDN-Software-Defined certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain SDN-Software-Defined HA design",
+      "Troubleshoot SDN-Software-Defined outage",
+      "Scale SDN-Software-Defined for 100k users"
+    ],
+    "expected_skills": [
+      "Production SDN-Software-Defined experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "SDN-Software-Defined-I10",
+    "title": "SDN-Software-Defined Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level SDN-Software-Defined certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain SDN-Software-Defined HA design",
+      "Troubleshoot SDN-Software-Defined outage",
+      "Scale SDN-Software-Defined for 100k users"
+    ],
+    "expected_skills": [
+      "Production SDN-Software-Defined experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  }
+]

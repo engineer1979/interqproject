@@ -1,0 +1,3252 @@
+[
+  {
+    "id": "CISSP-Security-E001",
+    "question": "What does CISSP ACL stand for?",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CISSP-Security procedure"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "e",
+    "explanation": "**CISSP-Security E Solution:** What does CISSP ACL stand for?. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-E002",
+    "question": "Common protocol for CISSP-Security remote access?",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct CISSP-Security procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "e",
+    "explanation": "**CISSP-Security E Solution:** Common protocol for CISSP-Security remote access?. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-E003",
+    "question": "What is the primary function of CISSP DHCP?",
+    "options": [
+      "Incorrect approach",
+      "Correct CISSP-Security procedure",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "e",
+    "explanation": "**CISSP-Security E Solution:** What is the primary function of CISSP DHCP?. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-E004",
+    "question": "What does CISSP ACL stand for?",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach",
+      "Correct CISSP-Security procedure"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "e",
+    "explanation": "**CISSP-Security E Solution:** What does CISSP ACL stand for?. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-E005",
+    "question": "What is the primary function of CISSP DHCP?",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct CISSP-Security procedure"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "e",
+    "explanation": "**CISSP-Security E Solution:** What is the primary function of CISSP DHCP?. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-E006",
+    "question": "Default subnet mask for Class C network in CISSP-Security?",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CISSP-Security procedure"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "e",
+    "explanation": "**CISSP-Security E Solution:** Default subnet mask for Class C network in CISSP-Security?. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-E007",
+    "question": "What is the primary function of CISSP DHCP?",
+    "options": [
+      "Dangerous method",
+      "Correct CISSP-Security procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "e",
+    "explanation": "**CISSP-Security E Solution:** What is the primary function of CISSP DHCP?. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-E008",
+    "question": "Default subnet mask for Class C network in CISSP-Security?",
+    "options": [
+      "Dangerous method",
+      "Correct CISSP-Security procedure",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "e",
+    "explanation": "**CISSP-Security E Solution:** Default subnet mask for Class C network in CISSP-Security?. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-E009",
+    "question": "What does CISSP ACL stand for?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CISSP-Security procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "e",
+    "explanation": "**CISSP-Security E Solution:** What does CISSP ACL stand for?. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-E010",
+    "question": "Which port does CISSP-Security service use by default?",
+    "options": [
+      "Correct CISSP-Security procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "e",
+    "explanation": "**CISSP-Security E Solution:** Which port does CISSP-Security service use by default?. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-E011",
+    "question": "What is the primary function of CISSP DHCP?",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct CISSP-Security procedure"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "e",
+    "explanation": "**CISSP-Security E Solution:** What is the primary function of CISSP DHCP?. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-E012",
+    "question": "What does CISSP ACL stand for?",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Correct CISSP-Security procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "e",
+    "explanation": "**CISSP-Security E Solution:** What does CISSP ACL stand for?. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-E013",
+    "question": "What does CISSP ACL stand for?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CISSP-Security procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "e",
+    "explanation": "**CISSP-Security E Solution:** What does CISSP ACL stand for?. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-E014",
+    "question": "What does CISSP ACL stand for?",
+    "options": [
+      "Dangerous method",
+      "Correct CISSP-Security procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "e",
+    "explanation": "**CISSP-Security E Solution:** What does CISSP ACL stand for?. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-E015",
+    "question": "Default subnet mask for Class C network in CISSP-Security?",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct CISSP-Security procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "e",
+    "explanation": "**CISSP-Security E Solution:** Default subnet mask for Class C network in CISSP-Security?. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-E016",
+    "question": "Default subnet mask for Class C network in CISSP-Security?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CISSP-Security procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "e",
+    "explanation": "**CISSP-Security E Solution:** Default subnet mask for Class C network in CISSP-Security?. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-E017",
+    "question": "Common protocol for CISSP-Security remote access?",
+    "options": [
+      "Correct CISSP-Security procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "e",
+    "explanation": "**CISSP-Security E Solution:** Common protocol for CISSP-Security remote access?. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-E018",
+    "question": "Which port does CISSP-Security service use by default?",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct CISSP-Security procedure"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "e",
+    "explanation": "**CISSP-Security E Solution:** Which port does CISSP-Security service use by default?. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-E019",
+    "question": "Which port does CISSP-Security service use by default?",
+    "options": [
+      "Correct CISSP-Security procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "e",
+    "explanation": "**CISSP-Security E Solution:** Which port does CISSP-Security service use by default?. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-E020",
+    "question": "What does CISSP ACL stand for?",
+    "options": [
+      "Incorrect approach",
+      "Correct CISSP-Security procedure",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "e",
+    "explanation": "**CISSP-Security E Solution:** What does CISSP ACL stand for?. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-E021",
+    "question": "Common protocol for CISSP-Security remote access?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CISSP-Security procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "e",
+    "explanation": "**CISSP-Security E Solution:** Common protocol for CISSP-Security remote access?. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-E022",
+    "question": "Default subnet mask for Class C network in CISSP-Security?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CISSP-Security procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "e",
+    "explanation": "**CISSP-Security E Solution:** Default subnet mask for Class C network in CISSP-Security?. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-E023",
+    "question": "Default subnet mask for Class C network in CISSP-Security?",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Correct CISSP-Security procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "e",
+    "explanation": "**CISSP-Security E Solution:** Default subnet mask for Class C network in CISSP-Security?. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-E024",
+    "question": "Which port does CISSP-Security service use by default?",
+    "options": [
+      "Correct CISSP-Security procedure",
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "e",
+    "explanation": "**CISSP-Security E Solution:** Which port does CISSP-Security service use by default?. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-E025",
+    "question": "What is the primary function of CISSP DHCP?",
+    "options": [
+      "Partially correct",
+      "Correct CISSP-Security procedure",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "e",
+    "explanation": "**CISSP-Security E Solution:** What is the primary function of CISSP DHCP?. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-E026",
+    "question": "Default subnet mask for Class C network in CISSP-Security?",
+    "options": [
+      "Correct CISSP-Security procedure",
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "e",
+    "explanation": "**CISSP-Security E Solution:** Default subnet mask for Class C network in CISSP-Security?. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-E027",
+    "question": "Which port does CISSP-Security service use by default?",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct CISSP-Security procedure"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "e",
+    "explanation": "**CISSP-Security E Solution:** Which port does CISSP-Security service use by default?. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-E028",
+    "question": "What does CISSP ACL stand for?",
+    "options": [
+      "Dangerous method",
+      "Correct CISSP-Security procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "e",
+    "explanation": "**CISSP-Security E Solution:** What does CISSP ACL stand for?. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-E029",
+    "question": "Common protocol for CISSP-Security remote access?",
+    "options": [
+      "Correct CISSP-Security procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "e",
+    "explanation": "**CISSP-Security E Solution:** Common protocol for CISSP-Security remote access?. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-E030",
+    "question": "Common protocol for CISSP-Security remote access?",
+    "options": [
+      "Correct CISSP-Security procedure",
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "e",
+    "explanation": "**CISSP-Security E Solution:** Common protocol for CISSP-Security remote access?. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-E031",
+    "question": "What does CISSP ACL stand for?",
+    "options": [
+      "Dangerous method",
+      "Correct CISSP-Security procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "e",
+    "explanation": "**CISSP-Security E Solution:** What does CISSP ACL stand for?. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-E032",
+    "question": "Common protocol for CISSP-Security remote access?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CISSP-Security procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "e",
+    "explanation": "**CISSP-Security E Solution:** Common protocol for CISSP-Security remote access?. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-E033",
+    "question": "What is the primary function of CISSP DHCP?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CISSP-Security procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "e",
+    "explanation": "**CISSP-Security E Solution:** What is the primary function of CISSP DHCP?. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-E034",
+    "question": "Default subnet mask for Class C network in CISSP-Security?",
+    "options": [
+      "Correct CISSP-Security procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "e",
+    "explanation": "**CISSP-Security E Solution:** Default subnet mask for Class C network in CISSP-Security?. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-E035",
+    "question": "What is the primary function of CISSP DHCP?",
+    "options": [
+      "Incorrect approach",
+      "Correct CISSP-Security procedure",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "e",
+    "explanation": "**CISSP-Security E Solution:** What is the primary function of CISSP DHCP?. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-E036",
+    "question": "Common protocol for CISSP-Security remote access?",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct CISSP-Security procedure"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "e",
+    "explanation": "**CISSP-Security E Solution:** Common protocol for CISSP-Security remote access?. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-E037",
+    "question": "Common protocol for CISSP-Security remote access?",
+    "options": [
+      "Correct CISSP-Security procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "e",
+    "explanation": "**CISSP-Security E Solution:** Common protocol for CISSP-Security remote access?. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-E038",
+    "question": "Default subnet mask for Class C network in CISSP-Security?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CISSP-Security procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "e",
+    "explanation": "**CISSP-Security E Solution:** Default subnet mask for Class C network in CISSP-Security?. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-E039",
+    "question": "Which port does CISSP-Security service use by default?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CISSP-Security procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "e",
+    "explanation": "**CISSP-Security E Solution:** Which port does CISSP-Security service use by default?. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-E040",
+    "question": "What is the primary function of CISSP DHCP?",
+    "options": [
+      "Correct CISSP-Security procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "e",
+    "explanation": "**CISSP-Security E Solution:** What is the primary function of CISSP DHCP?. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-E041",
+    "question": "Default subnet mask for Class C network in CISSP-Security?",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct CISSP-Security procedure"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "e",
+    "explanation": "**CISSP-Security E Solution:** Default subnet mask for Class C network in CISSP-Security?. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-E042",
+    "question": "What is the primary function of CISSP DHCP?",
+    "options": [
+      "Dangerous method",
+      "Correct CISSP-Security procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "e",
+    "explanation": "**CISSP-Security E Solution:** What is the primary function of CISSP DHCP?. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-E043",
+    "question": "Default subnet mask for Class C network in CISSP-Security?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CISSP-Security procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "e",
+    "explanation": "**CISSP-Security E Solution:** Default subnet mask for Class C network in CISSP-Security?. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-E044",
+    "question": "Default subnet mask for Class C network in CISSP-Security?",
+    "options": [
+      "Correct CISSP-Security procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "e",
+    "explanation": "**CISSP-Security E Solution:** Default subnet mask for Class C network in CISSP-Security?. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-E045",
+    "question": "What is the primary function of CISSP DHCP?",
+    "options": [
+      "Partially correct",
+      "Correct CISSP-Security procedure",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "e",
+    "explanation": "**CISSP-Security E Solution:** What is the primary function of CISSP DHCP?. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-E046",
+    "question": "Which port does CISSP-Security service use by default?",
+    "options": [
+      "Dangerous method",
+      "Correct CISSP-Security procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "e",
+    "explanation": "**CISSP-Security E Solution:** Which port does CISSP-Security service use by default?. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-E047",
+    "question": "What does CISSP ACL stand for?",
+    "options": [
+      "Dangerous method",
+      "Correct CISSP-Security procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "e",
+    "explanation": "**CISSP-Security E Solution:** What does CISSP ACL stand for?. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-E048",
+    "question": "Which port does CISSP-Security service use by default?",
+    "options": [
+      "Correct CISSP-Security procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "e",
+    "explanation": "**CISSP-Security E Solution:** Which port does CISSP-Security service use by default?. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-E049",
+    "question": "Common protocol for CISSP-Security remote access?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CISSP-Security procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "e",
+    "explanation": "**CISSP-Security E Solution:** Common protocol for CISSP-Security remote access?. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-E050",
+    "question": "What is the primary function of CISSP DHCP?",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CISSP-Security procedure"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "e",
+    "explanation": "**CISSP-Security E Solution:** What is the primary function of CISSP DHCP?. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-M001",
+    "question": "Optimize CISSP-Security query performance",
+    "options": [
+      "Dangerous method",
+      "Correct CISSP-Security procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "m",
+    "explanation": "**CISSP-Security M Solution:** Optimize CISSP-Security query performance. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-M002",
+    "question": "Set up CISSP-Security failover clustering",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct CISSP-Security procedure"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "m",
+    "explanation": "**CISSP-Security M Solution:** Set up CISSP-Security failover clustering. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-M003",
+    "question": "Optimize CISSP-Security query performance",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CISSP-Security procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "m",
+    "explanation": "**CISSP-Security M Solution:** Optimize CISSP-Security query performance. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-M004",
+    "question": "Troubleshoot CISSP-Security connectivity issue between VLANs",
+    "options": [
+      "Dangerous method",
+      "Correct CISSP-Security procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "m",
+    "explanation": "**CISSP-Security M Solution:** Troubleshoot CISSP-Security connectivity issue between VLANs. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-M005",
+    "question": "Configure CISSP-Security load balancer for high availability",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CISSP-Security procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "m",
+    "explanation": "**CISSP-Security M Solution:** Configure CISSP-Security load balancer for high availability. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-M006",
+    "question": "Implement CISSP-Security backup strategy for compliance",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CISSP-Security procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "m",
+    "explanation": "**CISSP-Security M Solution:** Implement CISSP-Security backup strategy for compliance. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-M007",
+    "question": "Configure CISSP-Security load balancer for high availability",
+    "options": [
+      "Correct CISSP-Security procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "m",
+    "explanation": "**CISSP-Security M Solution:** Configure CISSP-Security load balancer for high availability. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-M008",
+    "question": "Configure CISSP-Security load balancer for high availability",
+    "options": [
+      "Partially correct",
+      "Correct CISSP-Security procedure",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "m",
+    "explanation": "**CISSP-Security M Solution:** Configure CISSP-Security load balancer for high availability. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-M009",
+    "question": "Set up CISSP-Security failover clustering",
+    "options": [
+      "Correct CISSP-Security procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "m",
+    "explanation": "**CISSP-Security M Solution:** Set up CISSP-Security failover clustering. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-M010",
+    "question": "Troubleshoot CISSP-Security connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct CISSP-Security procedure"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "m",
+    "explanation": "**CISSP-Security M Solution:** Troubleshoot CISSP-Security connectivity issue between VLANs. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-M011",
+    "question": "Optimize CISSP-Security query performance",
+    "options": [
+      "Correct CISSP-Security procedure",
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "m",
+    "explanation": "**CISSP-Security M Solution:** Optimize CISSP-Security query performance. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-M012",
+    "question": "Troubleshoot CISSP-Security connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CISSP-Security procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "m",
+    "explanation": "**CISSP-Security M Solution:** Troubleshoot CISSP-Security connectivity issue between VLANs. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-M013",
+    "question": "Configure CISSP-Security load balancer for high availability",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CISSP-Security procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "m",
+    "explanation": "**CISSP-Security M Solution:** Configure CISSP-Security load balancer for high availability. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-M014",
+    "question": "Set up CISSP-Security failover clustering",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CISSP-Security procedure"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "m",
+    "explanation": "**CISSP-Security M Solution:** Set up CISSP-Security failover clustering. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-M015",
+    "question": "Optimize CISSP-Security query performance",
+    "options": [
+      "Dangerous method",
+      "Correct CISSP-Security procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "m",
+    "explanation": "**CISSP-Security M Solution:** Optimize CISSP-Security query performance. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-M016",
+    "question": "Optimize CISSP-Security query performance",
+    "options": [
+      "Correct CISSP-Security procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "m",
+    "explanation": "**CISSP-Security M Solution:** Optimize CISSP-Security query performance. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-M017",
+    "question": "Troubleshoot CISSP-Security connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Correct CISSP-Security procedure",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "m",
+    "explanation": "**CISSP-Security M Solution:** Troubleshoot CISSP-Security connectivity issue between VLANs. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-M018",
+    "question": "Set up CISSP-Security failover clustering",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct CISSP-Security procedure"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "m",
+    "explanation": "**CISSP-Security M Solution:** Set up CISSP-Security failover clustering. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-M019",
+    "question": "Optimize CISSP-Security query performance",
+    "options": [
+      "Correct CISSP-Security procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "m",
+    "explanation": "**CISSP-Security M Solution:** Optimize CISSP-Security query performance. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-M020",
+    "question": "Set up CISSP-Security failover clustering",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct CISSP-Security procedure"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "m",
+    "explanation": "**CISSP-Security M Solution:** Set up CISSP-Security failover clustering. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-M021",
+    "question": "Implement CISSP-Security backup strategy for compliance",
+    "options": [
+      "Incorrect approach",
+      "Correct CISSP-Security procedure",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "m",
+    "explanation": "**CISSP-Security M Solution:** Implement CISSP-Security backup strategy for compliance. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-M022",
+    "question": "Troubleshoot CISSP-Security connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CISSP-Security procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "m",
+    "explanation": "**CISSP-Security M Solution:** Troubleshoot CISSP-Security connectivity issue between VLANs. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-M023",
+    "question": "Implement CISSP-Security backup strategy for compliance",
+    "options": [
+      "Dangerous method",
+      "Correct CISSP-Security procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "m",
+    "explanation": "**CISSP-Security M Solution:** Implement CISSP-Security backup strategy for compliance. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-M024",
+    "question": "Implement CISSP-Security backup strategy for compliance",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CISSP-Security procedure"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "m",
+    "explanation": "**CISSP-Security M Solution:** Implement CISSP-Security backup strategy for compliance. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-M025",
+    "question": "Configure CISSP-Security load balancer for high availability",
+    "options": [
+      "Incorrect approach",
+      "Correct CISSP-Security procedure",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "m",
+    "explanation": "**CISSP-Security M Solution:** Configure CISSP-Security load balancer for high availability. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-M026",
+    "question": "Configure CISSP-Security load balancer for high availability",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach",
+      "Correct CISSP-Security procedure"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "m",
+    "explanation": "**CISSP-Security M Solution:** Configure CISSP-Security load balancer for high availability. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-M027",
+    "question": "Troubleshoot CISSP-Security connectivity issue between VLANs",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct CISSP-Security procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "m",
+    "explanation": "**CISSP-Security M Solution:** Troubleshoot CISSP-Security connectivity issue between VLANs. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-M028",
+    "question": "Implement CISSP-Security backup strategy for compliance",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CISSP-Security procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "m",
+    "explanation": "**CISSP-Security M Solution:** Implement CISSP-Security backup strategy for compliance. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-M029",
+    "question": "Implement CISSP-Security backup strategy for compliance",
+    "options": [
+      "Correct CISSP-Security procedure",
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "m",
+    "explanation": "**CISSP-Security M Solution:** Implement CISSP-Security backup strategy for compliance. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-M030",
+    "question": "Configure CISSP-Security load balancer for high availability",
+    "options": [
+      "Dangerous method",
+      "Correct CISSP-Security procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "m",
+    "explanation": "**CISSP-Security M Solution:** Configure CISSP-Security load balancer for high availability. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-M031",
+    "question": "Troubleshoot CISSP-Security connectivity issue between VLANs",
+    "options": [
+      "Dangerous method",
+      "Correct CISSP-Security procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "m",
+    "explanation": "**CISSP-Security M Solution:** Troubleshoot CISSP-Security connectivity issue between VLANs. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-M032",
+    "question": "Set up CISSP-Security failover clustering",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct CISSP-Security procedure"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "m",
+    "explanation": "**CISSP-Security M Solution:** Set up CISSP-Security failover clustering. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-M033",
+    "question": "Set up CISSP-Security failover clustering",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CISSP-Security procedure"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "m",
+    "explanation": "**CISSP-Security M Solution:** Set up CISSP-Security failover clustering. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-M034",
+    "question": "Optimize CISSP-Security query performance",
+    "options": [
+      "Dangerous method",
+      "Correct CISSP-Security procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "m",
+    "explanation": "**CISSP-Security M Solution:** Optimize CISSP-Security query performance. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-M035",
+    "question": "Configure CISSP-Security load balancer for high availability",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CISSP-Security procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "m",
+    "explanation": "**CISSP-Security M Solution:** Configure CISSP-Security load balancer for high availability. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-M036",
+    "question": "Optimize CISSP-Security query performance",
+    "options": [
+      "Partially correct",
+      "Correct CISSP-Security procedure",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "m",
+    "explanation": "**CISSP-Security M Solution:** Optimize CISSP-Security query performance. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-M037",
+    "question": "Configure CISSP-Security load balancer for high availability",
+    "options": [
+      "Dangerous method",
+      "Correct CISSP-Security procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "m",
+    "explanation": "**CISSP-Security M Solution:** Configure CISSP-Security load balancer for high availability. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-M038",
+    "question": "Implement CISSP-Security backup strategy for compliance",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct CISSP-Security procedure"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "m",
+    "explanation": "**CISSP-Security M Solution:** Implement CISSP-Security backup strategy for compliance. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-M039",
+    "question": "Troubleshoot CISSP-Security connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct CISSP-Security procedure"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "m",
+    "explanation": "**CISSP-Security M Solution:** Troubleshoot CISSP-Security connectivity issue between VLANs. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-M040",
+    "question": "Optimize CISSP-Security query performance",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CISSP-Security procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "m",
+    "explanation": "**CISSP-Security M Solution:** Optimize CISSP-Security query performance. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-M041",
+    "question": "Implement CISSP-Security backup strategy for compliance",
+    "options": [
+      "Dangerous method",
+      "Correct CISSP-Security procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "m",
+    "explanation": "**CISSP-Security M Solution:** Implement CISSP-Security backup strategy for compliance. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-M042",
+    "question": "Optimize CISSP-Security query performance",
+    "options": [
+      "Correct CISSP-Security procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "m",
+    "explanation": "**CISSP-Security M Solution:** Optimize CISSP-Security query performance. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-M043",
+    "question": "Set up CISSP-Security failover clustering",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct CISSP-Security procedure"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "m",
+    "explanation": "**CISSP-Security M Solution:** Set up CISSP-Security failover clustering. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-M044",
+    "question": "Set up CISSP-Security failover clustering",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct CISSP-Security procedure",
+      "Partially correct"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "m",
+    "explanation": "**CISSP-Security M Solution:** Set up CISSP-Security failover clustering. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-M045",
+    "question": "Troubleshoot CISSP-Security connectivity issue between VLANs",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct CISSP-Security procedure"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "m",
+    "explanation": "**CISSP-Security M Solution:** Troubleshoot CISSP-Security connectivity issue between VLANs. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-M046",
+    "question": "Implement CISSP-Security backup strategy for compliance",
+    "options": [
+      "Dangerous method",
+      "Correct CISSP-Security procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "m",
+    "explanation": "**CISSP-Security M Solution:** Implement CISSP-Security backup strategy for compliance. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-M047",
+    "question": "Optimize CISSP-Security query performance",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct CISSP-Security procedure"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "m",
+    "explanation": "**CISSP-Security M Solution:** Optimize CISSP-Security query performance. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-M048",
+    "question": "Troubleshoot CISSP-Security connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Correct CISSP-Security procedure",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "m",
+    "explanation": "**CISSP-Security M Solution:** Troubleshoot CISSP-Security connectivity issue between VLANs. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-M049",
+    "question": "Optimize CISSP-Security query performance",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CISSP-Security procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "m",
+    "explanation": "**CISSP-Security M Solution:** Optimize CISSP-Security query performance. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-M050",
+    "question": "Implement CISSP-Security backup strategy for compliance",
+    "options": [
+      "Correct CISSP-Security procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "m",
+    "explanation": "**CISSP-Security M Solution:** Implement CISSP-Security backup strategy for compliance. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-H001",
+    "question": "Create disaster recovery plan with RTO < 15min for CISSP-Security",
+    "options": [
+      "Correct CISSP-Security procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "h",
+    "explanation": "**CISSP-Security H Solution:** Create disaster recovery plan with RTO < 15min for CISSP-Security. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-H002",
+    "question": "Migrate legacy CISSP-Security systems to cloud-native architecture",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CISSP-Security procedure"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "h",
+    "explanation": "**CISSP-Security H Solution:** Migrate legacy CISSP-Security systems to cloud-native architecture. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-H003",
+    "question": "Migrate legacy CISSP-Security systems to cloud-native architecture",
+    "options": [
+      "Dangerous method",
+      "Correct CISSP-Security procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "h",
+    "explanation": "**CISSP-Security H Solution:** Migrate legacy CISSP-Security systems to cloud-native architecture. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-H004",
+    "question": "Migrate legacy CISSP-Security systems to cloud-native architecture",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Correct CISSP-Security procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "h",
+    "explanation": "**CISSP-Security H Solution:** Migrate legacy CISSP-Security systems to cloud-native architecture. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-H005",
+    "question": "Implement zero-trust security model in CISSP-Security",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct CISSP-Security procedure"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "h",
+    "explanation": "**CISSP-Security H Solution:** Implement zero-trust security model in CISSP-Security. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-H006",
+    "question": "Create disaster recovery plan with RTO < 15min for CISSP-Security",
+    "options": [
+      "Correct CISSP-Security procedure",
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "h",
+    "explanation": "**CISSP-Security H Solution:** Create disaster recovery plan with RTO < 15min for CISSP-Security. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-H007",
+    "question": "Migrate legacy CISSP-Security systems to cloud-native architecture",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Correct CISSP-Security procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "h",
+    "explanation": "**CISSP-Security H Solution:** Migrate legacy CISSP-Security systems to cloud-native architecture. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-H008",
+    "question": "Migrate legacy CISSP-Security systems to cloud-native architecture",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct CISSP-Security procedure"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "h",
+    "explanation": "**CISSP-Security H Solution:** Migrate legacy CISSP-Security systems to cloud-native architecture. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-H009",
+    "question": "Design CISSP-Security architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Correct CISSP-Security procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "h",
+    "explanation": "**CISSP-Security H Solution:** Design CISSP-Security architecture for 10k users with 99.99% uptime. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-H010",
+    "question": "Optimize CISSP-Security performance under DDoS attack",
+    "options": [
+      "Correct CISSP-Security procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "h",
+    "explanation": "**CISSP-Security H Solution:** Optimize CISSP-Security performance under DDoS attack. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-H011",
+    "question": "Design CISSP-Security architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Dangerous method",
+      "Correct CISSP-Security procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "h",
+    "explanation": "**CISSP-Security H Solution:** Design CISSP-Security architecture for 10k users with 99.99% uptime. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-H012",
+    "question": "Design CISSP-Security architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Dangerous method",
+      "Correct CISSP-Security procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "h",
+    "explanation": "**CISSP-Security H Solution:** Design CISSP-Security architecture for 10k users with 99.99% uptime. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-H013",
+    "question": "Create disaster recovery plan with RTO < 15min for CISSP-Security",
+    "options": [
+      "Correct CISSP-Security procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "h",
+    "explanation": "**CISSP-Security H Solution:** Create disaster recovery plan with RTO < 15min for CISSP-Security. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-H014",
+    "question": "Optimize CISSP-Security performance under DDoS attack",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CISSP-Security procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "h",
+    "explanation": "**CISSP-Security H Solution:** Optimize CISSP-Security performance under DDoS attack. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-H015",
+    "question": "Implement zero-trust security model in CISSP-Security",
+    "options": [
+      "Dangerous method",
+      "Correct CISSP-Security procedure",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "h",
+    "explanation": "**CISSP-Security H Solution:** Implement zero-trust security model in CISSP-Security. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-H016",
+    "question": "Design CISSP-Security architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Correct CISSP-Security procedure",
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "h",
+    "explanation": "**CISSP-Security H Solution:** Design CISSP-Security architecture for 10k users with 99.99% uptime. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-H017",
+    "question": "Migrate legacy CISSP-Security systems to cloud-native architecture",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CISSP-Security procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "h",
+    "explanation": "**CISSP-Security H Solution:** Migrate legacy CISSP-Security systems to cloud-native architecture. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-H018",
+    "question": "Optimize CISSP-Security performance under DDoS attack",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct CISSP-Security procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "h",
+    "explanation": "**CISSP-Security H Solution:** Optimize CISSP-Security performance under DDoS attack. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-H019",
+    "question": "Optimize CISSP-Security performance under DDoS attack",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CISSP-Security procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "h",
+    "explanation": "**CISSP-Security H Solution:** Optimize CISSP-Security performance under DDoS attack. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-H020",
+    "question": "Optimize CISSP-Security performance under DDoS attack",
+    "options": [
+      "Partially correct",
+      "Correct CISSP-Security procedure",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "h",
+    "explanation": "**CISSP-Security H Solution:** Optimize CISSP-Security performance under DDoS attack. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-H021",
+    "question": "Implement zero-trust security model in CISSP-Security",
+    "options": [
+      "Dangerous method",
+      "Correct CISSP-Security procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "h",
+    "explanation": "**CISSP-Security H Solution:** Implement zero-trust security model in CISSP-Security. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-H022",
+    "question": "Migrate legacy CISSP-Security systems to cloud-native architecture",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach",
+      "Correct CISSP-Security procedure"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "h",
+    "explanation": "**CISSP-Security H Solution:** Migrate legacy CISSP-Security systems to cloud-native architecture. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-H023",
+    "question": "Migrate legacy CISSP-Security systems to cloud-native architecture",
+    "options": [
+      "Correct CISSP-Security procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "h",
+    "explanation": "**CISSP-Security H Solution:** Migrate legacy CISSP-Security systems to cloud-native architecture. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-H024",
+    "question": "Implement zero-trust security model in CISSP-Security",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach",
+      "Correct CISSP-Security procedure"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "h",
+    "explanation": "**CISSP-Security H Solution:** Implement zero-trust security model in CISSP-Security. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-H025",
+    "question": "Migrate legacy CISSP-Security systems to cloud-native architecture",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct CISSP-Security procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "h",
+    "explanation": "**CISSP-Security H Solution:** Migrate legacy CISSP-Security systems to cloud-native architecture. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-H026",
+    "question": "Optimize CISSP-Security performance under DDoS attack",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CISSP-Security procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "h",
+    "explanation": "**CISSP-Security H Solution:** Optimize CISSP-Security performance under DDoS attack. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-H027",
+    "question": "Design CISSP-Security architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct CISSP-Security procedure"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "h",
+    "explanation": "**CISSP-Security H Solution:** Design CISSP-Security architecture for 10k users with 99.99% uptime. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-H028",
+    "question": "Create disaster recovery plan with RTO < 15min for CISSP-Security",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CISSP-Security procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "h",
+    "explanation": "**CISSP-Security H Solution:** Create disaster recovery plan with RTO < 15min for CISSP-Security. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-H029",
+    "question": "Design CISSP-Security architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CISSP-Security procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "h",
+    "explanation": "**CISSP-Security H Solution:** Design CISSP-Security architecture for 10k users with 99.99% uptime. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-H030",
+    "question": "Design CISSP-Security architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct CISSP-Security procedure"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "h",
+    "explanation": "**CISSP-Security H Solution:** Design CISSP-Security architecture for 10k users with 99.99% uptime. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-H031",
+    "question": "Optimize CISSP-Security performance under DDoS attack",
+    "options": [
+      "Partially correct",
+      "Correct CISSP-Security procedure",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "h",
+    "explanation": "**CISSP-Security H Solution:** Optimize CISSP-Security performance under DDoS attack. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-H032",
+    "question": "Optimize CISSP-Security performance under DDoS attack",
+    "options": [
+      "Dangerous method",
+      "Correct CISSP-Security procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "h",
+    "explanation": "**CISSP-Security H Solution:** Optimize CISSP-Security performance under DDoS attack. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-H033",
+    "question": "Optimize CISSP-Security performance under DDoS attack",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct CISSP-Security procedure"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "h",
+    "explanation": "**CISSP-Security H Solution:** Optimize CISSP-Security performance under DDoS attack. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-H034",
+    "question": "Migrate legacy CISSP-Security systems to cloud-native architecture",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct CISSP-Security procedure",
+      "Partially correct"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "h",
+    "explanation": "**CISSP-Security H Solution:** Migrate legacy CISSP-Security systems to cloud-native architecture. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-H035",
+    "question": "Create disaster recovery plan with RTO < 15min for CISSP-Security",
+    "options": [
+      "Dangerous method",
+      "Correct CISSP-Security procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "h",
+    "explanation": "**CISSP-Security H Solution:** Create disaster recovery plan with RTO < 15min for CISSP-Security. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-H036",
+    "question": "Implement zero-trust security model in CISSP-Security",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CISSP-Security procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "h",
+    "explanation": "**CISSP-Security H Solution:** Implement zero-trust security model in CISSP-Security. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-H037",
+    "question": "Optimize CISSP-Security performance under DDoS attack",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CISSP-Security procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "h",
+    "explanation": "**CISSP-Security H Solution:** Optimize CISSP-Security performance under DDoS attack. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-H038",
+    "question": "Create disaster recovery plan with RTO < 15min for CISSP-Security",
+    "options": [
+      "Dangerous method",
+      "Correct CISSP-Security procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "h",
+    "explanation": "**CISSP-Security H Solution:** Create disaster recovery plan with RTO < 15min for CISSP-Security. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-H039",
+    "question": "Implement zero-trust security model in CISSP-Security",
+    "options": [
+      "Correct CISSP-Security procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "h",
+    "explanation": "**CISSP-Security H Solution:** Implement zero-trust security model in CISSP-Security. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-H040",
+    "question": "Create disaster recovery plan with RTO < 15min for CISSP-Security",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CISSP-Security procedure"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "h",
+    "explanation": "**CISSP-Security H Solution:** Create disaster recovery plan with RTO < 15min for CISSP-Security. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-H041",
+    "question": "Optimize CISSP-Security performance under DDoS attack",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CISSP-Security procedure"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "h",
+    "explanation": "**CISSP-Security H Solution:** Optimize CISSP-Security performance under DDoS attack. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-H042",
+    "question": "Create disaster recovery plan with RTO < 15min for CISSP-Security",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CISSP-Security procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "h",
+    "explanation": "**CISSP-Security H Solution:** Create disaster recovery plan with RTO < 15min for CISSP-Security. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-H043",
+    "question": "Implement zero-trust security model in CISSP-Security",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct CISSP-Security procedure"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "h",
+    "explanation": "**CISSP-Security H Solution:** Implement zero-trust security model in CISSP-Security. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-H044",
+    "question": "Implement zero-trust security model in CISSP-Security",
+    "options": [
+      "Dangerous method",
+      "Correct CISSP-Security procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "h",
+    "explanation": "**CISSP-Security H Solution:** Implement zero-trust security model in CISSP-Security. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-H045",
+    "question": "Implement zero-trust security model in CISSP-Security",
+    "options": [
+      "Dangerous method",
+      "Correct CISSP-Security procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "h",
+    "explanation": "**CISSP-Security H Solution:** Implement zero-trust security model in CISSP-Security. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-H046",
+    "question": "Optimize CISSP-Security performance under DDoS attack",
+    "options": [
+      "Correct CISSP-Security procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "h",
+    "explanation": "**CISSP-Security H Solution:** Optimize CISSP-Security performance under DDoS attack. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-H047",
+    "question": "Implement zero-trust security model in CISSP-Security",
+    "options": [
+      "Dangerous method",
+      "Correct CISSP-Security procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "h",
+    "explanation": "**CISSP-Security H Solution:** Implement zero-trust security model in CISSP-Security. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-H048",
+    "question": "Create disaster recovery plan with RTO < 15min for CISSP-Security",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CISSP-Security procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "h",
+    "explanation": "**CISSP-Security H Solution:** Create disaster recovery plan with RTO < 15min for CISSP-Security. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-H049",
+    "question": "Optimize CISSP-Security performance under DDoS attack",
+    "options": [
+      "Correct CISSP-Security procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "h",
+    "explanation": "**CISSP-Security H Solution:** Optimize CISSP-Security performance under DDoS attack. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-H050",
+    "question": "Create disaster recovery plan with RTO < 15min for CISSP-Security",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CISSP-Security procedure"
+    ],
+    "answer": "Correct CISSP-Security procedure",
+    "difficulty": "h",
+    "explanation": "**CISSP-Security H Solution:** Create disaster recovery plan with RTO < 15min for CISSP-Security. Always verify CISSP-Security documentation and test in lab environment first."
+  },
+  {
+    "id": "CISSP-Security-S01-01",
+    "question": "1. Network latency issue affecting VoIP calls in CISSP-Security environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S01-02",
+    "question": "1. Network latency issue affecting VoIP calls in CISSP-Security environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S01-03",
+    "question": "1. Network latency issue affecting VoIP calls in CISSP-Security environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S01-04",
+    "question": "1. Network latency issue affecting VoIP calls in CISSP-Security environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S01-05",
+    "question": "1. Network latency issue affecting VoIP calls in CISSP-Security environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S02-01",
+    "question": "2. Load balancer health check failing in CISSP-Security environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S02-02",
+    "question": "2. Load balancer health check failing in CISSP-Security environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S02-03",
+    "question": "2. Load balancer health check failing in CISSP-Security environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S02-04",
+    "question": "2. Load balancer health check failing in CISSP-Security environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S02-05",
+    "question": "2. Load balancer health check failing in CISSP-Security environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S03-01",
+    "question": "3. Firewall blocking legitimate traffic in CISSP-Security environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S03-02",
+    "question": "3. Firewall blocking legitimate traffic in CISSP-Security environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S03-03",
+    "question": "3. Firewall blocking legitimate traffic in CISSP-Security environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S03-04",
+    "question": "3. Firewall blocking legitimate traffic in CISSP-Security environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S03-05",
+    "question": "3. Firewall blocking legitimate traffic in CISSP-Security environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S04-01",
+    "question": "4. Network latency issue affecting VoIP calls in CISSP-Security environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S04-02",
+    "question": "4. Network latency issue affecting VoIP calls in CISSP-Security environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S04-03",
+    "question": "4. Network latency issue affecting VoIP calls in CISSP-Security environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S04-04",
+    "question": "4. Network latency issue affecting VoIP calls in CISSP-Security environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S04-05",
+    "question": "4. Network latency issue affecting VoIP calls in CISSP-Security environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S05-01",
+    "question": "5. Load balancer health check failing in CISSP-Security environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S05-02",
+    "question": "5. Load balancer health check failing in CISSP-Security environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S05-03",
+    "question": "5. Load balancer health check failing in CISSP-Security environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S05-04",
+    "question": "5. Load balancer health check failing in CISSP-Security environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S05-05",
+    "question": "5. Load balancer health check failing in CISSP-Security environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S06-01",
+    "question": "6. Security incident response: ransomware attack detected in CISSP-Security environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S06-02",
+    "question": "6. Security incident response: ransomware attack detected in CISSP-Security environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S06-03",
+    "question": "6. Security incident response: ransomware attack detected in CISSP-Security environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S06-04",
+    "question": "6. Security incident response: ransomware attack detected in CISSP-Security environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S06-05",
+    "question": "6. Security incident response: ransomware attack detected in CISSP-Security environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S07-01",
+    "question": "7. Server overload during quarterly report generation in CISSP-Security environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S07-02",
+    "question": "7. Server overload during quarterly report generation in CISSP-Security environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S07-03",
+    "question": "7. Server overload during quarterly report generation in CISSP-Security environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S07-04",
+    "question": "7. Server overload during quarterly report generation in CISSP-Security environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S07-05",
+    "question": "7. Server overload during quarterly report generation in CISSP-Security environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S08-01",
+    "question": "8. Network latency issue affecting VoIP calls in CISSP-Security environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S08-02",
+    "question": "8. Network latency issue affecting VoIP calls in CISSP-Security environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S08-03",
+    "question": "8. Network latency issue affecting VoIP calls in CISSP-Security environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S08-04",
+    "question": "8. Network latency issue affecting VoIP calls in CISSP-Security environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S08-05",
+    "question": "8. Network latency issue affecting VoIP calls in CISSP-Security environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S09-01",
+    "question": "9. Network latency issue affecting VoIP calls in CISSP-Security environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S09-02",
+    "question": "9. Network latency issue affecting VoIP calls in CISSP-Security environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S09-03",
+    "question": "9. Network latency issue affecting VoIP calls in CISSP-Security environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S09-04",
+    "question": "9. Network latency issue affecting VoIP calls in CISSP-Security environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S09-05",
+    "question": "9. Network latency issue affecting VoIP calls in CISSP-Security environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S10-01",
+    "question": "10. Security incident response: ransomware attack detected in CISSP-Security environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S10-02",
+    "question": "10. Security incident response: ransomware attack detected in CISSP-Security environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S10-03",
+    "question": "10. Security incident response: ransomware attack detected in CISSP-Security environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S10-04",
+    "question": "10. Security incident response: ransomware attack detected in CISSP-Security environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S10-05",
+    "question": "10. Security incident response: ransomware attack detected in CISSP-Security environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S11-01",
+    "question": "11. Database performance degradation after upgrade in CISSP-Security environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S11-02",
+    "question": "11. Database performance degradation after upgrade in CISSP-Security environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S11-03",
+    "question": "11. Database performance degradation after upgrade in CISSP-Security environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S11-04",
+    "question": "11. Database performance degradation after upgrade in CISSP-Security environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S11-05",
+    "question": "11. Database performance degradation after upgrade in CISSP-Security environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S12-01",
+    "question": "12. Production outage during peak hours: diagnose and resolve in CISSP-Security environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S12-02",
+    "question": "12. Production outage during peak hours: diagnose and resolve in CISSP-Security environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S12-03",
+    "question": "12. Production outage during peak hours: diagnose and resolve in CISSP-Security environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S12-04",
+    "question": "12. Production outage during peak hours: diagnose and resolve in CISSP-Security environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S12-05",
+    "question": "12. Production outage during peak hours: diagnose and resolve in CISSP-Security environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S13-01",
+    "question": "13. Security incident response: ransomware attack detected in CISSP-Security environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S13-02",
+    "question": "13. Security incident response: ransomware attack detected in CISSP-Security environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S13-03",
+    "question": "13. Security incident response: ransomware attack detected in CISSP-Security environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S13-04",
+    "question": "13. Security incident response: ransomware attack detected in CISSP-Security environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S13-05",
+    "question": "13. Security incident response: ransomware attack detected in CISSP-Security environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S14-01",
+    "question": "14. Security incident response: ransomware attack detected in CISSP-Security environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S14-02",
+    "question": "14. Security incident response: ransomware attack detected in CISSP-Security environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S14-03",
+    "question": "14. Security incident response: ransomware attack detected in CISSP-Security environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S14-04",
+    "question": "14. Security incident response: ransomware attack detected in CISSP-Security environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S14-05",
+    "question": "14. Security incident response: ransomware attack detected in CISSP-Security environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S15-01",
+    "question": "15. Firewall blocking legitimate traffic in CISSP-Security environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S15-02",
+    "question": "15. Firewall blocking legitimate traffic in CISSP-Security environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S15-03",
+    "question": "15. Firewall blocking legitimate traffic in CISSP-Security environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S15-04",
+    "question": "15. Firewall blocking legitimate traffic in CISSP-Security environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S15-05",
+    "question": "15. Firewall blocking legitimate traffic in CISSP-Security environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S16-01",
+    "question": "16. Firewall blocking legitimate traffic in CISSP-Security environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S16-02",
+    "question": "16. Firewall blocking legitimate traffic in CISSP-Security environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S16-03",
+    "question": "16. Firewall blocking legitimate traffic in CISSP-Security environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S16-04",
+    "question": "16. Firewall blocking legitimate traffic in CISSP-Security environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S16-05",
+    "question": "16. Firewall blocking legitimate traffic in CISSP-Security environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S17-01",
+    "question": "17. VPN connectivity failure for remote users in CISSP-Security environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S17-02",
+    "question": "17. VPN connectivity failure for remote users in CISSP-Security environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S17-03",
+    "question": "17. VPN connectivity failure for remote users in CISSP-Security environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S17-04",
+    "question": "17. VPN connectivity failure for remote users in CISSP-Security environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S17-05",
+    "question": "17. VPN connectivity failure for remote users in CISSP-Security environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S18-01",
+    "question": "18. Database performance degradation after upgrade in CISSP-Security environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S18-02",
+    "question": "18. Database performance degradation after upgrade in CISSP-Security environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S18-03",
+    "question": "18. Database performance degradation after upgrade in CISSP-Security environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S18-04",
+    "question": "18. Database performance degradation after upgrade in CISSP-Security environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S18-05",
+    "question": "18. Database performance degradation after upgrade in CISSP-Security environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S19-01",
+    "question": "19. Load balancer health check failing in CISSP-Security environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S19-02",
+    "question": "19. Load balancer health check failing in CISSP-Security environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S19-03",
+    "question": "19. Load balancer health check failing in CISSP-Security environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S19-04",
+    "question": "19. Load balancer health check failing in CISSP-Security environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S19-05",
+    "question": "19. Load balancer health check failing in CISSP-Security environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S20-01",
+    "question": "20. Server overload during quarterly report generation in CISSP-Security environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S20-02",
+    "question": "20. Server overload during quarterly report generation in CISSP-Security environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S20-03",
+    "question": "20. Server overload during quarterly report generation in CISSP-Security environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S20-04",
+    "question": "20. Server overload during quarterly report generation in CISSP-Security environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CISSP-Security-S20-05",
+    "question": "20. Server overload during quarterly report generation in CISSP-Security environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CISSP-Security troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CISSP-Security troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CISSP-Security best practices. Document all steps for RCA."
+  }
+]

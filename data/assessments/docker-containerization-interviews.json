@@ -1,0 +1,212 @@
+[
+  {
+    "id": "Docker-Containerization-I01",
+    "title": "Docker-Containerization Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Docker-Containerization certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain Docker-Containerization HA design",
+      "Troubleshoot Docker-Containerization outage",
+      "Scale Docker-Containerization for 100k users"
+    ],
+    "expected_skills": [
+      "Production Docker-Containerization experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Docker-Containerization-I02",
+    "title": "Docker-Containerization Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Docker-Containerization certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain Docker-Containerization HA design",
+      "Troubleshoot Docker-Containerization outage",
+      "Scale Docker-Containerization for 100k users"
+    ],
+    "expected_skills": [
+      "Production Docker-Containerization experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Docker-Containerization-I03",
+    "title": "Docker-Containerization Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Docker-Containerization certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain Docker-Containerization HA design",
+      "Troubleshoot Docker-Containerization outage",
+      "Scale Docker-Containerization for 100k users"
+    ],
+    "expected_skills": [
+      "Production Docker-Containerization experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Docker-Containerization-I04",
+    "title": "Docker-Containerization Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Docker-Containerization certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain Docker-Containerization HA design",
+      "Troubleshoot Docker-Containerization outage",
+      "Scale Docker-Containerization for 100k users"
+    ],
+    "expected_skills": [
+      "Production Docker-Containerization experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Docker-Containerization-I05",
+    "title": "Docker-Containerization Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Docker-Containerization certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain Docker-Containerization HA design",
+      "Troubleshoot Docker-Containerization outage",
+      "Scale Docker-Containerization for 100k users"
+    ],
+    "expected_skills": [
+      "Production Docker-Containerization experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Docker-Containerization-I06",
+    "title": "Docker-Containerization Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Docker-Containerization certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain Docker-Containerization HA design",
+      "Troubleshoot Docker-Containerization outage",
+      "Scale Docker-Containerization for 100k users"
+    ],
+    "expected_skills": [
+      "Production Docker-Containerization experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Docker-Containerization-I07",
+    "title": "Docker-Containerization Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Docker-Containerization certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain Docker-Containerization HA design",
+      "Troubleshoot Docker-Containerization outage",
+      "Scale Docker-Containerization for 100k users"
+    ],
+    "expected_skills": [
+      "Production Docker-Containerization experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Docker-Containerization-I08",
+    "title": "Docker-Containerization Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Docker-Containerization certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain Docker-Containerization HA design",
+      "Troubleshoot Docker-Containerization outage",
+      "Scale Docker-Containerization for 100k users"
+    ],
+    "expected_skills": [
+      "Production Docker-Containerization experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Docker-Containerization-I09",
+    "title": "Docker-Containerization Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Docker-Containerization certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain Docker-Containerization HA design",
+      "Troubleshoot Docker-Containerization outage",
+      "Scale Docker-Containerization for 100k users"
+    ],
+    "expected_skills": [
+      "Production Docker-Containerization experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Docker-Containerization-I10",
+    "title": "Docker-Containerization Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Docker-Containerization certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain Docker-Containerization HA design",
+      "Troubleshoot Docker-Containerization outage",
+      "Scale Docker-Containerization for 100k users"
+    ],
+    "expected_skills": [
+      "Production Docker-Containerization experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  }
+]

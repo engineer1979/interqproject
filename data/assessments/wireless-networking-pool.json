@@ -1,0 +1,3260 @@
+{
+  "easy": [
+    {
+      "id": "Wireless-Networking-E001",
+      "question": "Default subnet mask for Class C network in Wireless-Networking?",
+      "options": [
+        "Dangerous method",
+        "Correct Wireless-Networking procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "e",
+      "explanation": "**Wireless-Networking E Solution:** Default subnet mask for Class C network in Wireless-Networking?. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-E002",
+      "question": "What is the primary function of Wireless DHCP?",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Wireless-Networking procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "e",
+      "explanation": "**Wireless-Networking E Solution:** What is the primary function of Wireless DHCP?. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-E003",
+      "question": "Which port does Wireless-Networking service use by default?",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Wireless-Networking procedure"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "e",
+      "explanation": "**Wireless-Networking E Solution:** Which port does Wireless-Networking service use by default?. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-E004",
+      "question": "Which port does Wireless-Networking service use by default?",
+      "options": [
+        "Dangerous method",
+        "Correct Wireless-Networking procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "e",
+      "explanation": "**Wireless-Networking E Solution:** Which port does Wireless-Networking service use by default?. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-E005",
+      "question": "Default subnet mask for Class C network in Wireless-Networking?",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Wireless-Networking procedure"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "e",
+      "explanation": "**Wireless-Networking E Solution:** Default subnet mask for Class C network in Wireless-Networking?. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-E006",
+      "question": "What is the primary function of Wireless DHCP?",
+      "options": [
+        "Dangerous method",
+        "Correct Wireless-Networking procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "e",
+      "explanation": "**Wireless-Networking E Solution:** What is the primary function of Wireless DHCP?. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-E007",
+      "question": "Default subnet mask for Class C network in Wireless-Networking?",
+      "options": [
+        "Correct Wireless-Networking procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "e",
+      "explanation": "**Wireless-Networking E Solution:** Default subnet mask for Class C network in Wireless-Networking?. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-E008",
+      "question": "Common protocol for Wireless-Networking remote access?",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Wireless-Networking procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "e",
+      "explanation": "**Wireless-Networking E Solution:** Common protocol for Wireless-Networking remote access?. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-E009",
+      "question": "What does Wireless ACL stand for?",
+      "options": [
+        "Correct Wireless-Networking procedure",
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "e",
+      "explanation": "**Wireless-Networking E Solution:** What does Wireless ACL stand for?. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-E010",
+      "question": "Default subnet mask for Class C network in Wireless-Networking?",
+      "options": [
+        "Correct Wireless-Networking procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "e",
+      "explanation": "**Wireless-Networking E Solution:** Default subnet mask for Class C network in Wireless-Networking?. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-E011",
+      "question": "What does Wireless ACL stand for?",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Wireless-Networking procedure"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "e",
+      "explanation": "**Wireless-Networking E Solution:** What does Wireless ACL stand for?. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-E012",
+      "question": "Default subnet mask for Class C network in Wireless-Networking?",
+      "options": [
+        "Correct Wireless-Networking procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "e",
+      "explanation": "**Wireless-Networking E Solution:** Default subnet mask for Class C network in Wireless-Networking?. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-E013",
+      "question": "What does Wireless ACL stand for?",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Wireless-Networking procedure"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "e",
+      "explanation": "**Wireless-Networking E Solution:** What does Wireless ACL stand for?. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-E014",
+      "question": "What is the primary function of Wireless DHCP?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Wireless-Networking procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "e",
+      "explanation": "**Wireless-Networking E Solution:** What is the primary function of Wireless DHCP?. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-E015",
+      "question": "What is the primary function of Wireless DHCP?",
+      "options": [
+        "Incorrect approach",
+        "Correct Wireless-Networking procedure",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "e",
+      "explanation": "**Wireless-Networking E Solution:** What is the primary function of Wireless DHCP?. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-E016",
+      "question": "Which port does Wireless-Networking service use by default?",
+      "options": [
+        "Incorrect approach",
+        "Correct Wireless-Networking procedure",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "e",
+      "explanation": "**Wireless-Networking E Solution:** Which port does Wireless-Networking service use by default?. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-E017",
+      "question": "Common protocol for Wireless-Networking remote access?",
+      "options": [
+        "Incorrect approach",
+        "Correct Wireless-Networking procedure",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "e",
+      "explanation": "**Wireless-Networking E Solution:** Common protocol for Wireless-Networking remote access?. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-E018",
+      "question": "Which port does Wireless-Networking service use by default?",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Wireless-Networking procedure"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "e",
+      "explanation": "**Wireless-Networking E Solution:** Which port does Wireless-Networking service use by default?. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-E019",
+      "question": "Which port does Wireless-Networking service use by default?",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Wireless-Networking procedure"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "e",
+      "explanation": "**Wireless-Networking E Solution:** Which port does Wireless-Networking service use by default?. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-E020",
+      "question": "What does Wireless ACL stand for?",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Wireless-Networking procedure"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "e",
+      "explanation": "**Wireless-Networking E Solution:** What does Wireless ACL stand for?. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-E021",
+      "question": "What does Wireless ACL stand for?",
+      "options": [
+        "Incorrect approach",
+        "Correct Wireless-Networking procedure",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "e",
+      "explanation": "**Wireless-Networking E Solution:** What does Wireless ACL stand for?. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-E022",
+      "question": "Common protocol for Wireless-Networking remote access?",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Wireless-Networking procedure"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "e",
+      "explanation": "**Wireless-Networking E Solution:** Common protocol for Wireless-Networking remote access?. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-E023",
+      "question": "Default subnet mask for Class C network in Wireless-Networking?",
+      "options": [
+        "Dangerous method",
+        "Correct Wireless-Networking procedure",
+        "Incorrect approach",
+        "Partially correct"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "e",
+      "explanation": "**Wireless-Networking E Solution:** Default subnet mask for Class C network in Wireless-Networking?. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-E024",
+      "question": "What is the primary function of Wireless DHCP?",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Wireless-Networking procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "e",
+      "explanation": "**Wireless-Networking E Solution:** What is the primary function of Wireless DHCP?. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-E025",
+      "question": "What does Wireless ACL stand for?",
+      "options": [
+        "Correct Wireless-Networking procedure",
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "e",
+      "explanation": "**Wireless-Networking E Solution:** What does Wireless ACL stand for?. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-E026",
+      "question": "Which port does Wireless-Networking service use by default?",
+      "options": [
+        "Dangerous method",
+        "Correct Wireless-Networking procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "e",
+      "explanation": "**Wireless-Networking E Solution:** Which port does Wireless-Networking service use by default?. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-E027",
+      "question": "What does Wireless ACL stand for?",
+      "options": [
+        "Correct Wireless-Networking procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "e",
+      "explanation": "**Wireless-Networking E Solution:** What does Wireless ACL stand for?. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-E028",
+      "question": "What is the primary function of Wireless DHCP?",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Wireless-Networking procedure"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "e",
+      "explanation": "**Wireless-Networking E Solution:** What is the primary function of Wireless DHCP?. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-E029",
+      "question": "Common protocol for Wireless-Networking remote access?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Wireless-Networking procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "e",
+      "explanation": "**Wireless-Networking E Solution:** Common protocol for Wireless-Networking remote access?. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-E030",
+      "question": "Which port does Wireless-Networking service use by default?",
+      "options": [
+        "Dangerous method",
+        "Correct Wireless-Networking procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "e",
+      "explanation": "**Wireless-Networking E Solution:** Which port does Wireless-Networking service use by default?. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-E031",
+      "question": "Default subnet mask for Class C network in Wireless-Networking?",
+      "options": [
+        "Dangerous method",
+        "Correct Wireless-Networking procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "e",
+      "explanation": "**Wireless-Networking E Solution:** Default subnet mask for Class C network in Wireless-Networking?. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-E032",
+      "question": "Which port does Wireless-Networking service use by default?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Wireless-Networking procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "e",
+      "explanation": "**Wireless-Networking E Solution:** Which port does Wireless-Networking service use by default?. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-E033",
+      "question": "Common protocol for Wireless-Networking remote access?",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Wireless-Networking procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "e",
+      "explanation": "**Wireless-Networking E Solution:** Common protocol for Wireless-Networking remote access?. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-E034",
+      "question": "Common protocol for Wireless-Networking remote access?",
+      "options": [
+        "Correct Wireless-Networking procedure",
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "e",
+      "explanation": "**Wireless-Networking E Solution:** Common protocol for Wireless-Networking remote access?. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-E035",
+      "question": "What is the primary function of Wireless DHCP?",
+      "options": [
+        "Correct Wireless-Networking procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "e",
+      "explanation": "**Wireless-Networking E Solution:** What is the primary function of Wireless DHCP?. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-E036",
+      "question": "Default subnet mask for Class C network in Wireless-Networking?",
+      "options": [
+        "Correct Wireless-Networking procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "e",
+      "explanation": "**Wireless-Networking E Solution:** Default subnet mask for Class C network in Wireless-Networking?. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-E037",
+      "question": "Default subnet mask for Class C network in Wireless-Networking?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Wireless-Networking procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "e",
+      "explanation": "**Wireless-Networking E Solution:** Default subnet mask for Class C network in Wireless-Networking?. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-E038",
+      "question": "What does Wireless ACL stand for?",
+      "options": [
+        "Dangerous method",
+        "Correct Wireless-Networking procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "e",
+      "explanation": "**Wireless-Networking E Solution:** What does Wireless ACL stand for?. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-E039",
+      "question": "Common protocol for Wireless-Networking remote access?",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Wireless-Networking procedure"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "e",
+      "explanation": "**Wireless-Networking E Solution:** Common protocol for Wireless-Networking remote access?. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-E040",
+      "question": "Common protocol for Wireless-Networking remote access?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Wireless-Networking procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "e",
+      "explanation": "**Wireless-Networking E Solution:** Common protocol for Wireless-Networking remote access?. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-E041",
+      "question": "What does Wireless ACL stand for?",
+      "options": [
+        "Dangerous method",
+        "Correct Wireless-Networking procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "e",
+      "explanation": "**Wireless-Networking E Solution:** What does Wireless ACL stand for?. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-E042",
+      "question": "Which port does Wireless-Networking service use by default?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Wireless-Networking procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "e",
+      "explanation": "**Wireless-Networking E Solution:** Which port does Wireless-Networking service use by default?. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-E043",
+      "question": "Default subnet mask for Class C network in Wireless-Networking?",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Wireless-Networking procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "e",
+      "explanation": "**Wireless-Networking E Solution:** Default subnet mask for Class C network in Wireless-Networking?. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-E044",
+      "question": "Common protocol for Wireless-Networking remote access?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Wireless-Networking procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "e",
+      "explanation": "**Wireless-Networking E Solution:** Common protocol for Wireless-Networking remote access?. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-E045",
+      "question": "Default subnet mask for Class C network in Wireless-Networking?",
+      "options": [
+        "Incorrect approach",
+        "Correct Wireless-Networking procedure",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "e",
+      "explanation": "**Wireless-Networking E Solution:** Default subnet mask for Class C network in Wireless-Networking?. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-E046",
+      "question": "Common protocol for Wireless-Networking remote access?",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Wireless-Networking procedure"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "e",
+      "explanation": "**Wireless-Networking E Solution:** Common protocol for Wireless-Networking remote access?. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-E047",
+      "question": "Common protocol for Wireless-Networking remote access?",
+      "options": [
+        "Correct Wireless-Networking procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "e",
+      "explanation": "**Wireless-Networking E Solution:** Common protocol for Wireless-Networking remote access?. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-E048",
+      "question": "Which port does Wireless-Networking service use by default?",
+      "options": [
+        "Partially correct",
+        "Correct Wireless-Networking procedure",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "e",
+      "explanation": "**Wireless-Networking E Solution:** Which port does Wireless-Networking service use by default?. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-E049",
+      "question": "Which port does Wireless-Networking service use by default?",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Wireless-Networking procedure"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "e",
+      "explanation": "**Wireless-Networking E Solution:** Which port does Wireless-Networking service use by default?. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-E050",
+      "question": "What does Wireless ACL stand for?",
+      "options": [
+        "Correct Wireless-Networking procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "e",
+      "explanation": "**Wireless-Networking E Solution:** What does Wireless ACL stand for?. Always verify Wireless-Networking documentation and test in lab environment first."
+    }
+  ],
+  "medium": [
+    {
+      "id": "Wireless-Networking-M001",
+      "question": "Set up Wireless-Networking failover clustering",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Wireless-Networking procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "m",
+      "explanation": "**Wireless-Networking M Solution:** Set up Wireless-Networking failover clustering. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-M002",
+      "question": "Implement Wireless-Networking backup strategy for compliance",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Wireless-Networking procedure"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "m",
+      "explanation": "**Wireless-Networking M Solution:** Implement Wireless-Networking backup strategy for compliance. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-M003",
+      "question": "Configure Wireless-Networking load balancer for high availability",
+      "options": [
+        "Incorrect approach",
+        "Correct Wireless-Networking procedure",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "m",
+      "explanation": "**Wireless-Networking M Solution:** Configure Wireless-Networking load balancer for high availability. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-M004",
+      "question": "Set up Wireless-Networking failover clustering",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Wireless-Networking procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "m",
+      "explanation": "**Wireless-Networking M Solution:** Set up Wireless-Networking failover clustering. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-M005",
+      "question": "Configure Wireless-Networking load balancer for high availability",
+      "options": [
+        "Correct Wireless-Networking procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "m",
+      "explanation": "**Wireless-Networking M Solution:** Configure Wireless-Networking load balancer for high availability. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-M006",
+      "question": "Set up Wireless-Networking failover clustering",
+      "options": [
+        "Partially correct",
+        "Correct Wireless-Networking procedure",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "m",
+      "explanation": "**Wireless-Networking M Solution:** Set up Wireless-Networking failover clustering. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-M007",
+      "question": "Configure Wireless-Networking load balancer for high availability",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Wireless-Networking procedure"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "m",
+      "explanation": "**Wireless-Networking M Solution:** Configure Wireless-Networking load balancer for high availability. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-M008",
+      "question": "Set up Wireless-Networking failover clustering",
+      "options": [
+        "Incorrect approach",
+        "Correct Wireless-Networking procedure",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "m",
+      "explanation": "**Wireless-Networking M Solution:** Set up Wireless-Networking failover clustering. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-M009",
+      "question": "Troubleshoot Wireless-Networking connectivity issue between VLANs",
+      "options": [
+        "Correct Wireless-Networking procedure",
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "m",
+      "explanation": "**Wireless-Networking M Solution:** Troubleshoot Wireless-Networking connectivity issue between VLANs. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-M010",
+      "question": "Troubleshoot Wireless-Networking connectivity issue between VLANs",
+      "options": [
+        "Correct Wireless-Networking procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "m",
+      "explanation": "**Wireless-Networking M Solution:** Troubleshoot Wireless-Networking connectivity issue between VLANs. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-M011",
+      "question": "Implement Wireless-Networking backup strategy for compliance",
+      "options": [
+        "Dangerous method",
+        "Correct Wireless-Networking procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "m",
+      "explanation": "**Wireless-Networking M Solution:** Implement Wireless-Networking backup strategy for compliance. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-M012",
+      "question": "Configure Wireless-Networking load balancer for high availability",
+      "options": [
+        "Correct Wireless-Networking procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "m",
+      "explanation": "**Wireless-Networking M Solution:** Configure Wireless-Networking load balancer for high availability. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-M013",
+      "question": "Troubleshoot Wireless-Networking connectivity issue between VLANs",
+      "options": [
+        "Dangerous method",
+        "Correct Wireless-Networking procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "m",
+      "explanation": "**Wireless-Networking M Solution:** Troubleshoot Wireless-Networking connectivity issue between VLANs. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-M014",
+      "question": "Set up Wireless-Networking failover clustering",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Wireless-Networking procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "m",
+      "explanation": "**Wireless-Networking M Solution:** Set up Wireless-Networking failover clustering. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-M015",
+      "question": "Optimize Wireless-Networking query performance",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Wireless-Networking procedure"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "m",
+      "explanation": "**Wireless-Networking M Solution:** Optimize Wireless-Networking query performance. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-M016",
+      "question": "Troubleshoot Wireless-Networking connectivity issue between VLANs",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Wireless-Networking procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "m",
+      "explanation": "**Wireless-Networking M Solution:** Troubleshoot Wireless-Networking connectivity issue between VLANs. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-M017",
+      "question": "Set up Wireless-Networking failover clustering",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Wireless-Networking procedure"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "m",
+      "explanation": "**Wireless-Networking M Solution:** Set up Wireless-Networking failover clustering. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-M018",
+      "question": "Optimize Wireless-Networking query performance",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Correct Wireless-Networking procedure",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "m",
+      "explanation": "**Wireless-Networking M Solution:** Optimize Wireless-Networking query performance. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-M019",
+      "question": "Configure Wireless-Networking load balancer for high availability",
+      "options": [
+        "Dangerous method",
+        "Correct Wireless-Networking procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "m",
+      "explanation": "**Wireless-Networking M Solution:** Configure Wireless-Networking load balancer for high availability. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-M020",
+      "question": "Configure Wireless-Networking load balancer for high availability",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Wireless-Networking procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "m",
+      "explanation": "**Wireless-Networking M Solution:** Configure Wireless-Networking load balancer for high availability. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-M021",
+      "question": "Troubleshoot Wireless-Networking connectivity issue between VLANs",
+      "options": [
+        "Correct Wireless-Networking procedure",
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "m",
+      "explanation": "**Wireless-Networking M Solution:** Troubleshoot Wireless-Networking connectivity issue between VLANs. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-M022",
+      "question": "Optimize Wireless-Networking query performance",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Correct Wireless-Networking procedure",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "m",
+      "explanation": "**Wireless-Networking M Solution:** Optimize Wireless-Networking query performance. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-M023",
+      "question": "Implement Wireless-Networking backup strategy for compliance",
+      "options": [
+        "Dangerous method",
+        "Correct Wireless-Networking procedure",
+        "Incorrect approach",
+        "Partially correct"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "m",
+      "explanation": "**Wireless-Networking M Solution:** Implement Wireless-Networking backup strategy for compliance. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-M024",
+      "question": "Troubleshoot Wireless-Networking connectivity issue between VLANs",
+      "options": [
+        "Correct Wireless-Networking procedure",
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "m",
+      "explanation": "**Wireless-Networking M Solution:** Troubleshoot Wireless-Networking connectivity issue between VLANs. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-M025",
+      "question": "Troubleshoot Wireless-Networking connectivity issue between VLANs",
+      "options": [
+        "Correct Wireless-Networking procedure",
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "m",
+      "explanation": "**Wireless-Networking M Solution:** Troubleshoot Wireless-Networking connectivity issue between VLANs. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-M026",
+      "question": "Troubleshoot Wireless-Networking connectivity issue between VLANs",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Wireless-Networking procedure"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "m",
+      "explanation": "**Wireless-Networking M Solution:** Troubleshoot Wireless-Networking connectivity issue between VLANs. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-M027",
+      "question": "Implement Wireless-Networking backup strategy for compliance",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Wireless-Networking procedure"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "m",
+      "explanation": "**Wireless-Networking M Solution:** Implement Wireless-Networking backup strategy for compliance. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-M028",
+      "question": "Troubleshoot Wireless-Networking connectivity issue between VLANs",
+      "options": [
+        "Partially correct",
+        "Correct Wireless-Networking procedure",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "m",
+      "explanation": "**Wireless-Networking M Solution:** Troubleshoot Wireless-Networking connectivity issue between VLANs. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-M029",
+      "question": "Configure Wireless-Networking load balancer for high availability",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Wireless-Networking procedure"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "m",
+      "explanation": "**Wireless-Networking M Solution:** Configure Wireless-Networking load balancer for high availability. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-M030",
+      "question": "Configure Wireless-Networking load balancer for high availability",
+      "options": [
+        "Correct Wireless-Networking procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "m",
+      "explanation": "**Wireless-Networking M Solution:** Configure Wireless-Networking load balancer for high availability. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-M031",
+      "question": "Optimize Wireless-Networking query performance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Wireless-Networking procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "m",
+      "explanation": "**Wireless-Networking M Solution:** Optimize Wireless-Networking query performance. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-M032",
+      "question": "Configure Wireless-Networking load balancer for high availability",
+      "options": [
+        "Dangerous method",
+        "Correct Wireless-Networking procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "m",
+      "explanation": "**Wireless-Networking M Solution:** Configure Wireless-Networking load balancer for high availability. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-M033",
+      "question": "Implement Wireless-Networking backup strategy for compliance",
+      "options": [
+        "Dangerous method",
+        "Correct Wireless-Networking procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "m",
+      "explanation": "**Wireless-Networking M Solution:** Implement Wireless-Networking backup strategy for compliance. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-M034",
+      "question": "Optimize Wireless-Networking query performance",
+      "options": [
+        "Partially correct",
+        "Correct Wireless-Networking procedure",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "m",
+      "explanation": "**Wireless-Networking M Solution:** Optimize Wireless-Networking query performance. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-M035",
+      "question": "Optimize Wireless-Networking query performance",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Wireless-Networking procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "m",
+      "explanation": "**Wireless-Networking M Solution:** Optimize Wireless-Networking query performance. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-M036",
+      "question": "Set up Wireless-Networking failover clustering",
+      "options": [
+        "Correct Wireless-Networking procedure",
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "m",
+      "explanation": "**Wireless-Networking M Solution:** Set up Wireless-Networking failover clustering. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-M037",
+      "question": "Troubleshoot Wireless-Networking connectivity issue between VLANs",
+      "options": [
+        "Correct Wireless-Networking procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "m",
+      "explanation": "**Wireless-Networking M Solution:** Troubleshoot Wireless-Networking connectivity issue between VLANs. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-M038",
+      "question": "Troubleshoot Wireless-Networking connectivity issue between VLANs",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Wireless-Networking procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "m",
+      "explanation": "**Wireless-Networking M Solution:** Troubleshoot Wireless-Networking connectivity issue between VLANs. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-M039",
+      "question": "Implement Wireless-Networking backup strategy for compliance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Wireless-Networking procedure"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "m",
+      "explanation": "**Wireless-Networking M Solution:** Implement Wireless-Networking backup strategy for compliance. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-M040",
+      "question": "Troubleshoot Wireless-Networking connectivity issue between VLANs",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Correct Wireless-Networking procedure",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "m",
+      "explanation": "**Wireless-Networking M Solution:** Troubleshoot Wireless-Networking connectivity issue between VLANs. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-M041",
+      "question": "Configure Wireless-Networking load balancer for high availability",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Wireless-Networking procedure"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "m",
+      "explanation": "**Wireless-Networking M Solution:** Configure Wireless-Networking load balancer for high availability. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-M042",
+      "question": "Set up Wireless-Networking failover clustering",
+      "options": [
+        "Correct Wireless-Networking procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "m",
+      "explanation": "**Wireless-Networking M Solution:** Set up Wireless-Networking failover clustering. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-M043",
+      "question": "Configure Wireless-Networking load balancer for high availability",
+      "options": [
+        "Correct Wireless-Networking procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "m",
+      "explanation": "**Wireless-Networking M Solution:** Configure Wireless-Networking load balancer for high availability. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-M044",
+      "question": "Configure Wireless-Networking load balancer for high availability",
+      "options": [
+        "Correct Wireless-Networking procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "m",
+      "explanation": "**Wireless-Networking M Solution:** Configure Wireless-Networking load balancer for high availability. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-M045",
+      "question": "Optimize Wireless-Networking query performance",
+      "options": [
+        "Dangerous method",
+        "Correct Wireless-Networking procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "m",
+      "explanation": "**Wireless-Networking M Solution:** Optimize Wireless-Networking query performance. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-M046",
+      "question": "Configure Wireless-Networking load balancer for high availability",
+      "options": [
+        "Correct Wireless-Networking procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "m",
+      "explanation": "**Wireless-Networking M Solution:** Configure Wireless-Networking load balancer for high availability. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-M047",
+      "question": "Implement Wireless-Networking backup strategy for compliance",
+      "options": [
+        "Correct Wireless-Networking procedure",
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "m",
+      "explanation": "**Wireless-Networking M Solution:** Implement Wireless-Networking backup strategy for compliance. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-M048",
+      "question": "Configure Wireless-Networking load balancer for high availability",
+      "options": [
+        "Incorrect approach",
+        "Correct Wireless-Networking procedure",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "m",
+      "explanation": "**Wireless-Networking M Solution:** Configure Wireless-Networking load balancer for high availability. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-M049",
+      "question": "Troubleshoot Wireless-Networking connectivity issue between VLANs",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Wireless-Networking procedure"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "m",
+      "explanation": "**Wireless-Networking M Solution:** Troubleshoot Wireless-Networking connectivity issue between VLANs. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-M050",
+      "question": "Troubleshoot Wireless-Networking connectivity issue between VLANs",
+      "options": [
+        "Dangerous method",
+        "Correct Wireless-Networking procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "m",
+      "explanation": "**Wireless-Networking M Solution:** Troubleshoot Wireless-Networking connectivity issue between VLANs. Always verify Wireless-Networking documentation and test in lab environment first."
+    }
+  ],
+  "hard": [
+    {
+      "id": "Wireless-Networking-H001",
+      "question": "Migrate legacy Wireless-Networking systems to cloud-native architecture",
+      "options": [
+        "Dangerous method",
+        "Correct Wireless-Networking procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "h",
+      "explanation": "**Wireless-Networking H Solution:** Migrate legacy Wireless-Networking systems to cloud-native architecture. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-H002",
+      "question": "Optimize Wireless-Networking performance under DDoS attack",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Wireless-Networking procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "h",
+      "explanation": "**Wireless-Networking H Solution:** Optimize Wireless-Networking performance under DDoS attack. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-H003",
+      "question": "Migrate legacy Wireless-Networking systems to cloud-native architecture",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Wireless-Networking procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "h",
+      "explanation": "**Wireless-Networking H Solution:** Migrate legacy Wireless-Networking systems to cloud-native architecture. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-H004",
+      "question": "Implement zero-trust security model in Wireless-Networking",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Wireless-Networking procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "h",
+      "explanation": "**Wireless-Networking H Solution:** Implement zero-trust security model in Wireless-Networking. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-H005",
+      "question": "Create disaster recovery plan with RTO < 15min for Wireless-Networking",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Wireless-Networking procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "h",
+      "explanation": "**Wireless-Networking H Solution:** Create disaster recovery plan with RTO < 15min for Wireless-Networking. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-H006",
+      "question": "Implement zero-trust security model in Wireless-Networking",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Wireless-Networking procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "h",
+      "explanation": "**Wireless-Networking H Solution:** Implement zero-trust security model in Wireless-Networking. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-H007",
+      "question": "Create disaster recovery plan with RTO < 15min for Wireless-Networking",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Wireless-Networking procedure"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "h",
+      "explanation": "**Wireless-Networking H Solution:** Create disaster recovery plan with RTO < 15min for Wireless-Networking. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-H008",
+      "question": "Create disaster recovery plan with RTO < 15min for Wireless-Networking",
+      "options": [
+        "Dangerous method",
+        "Correct Wireless-Networking procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "h",
+      "explanation": "**Wireless-Networking H Solution:** Create disaster recovery plan with RTO < 15min for Wireless-Networking. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-H009",
+      "question": "Optimize Wireless-Networking performance under DDoS attack",
+      "options": [
+        "Dangerous method",
+        "Correct Wireless-Networking procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "h",
+      "explanation": "**Wireless-Networking H Solution:** Optimize Wireless-Networking performance under DDoS attack. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-H010",
+      "question": "Optimize Wireless-Networking performance under DDoS attack",
+      "options": [
+        "Dangerous method",
+        "Correct Wireless-Networking procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "h",
+      "explanation": "**Wireless-Networking H Solution:** Optimize Wireless-Networking performance under DDoS attack. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-H011",
+      "question": "Optimize Wireless-Networking performance under DDoS attack",
+      "options": [
+        "Dangerous method",
+        "Correct Wireless-Networking procedure",
+        "Incorrect approach",
+        "Partially correct"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "h",
+      "explanation": "**Wireless-Networking H Solution:** Optimize Wireless-Networking performance under DDoS attack. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-H012",
+      "question": "Migrate legacy Wireless-Networking systems to cloud-native architecture",
+      "options": [
+        "Dangerous method",
+        "Correct Wireless-Networking procedure",
+        "Incorrect approach",
+        "Partially correct"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "h",
+      "explanation": "**Wireless-Networking H Solution:** Migrate legacy Wireless-Networking systems to cloud-native architecture. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-H013",
+      "question": "Create disaster recovery plan with RTO < 15min for Wireless-Networking",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Correct Wireless-Networking procedure",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "h",
+      "explanation": "**Wireless-Networking H Solution:** Create disaster recovery plan with RTO < 15min for Wireless-Networking. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-H014",
+      "question": "Create disaster recovery plan with RTO < 15min for Wireless-Networking",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Wireless-Networking procedure"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "h",
+      "explanation": "**Wireless-Networking H Solution:** Create disaster recovery plan with RTO < 15min for Wireless-Networking. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-H015",
+      "question": "Optimize Wireless-Networking performance under DDoS attack",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Wireless-Networking procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "h",
+      "explanation": "**Wireless-Networking H Solution:** Optimize Wireless-Networking performance under DDoS attack. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-H016",
+      "question": "Design Wireless-Networking architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Wireless-Networking procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "h",
+      "explanation": "**Wireless-Networking H Solution:** Design Wireless-Networking architecture for 10k users with 99.99% uptime. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-H017",
+      "question": "Create disaster recovery plan with RTO < 15min for Wireless-Networking",
+      "options": [
+        "Dangerous method",
+        "Correct Wireless-Networking procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "h",
+      "explanation": "**Wireless-Networking H Solution:** Create disaster recovery plan with RTO < 15min for Wireless-Networking. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-H018",
+      "question": "Optimize Wireless-Networking performance under DDoS attack",
+      "options": [
+        "Incorrect approach",
+        "Correct Wireless-Networking procedure",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "h",
+      "explanation": "**Wireless-Networking H Solution:** Optimize Wireless-Networking performance under DDoS attack. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-H019",
+      "question": "Create disaster recovery plan with RTO < 15min for Wireless-Networking",
+      "options": [
+        "Incorrect approach",
+        "Correct Wireless-Networking procedure",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "h",
+      "explanation": "**Wireless-Networking H Solution:** Create disaster recovery plan with RTO < 15min for Wireless-Networking. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-H020",
+      "question": "Optimize Wireless-Networking performance under DDoS attack",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Wireless-Networking procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "h",
+      "explanation": "**Wireless-Networking H Solution:** Optimize Wireless-Networking performance under DDoS attack. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-H021",
+      "question": "Create disaster recovery plan with RTO < 15min for Wireless-Networking",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Wireless-Networking procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "h",
+      "explanation": "**Wireless-Networking H Solution:** Create disaster recovery plan with RTO < 15min for Wireless-Networking. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-H022",
+      "question": "Design Wireless-Networking architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Correct Wireless-Networking procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "h",
+      "explanation": "**Wireless-Networking H Solution:** Design Wireless-Networking architecture for 10k users with 99.99% uptime. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-H023",
+      "question": "Migrate legacy Wireless-Networking systems to cloud-native architecture",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Wireless-Networking procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "h",
+      "explanation": "**Wireless-Networking H Solution:** Migrate legacy Wireless-Networking systems to cloud-native architecture. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-H024",
+      "question": "Design Wireless-Networking architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Wireless-Networking procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "h",
+      "explanation": "**Wireless-Networking H Solution:** Design Wireless-Networking architecture for 10k users with 99.99% uptime. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-H025",
+      "question": "Design Wireless-Networking architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Wireless-Networking procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "h",
+      "explanation": "**Wireless-Networking H Solution:** Design Wireless-Networking architecture for 10k users with 99.99% uptime. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-H026",
+      "question": "Implement zero-trust security model in Wireless-Networking",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Wireless-Networking procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "h",
+      "explanation": "**Wireless-Networking H Solution:** Implement zero-trust security model in Wireless-Networking. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-H027",
+      "question": "Design Wireless-Networking architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Correct Wireless-Networking procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "h",
+      "explanation": "**Wireless-Networking H Solution:** Design Wireless-Networking architecture for 10k users with 99.99% uptime. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-H028",
+      "question": "Migrate legacy Wireless-Networking systems to cloud-native architecture",
+      "options": [
+        "Dangerous method",
+        "Correct Wireless-Networking procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "h",
+      "explanation": "**Wireless-Networking H Solution:** Migrate legacy Wireless-Networking systems to cloud-native architecture. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-H029",
+      "question": "Design Wireless-Networking architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Wireless-Networking procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "h",
+      "explanation": "**Wireless-Networking H Solution:** Design Wireless-Networking architecture for 10k users with 99.99% uptime. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-H030",
+      "question": "Migrate legacy Wireless-Networking systems to cloud-native architecture",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Wireless-Networking procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "h",
+      "explanation": "**Wireless-Networking H Solution:** Migrate legacy Wireless-Networking systems to cloud-native architecture. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-H031",
+      "question": "Design Wireless-Networking architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Wireless-Networking procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "h",
+      "explanation": "**Wireless-Networking H Solution:** Design Wireless-Networking architecture for 10k users with 99.99% uptime. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-H032",
+      "question": "Migrate legacy Wireless-Networking systems to cloud-native architecture",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Correct Wireless-Networking procedure",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "h",
+      "explanation": "**Wireless-Networking H Solution:** Migrate legacy Wireless-Networking systems to cloud-native architecture. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-H033",
+      "question": "Implement zero-trust security model in Wireless-Networking",
+      "options": [
+        "Dangerous method",
+        "Correct Wireless-Networking procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "h",
+      "explanation": "**Wireless-Networking H Solution:** Implement zero-trust security model in Wireless-Networking. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-H034",
+      "question": "Optimize Wireless-Networking performance under DDoS attack",
+      "options": [
+        "Correct Wireless-Networking procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "h",
+      "explanation": "**Wireless-Networking H Solution:** Optimize Wireless-Networking performance under DDoS attack. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-H035",
+      "question": "Optimize Wireless-Networking performance under DDoS attack",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Wireless-Networking procedure"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "h",
+      "explanation": "**Wireless-Networking H Solution:** Optimize Wireless-Networking performance under DDoS attack. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-H036",
+      "question": "Implement zero-trust security model in Wireless-Networking",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Wireless-Networking procedure"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "h",
+      "explanation": "**Wireless-Networking H Solution:** Implement zero-trust security model in Wireless-Networking. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-H037",
+      "question": "Migrate legacy Wireless-Networking systems to cloud-native architecture",
+      "options": [
+        "Dangerous method",
+        "Correct Wireless-Networking procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "h",
+      "explanation": "**Wireless-Networking H Solution:** Migrate legacy Wireless-Networking systems to cloud-native architecture. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-H038",
+      "question": "Design Wireless-Networking architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Wireless-Networking procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "h",
+      "explanation": "**Wireless-Networking H Solution:** Design Wireless-Networking architecture for 10k users with 99.99% uptime. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-H039",
+      "question": "Migrate legacy Wireless-Networking systems to cloud-native architecture",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Wireless-Networking procedure"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "h",
+      "explanation": "**Wireless-Networking H Solution:** Migrate legacy Wireless-Networking systems to cloud-native architecture. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-H040",
+      "question": "Optimize Wireless-Networking performance under DDoS attack",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Wireless-Networking procedure"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "h",
+      "explanation": "**Wireless-Networking H Solution:** Optimize Wireless-Networking performance under DDoS attack. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-H041",
+      "question": "Migrate legacy Wireless-Networking systems to cloud-native architecture",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Wireless-Networking procedure"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "h",
+      "explanation": "**Wireless-Networking H Solution:** Migrate legacy Wireless-Networking systems to cloud-native architecture. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-H042",
+      "question": "Design Wireless-Networking architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Wireless-Networking procedure"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "h",
+      "explanation": "**Wireless-Networking H Solution:** Design Wireless-Networking architecture for 10k users with 99.99% uptime. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-H043",
+      "question": "Migrate legacy Wireless-Networking systems to cloud-native architecture",
+      "options": [
+        "Correct Wireless-Networking procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "h",
+      "explanation": "**Wireless-Networking H Solution:** Migrate legacy Wireless-Networking systems to cloud-native architecture. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-H044",
+      "question": "Optimize Wireless-Networking performance under DDoS attack",
+      "options": [
+        "Incorrect approach",
+        "Correct Wireless-Networking procedure",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "h",
+      "explanation": "**Wireless-Networking H Solution:** Optimize Wireless-Networking performance under DDoS attack. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-H045",
+      "question": "Create disaster recovery plan with RTO < 15min for Wireless-Networking",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Wireless-Networking procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "h",
+      "explanation": "**Wireless-Networking H Solution:** Create disaster recovery plan with RTO < 15min for Wireless-Networking. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-H046",
+      "question": "Migrate legacy Wireless-Networking systems to cloud-native architecture",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Wireless-Networking procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "h",
+      "explanation": "**Wireless-Networking H Solution:** Migrate legacy Wireless-Networking systems to cloud-native architecture. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-H047",
+      "question": "Design Wireless-Networking architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Wireless-Networking procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "h",
+      "explanation": "**Wireless-Networking H Solution:** Design Wireless-Networking architecture for 10k users with 99.99% uptime. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-H048",
+      "question": "Design Wireless-Networking architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Wireless-Networking procedure"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "h",
+      "explanation": "**Wireless-Networking H Solution:** Design Wireless-Networking architecture for 10k users with 99.99% uptime. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-H049",
+      "question": "Implement zero-trust security model in Wireless-Networking",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Correct Wireless-Networking procedure",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "h",
+      "explanation": "**Wireless-Networking H Solution:** Implement zero-trust security model in Wireless-Networking. Always verify Wireless-Networking documentation and test in lab environment first."
+    },
+    {
+      "id": "Wireless-Networking-H050",
+      "question": "Optimize Wireless-Networking performance under DDoS attack",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Wireless-Networking procedure"
+      ],
+      "answer": "Correct Wireless-Networking procedure",
+      "difficulty": "h",
+      "explanation": "**Wireless-Networking H Solution:** Optimize Wireless-Networking performance under DDoS attack. Always verify Wireless-Networking documentation and test in lab environment first."
+    }
+  ],
+  "scenarios": [
+    {
+      "id": "Wireless-Networking-S01-01",
+      "question": "1. Production outage during peak hours: diagnose and resolve in Wireless-Networking environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S01-02",
+      "question": "1. Production outage during peak hours: diagnose and resolve in Wireless-Networking environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S01-03",
+      "question": "1. Production outage during peak hours: diagnose and resolve in Wireless-Networking environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S01-04",
+      "question": "1. Production outage during peak hours: diagnose and resolve in Wireless-Networking environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S01-05",
+      "question": "1. Production outage during peak hours: diagnose and resolve in Wireless-Networking environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S02-01",
+      "question": "2. Backup failure during scheduled window in Wireless-Networking environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S02-02",
+      "question": "2. Backup failure during scheduled window in Wireless-Networking environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S02-03",
+      "question": "2. Backup failure during scheduled window in Wireless-Networking environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S02-04",
+      "question": "2. Backup failure during scheduled window in Wireless-Networking environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S02-05",
+      "question": "2. Backup failure during scheduled window in Wireless-Networking environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S03-01",
+      "question": "3. Server overload during quarterly report generation in Wireless-Networking environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S03-02",
+      "question": "3. Server overload during quarterly report generation in Wireless-Networking environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S03-03",
+      "question": "3. Server overload during quarterly report generation in Wireless-Networking environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S03-04",
+      "question": "3. Server overload during quarterly report generation in Wireless-Networking environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S03-05",
+      "question": "3. Server overload during quarterly report generation in Wireless-Networking environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S04-01",
+      "question": "4. Database performance degradation after upgrade in Wireless-Networking environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S04-02",
+      "question": "4. Database performance degradation after upgrade in Wireless-Networking environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S04-03",
+      "question": "4. Database performance degradation after upgrade in Wireless-Networking environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S04-04",
+      "question": "4. Database performance degradation after upgrade in Wireless-Networking environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S04-05",
+      "question": "4. Database performance degradation after upgrade in Wireless-Networking environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S05-01",
+      "question": "5. Backup failure during scheduled window in Wireless-Networking environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S05-02",
+      "question": "5. Backup failure during scheduled window in Wireless-Networking environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S05-03",
+      "question": "5. Backup failure during scheduled window in Wireless-Networking environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S05-04",
+      "question": "5. Backup failure during scheduled window in Wireless-Networking environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S05-05",
+      "question": "5. Backup failure during scheduled window in Wireless-Networking environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S06-01",
+      "question": "6. Firewall blocking legitimate traffic in Wireless-Networking environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S06-02",
+      "question": "6. Firewall blocking legitimate traffic in Wireless-Networking environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S06-03",
+      "question": "6. Firewall blocking legitimate traffic in Wireless-Networking environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S06-04",
+      "question": "6. Firewall blocking legitimate traffic in Wireless-Networking environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S06-05",
+      "question": "6. Firewall blocking legitimate traffic in Wireless-Networking environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S07-01",
+      "question": "7. Load balancer health check failing in Wireless-Networking environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S07-02",
+      "question": "7. Load balancer health check failing in Wireless-Networking environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S07-03",
+      "question": "7. Load balancer health check failing in Wireless-Networking environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S07-04",
+      "question": "7. Load balancer health check failing in Wireless-Networking environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S07-05",
+      "question": "7. Load balancer health check failing in Wireless-Networking environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S08-01",
+      "question": "8. Cloud migration failure: rollback strategy in Wireless-Networking environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S08-02",
+      "question": "8. Cloud migration failure: rollback strategy in Wireless-Networking environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S08-03",
+      "question": "8. Cloud migration failure: rollback strategy in Wireless-Networking environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S08-04",
+      "question": "8. Cloud migration failure: rollback strategy in Wireless-Networking environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S08-05",
+      "question": "8. Cloud migration failure: rollback strategy in Wireless-Networking environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S09-01",
+      "question": "9. Production outage during peak hours: diagnose and resolve in Wireless-Networking environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S09-02",
+      "question": "9. Production outage during peak hours: diagnose and resolve in Wireless-Networking environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S09-03",
+      "question": "9. Production outage during peak hours: diagnose and resolve in Wireless-Networking environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S09-04",
+      "question": "9. Production outage during peak hours: diagnose and resolve in Wireless-Networking environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S09-05",
+      "question": "9. Production outage during peak hours: diagnose and resolve in Wireless-Networking environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S10-01",
+      "question": "10. Server overload during quarterly report generation in Wireless-Networking environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S10-02",
+      "question": "10. Server overload during quarterly report generation in Wireless-Networking environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S10-03",
+      "question": "10. Server overload during quarterly report generation in Wireless-Networking environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S10-04",
+      "question": "10. Server overload during quarterly report generation in Wireless-Networking environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S10-05",
+      "question": "10. Server overload during quarterly report generation in Wireless-Networking environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S11-01",
+      "question": "11. Firewall blocking legitimate traffic in Wireless-Networking environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S11-02",
+      "question": "11. Firewall blocking legitimate traffic in Wireless-Networking environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S11-03",
+      "question": "11. Firewall blocking legitimate traffic in Wireless-Networking environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S11-04",
+      "question": "11. Firewall blocking legitimate traffic in Wireless-Networking environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S11-05",
+      "question": "11. Firewall blocking legitimate traffic in Wireless-Networking environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S12-01",
+      "question": "12. Production outage during peak hours: diagnose and resolve in Wireless-Networking environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S12-02",
+      "question": "12. Production outage during peak hours: diagnose and resolve in Wireless-Networking environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S12-03",
+      "question": "12. Production outage during peak hours: diagnose and resolve in Wireless-Networking environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S12-04",
+      "question": "12. Production outage during peak hours: diagnose and resolve in Wireless-Networking environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S12-05",
+      "question": "12. Production outage during peak hours: diagnose and resolve in Wireless-Networking environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S13-01",
+      "question": "13. Server overload during quarterly report generation in Wireless-Networking environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S13-02",
+      "question": "13. Server overload during quarterly report generation in Wireless-Networking environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S13-03",
+      "question": "13. Server overload during quarterly report generation in Wireless-Networking environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S13-04",
+      "question": "13. Server overload during quarterly report generation in Wireless-Networking environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S13-05",
+      "question": "13. Server overload during quarterly report generation in Wireless-Networking environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S14-01",
+      "question": "14. Cloud migration failure: rollback strategy in Wireless-Networking environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S14-02",
+      "question": "14. Cloud migration failure: rollback strategy in Wireless-Networking environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S14-03",
+      "question": "14. Cloud migration failure: rollback strategy in Wireless-Networking environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S14-04",
+      "question": "14. Cloud migration failure: rollback strategy in Wireless-Networking environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S14-05",
+      "question": "14. Cloud migration failure: rollback strategy in Wireless-Networking environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S15-01",
+      "question": "15. Security incident response: ransomware attack detected in Wireless-Networking environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S15-02",
+      "question": "15. Security incident response: ransomware attack detected in Wireless-Networking environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S15-03",
+      "question": "15. Security incident response: ransomware attack detected in Wireless-Networking environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S15-04",
+      "question": "15. Security incident response: ransomware attack detected in Wireless-Networking environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S15-05",
+      "question": "15. Security incident response: ransomware attack detected in Wireless-Networking environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S16-01",
+      "question": "16. Production outage during peak hours: diagnose and resolve in Wireless-Networking environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S16-02",
+      "question": "16. Production outage during peak hours: diagnose and resolve in Wireless-Networking environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S16-03",
+      "question": "16. Production outage during peak hours: diagnose and resolve in Wireless-Networking environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S16-04",
+      "question": "16. Production outage during peak hours: diagnose and resolve in Wireless-Networking environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S16-05",
+      "question": "16. Production outage during peak hours: diagnose and resolve in Wireless-Networking environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S17-01",
+      "question": "17. VPN connectivity failure for remote users in Wireless-Networking environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S17-02",
+      "question": "17. VPN connectivity failure for remote users in Wireless-Networking environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S17-03",
+      "question": "17. VPN connectivity failure for remote users in Wireless-Networking environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S17-04",
+      "question": "17. VPN connectivity failure for remote users in Wireless-Networking environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S17-05",
+      "question": "17. VPN connectivity failure for remote users in Wireless-Networking environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S18-01",
+      "question": "18. Server overload during quarterly report generation in Wireless-Networking environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S18-02",
+      "question": "18. Server overload during quarterly report generation in Wireless-Networking environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S18-03",
+      "question": "18. Server overload during quarterly report generation in Wireless-Networking environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S18-04",
+      "question": "18. Server overload during quarterly report generation in Wireless-Networking environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S18-05",
+      "question": "18. Server overload during quarterly report generation in Wireless-Networking environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S19-01",
+      "question": "19. Production outage during peak hours: diagnose and resolve in Wireless-Networking environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S19-02",
+      "question": "19. Production outage during peak hours: diagnose and resolve in Wireless-Networking environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S19-03",
+      "question": "19. Production outage during peak hours: diagnose and resolve in Wireless-Networking environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S19-04",
+      "question": "19. Production outage during peak hours: diagnose and resolve in Wireless-Networking environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S19-05",
+      "question": "19. Production outage during peak hours: diagnose and resolve in Wireless-Networking environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S20-01",
+      "question": "20. Server overload during quarterly report generation in Wireless-Networking environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S20-02",
+      "question": "20. Server overload during quarterly report generation in Wireless-Networking environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S20-03",
+      "question": "20. Server overload during quarterly report generation in Wireless-Networking environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S20-04",
+      "question": "20. Server overload during quarterly report generation in Wireless-Networking environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Wireless-Networking-S20-05",
+      "question": "20. Server overload during quarterly report generation in Wireless-Networking environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Wireless-Networking troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Wireless-Networking troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Wireless-Networking best practices. Document all steps for RCA."
+    }
+  ]
+}

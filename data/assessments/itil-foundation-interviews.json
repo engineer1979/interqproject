@@ -1,0 +1,215 @@
+[
+  {
+    "id": "ITIL-Foundation-I01",
+    "title": "ITIL-Foundation Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level ITIL-Foundation certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain ITIL-Foundation HA design",
+      "Troubleshoot ITIL-Foundation outage",
+      "Scale ITIL-Foundation for 100k users"
+    ],
+    "expected_skills": [
+      "Production ITIL-Foundation experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "ITIL-Foundation-I02",
+    "title": "ITIL-Foundation Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level ITIL-Foundation certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain ITIL-Foundation HA design",
+      "Troubleshoot ITIL-Foundation outage",
+      "Scale ITIL-Foundation for 100k users"
+    ],
+    "expected_skills": [
+      "Production ITIL-Foundation experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "ITIL-Foundation-I03",
+    "title": "ITIL-Foundation Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level ITIL-Foundation certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain ITIL-Foundation HA design",
+      "Troubleshoot ITIL-Foundation outage",
+      "Scale ITIL-Foundation for 100k users"
+    ],
+    "expected_skills": [
+      "Production ITIL-Foundation experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "ITIL-Foundation-I04",
+    "title": "ITIL-Foundation Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level ITIL-Foundation certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain ITIL-Foundation HA design",
+      "Troubleshoot ITIL-Foundation outage",
+      "Scale ITIL-Foundation for 100k users"
+    ],
+    "expected_skills": [
+      "Production ITIL-Foundation experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "ITIL-Foundation-I05",
+    "title": "ITIL-Foundation Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level ITIL-Foundation certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain ITIL-Foundation HA design",
+      "Troubleshoot ITIL-Foundation outage",
+      "Scale ITIL-Foundation for 100k users"
+    ],
+    "expected_skills": [
+      "Production ITIL-Foundation experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "ITIL-Foundation-I06",
+    "title": "ITIL-Foundation Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level ITIL-Foundation certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain ITIL-Foundation HA design",
+      "Troubleshoot ITIL-Foundation outage",
+      "Scale ITIL-Foundation for 100k users"
+    ],
+    "expected_skills": [
+      "Production ITIL-Foundation experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "ITIL-Foundation-I07",
+    "title": "ITIL-Foundation Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level ITIL-Foundation certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain ITIL-Foundation HA design",
+      "Troubleshoot ITIL-Foundation outage",
+      "Scale ITIL-Foundation for 100k users"
+    ],
+    "expected_skills": [
+      "Production ITIL-Foundation experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "ITIL-Foundation-I08",
+    "title": "ITIL-Foundation Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level ITIL-Foundation certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain ITIL-Foundation HA design",
+      "Troubleshoot ITIL-Foundation outage",
+      "Scale ITIL-Foundation for 100k users"
+    ],
+    "expected_skills": [
+      "Production ITIL-Foundation experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "ITIL-Foundation-I09",
+    "title": "ITIL-Foundation Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level ITIL-Foundation certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain ITIL-Foundation HA design",
+      "Troubleshoot ITIL-Foundation outage",
+      "Scale ITIL-Foundation for 100k users"
+    ],
+    "expected_skills": [
+      "Production ITIL-Foundation experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "ITIL-Foundation-I10",
+    "title": "ITIL-Foundation Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level ITIL-Foundation certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain ITIL-Foundation HA design",
+      "Troubleshoot ITIL-Foundation outage",
+      "Scale ITIL-Foundation for 100k users"
+    ],
+    "expected_skills": [
+      "Production ITIL-Foundation experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  }
+]

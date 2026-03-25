@@ -1,0 +1,3252 @@
+[
+  {
+    "id": "Cisco-Hardware-E001",
+    "question": "Which port does Cisco-Hardware service use by default?",
+    "options": [
+      "Dangerous method",
+      "Correct Cisco-Hardware procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "e",
+    "explanation": "**Cisco-Hardware E Solution:** Which port does Cisco-Hardware service use by default?. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-E002",
+    "question": "What is the primary function of Cisco DHCP?",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct Cisco-Hardware procedure",
+      "Partially correct"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "e",
+    "explanation": "**Cisco-Hardware E Solution:** What is the primary function of Cisco DHCP?. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-E003",
+    "question": "What is the primary function of Cisco DHCP?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Cisco-Hardware procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "e",
+    "explanation": "**Cisco-Hardware E Solution:** What is the primary function of Cisco DHCP?. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-E004",
+    "question": "Default subnet mask for Class C network in Cisco-Hardware?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Cisco-Hardware procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "e",
+    "explanation": "**Cisco-Hardware E Solution:** Default subnet mask for Class C network in Cisco-Hardware?. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-E005",
+    "question": "Default subnet mask for Class C network in Cisco-Hardware?",
+    "options": [
+      "Dangerous method",
+      "Correct Cisco-Hardware procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "e",
+    "explanation": "**Cisco-Hardware E Solution:** Default subnet mask for Class C network in Cisco-Hardware?. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-E006",
+    "question": "Common protocol for Cisco-Hardware remote access?",
+    "options": [
+      "Correct Cisco-Hardware procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "e",
+    "explanation": "**Cisco-Hardware E Solution:** Common protocol for Cisco-Hardware remote access?. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-E007",
+    "question": "Which port does Cisco-Hardware service use by default?",
+    "options": [
+      "Dangerous method",
+      "Correct Cisco-Hardware procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "e",
+    "explanation": "**Cisco-Hardware E Solution:** Which port does Cisco-Hardware service use by default?. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-E008",
+    "question": "What does Cisco ACL stand for?",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Correct Cisco-Hardware procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "e",
+    "explanation": "**Cisco-Hardware E Solution:** What does Cisco ACL stand for?. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-E009",
+    "question": "What does Cisco ACL stand for?",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct Cisco-Hardware procedure"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "e",
+    "explanation": "**Cisco-Hardware E Solution:** What does Cisco ACL stand for?. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-E010",
+    "question": "Default subnet mask for Class C network in Cisco-Hardware?",
+    "options": [
+      "Partially correct",
+      "Correct Cisco-Hardware procedure",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "e",
+    "explanation": "**Cisco-Hardware E Solution:** Default subnet mask for Class C network in Cisco-Hardware?. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-E011",
+    "question": "What does Cisco ACL stand for?",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct Cisco-Hardware procedure"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "e",
+    "explanation": "**Cisco-Hardware E Solution:** What does Cisco ACL stand for?. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-E012",
+    "question": "Common protocol for Cisco-Hardware remote access?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Cisco-Hardware procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "e",
+    "explanation": "**Cisco-Hardware E Solution:** Common protocol for Cisco-Hardware remote access?. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-E013",
+    "question": "What is the primary function of Cisco DHCP?",
+    "options": [
+      "Correct Cisco-Hardware procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "e",
+    "explanation": "**Cisco-Hardware E Solution:** What is the primary function of Cisco DHCP?. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-E014",
+    "question": "What is the primary function of Cisco DHCP?",
+    "options": [
+      "Dangerous method",
+      "Correct Cisco-Hardware procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "e",
+    "explanation": "**Cisco-Hardware E Solution:** What is the primary function of Cisco DHCP?. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-E015",
+    "question": "Default subnet mask for Class C network in Cisco-Hardware?",
+    "options": [
+      "Correct Cisco-Hardware procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "e",
+    "explanation": "**Cisco-Hardware E Solution:** Default subnet mask for Class C network in Cisco-Hardware?. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-E016",
+    "question": "Default subnet mask for Class C network in Cisco-Hardware?",
+    "options": [
+      "Dangerous method",
+      "Correct Cisco-Hardware procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "e",
+    "explanation": "**Cisco-Hardware E Solution:** Default subnet mask for Class C network in Cisco-Hardware?. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-E017",
+    "question": "What is the primary function of Cisco DHCP?",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct Cisco-Hardware procedure"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "e",
+    "explanation": "**Cisco-Hardware E Solution:** What is the primary function of Cisco DHCP?. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-E018",
+    "question": "Common protocol for Cisco-Hardware remote access?",
+    "options": [
+      "Dangerous method",
+      "Correct Cisco-Hardware procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "e",
+    "explanation": "**Cisco-Hardware E Solution:** Common protocol for Cisco-Hardware remote access?. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-E019",
+    "question": "Common protocol for Cisco-Hardware remote access?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Cisco-Hardware procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "e",
+    "explanation": "**Cisco-Hardware E Solution:** Common protocol for Cisco-Hardware remote access?. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-E020",
+    "question": "Common protocol for Cisco-Hardware remote access?",
+    "options": [
+      "Dangerous method",
+      "Correct Cisco-Hardware procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "e",
+    "explanation": "**Cisco-Hardware E Solution:** Common protocol for Cisco-Hardware remote access?. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-E021",
+    "question": "Default subnet mask for Class C network in Cisco-Hardware?",
+    "options": [
+      "Dangerous method",
+      "Correct Cisco-Hardware procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "e",
+    "explanation": "**Cisco-Hardware E Solution:** Default subnet mask for Class C network in Cisco-Hardware?. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-E022",
+    "question": "Common protocol for Cisco-Hardware remote access?",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct Cisco-Hardware procedure"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "e",
+    "explanation": "**Cisco-Hardware E Solution:** Common protocol for Cisco-Hardware remote access?. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-E023",
+    "question": "What does Cisco ACL stand for?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Cisco-Hardware procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "e",
+    "explanation": "**Cisco-Hardware E Solution:** What does Cisco ACL stand for?. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-E024",
+    "question": "Default subnet mask for Class C network in Cisco-Hardware?",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Correct Cisco-Hardware procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "e",
+    "explanation": "**Cisco-Hardware E Solution:** Default subnet mask for Class C network in Cisco-Hardware?. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-E025",
+    "question": "What does Cisco ACL stand for?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Cisco-Hardware procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "e",
+    "explanation": "**Cisco-Hardware E Solution:** What does Cisco ACL stand for?. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-E026",
+    "question": "Common protocol for Cisco-Hardware remote access?",
+    "options": [
+      "Correct Cisco-Hardware procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "e",
+    "explanation": "**Cisco-Hardware E Solution:** Common protocol for Cisco-Hardware remote access?. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-E027",
+    "question": "Common protocol for Cisco-Hardware remote access?",
+    "options": [
+      "Dangerous method",
+      "Correct Cisco-Hardware procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "e",
+    "explanation": "**Cisco-Hardware E Solution:** Common protocol for Cisco-Hardware remote access?. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-E028",
+    "question": "Common protocol for Cisco-Hardware remote access?",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Cisco-Hardware procedure"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "e",
+    "explanation": "**Cisco-Hardware E Solution:** Common protocol for Cisco-Hardware remote access?. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-E029",
+    "question": "Default subnet mask for Class C network in Cisco-Hardware?",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct Cisco-Hardware procedure"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "e",
+    "explanation": "**Cisco-Hardware E Solution:** Default subnet mask for Class C network in Cisco-Hardware?. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-E030",
+    "question": "What is the primary function of Cisco DHCP?",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach",
+      "Correct Cisco-Hardware procedure"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "e",
+    "explanation": "**Cisco-Hardware E Solution:** What is the primary function of Cisco DHCP?. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-E031",
+    "question": "What does Cisco ACL stand for?",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Correct Cisco-Hardware procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "e",
+    "explanation": "**Cisco-Hardware E Solution:** What does Cisco ACL stand for?. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-E032",
+    "question": "Which port does Cisco-Hardware service use by default?",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct Cisco-Hardware procedure"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "e",
+    "explanation": "**Cisco-Hardware E Solution:** Which port does Cisco-Hardware service use by default?. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-E033",
+    "question": "Default subnet mask for Class C network in Cisco-Hardware?",
+    "options": [
+      "Partially correct",
+      "Correct Cisco-Hardware procedure",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "e",
+    "explanation": "**Cisco-Hardware E Solution:** Default subnet mask for Class C network in Cisco-Hardware?. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-E034",
+    "question": "What does Cisco ACL stand for?",
+    "options": [
+      "Dangerous method",
+      "Correct Cisco-Hardware procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "e",
+    "explanation": "**Cisco-Hardware E Solution:** What does Cisco ACL stand for?. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-E035",
+    "question": "Common protocol for Cisco-Hardware remote access?",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct Cisco-Hardware procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "e",
+    "explanation": "**Cisco-Hardware E Solution:** Common protocol for Cisco-Hardware remote access?. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-E036",
+    "question": "What does Cisco ACL stand for?",
+    "options": [
+      "Dangerous method",
+      "Correct Cisco-Hardware procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "e",
+    "explanation": "**Cisco-Hardware E Solution:** What does Cisco ACL stand for?. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-E037",
+    "question": "What is the primary function of Cisco DHCP?",
+    "options": [
+      "Correct Cisco-Hardware procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "e",
+    "explanation": "**Cisco-Hardware E Solution:** What is the primary function of Cisco DHCP?. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-E038",
+    "question": "Common protocol for Cisco-Hardware remote access?",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct Cisco-Hardware procedure"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "e",
+    "explanation": "**Cisco-Hardware E Solution:** Common protocol for Cisco-Hardware remote access?. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-E039",
+    "question": "Default subnet mask for Class C network in Cisco-Hardware?",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach",
+      "Correct Cisco-Hardware procedure"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "e",
+    "explanation": "**Cisco-Hardware E Solution:** Default subnet mask for Class C network in Cisco-Hardware?. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-E040",
+    "question": "Which port does Cisco-Hardware service use by default?",
+    "options": [
+      "Correct Cisco-Hardware procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "e",
+    "explanation": "**Cisco-Hardware E Solution:** Which port does Cisco-Hardware service use by default?. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-E041",
+    "question": "Common protocol for Cisco-Hardware remote access?",
+    "options": [
+      "Correct Cisco-Hardware procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "e",
+    "explanation": "**Cisco-Hardware E Solution:** Common protocol for Cisco-Hardware remote access?. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-E042",
+    "question": "Default subnet mask for Class C network in Cisco-Hardware?",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct Cisco-Hardware procedure"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "e",
+    "explanation": "**Cisco-Hardware E Solution:** Default subnet mask for Class C network in Cisco-Hardware?. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-E043",
+    "question": "Default subnet mask for Class C network in Cisco-Hardware?",
+    "options": [
+      "Partially correct",
+      "Correct Cisco-Hardware procedure",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "e",
+    "explanation": "**Cisco-Hardware E Solution:** Default subnet mask for Class C network in Cisco-Hardware?. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-E044",
+    "question": "Default subnet mask for Class C network in Cisco-Hardware?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Cisco-Hardware procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "e",
+    "explanation": "**Cisco-Hardware E Solution:** Default subnet mask for Class C network in Cisco-Hardware?. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-E045",
+    "question": "What is the primary function of Cisco DHCP?",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct Cisco-Hardware procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "e",
+    "explanation": "**Cisco-Hardware E Solution:** What is the primary function of Cisco DHCP?. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-E046",
+    "question": "Default subnet mask for Class C network in Cisco-Hardware?",
+    "options": [
+      "Partially correct",
+      "Correct Cisco-Hardware procedure",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "e",
+    "explanation": "**Cisco-Hardware E Solution:** Default subnet mask for Class C network in Cisco-Hardware?. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-E047",
+    "question": "What does Cisco ACL stand for?",
+    "options": [
+      "Correct Cisco-Hardware procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "e",
+    "explanation": "**Cisco-Hardware E Solution:** What does Cisco ACL stand for?. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-E048",
+    "question": "Common protocol for Cisco-Hardware remote access?",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach",
+      "Correct Cisco-Hardware procedure"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "e",
+    "explanation": "**Cisco-Hardware E Solution:** Common protocol for Cisco-Hardware remote access?. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-E049",
+    "question": "Which port does Cisco-Hardware service use by default?",
+    "options": [
+      "Correct Cisco-Hardware procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "e",
+    "explanation": "**Cisco-Hardware E Solution:** Which port does Cisco-Hardware service use by default?. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-E050",
+    "question": "Which port does Cisco-Hardware service use by default?",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct Cisco-Hardware procedure"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "e",
+    "explanation": "**Cisco-Hardware E Solution:** Which port does Cisco-Hardware service use by default?. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-M001",
+    "question": "Set up Cisco-Hardware failover clustering",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct Cisco-Hardware procedure"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "m",
+    "explanation": "**Cisco-Hardware M Solution:** Set up Cisco-Hardware failover clustering. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-M002",
+    "question": "Configure Cisco-Hardware load balancer for high availability",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct Cisco-Hardware procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "m",
+    "explanation": "**Cisco-Hardware M Solution:** Configure Cisco-Hardware load balancer for high availability. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-M003",
+    "question": "Troubleshoot Cisco-Hardware connectivity issue between VLANs",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct Cisco-Hardware procedure"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "m",
+    "explanation": "**Cisco-Hardware M Solution:** Troubleshoot Cisco-Hardware connectivity issue between VLANs. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-M004",
+    "question": "Optimize Cisco-Hardware query performance",
+    "options": [
+      "Dangerous method",
+      "Correct Cisco-Hardware procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "m",
+    "explanation": "**Cisco-Hardware M Solution:** Optimize Cisco-Hardware query performance. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-M005",
+    "question": "Troubleshoot Cisco-Hardware connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct Cisco-Hardware procedure",
+      "Partially correct"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "m",
+    "explanation": "**Cisco-Hardware M Solution:** Troubleshoot Cisco-Hardware connectivity issue between VLANs. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-M006",
+    "question": "Set up Cisco-Hardware failover clustering",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct Cisco-Hardware procedure"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "m",
+    "explanation": "**Cisco-Hardware M Solution:** Set up Cisco-Hardware failover clustering. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-M007",
+    "question": "Configure Cisco-Hardware load balancer for high availability",
+    "options": [
+      "Dangerous method",
+      "Correct Cisco-Hardware procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "m",
+    "explanation": "**Cisco-Hardware M Solution:** Configure Cisco-Hardware load balancer for high availability. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-M008",
+    "question": "Troubleshoot Cisco-Hardware connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct Cisco-Hardware procedure"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "m",
+    "explanation": "**Cisco-Hardware M Solution:** Troubleshoot Cisco-Hardware connectivity issue between VLANs. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-M009",
+    "question": "Troubleshoot Cisco-Hardware connectivity issue between VLANs",
+    "options": [
+      "Dangerous method",
+      "Correct Cisco-Hardware procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "m",
+    "explanation": "**Cisco-Hardware M Solution:** Troubleshoot Cisco-Hardware connectivity issue between VLANs. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-M010",
+    "question": "Implement Cisco-Hardware backup strategy for compliance",
+    "options": [
+      "Dangerous method",
+      "Correct Cisco-Hardware procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "m",
+    "explanation": "**Cisco-Hardware M Solution:** Implement Cisco-Hardware backup strategy for compliance. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-M011",
+    "question": "Set up Cisco-Hardware failover clustering",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach",
+      "Correct Cisco-Hardware procedure"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "m",
+    "explanation": "**Cisco-Hardware M Solution:** Set up Cisco-Hardware failover clustering. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-M012",
+    "question": "Optimize Cisco-Hardware query performance",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Cisco-Hardware procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "m",
+    "explanation": "**Cisco-Hardware M Solution:** Optimize Cisco-Hardware query performance. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-M013",
+    "question": "Implement Cisco-Hardware backup strategy for compliance",
+    "options": [
+      "Incorrect approach",
+      "Correct Cisco-Hardware procedure",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "m",
+    "explanation": "**Cisco-Hardware M Solution:** Implement Cisco-Hardware backup strategy for compliance. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-M014",
+    "question": "Configure Cisco-Hardware load balancer for high availability",
+    "options": [
+      "Dangerous method",
+      "Correct Cisco-Hardware procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "m",
+    "explanation": "**Cisco-Hardware M Solution:** Configure Cisco-Hardware load balancer for high availability. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-M015",
+    "question": "Troubleshoot Cisco-Hardware connectivity issue between VLANs",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct Cisco-Hardware procedure"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "m",
+    "explanation": "**Cisco-Hardware M Solution:** Troubleshoot Cisco-Hardware connectivity issue between VLANs. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-M016",
+    "question": "Set up Cisco-Hardware failover clustering",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Correct Cisco-Hardware procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "m",
+    "explanation": "**Cisco-Hardware M Solution:** Set up Cisco-Hardware failover clustering. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-M017",
+    "question": "Optimize Cisco-Hardware query performance",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Cisco-Hardware procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "m",
+    "explanation": "**Cisco-Hardware M Solution:** Optimize Cisco-Hardware query performance. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-M018",
+    "question": "Implement Cisco-Hardware backup strategy for compliance",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct Cisco-Hardware procedure"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "m",
+    "explanation": "**Cisco-Hardware M Solution:** Implement Cisco-Hardware backup strategy for compliance. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-M019",
+    "question": "Troubleshoot Cisco-Hardware connectivity issue between VLANs",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Correct Cisco-Hardware procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "m",
+    "explanation": "**Cisco-Hardware M Solution:** Troubleshoot Cisco-Hardware connectivity issue between VLANs. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-M020",
+    "question": "Configure Cisco-Hardware load balancer for high availability",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct Cisco-Hardware procedure"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "m",
+    "explanation": "**Cisco-Hardware M Solution:** Configure Cisco-Hardware load balancer for high availability. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-M021",
+    "question": "Optimize Cisco-Hardware query performance",
+    "options": [
+      "Dangerous method",
+      "Correct Cisco-Hardware procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "m",
+    "explanation": "**Cisco-Hardware M Solution:** Optimize Cisco-Hardware query performance. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-M022",
+    "question": "Set up Cisco-Hardware failover clustering",
+    "options": [
+      "Correct Cisco-Hardware procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "m",
+    "explanation": "**Cisco-Hardware M Solution:** Set up Cisco-Hardware failover clustering. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-M023",
+    "question": "Set up Cisco-Hardware failover clustering",
+    "options": [
+      "Dangerous method",
+      "Correct Cisco-Hardware procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "m",
+    "explanation": "**Cisco-Hardware M Solution:** Set up Cisco-Hardware failover clustering. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-M024",
+    "question": "Set up Cisco-Hardware failover clustering",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct Cisco-Hardware procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "m",
+    "explanation": "**Cisco-Hardware M Solution:** Set up Cisco-Hardware failover clustering. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-M025",
+    "question": "Optimize Cisco-Hardware query performance",
+    "options": [
+      "Dangerous method",
+      "Correct Cisco-Hardware procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "m",
+    "explanation": "**Cisco-Hardware M Solution:** Optimize Cisco-Hardware query performance. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-M026",
+    "question": "Troubleshoot Cisco-Hardware connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Cisco-Hardware procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "m",
+    "explanation": "**Cisco-Hardware M Solution:** Troubleshoot Cisco-Hardware connectivity issue between VLANs. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-M027",
+    "question": "Optimize Cisco-Hardware query performance",
+    "options": [
+      "Correct Cisco-Hardware procedure",
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "m",
+    "explanation": "**Cisco-Hardware M Solution:** Optimize Cisco-Hardware query performance. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-M028",
+    "question": "Troubleshoot Cisco-Hardware connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Cisco-Hardware procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "m",
+    "explanation": "**Cisco-Hardware M Solution:** Troubleshoot Cisco-Hardware connectivity issue between VLANs. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-M029",
+    "question": "Configure Cisco-Hardware load balancer for high availability",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct Cisco-Hardware procedure",
+      "Partially correct"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "m",
+    "explanation": "**Cisco-Hardware M Solution:** Configure Cisco-Hardware load balancer for high availability. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-M030",
+    "question": "Implement Cisco-Hardware backup strategy for compliance",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct Cisco-Hardware procedure"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "m",
+    "explanation": "**Cisco-Hardware M Solution:** Implement Cisco-Hardware backup strategy for compliance. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-M031",
+    "question": "Implement Cisco-Hardware backup strategy for compliance",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct Cisco-Hardware procedure"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "m",
+    "explanation": "**Cisco-Hardware M Solution:** Implement Cisco-Hardware backup strategy for compliance. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-M032",
+    "question": "Implement Cisco-Hardware backup strategy for compliance",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct Cisco-Hardware procedure"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "m",
+    "explanation": "**Cisco-Hardware M Solution:** Implement Cisco-Hardware backup strategy for compliance. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-M033",
+    "question": "Configure Cisco-Hardware load balancer for high availability",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct Cisco-Hardware procedure"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "m",
+    "explanation": "**Cisco-Hardware M Solution:** Configure Cisco-Hardware load balancer for high availability. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-M034",
+    "question": "Implement Cisco-Hardware backup strategy for compliance",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct Cisco-Hardware procedure"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "m",
+    "explanation": "**Cisco-Hardware M Solution:** Implement Cisco-Hardware backup strategy for compliance. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-M035",
+    "question": "Implement Cisco-Hardware backup strategy for compliance",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct Cisco-Hardware procedure",
+      "Partially correct"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "m",
+    "explanation": "**Cisco-Hardware M Solution:** Implement Cisco-Hardware backup strategy for compliance. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-M036",
+    "question": "Configure Cisco-Hardware load balancer for high availability",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach",
+      "Correct Cisco-Hardware procedure"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "m",
+    "explanation": "**Cisco-Hardware M Solution:** Configure Cisco-Hardware load balancer for high availability. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-M037",
+    "question": "Configure Cisco-Hardware load balancer for high availability",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Cisco-Hardware procedure"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "m",
+    "explanation": "**Cisco-Hardware M Solution:** Configure Cisco-Hardware load balancer for high availability. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-M038",
+    "question": "Troubleshoot Cisco-Hardware connectivity issue between VLANs",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Cisco-Hardware procedure"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "m",
+    "explanation": "**Cisco-Hardware M Solution:** Troubleshoot Cisco-Hardware connectivity issue between VLANs. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-M039",
+    "question": "Set up Cisco-Hardware failover clustering",
+    "options": [
+      "Dangerous method",
+      "Correct Cisco-Hardware procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "m",
+    "explanation": "**Cisco-Hardware M Solution:** Set up Cisco-Hardware failover clustering. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-M040",
+    "question": "Optimize Cisco-Hardware query performance",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Cisco-Hardware procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "m",
+    "explanation": "**Cisco-Hardware M Solution:** Optimize Cisco-Hardware query performance. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-M041",
+    "question": "Troubleshoot Cisco-Hardware connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct Cisco-Hardware procedure"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "m",
+    "explanation": "**Cisco-Hardware M Solution:** Troubleshoot Cisco-Hardware connectivity issue between VLANs. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-M042",
+    "question": "Configure Cisco-Hardware load balancer for high availability",
+    "options": [
+      "Dangerous method",
+      "Correct Cisco-Hardware procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "m",
+    "explanation": "**Cisco-Hardware M Solution:** Configure Cisco-Hardware load balancer for high availability. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-M043",
+    "question": "Set up Cisco-Hardware failover clustering",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct Cisco-Hardware procedure"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "m",
+    "explanation": "**Cisco-Hardware M Solution:** Set up Cisco-Hardware failover clustering. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-M044",
+    "question": "Optimize Cisco-Hardware query performance",
+    "options": [
+      "Correct Cisco-Hardware procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "m",
+    "explanation": "**Cisco-Hardware M Solution:** Optimize Cisco-Hardware query performance. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-M045",
+    "question": "Troubleshoot Cisco-Hardware connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct Cisco-Hardware procedure"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "m",
+    "explanation": "**Cisco-Hardware M Solution:** Troubleshoot Cisco-Hardware connectivity issue between VLANs. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-M046",
+    "question": "Implement Cisco-Hardware backup strategy for compliance",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Cisco-Hardware procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "m",
+    "explanation": "**Cisco-Hardware M Solution:** Implement Cisco-Hardware backup strategy for compliance. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-M047",
+    "question": "Optimize Cisco-Hardware query performance",
+    "options": [
+      "Incorrect approach",
+      "Correct Cisco-Hardware procedure",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "m",
+    "explanation": "**Cisco-Hardware M Solution:** Optimize Cisco-Hardware query performance. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-M048",
+    "question": "Configure Cisco-Hardware load balancer for high availability",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Correct Cisco-Hardware procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "m",
+    "explanation": "**Cisco-Hardware M Solution:** Configure Cisco-Hardware load balancer for high availability. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-M049",
+    "question": "Optimize Cisco-Hardware query performance",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach",
+      "Correct Cisco-Hardware procedure"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "m",
+    "explanation": "**Cisco-Hardware M Solution:** Optimize Cisco-Hardware query performance. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-M050",
+    "question": "Troubleshoot Cisco-Hardware connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct Cisco-Hardware procedure"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "m",
+    "explanation": "**Cisco-Hardware M Solution:** Troubleshoot Cisco-Hardware connectivity issue between VLANs. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-H001",
+    "question": "Optimize Cisco-Hardware performance under DDoS attack",
+    "options": [
+      "Partially correct",
+      "Correct Cisco-Hardware procedure",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "h",
+    "explanation": "**Cisco-Hardware H Solution:** Optimize Cisco-Hardware performance under DDoS attack. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-H002",
+    "question": "Create disaster recovery plan with RTO < 15min for Cisco-Hardware",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Cisco-Hardware procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "h",
+    "explanation": "**Cisco-Hardware H Solution:** Create disaster recovery plan with RTO < 15min for Cisco-Hardware. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-H003",
+    "question": "Optimize Cisco-Hardware performance under DDoS attack",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Cisco-Hardware procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "h",
+    "explanation": "**Cisco-Hardware H Solution:** Optimize Cisco-Hardware performance under DDoS attack. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-H004",
+    "question": "Migrate legacy Cisco-Hardware systems to cloud-native architecture",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct Cisco-Hardware procedure"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "h",
+    "explanation": "**Cisco-Hardware H Solution:** Migrate legacy Cisco-Hardware systems to cloud-native architecture. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-H005",
+    "question": "Create disaster recovery plan with RTO < 15min for Cisco-Hardware",
+    "options": [
+      "Correct Cisco-Hardware procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "h",
+    "explanation": "**Cisco-Hardware H Solution:** Create disaster recovery plan with RTO < 15min for Cisco-Hardware. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-H006",
+    "question": "Design Cisco-Hardware architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Dangerous method",
+      "Correct Cisco-Hardware procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "h",
+    "explanation": "**Cisco-Hardware H Solution:** Design Cisco-Hardware architecture for 10k users with 99.99% uptime. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-H007",
+    "question": "Design Cisco-Hardware architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Cisco-Hardware procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "h",
+    "explanation": "**Cisco-Hardware H Solution:** Design Cisco-Hardware architecture for 10k users with 99.99% uptime. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-H008",
+    "question": "Implement zero-trust security model in Cisco-Hardware",
+    "options": [
+      "Correct Cisco-Hardware procedure",
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "h",
+    "explanation": "**Cisco-Hardware H Solution:** Implement zero-trust security model in Cisco-Hardware. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-H009",
+    "question": "Design Cisco-Hardware architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Correct Cisco-Hardware procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "h",
+    "explanation": "**Cisco-Hardware H Solution:** Design Cisco-Hardware architecture for 10k users with 99.99% uptime. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-H010",
+    "question": "Design Cisco-Hardware architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Cisco-Hardware procedure"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "h",
+    "explanation": "**Cisco-Hardware H Solution:** Design Cisco-Hardware architecture for 10k users with 99.99% uptime. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-H011",
+    "question": "Create disaster recovery plan with RTO < 15min for Cisco-Hardware",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct Cisco-Hardware procedure"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "h",
+    "explanation": "**Cisco-Hardware H Solution:** Create disaster recovery plan with RTO < 15min for Cisco-Hardware. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-H012",
+    "question": "Create disaster recovery plan with RTO < 15min for Cisco-Hardware",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct Cisco-Hardware procedure"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "h",
+    "explanation": "**Cisco-Hardware H Solution:** Create disaster recovery plan with RTO < 15min for Cisco-Hardware. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-H013",
+    "question": "Implement zero-trust security model in Cisco-Hardware",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct Cisco-Hardware procedure"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "h",
+    "explanation": "**Cisco-Hardware H Solution:** Implement zero-trust security model in Cisco-Hardware. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-H014",
+    "question": "Optimize Cisco-Hardware performance under DDoS attack",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct Cisco-Hardware procedure",
+      "Partially correct"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "h",
+    "explanation": "**Cisco-Hardware H Solution:** Optimize Cisco-Hardware performance under DDoS attack. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-H015",
+    "question": "Optimize Cisco-Hardware performance under DDoS attack",
+    "options": [
+      "Dangerous method",
+      "Correct Cisco-Hardware procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "h",
+    "explanation": "**Cisco-Hardware H Solution:** Optimize Cisco-Hardware performance under DDoS attack. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-H016",
+    "question": "Create disaster recovery plan with RTO < 15min for Cisco-Hardware",
+    "options": [
+      "Dangerous method",
+      "Correct Cisco-Hardware procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "h",
+    "explanation": "**Cisco-Hardware H Solution:** Create disaster recovery plan with RTO < 15min for Cisco-Hardware. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-H017",
+    "question": "Migrate legacy Cisco-Hardware systems to cloud-native architecture",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct Cisco-Hardware procedure"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "h",
+    "explanation": "**Cisco-Hardware H Solution:** Migrate legacy Cisco-Hardware systems to cloud-native architecture. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-H018",
+    "question": "Implement zero-trust security model in Cisco-Hardware",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Cisco-Hardware procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "h",
+    "explanation": "**Cisco-Hardware H Solution:** Implement zero-trust security model in Cisco-Hardware. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-H019",
+    "question": "Design Cisco-Hardware architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Cisco-Hardware procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "h",
+    "explanation": "**Cisco-Hardware H Solution:** Design Cisco-Hardware architecture for 10k users with 99.99% uptime. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-H020",
+    "question": "Optimize Cisco-Hardware performance under DDoS attack",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Correct Cisco-Hardware procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "h",
+    "explanation": "**Cisco-Hardware H Solution:** Optimize Cisco-Hardware performance under DDoS attack. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-H021",
+    "question": "Optimize Cisco-Hardware performance under DDoS attack",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct Cisco-Hardware procedure"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "h",
+    "explanation": "**Cisco-Hardware H Solution:** Optimize Cisco-Hardware performance under DDoS attack. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-H022",
+    "question": "Implement zero-trust security model in Cisco-Hardware",
+    "options": [
+      "Correct Cisco-Hardware procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "h",
+    "explanation": "**Cisco-Hardware H Solution:** Implement zero-trust security model in Cisco-Hardware. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-H023",
+    "question": "Create disaster recovery plan with RTO < 15min for Cisco-Hardware",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Cisco-Hardware procedure"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "h",
+    "explanation": "**Cisco-Hardware H Solution:** Create disaster recovery plan with RTO < 15min for Cisco-Hardware. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-H024",
+    "question": "Design Cisco-Hardware architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Dangerous method",
+      "Correct Cisco-Hardware procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "h",
+    "explanation": "**Cisco-Hardware H Solution:** Design Cisco-Hardware architecture for 10k users with 99.99% uptime. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-H025",
+    "question": "Implement zero-trust security model in Cisco-Hardware",
+    "options": [
+      "Correct Cisco-Hardware procedure",
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "h",
+    "explanation": "**Cisco-Hardware H Solution:** Implement zero-trust security model in Cisco-Hardware. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-H026",
+    "question": "Create disaster recovery plan with RTO < 15min for Cisco-Hardware",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct Cisco-Hardware procedure"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "h",
+    "explanation": "**Cisco-Hardware H Solution:** Create disaster recovery plan with RTO < 15min for Cisco-Hardware. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-H027",
+    "question": "Design Cisco-Hardware architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct Cisco-Hardware procedure"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "h",
+    "explanation": "**Cisco-Hardware H Solution:** Design Cisco-Hardware architecture for 10k users with 99.99% uptime. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-H028",
+    "question": "Create disaster recovery plan with RTO < 15min for Cisco-Hardware",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Cisco-Hardware procedure"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "h",
+    "explanation": "**Cisco-Hardware H Solution:** Create disaster recovery plan with RTO < 15min for Cisco-Hardware. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-H029",
+    "question": "Create disaster recovery plan with RTO < 15min for Cisco-Hardware",
+    "options": [
+      "Incorrect approach",
+      "Correct Cisco-Hardware procedure",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "h",
+    "explanation": "**Cisco-Hardware H Solution:** Create disaster recovery plan with RTO < 15min for Cisco-Hardware. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-H030",
+    "question": "Design Cisco-Hardware architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct Cisco-Hardware procedure"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "h",
+    "explanation": "**Cisco-Hardware H Solution:** Design Cisco-Hardware architecture for 10k users with 99.99% uptime. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-H031",
+    "question": "Create disaster recovery plan with RTO < 15min for Cisco-Hardware",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Cisco-Hardware procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "h",
+    "explanation": "**Cisco-Hardware H Solution:** Create disaster recovery plan with RTO < 15min for Cisco-Hardware. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-H032",
+    "question": "Migrate legacy Cisco-Hardware systems to cloud-native architecture",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct Cisco-Hardware procedure",
+      "Partially correct"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "h",
+    "explanation": "**Cisco-Hardware H Solution:** Migrate legacy Cisco-Hardware systems to cloud-native architecture. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-H033",
+    "question": "Implement zero-trust security model in Cisco-Hardware",
+    "options": [
+      "Dangerous method",
+      "Correct Cisco-Hardware procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "h",
+    "explanation": "**Cisco-Hardware H Solution:** Implement zero-trust security model in Cisco-Hardware. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-H034",
+    "question": "Design Cisco-Hardware architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Correct Cisco-Hardware procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "h",
+    "explanation": "**Cisco-Hardware H Solution:** Design Cisco-Hardware architecture for 10k users with 99.99% uptime. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-H035",
+    "question": "Migrate legacy Cisco-Hardware systems to cloud-native architecture",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Cisco-Hardware procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "h",
+    "explanation": "**Cisco-Hardware H Solution:** Migrate legacy Cisco-Hardware systems to cloud-native architecture. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-H036",
+    "question": "Create disaster recovery plan with RTO < 15min for Cisco-Hardware",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach",
+      "Correct Cisco-Hardware procedure"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "h",
+    "explanation": "**Cisco-Hardware H Solution:** Create disaster recovery plan with RTO < 15min for Cisco-Hardware. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-H037",
+    "question": "Migrate legacy Cisco-Hardware systems to cloud-native architecture",
+    "options": [
+      "Dangerous method",
+      "Correct Cisco-Hardware procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "h",
+    "explanation": "**Cisco-Hardware H Solution:** Migrate legacy Cisco-Hardware systems to cloud-native architecture. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-H038",
+    "question": "Design Cisco-Hardware architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct Cisco-Hardware procedure",
+      "Partially correct"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "h",
+    "explanation": "**Cisco-Hardware H Solution:** Design Cisco-Hardware architecture for 10k users with 99.99% uptime. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-H039",
+    "question": "Create disaster recovery plan with RTO < 15min for Cisco-Hardware",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct Cisco-Hardware procedure"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "h",
+    "explanation": "**Cisco-Hardware H Solution:** Create disaster recovery plan with RTO < 15min for Cisco-Hardware. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-H040",
+    "question": "Migrate legacy Cisco-Hardware systems to cloud-native architecture",
+    "options": [
+      "Dangerous method",
+      "Correct Cisco-Hardware procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "h",
+    "explanation": "**Cisco-Hardware H Solution:** Migrate legacy Cisco-Hardware systems to cloud-native architecture. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-H041",
+    "question": "Migrate legacy Cisco-Hardware systems to cloud-native architecture",
+    "options": [
+      "Partially correct",
+      "Correct Cisco-Hardware procedure",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "h",
+    "explanation": "**Cisco-Hardware H Solution:** Migrate legacy Cisco-Hardware systems to cloud-native architecture. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-H042",
+    "question": "Migrate legacy Cisco-Hardware systems to cloud-native architecture",
+    "options": [
+      "Dangerous method",
+      "Correct Cisco-Hardware procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "h",
+    "explanation": "**Cisco-Hardware H Solution:** Migrate legacy Cisco-Hardware systems to cloud-native architecture. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-H043",
+    "question": "Create disaster recovery plan with RTO < 15min for Cisco-Hardware",
+    "options": [
+      "Dangerous method",
+      "Correct Cisco-Hardware procedure",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "h",
+    "explanation": "**Cisco-Hardware H Solution:** Create disaster recovery plan with RTO < 15min for Cisco-Hardware. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-H044",
+    "question": "Optimize Cisco-Hardware performance under DDoS attack",
+    "options": [
+      "Incorrect approach",
+      "Correct Cisco-Hardware procedure",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "h",
+    "explanation": "**Cisco-Hardware H Solution:** Optimize Cisco-Hardware performance under DDoS attack. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-H045",
+    "question": "Design Cisco-Hardware architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct Cisco-Hardware procedure"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "h",
+    "explanation": "**Cisco-Hardware H Solution:** Design Cisco-Hardware architecture for 10k users with 99.99% uptime. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-H046",
+    "question": "Optimize Cisco-Hardware performance under DDoS attack",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct Cisco-Hardware procedure"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "h",
+    "explanation": "**Cisco-Hardware H Solution:** Optimize Cisco-Hardware performance under DDoS attack. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-H047",
+    "question": "Migrate legacy Cisco-Hardware systems to cloud-native architecture",
+    "options": [
+      "Partially correct",
+      "Correct Cisco-Hardware procedure",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "h",
+    "explanation": "**Cisco-Hardware H Solution:** Migrate legacy Cisco-Hardware systems to cloud-native architecture. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-H048",
+    "question": "Optimize Cisco-Hardware performance under DDoS attack",
+    "options": [
+      "Dangerous method",
+      "Correct Cisco-Hardware procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "h",
+    "explanation": "**Cisco-Hardware H Solution:** Optimize Cisco-Hardware performance under DDoS attack. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-H049",
+    "question": "Migrate legacy Cisco-Hardware systems to cloud-native architecture",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach",
+      "Correct Cisco-Hardware procedure"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "h",
+    "explanation": "**Cisco-Hardware H Solution:** Migrate legacy Cisco-Hardware systems to cloud-native architecture. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-H050",
+    "question": "Design Cisco-Hardware architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Correct Cisco-Hardware procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct Cisco-Hardware procedure",
+    "difficulty": "h",
+    "explanation": "**Cisco-Hardware H Solution:** Design Cisco-Hardware architecture for 10k users with 99.99% uptime. Always verify Cisco-Hardware documentation and test in lab environment first."
+  },
+  {
+    "id": "Cisco-Hardware-S01-01",
+    "question": "1. Server overload during quarterly report generation in Cisco-Hardware environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S01-02",
+    "question": "1. Server overload during quarterly report generation in Cisco-Hardware environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S01-03",
+    "question": "1. Server overload during quarterly report generation in Cisco-Hardware environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S01-04",
+    "question": "1. Server overload during quarterly report generation in Cisco-Hardware environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S01-05",
+    "question": "1. Server overload during quarterly report generation in Cisco-Hardware environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S02-01",
+    "question": "2. Firewall blocking legitimate traffic in Cisco-Hardware environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S02-02",
+    "question": "2. Firewall blocking legitimate traffic in Cisco-Hardware environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S02-03",
+    "question": "2. Firewall blocking legitimate traffic in Cisco-Hardware environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S02-04",
+    "question": "2. Firewall blocking legitimate traffic in Cisco-Hardware environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S02-05",
+    "question": "2. Firewall blocking legitimate traffic in Cisco-Hardware environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S03-01",
+    "question": "3. Backup failure during scheduled window in Cisco-Hardware environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S03-02",
+    "question": "3. Backup failure during scheduled window in Cisco-Hardware environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S03-03",
+    "question": "3. Backup failure during scheduled window in Cisco-Hardware environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S03-04",
+    "question": "3. Backup failure during scheduled window in Cisco-Hardware environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S03-05",
+    "question": "3. Backup failure during scheduled window in Cisco-Hardware environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S04-01",
+    "question": "4. Firewall blocking legitimate traffic in Cisco-Hardware environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S04-02",
+    "question": "4. Firewall blocking legitimate traffic in Cisco-Hardware environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S04-03",
+    "question": "4. Firewall blocking legitimate traffic in Cisco-Hardware environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S04-04",
+    "question": "4. Firewall blocking legitimate traffic in Cisco-Hardware environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S04-05",
+    "question": "4. Firewall blocking legitimate traffic in Cisco-Hardware environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S05-01",
+    "question": "5. Production outage during peak hours: diagnose and resolve in Cisco-Hardware environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S05-02",
+    "question": "5. Production outage during peak hours: diagnose and resolve in Cisco-Hardware environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S05-03",
+    "question": "5. Production outage during peak hours: diagnose and resolve in Cisco-Hardware environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S05-04",
+    "question": "5. Production outage during peak hours: diagnose and resolve in Cisco-Hardware environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S05-05",
+    "question": "5. Production outage during peak hours: diagnose and resolve in Cisco-Hardware environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S06-01",
+    "question": "6. Load balancer health check failing in Cisco-Hardware environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S06-02",
+    "question": "6. Load balancer health check failing in Cisco-Hardware environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S06-03",
+    "question": "6. Load balancer health check failing in Cisco-Hardware environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S06-04",
+    "question": "6. Load balancer health check failing in Cisco-Hardware environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S06-05",
+    "question": "6. Load balancer health check failing in Cisco-Hardware environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S07-01",
+    "question": "7. Network latency issue affecting VoIP calls in Cisco-Hardware environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S07-02",
+    "question": "7. Network latency issue affecting VoIP calls in Cisco-Hardware environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S07-03",
+    "question": "7. Network latency issue affecting VoIP calls in Cisco-Hardware environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S07-04",
+    "question": "7. Network latency issue affecting VoIP calls in Cisco-Hardware environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S07-05",
+    "question": "7. Network latency issue affecting VoIP calls in Cisco-Hardware environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S08-01",
+    "question": "8. Production outage during peak hours: diagnose and resolve in Cisco-Hardware environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S08-02",
+    "question": "8. Production outage during peak hours: diagnose and resolve in Cisco-Hardware environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S08-03",
+    "question": "8. Production outage during peak hours: diagnose and resolve in Cisco-Hardware environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S08-04",
+    "question": "8. Production outage during peak hours: diagnose and resolve in Cisco-Hardware environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S08-05",
+    "question": "8. Production outage during peak hours: diagnose and resolve in Cisco-Hardware environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S09-01",
+    "question": "9. Security incident response: ransomware attack detected in Cisco-Hardware environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S09-02",
+    "question": "9. Security incident response: ransomware attack detected in Cisco-Hardware environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S09-03",
+    "question": "9. Security incident response: ransomware attack detected in Cisco-Hardware environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S09-04",
+    "question": "9. Security incident response: ransomware attack detected in Cisco-Hardware environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S09-05",
+    "question": "9. Security incident response: ransomware attack detected in Cisco-Hardware environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S10-01",
+    "question": "10. Backup failure during scheduled window in Cisco-Hardware environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S10-02",
+    "question": "10. Backup failure during scheduled window in Cisco-Hardware environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S10-03",
+    "question": "10. Backup failure during scheduled window in Cisco-Hardware environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S10-04",
+    "question": "10. Backup failure during scheduled window in Cisco-Hardware environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S10-05",
+    "question": "10. Backup failure during scheduled window in Cisco-Hardware environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S11-01",
+    "question": "11. Network latency issue affecting VoIP calls in Cisco-Hardware environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S11-02",
+    "question": "11. Network latency issue affecting VoIP calls in Cisco-Hardware environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S11-03",
+    "question": "11. Network latency issue affecting VoIP calls in Cisco-Hardware environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S11-04",
+    "question": "11. Network latency issue affecting VoIP calls in Cisco-Hardware environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S11-05",
+    "question": "11. Network latency issue affecting VoIP calls in Cisco-Hardware environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S12-01",
+    "question": "12. Network latency issue affecting VoIP calls in Cisco-Hardware environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S12-02",
+    "question": "12. Network latency issue affecting VoIP calls in Cisco-Hardware environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S12-03",
+    "question": "12. Network latency issue affecting VoIP calls in Cisco-Hardware environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S12-04",
+    "question": "12. Network latency issue affecting VoIP calls in Cisco-Hardware environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S12-05",
+    "question": "12. Network latency issue affecting VoIP calls in Cisco-Hardware environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S13-01",
+    "question": "13. Load balancer health check failing in Cisco-Hardware environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S13-02",
+    "question": "13. Load balancer health check failing in Cisco-Hardware environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S13-03",
+    "question": "13. Load balancer health check failing in Cisco-Hardware environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S13-04",
+    "question": "13. Load balancer health check failing in Cisco-Hardware environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S13-05",
+    "question": "13. Load balancer health check failing in Cisco-Hardware environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S14-01",
+    "question": "14. Network latency issue affecting VoIP calls in Cisco-Hardware environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S14-02",
+    "question": "14. Network latency issue affecting VoIP calls in Cisco-Hardware environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S14-03",
+    "question": "14. Network latency issue affecting VoIP calls in Cisco-Hardware environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S14-04",
+    "question": "14. Network latency issue affecting VoIP calls in Cisco-Hardware environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S14-05",
+    "question": "14. Network latency issue affecting VoIP calls in Cisco-Hardware environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S15-01",
+    "question": "15. VPN connectivity failure for remote users in Cisco-Hardware environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S15-02",
+    "question": "15. VPN connectivity failure for remote users in Cisco-Hardware environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S15-03",
+    "question": "15. VPN connectivity failure for remote users in Cisco-Hardware environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S15-04",
+    "question": "15. VPN connectivity failure for remote users in Cisco-Hardware environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S15-05",
+    "question": "15. VPN connectivity failure for remote users in Cisco-Hardware environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S16-01",
+    "question": "16. Load balancer health check failing in Cisco-Hardware environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S16-02",
+    "question": "16. Load balancer health check failing in Cisco-Hardware environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S16-03",
+    "question": "16. Load balancer health check failing in Cisco-Hardware environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S16-04",
+    "question": "16. Load balancer health check failing in Cisco-Hardware environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S16-05",
+    "question": "16. Load balancer health check failing in Cisco-Hardware environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S17-01",
+    "question": "17. Network latency issue affecting VoIP calls in Cisco-Hardware environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S17-02",
+    "question": "17. Network latency issue affecting VoIP calls in Cisco-Hardware environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S17-03",
+    "question": "17. Network latency issue affecting VoIP calls in Cisco-Hardware environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S17-04",
+    "question": "17. Network latency issue affecting VoIP calls in Cisco-Hardware environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S17-05",
+    "question": "17. Network latency issue affecting VoIP calls in Cisco-Hardware environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S18-01",
+    "question": "18. Network latency issue affecting VoIP calls in Cisco-Hardware environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S18-02",
+    "question": "18. Network latency issue affecting VoIP calls in Cisco-Hardware environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S18-03",
+    "question": "18. Network latency issue affecting VoIP calls in Cisco-Hardware environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S18-04",
+    "question": "18. Network latency issue affecting VoIP calls in Cisco-Hardware environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S18-05",
+    "question": "18. Network latency issue affecting VoIP calls in Cisco-Hardware environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S19-01",
+    "question": "19. Firewall blocking legitimate traffic in Cisco-Hardware environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S19-02",
+    "question": "19. Firewall blocking legitimate traffic in Cisco-Hardware environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S19-03",
+    "question": "19. Firewall blocking legitimate traffic in Cisco-Hardware environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S19-04",
+    "question": "19. Firewall blocking legitimate traffic in Cisco-Hardware environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S19-05",
+    "question": "19. Firewall blocking legitimate traffic in Cisco-Hardware environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S20-01",
+    "question": "20. Security incident response: ransomware attack detected in Cisco-Hardware environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S20-02",
+    "question": "20. Security incident response: ransomware attack detected in Cisco-Hardware environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S20-03",
+    "question": "20. Security incident response: ransomware attack detected in Cisco-Hardware environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S20-04",
+    "question": "20. Security incident response: ransomware attack detected in Cisco-Hardware environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Cisco-Hardware-S20-05",
+    "question": "20. Security incident response: ransomware attack detected in Cisco-Hardware environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Cisco-Hardware troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Cisco-Hardware troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-Hardware best practices. Document all steps for RCA."
+  }
+]

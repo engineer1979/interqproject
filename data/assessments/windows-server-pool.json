@@ -1,0 +1,3260 @@
+{
+  "easy": [
+    {
+      "id": "Windows-Server-E001",
+      "question": "What is the primary function of Windows DHCP?",
+      "options": [
+        "Incorrect approach",
+        "Correct Windows-Server procedure",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "e",
+      "explanation": "**Windows-Server E Solution:** What is the primary function of Windows DHCP?. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-E002",
+      "question": "What does Windows ACL stand for?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Windows-Server procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "e",
+      "explanation": "**Windows-Server E Solution:** What does Windows ACL stand for?. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-E003",
+      "question": "Common protocol for Windows-Server remote access?",
+      "options": [
+        "Dangerous method",
+        "Correct Windows-Server procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "e",
+      "explanation": "**Windows-Server E Solution:** Common protocol for Windows-Server remote access?. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-E004",
+      "question": "Common protocol for Windows-Server remote access?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Windows-Server procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "e",
+      "explanation": "**Windows-Server E Solution:** Common protocol for Windows-Server remote access?. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-E005",
+      "question": "Common protocol for Windows-Server remote access?",
+      "options": [
+        "Partially correct",
+        "Correct Windows-Server procedure",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "e",
+      "explanation": "**Windows-Server E Solution:** Common protocol for Windows-Server remote access?. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-E006",
+      "question": "What does Windows ACL stand for?",
+      "options": [
+        "Dangerous method",
+        "Correct Windows-Server procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "e",
+      "explanation": "**Windows-Server E Solution:** What does Windows ACL stand for?. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-E007",
+      "question": "What does Windows ACL stand for?",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Windows-Server procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "e",
+      "explanation": "**Windows-Server E Solution:** What does Windows ACL stand for?. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-E008",
+      "question": "What is the primary function of Windows DHCP?",
+      "options": [
+        "Dangerous method",
+        "Correct Windows-Server procedure",
+        "Incorrect approach",
+        "Partially correct"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "e",
+      "explanation": "**Windows-Server E Solution:** What is the primary function of Windows DHCP?. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-E009",
+      "question": "Which port does Windows-Server service use by default?",
+      "options": [
+        "Correct Windows-Server procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "e",
+      "explanation": "**Windows-Server E Solution:** Which port does Windows-Server service use by default?. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-E010",
+      "question": "Default subnet mask for Class C network in Windows-Server?",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Windows-Server procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "e",
+      "explanation": "**Windows-Server E Solution:** Default subnet mask for Class C network in Windows-Server?. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-E011",
+      "question": "Which port does Windows-Server service use by default?",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Windows-Server procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "e",
+      "explanation": "**Windows-Server E Solution:** Which port does Windows-Server service use by default?. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-E012",
+      "question": "Common protocol for Windows-Server remote access?",
+      "options": [
+        "Correct Windows-Server procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "e",
+      "explanation": "**Windows-Server E Solution:** Common protocol for Windows-Server remote access?. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-E013",
+      "question": "Common protocol for Windows-Server remote access?",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Windows-Server procedure"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "e",
+      "explanation": "**Windows-Server E Solution:** Common protocol for Windows-Server remote access?. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-E014",
+      "question": "Default subnet mask for Class C network in Windows-Server?",
+      "options": [
+        "Dangerous method",
+        "Correct Windows-Server procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "e",
+      "explanation": "**Windows-Server E Solution:** Default subnet mask for Class C network in Windows-Server?. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-E015",
+      "question": "Common protocol for Windows-Server remote access?",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Windows-Server procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "e",
+      "explanation": "**Windows-Server E Solution:** Common protocol for Windows-Server remote access?. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-E016",
+      "question": "Default subnet mask for Class C network in Windows-Server?",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Windows-Server procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "e",
+      "explanation": "**Windows-Server E Solution:** Default subnet mask for Class C network in Windows-Server?. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-E017",
+      "question": "Which port does Windows-Server service use by default?",
+      "options": [
+        "Correct Windows-Server procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "e",
+      "explanation": "**Windows-Server E Solution:** Which port does Windows-Server service use by default?. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-E018",
+      "question": "Common protocol for Windows-Server remote access?",
+      "options": [
+        "Incorrect approach",
+        "Correct Windows-Server procedure",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "e",
+      "explanation": "**Windows-Server E Solution:** Common protocol for Windows-Server remote access?. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-E019",
+      "question": "What does Windows ACL stand for?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Windows-Server procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "e",
+      "explanation": "**Windows-Server E Solution:** What does Windows ACL stand for?. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-E020",
+      "question": "Common protocol for Windows-Server remote access?",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Windows-Server procedure"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "e",
+      "explanation": "**Windows-Server E Solution:** Common protocol for Windows-Server remote access?. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-E021",
+      "question": "Default subnet mask for Class C network in Windows-Server?",
+      "options": [
+        "Dangerous method",
+        "Correct Windows-Server procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "e",
+      "explanation": "**Windows-Server E Solution:** Default subnet mask for Class C network in Windows-Server?. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-E022",
+      "question": "Default subnet mask for Class C network in Windows-Server?",
+      "options": [
+        "Partially correct",
+        "Correct Windows-Server procedure",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "e",
+      "explanation": "**Windows-Server E Solution:** Default subnet mask for Class C network in Windows-Server?. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-E023",
+      "question": "What does Windows ACL stand for?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Windows-Server procedure"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "e",
+      "explanation": "**Windows-Server E Solution:** What does Windows ACL stand for?. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-E024",
+      "question": "Which port does Windows-Server service use by default?",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Windows-Server procedure"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "e",
+      "explanation": "**Windows-Server E Solution:** Which port does Windows-Server service use by default?. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-E025",
+      "question": "What is the primary function of Windows DHCP?",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Windows-Server procedure"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "e",
+      "explanation": "**Windows-Server E Solution:** What is the primary function of Windows DHCP?. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-E026",
+      "question": "Common protocol for Windows-Server remote access?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Windows-Server procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "e",
+      "explanation": "**Windows-Server E Solution:** Common protocol for Windows-Server remote access?. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-E027",
+      "question": "What is the primary function of Windows DHCP?",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Windows-Server procedure"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "e",
+      "explanation": "**Windows-Server E Solution:** What is the primary function of Windows DHCP?. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-E028",
+      "question": "What does Windows ACL stand for?",
+      "options": [
+        "Dangerous method",
+        "Correct Windows-Server procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "e",
+      "explanation": "**Windows-Server E Solution:** What does Windows ACL stand for?. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-E029",
+      "question": "Which port does Windows-Server service use by default?",
+      "options": [
+        "Correct Windows-Server procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "e",
+      "explanation": "**Windows-Server E Solution:** Which port does Windows-Server service use by default?. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-E030",
+      "question": "Common protocol for Windows-Server remote access?",
+      "options": [
+        "Incorrect approach",
+        "Correct Windows-Server procedure",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "e",
+      "explanation": "**Windows-Server E Solution:** Common protocol for Windows-Server remote access?. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-E031",
+      "question": "What is the primary function of Windows DHCP?",
+      "options": [
+        "Dangerous method",
+        "Correct Windows-Server procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "e",
+      "explanation": "**Windows-Server E Solution:** What is the primary function of Windows DHCP?. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-E032",
+      "question": "Common protocol for Windows-Server remote access?",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Windows-Server procedure"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "e",
+      "explanation": "**Windows-Server E Solution:** Common protocol for Windows-Server remote access?. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-E033",
+      "question": "Common protocol for Windows-Server remote access?",
+      "options": [
+        "Correct Windows-Server procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "e",
+      "explanation": "**Windows-Server E Solution:** Common protocol for Windows-Server remote access?. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-E034",
+      "question": "Which port does Windows-Server service use by default?",
+      "options": [
+        "Incorrect approach",
+        "Correct Windows-Server procedure",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "e",
+      "explanation": "**Windows-Server E Solution:** Which port does Windows-Server service use by default?. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-E035",
+      "question": "What is the primary function of Windows DHCP?",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Windows-Server procedure"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "e",
+      "explanation": "**Windows-Server E Solution:** What is the primary function of Windows DHCP?. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-E036",
+      "question": "What does Windows ACL stand for?",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Windows-Server procedure"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "e",
+      "explanation": "**Windows-Server E Solution:** What does Windows ACL stand for?. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-E037",
+      "question": "What does Windows ACL stand for?",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Windows-Server procedure"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "e",
+      "explanation": "**Windows-Server E Solution:** What does Windows ACL stand for?. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-E038",
+      "question": "Common protocol for Windows-Server remote access?",
+      "options": [
+        "Correct Windows-Server procedure",
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "e",
+      "explanation": "**Windows-Server E Solution:** Common protocol for Windows-Server remote access?. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-E039",
+      "question": "Default subnet mask for Class C network in Windows-Server?",
+      "options": [
+        "Dangerous method",
+        "Correct Windows-Server procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "e",
+      "explanation": "**Windows-Server E Solution:** Default subnet mask for Class C network in Windows-Server?. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-E040",
+      "question": "Common protocol for Windows-Server remote access?",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Windows-Server procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "e",
+      "explanation": "**Windows-Server E Solution:** Common protocol for Windows-Server remote access?. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-E041",
+      "question": "What is the primary function of Windows DHCP?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Windows-Server procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "e",
+      "explanation": "**Windows-Server E Solution:** What is the primary function of Windows DHCP?. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-E042",
+      "question": "Which port does Windows-Server service use by default?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Windows-Server procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "e",
+      "explanation": "**Windows-Server E Solution:** Which port does Windows-Server service use by default?. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-E043",
+      "question": "What is the primary function of Windows DHCP?",
+      "options": [
+        "Incorrect approach",
+        "Correct Windows-Server procedure",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "e",
+      "explanation": "**Windows-Server E Solution:** What is the primary function of Windows DHCP?. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-E044",
+      "question": "What does Windows ACL stand for?",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Correct Windows-Server procedure",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "e",
+      "explanation": "**Windows-Server E Solution:** What does Windows ACL stand for?. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-E045",
+      "question": "Which port does Windows-Server service use by default?",
+      "options": [
+        "Dangerous method",
+        "Correct Windows-Server procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "e",
+      "explanation": "**Windows-Server E Solution:** Which port does Windows-Server service use by default?. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-E046",
+      "question": "What is the primary function of Windows DHCP?",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Windows-Server procedure"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "e",
+      "explanation": "**Windows-Server E Solution:** What is the primary function of Windows DHCP?. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-E047",
+      "question": "Which port does Windows-Server service use by default?",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Windows-Server procedure"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "e",
+      "explanation": "**Windows-Server E Solution:** Which port does Windows-Server service use by default?. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-E048",
+      "question": "Which port does Windows-Server service use by default?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Windows-Server procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "e",
+      "explanation": "**Windows-Server E Solution:** Which port does Windows-Server service use by default?. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-E049",
+      "question": "What does Windows ACL stand for?",
+      "options": [
+        "Correct Windows-Server procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "e",
+      "explanation": "**Windows-Server E Solution:** What does Windows ACL stand for?. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-E050",
+      "question": "Which port does Windows-Server service use by default?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Windows-Server procedure"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "e",
+      "explanation": "**Windows-Server E Solution:** Which port does Windows-Server service use by default?. Always verify Windows-Server documentation and test in lab environment first."
+    }
+  ],
+  "medium": [
+    {
+      "id": "Windows-Server-M001",
+      "question": "Optimize Windows-Server query performance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Windows-Server procedure"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "m",
+      "explanation": "**Windows-Server M Solution:** Optimize Windows-Server query performance. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-M002",
+      "question": "Troubleshoot Windows-Server connectivity issue between VLANs",
+      "options": [
+        "Partially correct",
+        "Correct Windows-Server procedure",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "m",
+      "explanation": "**Windows-Server M Solution:** Troubleshoot Windows-Server connectivity issue between VLANs. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-M003",
+      "question": "Implement Windows-Server backup strategy for compliance",
+      "options": [
+        "Correct Windows-Server procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "m",
+      "explanation": "**Windows-Server M Solution:** Implement Windows-Server backup strategy for compliance. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-M004",
+      "question": "Optimize Windows-Server query performance",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Windows-Server procedure"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "m",
+      "explanation": "**Windows-Server M Solution:** Optimize Windows-Server query performance. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-M005",
+      "question": "Configure Windows-Server load balancer for high availability",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Windows-Server procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "m",
+      "explanation": "**Windows-Server M Solution:** Configure Windows-Server load balancer for high availability. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-M006",
+      "question": "Configure Windows-Server load balancer for high availability",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Correct Windows-Server procedure",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "m",
+      "explanation": "**Windows-Server M Solution:** Configure Windows-Server load balancer for high availability. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-M007",
+      "question": "Troubleshoot Windows-Server connectivity issue between VLANs",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Windows-Server procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "m",
+      "explanation": "**Windows-Server M Solution:** Troubleshoot Windows-Server connectivity issue between VLANs. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-M008",
+      "question": "Troubleshoot Windows-Server connectivity issue between VLANs",
+      "options": [
+        "Dangerous method",
+        "Correct Windows-Server procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "m",
+      "explanation": "**Windows-Server M Solution:** Troubleshoot Windows-Server connectivity issue between VLANs. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-M009",
+      "question": "Implement Windows-Server backup strategy for compliance",
+      "options": [
+        "Dangerous method",
+        "Correct Windows-Server procedure",
+        "Incorrect approach",
+        "Partially correct"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "m",
+      "explanation": "**Windows-Server M Solution:** Implement Windows-Server backup strategy for compliance. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-M010",
+      "question": "Troubleshoot Windows-Server connectivity issue between VLANs",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Windows-Server procedure"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "m",
+      "explanation": "**Windows-Server M Solution:** Troubleshoot Windows-Server connectivity issue between VLANs. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-M011",
+      "question": "Set up Windows-Server failover clustering",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Windows-Server procedure"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "m",
+      "explanation": "**Windows-Server M Solution:** Set up Windows-Server failover clustering. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-M012",
+      "question": "Implement Windows-Server backup strategy for compliance",
+      "options": [
+        "Correct Windows-Server procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "m",
+      "explanation": "**Windows-Server M Solution:** Implement Windows-Server backup strategy for compliance. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-M013",
+      "question": "Troubleshoot Windows-Server connectivity issue between VLANs",
+      "options": [
+        "Correct Windows-Server procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "m",
+      "explanation": "**Windows-Server M Solution:** Troubleshoot Windows-Server connectivity issue between VLANs. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-M014",
+      "question": "Configure Windows-Server load balancer for high availability",
+      "options": [
+        "Correct Windows-Server procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "m",
+      "explanation": "**Windows-Server M Solution:** Configure Windows-Server load balancer for high availability. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-M015",
+      "question": "Troubleshoot Windows-Server connectivity issue between VLANs",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Windows-Server procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "m",
+      "explanation": "**Windows-Server M Solution:** Troubleshoot Windows-Server connectivity issue between VLANs. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-M016",
+      "question": "Set up Windows-Server failover clustering",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Windows-Server procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "m",
+      "explanation": "**Windows-Server M Solution:** Set up Windows-Server failover clustering. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-M017",
+      "question": "Optimize Windows-Server query performance",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Windows-Server procedure"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "m",
+      "explanation": "**Windows-Server M Solution:** Optimize Windows-Server query performance. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-M018",
+      "question": "Optimize Windows-Server query performance",
+      "options": [
+        "Dangerous method",
+        "Correct Windows-Server procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "m",
+      "explanation": "**Windows-Server M Solution:** Optimize Windows-Server query performance. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-M019",
+      "question": "Implement Windows-Server backup strategy for compliance",
+      "options": [
+        "Dangerous method",
+        "Correct Windows-Server procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "m",
+      "explanation": "**Windows-Server M Solution:** Implement Windows-Server backup strategy for compliance. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-M020",
+      "question": "Configure Windows-Server load balancer for high availability",
+      "options": [
+        "Dangerous method",
+        "Correct Windows-Server procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "m",
+      "explanation": "**Windows-Server M Solution:** Configure Windows-Server load balancer for high availability. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-M021",
+      "question": "Implement Windows-Server backup strategy for compliance",
+      "options": [
+        "Dangerous method",
+        "Correct Windows-Server procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "m",
+      "explanation": "**Windows-Server M Solution:** Implement Windows-Server backup strategy for compliance. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-M022",
+      "question": "Implement Windows-Server backup strategy for compliance",
+      "options": [
+        "Dangerous method",
+        "Correct Windows-Server procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "m",
+      "explanation": "**Windows-Server M Solution:** Implement Windows-Server backup strategy for compliance. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-M023",
+      "question": "Troubleshoot Windows-Server connectivity issue between VLANs",
+      "options": [
+        "Dangerous method",
+        "Correct Windows-Server procedure",
+        "Incorrect approach",
+        "Partially correct"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "m",
+      "explanation": "**Windows-Server M Solution:** Troubleshoot Windows-Server connectivity issue between VLANs. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-M024",
+      "question": "Troubleshoot Windows-Server connectivity issue between VLANs",
+      "options": [
+        "Dangerous method",
+        "Correct Windows-Server procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "m",
+      "explanation": "**Windows-Server M Solution:** Troubleshoot Windows-Server connectivity issue between VLANs. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-M025",
+      "question": "Optimize Windows-Server query performance",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Windows-Server procedure"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "m",
+      "explanation": "**Windows-Server M Solution:** Optimize Windows-Server query performance. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-M026",
+      "question": "Troubleshoot Windows-Server connectivity issue between VLANs",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Windows-Server procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "m",
+      "explanation": "**Windows-Server M Solution:** Troubleshoot Windows-Server connectivity issue between VLANs. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-M027",
+      "question": "Implement Windows-Server backup strategy for compliance",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Windows-Server procedure"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "m",
+      "explanation": "**Windows-Server M Solution:** Implement Windows-Server backup strategy for compliance. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-M028",
+      "question": "Optimize Windows-Server query performance",
+      "options": [
+        "Correct Windows-Server procedure",
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "m",
+      "explanation": "**Windows-Server M Solution:** Optimize Windows-Server query performance. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-M029",
+      "question": "Configure Windows-Server load balancer for high availability",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Correct Windows-Server procedure",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "m",
+      "explanation": "**Windows-Server M Solution:** Configure Windows-Server load balancer for high availability. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-M030",
+      "question": "Configure Windows-Server load balancer for high availability",
+      "options": [
+        "Dangerous method",
+        "Correct Windows-Server procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "m",
+      "explanation": "**Windows-Server M Solution:** Configure Windows-Server load balancer for high availability. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-M031",
+      "question": "Implement Windows-Server backup strategy for compliance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Windows-Server procedure"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "m",
+      "explanation": "**Windows-Server M Solution:** Implement Windows-Server backup strategy for compliance. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-M032",
+      "question": "Set up Windows-Server failover clustering",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Windows-Server procedure"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "m",
+      "explanation": "**Windows-Server M Solution:** Set up Windows-Server failover clustering. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-M033",
+      "question": "Implement Windows-Server backup strategy for compliance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Windows-Server procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "m",
+      "explanation": "**Windows-Server M Solution:** Implement Windows-Server backup strategy for compliance. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-M034",
+      "question": "Implement Windows-Server backup strategy for compliance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Windows-Server procedure"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "m",
+      "explanation": "**Windows-Server M Solution:** Implement Windows-Server backup strategy for compliance. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-M035",
+      "question": "Set up Windows-Server failover clustering",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Windows-Server procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "m",
+      "explanation": "**Windows-Server M Solution:** Set up Windows-Server failover clustering. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-M036",
+      "question": "Set up Windows-Server failover clustering",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Windows-Server procedure"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "m",
+      "explanation": "**Windows-Server M Solution:** Set up Windows-Server failover clustering. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-M037",
+      "question": "Implement Windows-Server backup strategy for compliance",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Windows-Server procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "m",
+      "explanation": "**Windows-Server M Solution:** Implement Windows-Server backup strategy for compliance. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-M038",
+      "question": "Optimize Windows-Server query performance",
+      "options": [
+        "Correct Windows-Server procedure",
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "m",
+      "explanation": "**Windows-Server M Solution:** Optimize Windows-Server query performance. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-M039",
+      "question": "Set up Windows-Server failover clustering",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Windows-Server procedure"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "m",
+      "explanation": "**Windows-Server M Solution:** Set up Windows-Server failover clustering. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-M040",
+      "question": "Optimize Windows-Server query performance",
+      "options": [
+        "Correct Windows-Server procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "m",
+      "explanation": "**Windows-Server M Solution:** Optimize Windows-Server query performance. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-M041",
+      "question": "Optimize Windows-Server query performance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Windows-Server procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "m",
+      "explanation": "**Windows-Server M Solution:** Optimize Windows-Server query performance. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-M042",
+      "question": "Implement Windows-Server backup strategy for compliance",
+      "options": [
+        "Correct Windows-Server procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "m",
+      "explanation": "**Windows-Server M Solution:** Implement Windows-Server backup strategy for compliance. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-M043",
+      "question": "Optimize Windows-Server query performance",
+      "options": [
+        "Dangerous method",
+        "Correct Windows-Server procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "m",
+      "explanation": "**Windows-Server M Solution:** Optimize Windows-Server query performance. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-M044",
+      "question": "Optimize Windows-Server query performance",
+      "options": [
+        "Correct Windows-Server procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "m",
+      "explanation": "**Windows-Server M Solution:** Optimize Windows-Server query performance. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-M045",
+      "question": "Troubleshoot Windows-Server connectivity issue between VLANs",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Windows-Server procedure"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "m",
+      "explanation": "**Windows-Server M Solution:** Troubleshoot Windows-Server connectivity issue between VLANs. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-M046",
+      "question": "Optimize Windows-Server query performance",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Windows-Server procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "m",
+      "explanation": "**Windows-Server M Solution:** Optimize Windows-Server query performance. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-M047",
+      "question": "Set up Windows-Server failover clustering",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Windows-Server procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "m",
+      "explanation": "**Windows-Server M Solution:** Set up Windows-Server failover clustering. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-M048",
+      "question": "Optimize Windows-Server query performance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Windows-Server procedure"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "m",
+      "explanation": "**Windows-Server M Solution:** Optimize Windows-Server query performance. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-M049",
+      "question": "Implement Windows-Server backup strategy for compliance",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Windows-Server procedure"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "m",
+      "explanation": "**Windows-Server M Solution:** Implement Windows-Server backup strategy for compliance. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-M050",
+      "question": "Implement Windows-Server backup strategy for compliance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Windows-Server procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "m",
+      "explanation": "**Windows-Server M Solution:** Implement Windows-Server backup strategy for compliance. Always verify Windows-Server documentation and test in lab environment first."
+    }
+  ],
+  "hard": [
+    {
+      "id": "Windows-Server-H001",
+      "question": "Design Windows-Server architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Dangerous method",
+        "Correct Windows-Server procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "h",
+      "explanation": "**Windows-Server H Solution:** Design Windows-Server architecture for 10k users with 99.99% uptime. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-H002",
+      "question": "Implement zero-trust security model in Windows-Server",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Windows-Server procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "h",
+      "explanation": "**Windows-Server H Solution:** Implement zero-trust security model in Windows-Server. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-H003",
+      "question": "Design Windows-Server architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Dangerous method",
+        "Correct Windows-Server procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "h",
+      "explanation": "**Windows-Server H Solution:** Design Windows-Server architecture for 10k users with 99.99% uptime. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-H004",
+      "question": "Design Windows-Server architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Dangerous method",
+        "Correct Windows-Server procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "h",
+      "explanation": "**Windows-Server H Solution:** Design Windows-Server architecture for 10k users with 99.99% uptime. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-H005",
+      "question": "Design Windows-Server architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Windows-Server procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "h",
+      "explanation": "**Windows-Server H Solution:** Design Windows-Server architecture for 10k users with 99.99% uptime. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-H006",
+      "question": "Implement zero-trust security model in Windows-Server",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Windows-Server procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "h",
+      "explanation": "**Windows-Server H Solution:** Implement zero-trust security model in Windows-Server. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-H007",
+      "question": "Migrate legacy Windows-Server systems to cloud-native architecture",
+      "options": [
+        "Correct Windows-Server procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "h",
+      "explanation": "**Windows-Server H Solution:** Migrate legacy Windows-Server systems to cloud-native architecture. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-H008",
+      "question": "Migrate legacy Windows-Server systems to cloud-native architecture",
+      "options": [
+        "Dangerous method",
+        "Correct Windows-Server procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "h",
+      "explanation": "**Windows-Server H Solution:** Migrate legacy Windows-Server systems to cloud-native architecture. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-H009",
+      "question": "Optimize Windows-Server performance under DDoS attack",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Windows-Server procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "h",
+      "explanation": "**Windows-Server H Solution:** Optimize Windows-Server performance under DDoS attack. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-H010",
+      "question": "Implement zero-trust security model in Windows-Server",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Windows-Server procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "h",
+      "explanation": "**Windows-Server H Solution:** Implement zero-trust security model in Windows-Server. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-H011",
+      "question": "Implement zero-trust security model in Windows-Server",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Windows-Server procedure"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "h",
+      "explanation": "**Windows-Server H Solution:** Implement zero-trust security model in Windows-Server. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-H012",
+      "question": "Migrate legacy Windows-Server systems to cloud-native architecture",
+      "options": [
+        "Dangerous method",
+        "Correct Windows-Server procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "h",
+      "explanation": "**Windows-Server H Solution:** Migrate legacy Windows-Server systems to cloud-native architecture. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-H013",
+      "question": "Implement zero-trust security model in Windows-Server",
+      "options": [
+        "Partially correct",
+        "Correct Windows-Server procedure",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "h",
+      "explanation": "**Windows-Server H Solution:** Implement zero-trust security model in Windows-Server. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-H014",
+      "question": "Migrate legacy Windows-Server systems to cloud-native architecture",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Windows-Server procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "h",
+      "explanation": "**Windows-Server H Solution:** Migrate legacy Windows-Server systems to cloud-native architecture. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-H015",
+      "question": "Design Windows-Server architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Windows-Server procedure"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "h",
+      "explanation": "**Windows-Server H Solution:** Design Windows-Server architecture for 10k users with 99.99% uptime. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-H016",
+      "question": "Optimize Windows-Server performance under DDoS attack",
+      "options": [
+        "Correct Windows-Server procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "h",
+      "explanation": "**Windows-Server H Solution:** Optimize Windows-Server performance under DDoS attack. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-H017",
+      "question": "Migrate legacy Windows-Server systems to cloud-native architecture",
+      "options": [
+        "Correct Windows-Server procedure",
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "h",
+      "explanation": "**Windows-Server H Solution:** Migrate legacy Windows-Server systems to cloud-native architecture. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-H018",
+      "question": "Migrate legacy Windows-Server systems to cloud-native architecture",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Windows-Server procedure"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "h",
+      "explanation": "**Windows-Server H Solution:** Migrate legacy Windows-Server systems to cloud-native architecture. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-H019",
+      "question": "Implement zero-trust security model in Windows-Server",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Windows-Server procedure"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "h",
+      "explanation": "**Windows-Server H Solution:** Implement zero-trust security model in Windows-Server. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-H020",
+      "question": "Create disaster recovery plan with RTO < 15min for Windows-Server",
+      "options": [
+        "Correct Windows-Server procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "h",
+      "explanation": "**Windows-Server H Solution:** Create disaster recovery plan with RTO < 15min for Windows-Server. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-H021",
+      "question": "Optimize Windows-Server performance under DDoS attack",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Windows-Server procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "h",
+      "explanation": "**Windows-Server H Solution:** Optimize Windows-Server performance under DDoS attack. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-H022",
+      "question": "Create disaster recovery plan with RTO < 15min for Windows-Server",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Windows-Server procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "h",
+      "explanation": "**Windows-Server H Solution:** Create disaster recovery plan with RTO < 15min for Windows-Server. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-H023",
+      "question": "Design Windows-Server architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Windows-Server procedure"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "h",
+      "explanation": "**Windows-Server H Solution:** Design Windows-Server architecture for 10k users with 99.99% uptime. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-H024",
+      "question": "Create disaster recovery plan with RTO < 15min for Windows-Server",
+      "options": [
+        "Correct Windows-Server procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "h",
+      "explanation": "**Windows-Server H Solution:** Create disaster recovery plan with RTO < 15min for Windows-Server. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-H025",
+      "question": "Migrate legacy Windows-Server systems to cloud-native architecture",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Windows-Server procedure"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "h",
+      "explanation": "**Windows-Server H Solution:** Migrate legacy Windows-Server systems to cloud-native architecture. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-H026",
+      "question": "Optimize Windows-Server performance under DDoS attack",
+      "options": [
+        "Correct Windows-Server procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "h",
+      "explanation": "**Windows-Server H Solution:** Optimize Windows-Server performance under DDoS attack. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-H027",
+      "question": "Create disaster recovery plan with RTO < 15min for Windows-Server",
+      "options": [
+        "Partially correct",
+        "Correct Windows-Server procedure",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "h",
+      "explanation": "**Windows-Server H Solution:** Create disaster recovery plan with RTO < 15min for Windows-Server. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-H028",
+      "question": "Create disaster recovery plan with RTO < 15min for Windows-Server",
+      "options": [
+        "Correct Windows-Server procedure",
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "h",
+      "explanation": "**Windows-Server H Solution:** Create disaster recovery plan with RTO < 15min for Windows-Server. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-H029",
+      "question": "Design Windows-Server architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Correct Windows-Server procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "h",
+      "explanation": "**Windows-Server H Solution:** Design Windows-Server architecture for 10k users with 99.99% uptime. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-H030",
+      "question": "Migrate legacy Windows-Server systems to cloud-native architecture",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Windows-Server procedure"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "h",
+      "explanation": "**Windows-Server H Solution:** Migrate legacy Windows-Server systems to cloud-native architecture. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-H031",
+      "question": "Migrate legacy Windows-Server systems to cloud-native architecture",
+      "options": [
+        "Correct Windows-Server procedure",
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "h",
+      "explanation": "**Windows-Server H Solution:** Migrate legacy Windows-Server systems to cloud-native architecture. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-H032",
+      "question": "Design Windows-Server architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Windows-Server procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "h",
+      "explanation": "**Windows-Server H Solution:** Design Windows-Server architecture for 10k users with 99.99% uptime. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-H033",
+      "question": "Implement zero-trust security model in Windows-Server",
+      "options": [
+        "Correct Windows-Server procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "h",
+      "explanation": "**Windows-Server H Solution:** Implement zero-trust security model in Windows-Server. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-H034",
+      "question": "Optimize Windows-Server performance under DDoS attack",
+      "options": [
+        "Correct Windows-Server procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "h",
+      "explanation": "**Windows-Server H Solution:** Optimize Windows-Server performance under DDoS attack. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-H035",
+      "question": "Migrate legacy Windows-Server systems to cloud-native architecture",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Windows-Server procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "h",
+      "explanation": "**Windows-Server H Solution:** Migrate legacy Windows-Server systems to cloud-native architecture. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-H036",
+      "question": "Design Windows-Server architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Windows-Server procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "h",
+      "explanation": "**Windows-Server H Solution:** Design Windows-Server architecture for 10k users with 99.99% uptime. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-H037",
+      "question": "Create disaster recovery plan with RTO < 15min for Windows-Server",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Windows-Server procedure"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "h",
+      "explanation": "**Windows-Server H Solution:** Create disaster recovery plan with RTO < 15min for Windows-Server. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-H038",
+      "question": "Optimize Windows-Server performance under DDoS attack",
+      "options": [
+        "Correct Windows-Server procedure",
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "h",
+      "explanation": "**Windows-Server H Solution:** Optimize Windows-Server performance under DDoS attack. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-H039",
+      "question": "Optimize Windows-Server performance under DDoS attack",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Correct Windows-Server procedure",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "h",
+      "explanation": "**Windows-Server H Solution:** Optimize Windows-Server performance under DDoS attack. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-H040",
+      "question": "Optimize Windows-Server performance under DDoS attack",
+      "options": [
+        "Dangerous method",
+        "Correct Windows-Server procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "h",
+      "explanation": "**Windows-Server H Solution:** Optimize Windows-Server performance under DDoS attack. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-H041",
+      "question": "Optimize Windows-Server performance under DDoS attack",
+      "options": [
+        "Correct Windows-Server procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "h",
+      "explanation": "**Windows-Server H Solution:** Optimize Windows-Server performance under DDoS attack. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-H042",
+      "question": "Design Windows-Server architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Correct Windows-Server procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "h",
+      "explanation": "**Windows-Server H Solution:** Design Windows-Server architecture for 10k users with 99.99% uptime. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-H043",
+      "question": "Design Windows-Server architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Dangerous method",
+        "Correct Windows-Server procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "h",
+      "explanation": "**Windows-Server H Solution:** Design Windows-Server architecture for 10k users with 99.99% uptime. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-H044",
+      "question": "Migrate legacy Windows-Server systems to cloud-native architecture",
+      "options": [
+        "Dangerous method",
+        "Correct Windows-Server procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "h",
+      "explanation": "**Windows-Server H Solution:** Migrate legacy Windows-Server systems to cloud-native architecture. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-H045",
+      "question": "Implement zero-trust security model in Windows-Server",
+      "options": [
+        "Dangerous method",
+        "Correct Windows-Server procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "h",
+      "explanation": "**Windows-Server H Solution:** Implement zero-trust security model in Windows-Server. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-H046",
+      "question": "Implement zero-trust security model in Windows-Server",
+      "options": [
+        "Dangerous method",
+        "Correct Windows-Server procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "h",
+      "explanation": "**Windows-Server H Solution:** Implement zero-trust security model in Windows-Server. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-H047",
+      "question": "Implement zero-trust security model in Windows-Server",
+      "options": [
+        "Correct Windows-Server procedure",
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "h",
+      "explanation": "**Windows-Server H Solution:** Implement zero-trust security model in Windows-Server. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-H048",
+      "question": "Design Windows-Server architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Windows-Server procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "h",
+      "explanation": "**Windows-Server H Solution:** Design Windows-Server architecture for 10k users with 99.99% uptime. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-H049",
+      "question": "Implement zero-trust security model in Windows-Server",
+      "options": [
+        "Partially correct",
+        "Correct Windows-Server procedure",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "h",
+      "explanation": "**Windows-Server H Solution:** Implement zero-trust security model in Windows-Server. Always verify Windows-Server documentation and test in lab environment first."
+    },
+    {
+      "id": "Windows-Server-H050",
+      "question": "Create disaster recovery plan with RTO < 15min for Windows-Server",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Windows-Server procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Windows-Server procedure",
+      "difficulty": "h",
+      "explanation": "**Windows-Server H Solution:** Create disaster recovery plan with RTO < 15min for Windows-Server. Always verify Windows-Server documentation and test in lab environment first."
+    }
+  ],
+  "scenarios": [
+    {
+      "id": "Windows-Server-S01-01",
+      "question": "1. Cloud migration failure: rollback strategy in Windows-Server environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S01-02",
+      "question": "1. Cloud migration failure: rollback strategy in Windows-Server environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S01-03",
+      "question": "1. Cloud migration failure: rollback strategy in Windows-Server environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S01-04",
+      "question": "1. Cloud migration failure: rollback strategy in Windows-Server environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S01-05",
+      "question": "1. Cloud migration failure: rollback strategy in Windows-Server environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S02-01",
+      "question": "2. Load balancer health check failing in Windows-Server environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S02-02",
+      "question": "2. Load balancer health check failing in Windows-Server environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S02-03",
+      "question": "2. Load balancer health check failing in Windows-Server environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S02-04",
+      "question": "2. Load balancer health check failing in Windows-Server environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S02-05",
+      "question": "2. Load balancer health check failing in Windows-Server environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S03-01",
+      "question": "3. Production outage during peak hours: diagnose and resolve in Windows-Server environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S03-02",
+      "question": "3. Production outage during peak hours: diagnose and resolve in Windows-Server environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S03-03",
+      "question": "3. Production outage during peak hours: diagnose and resolve in Windows-Server environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S03-04",
+      "question": "3. Production outage during peak hours: diagnose and resolve in Windows-Server environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S03-05",
+      "question": "3. Production outage during peak hours: diagnose and resolve in Windows-Server environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S04-01",
+      "question": "4. Network latency issue affecting VoIP calls in Windows-Server environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S04-02",
+      "question": "4. Network latency issue affecting VoIP calls in Windows-Server environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S04-03",
+      "question": "4. Network latency issue affecting VoIP calls in Windows-Server environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S04-04",
+      "question": "4. Network latency issue affecting VoIP calls in Windows-Server environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S04-05",
+      "question": "4. Network latency issue affecting VoIP calls in Windows-Server environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S05-01",
+      "question": "5. Database performance degradation after upgrade in Windows-Server environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S05-02",
+      "question": "5. Database performance degradation after upgrade in Windows-Server environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S05-03",
+      "question": "5. Database performance degradation after upgrade in Windows-Server environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S05-04",
+      "question": "5. Database performance degradation after upgrade in Windows-Server environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S05-05",
+      "question": "5. Database performance degradation after upgrade in Windows-Server environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S06-01",
+      "question": "6. Database performance degradation after upgrade in Windows-Server environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S06-02",
+      "question": "6. Database performance degradation after upgrade in Windows-Server environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S06-03",
+      "question": "6. Database performance degradation after upgrade in Windows-Server environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S06-04",
+      "question": "6. Database performance degradation after upgrade in Windows-Server environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S06-05",
+      "question": "6. Database performance degradation after upgrade in Windows-Server environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S07-01",
+      "question": "7. Firewall blocking legitimate traffic in Windows-Server environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S07-02",
+      "question": "7. Firewall blocking legitimate traffic in Windows-Server environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S07-03",
+      "question": "7. Firewall blocking legitimate traffic in Windows-Server environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S07-04",
+      "question": "7. Firewall blocking legitimate traffic in Windows-Server environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S07-05",
+      "question": "7. Firewall blocking legitimate traffic in Windows-Server environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S08-01",
+      "question": "8. Server overload during quarterly report generation in Windows-Server environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S08-02",
+      "question": "8. Server overload during quarterly report generation in Windows-Server environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S08-03",
+      "question": "8. Server overload during quarterly report generation in Windows-Server environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S08-04",
+      "question": "8. Server overload during quarterly report generation in Windows-Server environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S08-05",
+      "question": "8. Server overload during quarterly report generation in Windows-Server environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S09-01",
+      "question": "9. Server overload during quarterly report generation in Windows-Server environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S09-02",
+      "question": "9. Server overload during quarterly report generation in Windows-Server environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S09-03",
+      "question": "9. Server overload during quarterly report generation in Windows-Server environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S09-04",
+      "question": "9. Server overload during quarterly report generation in Windows-Server environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S09-05",
+      "question": "9. Server overload during quarterly report generation in Windows-Server environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S10-01",
+      "question": "10. Database performance degradation after upgrade in Windows-Server environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S10-02",
+      "question": "10. Database performance degradation after upgrade in Windows-Server environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S10-03",
+      "question": "10. Database performance degradation after upgrade in Windows-Server environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S10-04",
+      "question": "10. Database performance degradation after upgrade in Windows-Server environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S10-05",
+      "question": "10. Database performance degradation after upgrade in Windows-Server environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S11-01",
+      "question": "11. VPN connectivity failure for remote users in Windows-Server environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S11-02",
+      "question": "11. VPN connectivity failure for remote users in Windows-Server environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S11-03",
+      "question": "11. VPN connectivity failure for remote users in Windows-Server environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S11-04",
+      "question": "11. VPN connectivity failure for remote users in Windows-Server environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S11-05",
+      "question": "11. VPN connectivity failure for remote users in Windows-Server environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S12-01",
+      "question": "12. Security incident response: ransomware attack detected in Windows-Server environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S12-02",
+      "question": "12. Security incident response: ransomware attack detected in Windows-Server environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S12-03",
+      "question": "12. Security incident response: ransomware attack detected in Windows-Server environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S12-04",
+      "question": "12. Security incident response: ransomware attack detected in Windows-Server environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S12-05",
+      "question": "12. Security incident response: ransomware attack detected in Windows-Server environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S13-01",
+      "question": "13. Cloud migration failure: rollback strategy in Windows-Server environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S13-02",
+      "question": "13. Cloud migration failure: rollback strategy in Windows-Server environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S13-03",
+      "question": "13. Cloud migration failure: rollback strategy in Windows-Server environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S13-04",
+      "question": "13. Cloud migration failure: rollback strategy in Windows-Server environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S13-05",
+      "question": "13. Cloud migration failure: rollback strategy in Windows-Server environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S14-01",
+      "question": "14. Cloud migration failure: rollback strategy in Windows-Server environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S14-02",
+      "question": "14. Cloud migration failure: rollback strategy in Windows-Server environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S14-03",
+      "question": "14. Cloud migration failure: rollback strategy in Windows-Server environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S14-04",
+      "question": "14. Cloud migration failure: rollback strategy in Windows-Server environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S14-05",
+      "question": "14. Cloud migration failure: rollback strategy in Windows-Server environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S15-01",
+      "question": "15. Production outage during peak hours: diagnose and resolve in Windows-Server environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S15-02",
+      "question": "15. Production outage during peak hours: diagnose and resolve in Windows-Server environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S15-03",
+      "question": "15. Production outage during peak hours: diagnose and resolve in Windows-Server environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S15-04",
+      "question": "15. Production outage during peak hours: diagnose and resolve in Windows-Server environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S15-05",
+      "question": "15. Production outage during peak hours: diagnose and resolve in Windows-Server environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S16-01",
+      "question": "16. Server overload during quarterly report generation in Windows-Server environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S16-02",
+      "question": "16. Server overload during quarterly report generation in Windows-Server environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S16-03",
+      "question": "16. Server overload during quarterly report generation in Windows-Server environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S16-04",
+      "question": "16. Server overload during quarterly report generation in Windows-Server environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S16-05",
+      "question": "16. Server overload during quarterly report generation in Windows-Server environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S17-01",
+      "question": "17. Server overload during quarterly report generation in Windows-Server environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S17-02",
+      "question": "17. Server overload during quarterly report generation in Windows-Server environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S17-03",
+      "question": "17. Server overload during quarterly report generation in Windows-Server environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S17-04",
+      "question": "17. Server overload during quarterly report generation in Windows-Server environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S17-05",
+      "question": "17. Server overload during quarterly report generation in Windows-Server environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S18-01",
+      "question": "18. Database performance degradation after upgrade in Windows-Server environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S18-02",
+      "question": "18. Database performance degradation after upgrade in Windows-Server environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S18-03",
+      "question": "18. Database performance degradation after upgrade in Windows-Server environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S18-04",
+      "question": "18. Database performance degradation after upgrade in Windows-Server environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S18-05",
+      "question": "18. Database performance degradation after upgrade in Windows-Server environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S19-01",
+      "question": "19. Security incident response: ransomware attack detected in Windows-Server environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S19-02",
+      "question": "19. Security incident response: ransomware attack detected in Windows-Server environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S19-03",
+      "question": "19. Security incident response: ransomware attack detected in Windows-Server environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S19-04",
+      "question": "19. Security incident response: ransomware attack detected in Windows-Server environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S19-05",
+      "question": "19. Security incident response: ransomware attack detected in Windows-Server environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S20-01",
+      "question": "20. Database performance degradation after upgrade in Windows-Server environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S20-02",
+      "question": "20. Database performance degradation after upgrade in Windows-Server environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S20-03",
+      "question": "20. Database performance degradation after upgrade in Windows-Server environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S20-04",
+      "question": "20. Database performance degradation after upgrade in Windows-Server environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Windows-Server-S20-05",
+      "question": "20. Database performance degradation after upgrade in Windows-Server environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Windows-Server troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Windows-Server troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Windows-Server best practices. Document all steps for RCA."
+    }
+  ]
+}

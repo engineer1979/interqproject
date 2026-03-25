@@ -1,0 +1,210 @@
+[
+  {
+    "id": "Disaster-Recovery-I01",
+    "title": "Disaster-Recovery Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Disaster-Recovery certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain Disaster-Recovery HA design",
+      "Troubleshoot Disaster-Recovery outage",
+      "Scale Disaster-Recovery for 100k users"
+    ],
+    "expected_skills": [
+      "Production Disaster-Recovery experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Disaster-Recovery-I02",
+    "title": "Disaster-Recovery Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Disaster-Recovery certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain Disaster-Recovery HA design",
+      "Troubleshoot Disaster-Recovery outage",
+      "Scale Disaster-Recovery for 100k users"
+    ],
+    "expected_skills": [
+      "Production Disaster-Recovery experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Disaster-Recovery-I03",
+    "title": "Disaster-Recovery Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Disaster-Recovery certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain Disaster-Recovery HA design",
+      "Troubleshoot Disaster-Recovery outage",
+      "Scale Disaster-Recovery for 100k users"
+    ],
+    "expected_skills": [
+      "Production Disaster-Recovery experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Disaster-Recovery-I04",
+    "title": "Disaster-Recovery Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Disaster-Recovery certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain Disaster-Recovery HA design",
+      "Troubleshoot Disaster-Recovery outage",
+      "Scale Disaster-Recovery for 100k users"
+    ],
+    "expected_skills": [
+      "Production Disaster-Recovery experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Disaster-Recovery-I05",
+    "title": "Disaster-Recovery Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Disaster-Recovery certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain Disaster-Recovery HA design",
+      "Troubleshoot Disaster-Recovery outage",
+      "Scale Disaster-Recovery for 100k users"
+    ],
+    "expected_skills": [
+      "Production Disaster-Recovery experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Disaster-Recovery-I06",
+    "title": "Disaster-Recovery Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Disaster-Recovery certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain Disaster-Recovery HA design",
+      "Troubleshoot Disaster-Recovery outage",
+      "Scale Disaster-Recovery for 100k users"
+    ],
+    "expected_skills": [
+      "Production Disaster-Recovery experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Disaster-Recovery-I07",
+    "title": "Disaster-Recovery Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Disaster-Recovery certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain Disaster-Recovery HA design",
+      "Troubleshoot Disaster-Recovery outage",
+      "Scale Disaster-Recovery for 100k users"
+    ],
+    "expected_skills": [
+      "Production Disaster-Recovery experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Disaster-Recovery-I08",
+    "title": "Disaster-Recovery Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Disaster-Recovery certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain Disaster-Recovery HA design",
+      "Troubleshoot Disaster-Recovery outage",
+      "Scale Disaster-Recovery for 100k users"
+    ],
+    "expected_skills": [
+      "Production Disaster-Recovery experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Disaster-Recovery-I09",
+    "title": "Disaster-Recovery Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Disaster-Recovery certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain Disaster-Recovery HA design",
+      "Troubleshoot Disaster-Recovery outage",
+      "Scale Disaster-Recovery for 100k users"
+    ],
+    "expected_skills": [
+      "Production Disaster-Recovery experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Disaster-Recovery-I10",
+    "title": "Disaster-Recovery Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Disaster-Recovery certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain Disaster-Recovery HA design",
+      "Troubleshoot Disaster-Recovery outage",
+      "Scale Disaster-Recovery for 100k users"
+    ],
+    "expected_skills": [
+      "Production Disaster-Recovery experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  }
+]

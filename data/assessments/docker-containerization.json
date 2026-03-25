@@ -1,0 +1,3252 @@
+[
+  {
+    "id": "Docker-Containerization-E001",
+    "question": "Common protocol for Docker-Containerization remote access?",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct Docker-Containerization procedure",
+      "Partially correct"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "e",
+    "explanation": "**Docker-Containerization E Solution:** Common protocol for Docker-Containerization remote access?. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-E002",
+    "question": "Default subnet mask for Class C network in Docker-Containerization?",
+    "options": [
+      "Correct Docker-Containerization procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "e",
+    "explanation": "**Docker-Containerization E Solution:** Default subnet mask for Class C network in Docker-Containerization?. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-E003",
+    "question": "What does Docker ACL stand for?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct Docker-Containerization procedure"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "e",
+    "explanation": "**Docker-Containerization E Solution:** What does Docker ACL stand for?. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-E004",
+    "question": "What does Docker ACL stand for?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct Docker-Containerization procedure"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "e",
+    "explanation": "**Docker-Containerization E Solution:** What does Docker ACL stand for?. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-E005",
+    "question": "Which port does Docker-Containerization service use by default?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Docker-Containerization procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "e",
+    "explanation": "**Docker-Containerization E Solution:** Which port does Docker-Containerization service use by default?. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-E006",
+    "question": "What is the primary function of Docker DHCP?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct Docker-Containerization procedure"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "e",
+    "explanation": "**Docker-Containerization E Solution:** What is the primary function of Docker DHCP?. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-E007",
+    "question": "Default subnet mask for Class C network in Docker-Containerization?",
+    "options": [
+      "Dangerous method",
+      "Correct Docker-Containerization procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "e",
+    "explanation": "**Docker-Containerization E Solution:** Default subnet mask for Class C network in Docker-Containerization?. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-E008",
+    "question": "Common protocol for Docker-Containerization remote access?",
+    "options": [
+      "Correct Docker-Containerization procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "e",
+    "explanation": "**Docker-Containerization E Solution:** Common protocol for Docker-Containerization remote access?. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-E009",
+    "question": "Common protocol for Docker-Containerization remote access?",
+    "options": [
+      "Correct Docker-Containerization procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "e",
+    "explanation": "**Docker-Containerization E Solution:** Common protocol for Docker-Containerization remote access?. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-E010",
+    "question": "What does Docker ACL stand for?",
+    "options": [
+      "Dangerous method",
+      "Correct Docker-Containerization procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "e",
+    "explanation": "**Docker-Containerization E Solution:** What does Docker ACL stand for?. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-E011",
+    "question": "Default subnet mask for Class C network in Docker-Containerization?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Docker-Containerization procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "e",
+    "explanation": "**Docker-Containerization E Solution:** Default subnet mask for Class C network in Docker-Containerization?. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-E012",
+    "question": "What does Docker ACL stand for?",
+    "options": [
+      "Dangerous method",
+      "Correct Docker-Containerization procedure",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "e",
+    "explanation": "**Docker-Containerization E Solution:** What does Docker ACL stand for?. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-E013",
+    "question": "What does Docker ACL stand for?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Docker-Containerization procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "e",
+    "explanation": "**Docker-Containerization E Solution:** What does Docker ACL stand for?. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-E014",
+    "question": "Default subnet mask for Class C network in Docker-Containerization?",
+    "options": [
+      "Partially correct",
+      "Correct Docker-Containerization procedure",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "e",
+    "explanation": "**Docker-Containerization E Solution:** Default subnet mask for Class C network in Docker-Containerization?. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-E015",
+    "question": "What is the primary function of Docker DHCP?",
+    "options": [
+      "Dangerous method",
+      "Correct Docker-Containerization procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "e",
+    "explanation": "**Docker-Containerization E Solution:** What is the primary function of Docker DHCP?. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-E016",
+    "question": "Which port does Docker-Containerization service use by default?",
+    "options": [
+      "Incorrect approach",
+      "Correct Docker-Containerization procedure",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "e",
+    "explanation": "**Docker-Containerization E Solution:** Which port does Docker-Containerization service use by default?. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-E017",
+    "question": "What does Docker ACL stand for?",
+    "options": [
+      "Dangerous method",
+      "Correct Docker-Containerization procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "e",
+    "explanation": "**Docker-Containerization E Solution:** What does Docker ACL stand for?. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-E018",
+    "question": "Default subnet mask for Class C network in Docker-Containerization?",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach",
+      "Correct Docker-Containerization procedure"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "e",
+    "explanation": "**Docker-Containerization E Solution:** Default subnet mask for Class C network in Docker-Containerization?. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-E019",
+    "question": "Common protocol for Docker-Containerization remote access?",
+    "options": [
+      "Incorrect approach",
+      "Correct Docker-Containerization procedure",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "e",
+    "explanation": "**Docker-Containerization E Solution:** Common protocol for Docker-Containerization remote access?. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-E020",
+    "question": "Common protocol for Docker-Containerization remote access?",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct Docker-Containerization procedure"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "e",
+    "explanation": "**Docker-Containerization E Solution:** Common protocol for Docker-Containerization remote access?. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-E021",
+    "question": "Which port does Docker-Containerization service use by default?",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct Docker-Containerization procedure",
+      "Partially correct"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "e",
+    "explanation": "**Docker-Containerization E Solution:** Which port does Docker-Containerization service use by default?. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-E022",
+    "question": "What does Docker ACL stand for?",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct Docker-Containerization procedure"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "e",
+    "explanation": "**Docker-Containerization E Solution:** What does Docker ACL stand for?. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-E023",
+    "question": "Default subnet mask for Class C network in Docker-Containerization?",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Correct Docker-Containerization procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "e",
+    "explanation": "**Docker-Containerization E Solution:** Default subnet mask for Class C network in Docker-Containerization?. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-E024",
+    "question": "What does Docker ACL stand for?",
+    "options": [
+      "Incorrect approach",
+      "Correct Docker-Containerization procedure",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "e",
+    "explanation": "**Docker-Containerization E Solution:** What does Docker ACL stand for?. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-E025",
+    "question": "Common protocol for Docker-Containerization remote access?",
+    "options": [
+      "Correct Docker-Containerization procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "e",
+    "explanation": "**Docker-Containerization E Solution:** Common protocol for Docker-Containerization remote access?. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-E026",
+    "question": "Which port does Docker-Containerization service use by default?",
+    "options": [
+      "Correct Docker-Containerization procedure",
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "e",
+    "explanation": "**Docker-Containerization E Solution:** Which port does Docker-Containerization service use by default?. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-E027",
+    "question": "Which port does Docker-Containerization service use by default?",
+    "options": [
+      "Dangerous method",
+      "Correct Docker-Containerization procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "e",
+    "explanation": "**Docker-Containerization E Solution:** Which port does Docker-Containerization service use by default?. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-E028",
+    "question": "Common protocol for Docker-Containerization remote access?",
+    "options": [
+      "Correct Docker-Containerization procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "e",
+    "explanation": "**Docker-Containerization E Solution:** Common protocol for Docker-Containerization remote access?. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-E029",
+    "question": "What does Docker ACL stand for?",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct Docker-Containerization procedure"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "e",
+    "explanation": "**Docker-Containerization E Solution:** What does Docker ACL stand for?. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-E030",
+    "question": "Which port does Docker-Containerization service use by default?",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach",
+      "Correct Docker-Containerization procedure"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "e",
+    "explanation": "**Docker-Containerization E Solution:** Which port does Docker-Containerization service use by default?. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-E031",
+    "question": "What does Docker ACL stand for?",
+    "options": [
+      "Correct Docker-Containerization procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "e",
+    "explanation": "**Docker-Containerization E Solution:** What does Docker ACL stand for?. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-E032",
+    "question": "Common protocol for Docker-Containerization remote access?",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct Docker-Containerization procedure",
+      "Partially correct"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "e",
+    "explanation": "**Docker-Containerization E Solution:** Common protocol for Docker-Containerization remote access?. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-E033",
+    "question": "Default subnet mask for Class C network in Docker-Containerization?",
+    "options": [
+      "Incorrect approach",
+      "Correct Docker-Containerization procedure",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "e",
+    "explanation": "**Docker-Containerization E Solution:** Default subnet mask for Class C network in Docker-Containerization?. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-E034",
+    "question": "What does Docker ACL stand for?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Docker-Containerization procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "e",
+    "explanation": "**Docker-Containerization E Solution:** What does Docker ACL stand for?. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-E035",
+    "question": "What does Docker ACL stand for?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Docker-Containerization procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "e",
+    "explanation": "**Docker-Containerization E Solution:** What does Docker ACL stand for?. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-E036",
+    "question": "Common protocol for Docker-Containerization remote access?",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct Docker-Containerization procedure"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "e",
+    "explanation": "**Docker-Containerization E Solution:** Common protocol for Docker-Containerization remote access?. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-E037",
+    "question": "What is the primary function of Docker DHCP?",
+    "options": [
+      "Correct Docker-Containerization procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "e",
+    "explanation": "**Docker-Containerization E Solution:** What is the primary function of Docker DHCP?. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-E038",
+    "question": "Common protocol for Docker-Containerization remote access?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct Docker-Containerization procedure"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "e",
+    "explanation": "**Docker-Containerization E Solution:** Common protocol for Docker-Containerization remote access?. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-E039",
+    "question": "Default subnet mask for Class C network in Docker-Containerization?",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct Docker-Containerization procedure"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "e",
+    "explanation": "**Docker-Containerization E Solution:** Default subnet mask for Class C network in Docker-Containerization?. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-E040",
+    "question": "Default subnet mask for Class C network in Docker-Containerization?",
+    "options": [
+      "Correct Docker-Containerization procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "e",
+    "explanation": "**Docker-Containerization E Solution:** Default subnet mask for Class C network in Docker-Containerization?. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-E041",
+    "question": "Which port does Docker-Containerization service use by default?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Docker-Containerization procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "e",
+    "explanation": "**Docker-Containerization E Solution:** Which port does Docker-Containerization service use by default?. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-E042",
+    "question": "Common protocol for Docker-Containerization remote access?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Docker-Containerization procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "e",
+    "explanation": "**Docker-Containerization E Solution:** Common protocol for Docker-Containerization remote access?. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-E043",
+    "question": "What is the primary function of Docker DHCP?",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Docker-Containerization procedure"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "e",
+    "explanation": "**Docker-Containerization E Solution:** What is the primary function of Docker DHCP?. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-E044",
+    "question": "Which port does Docker-Containerization service use by default?",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Docker-Containerization procedure"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "e",
+    "explanation": "**Docker-Containerization E Solution:** Which port does Docker-Containerization service use by default?. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-E045",
+    "question": "What is the primary function of Docker DHCP?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Docker-Containerization procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "e",
+    "explanation": "**Docker-Containerization E Solution:** What is the primary function of Docker DHCP?. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-E046",
+    "question": "Default subnet mask for Class C network in Docker-Containerization?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct Docker-Containerization procedure"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "e",
+    "explanation": "**Docker-Containerization E Solution:** Default subnet mask for Class C network in Docker-Containerization?. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-E047",
+    "question": "Common protocol for Docker-Containerization remote access?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Docker-Containerization procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "e",
+    "explanation": "**Docker-Containerization E Solution:** Common protocol for Docker-Containerization remote access?. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-E048",
+    "question": "What does Docker ACL stand for?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Docker-Containerization procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "e",
+    "explanation": "**Docker-Containerization E Solution:** What does Docker ACL stand for?. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-E049",
+    "question": "What does Docker ACL stand for?",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Docker-Containerization procedure"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "e",
+    "explanation": "**Docker-Containerization E Solution:** What does Docker ACL stand for?. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-E050",
+    "question": "What is the primary function of Docker DHCP?",
+    "options": [
+      "Correct Docker-Containerization procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "e",
+    "explanation": "**Docker-Containerization E Solution:** What is the primary function of Docker DHCP?. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-M001",
+    "question": "Set up Docker-Containerization failover clustering",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct Docker-Containerization procedure"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "m",
+    "explanation": "**Docker-Containerization M Solution:** Set up Docker-Containerization failover clustering. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-M002",
+    "question": "Optimize Docker-Containerization query performance",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Docker-Containerization procedure"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "m",
+    "explanation": "**Docker-Containerization M Solution:** Optimize Docker-Containerization query performance. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-M003",
+    "question": "Implement Docker-Containerization backup strategy for compliance",
+    "options": [
+      "Correct Docker-Containerization procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "m",
+    "explanation": "**Docker-Containerization M Solution:** Implement Docker-Containerization backup strategy for compliance. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-M004",
+    "question": "Optimize Docker-Containerization query performance",
+    "options": [
+      "Dangerous method",
+      "Correct Docker-Containerization procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "m",
+    "explanation": "**Docker-Containerization M Solution:** Optimize Docker-Containerization query performance. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-M005",
+    "question": "Set up Docker-Containerization failover clustering",
+    "options": [
+      "Correct Docker-Containerization procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "m",
+    "explanation": "**Docker-Containerization M Solution:** Set up Docker-Containerization failover clustering. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-M006",
+    "question": "Troubleshoot Docker-Containerization connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct Docker-Containerization procedure"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "m",
+    "explanation": "**Docker-Containerization M Solution:** Troubleshoot Docker-Containerization connectivity issue between VLANs. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-M007",
+    "question": "Optimize Docker-Containerization query performance",
+    "options": [
+      "Correct Docker-Containerization procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "m",
+    "explanation": "**Docker-Containerization M Solution:** Optimize Docker-Containerization query performance. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-M008",
+    "question": "Configure Docker-Containerization load balancer for high availability",
+    "options": [
+      "Dangerous method",
+      "Correct Docker-Containerization procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "m",
+    "explanation": "**Docker-Containerization M Solution:** Configure Docker-Containerization load balancer for high availability. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-M009",
+    "question": "Optimize Docker-Containerization query performance",
+    "options": [
+      "Correct Docker-Containerization procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "m",
+    "explanation": "**Docker-Containerization M Solution:** Optimize Docker-Containerization query performance. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-M010",
+    "question": "Optimize Docker-Containerization query performance",
+    "options": [
+      "Dangerous method",
+      "Correct Docker-Containerization procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "m",
+    "explanation": "**Docker-Containerization M Solution:** Optimize Docker-Containerization query performance. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-M011",
+    "question": "Configure Docker-Containerization load balancer for high availability",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Docker-Containerization procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "m",
+    "explanation": "**Docker-Containerization M Solution:** Configure Docker-Containerization load balancer for high availability. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-M012",
+    "question": "Set up Docker-Containerization failover clustering",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct Docker-Containerization procedure"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "m",
+    "explanation": "**Docker-Containerization M Solution:** Set up Docker-Containerization failover clustering. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-M013",
+    "question": "Configure Docker-Containerization load balancer for high availability",
+    "options": [
+      "Dangerous method",
+      "Correct Docker-Containerization procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "m",
+    "explanation": "**Docker-Containerization M Solution:** Configure Docker-Containerization load balancer for high availability. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-M014",
+    "question": "Configure Docker-Containerization load balancer for high availability",
+    "options": [
+      "Correct Docker-Containerization procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "m",
+    "explanation": "**Docker-Containerization M Solution:** Configure Docker-Containerization load balancer for high availability. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-M015",
+    "question": "Set up Docker-Containerization failover clustering",
+    "options": [
+      "Dangerous method",
+      "Correct Docker-Containerization procedure",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "m",
+    "explanation": "**Docker-Containerization M Solution:** Set up Docker-Containerization failover clustering. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-M016",
+    "question": "Configure Docker-Containerization load balancer for high availability",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Docker-Containerization procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "m",
+    "explanation": "**Docker-Containerization M Solution:** Configure Docker-Containerization load balancer for high availability. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-M017",
+    "question": "Configure Docker-Containerization load balancer for high availability",
+    "options": [
+      "Dangerous method",
+      "Correct Docker-Containerization procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "m",
+    "explanation": "**Docker-Containerization M Solution:** Configure Docker-Containerization load balancer for high availability. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-M018",
+    "question": "Configure Docker-Containerization load balancer for high availability",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Correct Docker-Containerization procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "m",
+    "explanation": "**Docker-Containerization M Solution:** Configure Docker-Containerization load balancer for high availability. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-M019",
+    "question": "Set up Docker-Containerization failover clustering",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Docker-Containerization procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "m",
+    "explanation": "**Docker-Containerization M Solution:** Set up Docker-Containerization failover clustering. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-M020",
+    "question": "Troubleshoot Docker-Containerization connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Docker-Containerization procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "m",
+    "explanation": "**Docker-Containerization M Solution:** Troubleshoot Docker-Containerization connectivity issue between VLANs. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-M021",
+    "question": "Configure Docker-Containerization load balancer for high availability",
+    "options": [
+      "Dangerous method",
+      "Correct Docker-Containerization procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "m",
+    "explanation": "**Docker-Containerization M Solution:** Configure Docker-Containerization load balancer for high availability. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-M022",
+    "question": "Troubleshoot Docker-Containerization connectivity issue between VLANs",
+    "options": [
+      "Dangerous method",
+      "Correct Docker-Containerization procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "m",
+    "explanation": "**Docker-Containerization M Solution:** Troubleshoot Docker-Containerization connectivity issue between VLANs. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-M023",
+    "question": "Optimize Docker-Containerization query performance",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct Docker-Containerization procedure"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "m",
+    "explanation": "**Docker-Containerization M Solution:** Optimize Docker-Containerization query performance. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-M024",
+    "question": "Set up Docker-Containerization failover clustering",
+    "options": [
+      "Incorrect approach",
+      "Correct Docker-Containerization procedure",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "m",
+    "explanation": "**Docker-Containerization M Solution:** Set up Docker-Containerization failover clustering. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-M025",
+    "question": "Troubleshoot Docker-Containerization connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Docker-Containerization procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "m",
+    "explanation": "**Docker-Containerization M Solution:** Troubleshoot Docker-Containerization connectivity issue between VLANs. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-M026",
+    "question": "Set up Docker-Containerization failover clustering",
+    "options": [
+      "Dangerous method",
+      "Correct Docker-Containerization procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "m",
+    "explanation": "**Docker-Containerization M Solution:** Set up Docker-Containerization failover clustering. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-M027",
+    "question": "Implement Docker-Containerization backup strategy for compliance",
+    "options": [
+      "Correct Docker-Containerization procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "m",
+    "explanation": "**Docker-Containerization M Solution:** Implement Docker-Containerization backup strategy for compliance. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-M028",
+    "question": "Troubleshoot Docker-Containerization connectivity issue between VLANs",
+    "options": [
+      "Correct Docker-Containerization procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "m",
+    "explanation": "**Docker-Containerization M Solution:** Troubleshoot Docker-Containerization connectivity issue between VLANs. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-M029",
+    "question": "Implement Docker-Containerization backup strategy for compliance",
+    "options": [
+      "Correct Docker-Containerization procedure",
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "m",
+    "explanation": "**Docker-Containerization M Solution:** Implement Docker-Containerization backup strategy for compliance. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-M030",
+    "question": "Troubleshoot Docker-Containerization connectivity issue between VLANs",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct Docker-Containerization procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "m",
+    "explanation": "**Docker-Containerization M Solution:** Troubleshoot Docker-Containerization connectivity issue between VLANs. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-M031",
+    "question": "Optimize Docker-Containerization query performance",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Docker-Containerization procedure"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "m",
+    "explanation": "**Docker-Containerization M Solution:** Optimize Docker-Containerization query performance. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-M032",
+    "question": "Set up Docker-Containerization failover clustering",
+    "options": [
+      "Dangerous method",
+      "Correct Docker-Containerization procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "m",
+    "explanation": "**Docker-Containerization M Solution:** Set up Docker-Containerization failover clustering. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-M033",
+    "question": "Configure Docker-Containerization load balancer for high availability",
+    "options": [
+      "Dangerous method",
+      "Correct Docker-Containerization procedure",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "m",
+    "explanation": "**Docker-Containerization M Solution:** Configure Docker-Containerization load balancer for high availability. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-M034",
+    "question": "Optimize Docker-Containerization query performance",
+    "options": [
+      "Dangerous method",
+      "Correct Docker-Containerization procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "m",
+    "explanation": "**Docker-Containerization M Solution:** Optimize Docker-Containerization query performance. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-M035",
+    "question": "Implement Docker-Containerization backup strategy for compliance",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct Docker-Containerization procedure"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "m",
+    "explanation": "**Docker-Containerization M Solution:** Implement Docker-Containerization backup strategy for compliance. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-M036",
+    "question": "Troubleshoot Docker-Containerization connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Docker-Containerization procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "m",
+    "explanation": "**Docker-Containerization M Solution:** Troubleshoot Docker-Containerization connectivity issue between VLANs. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-M037",
+    "question": "Implement Docker-Containerization backup strategy for compliance",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Docker-Containerization procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "m",
+    "explanation": "**Docker-Containerization M Solution:** Implement Docker-Containerization backup strategy for compliance. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-M038",
+    "question": "Set up Docker-Containerization failover clustering",
+    "options": [
+      "Dangerous method",
+      "Correct Docker-Containerization procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "m",
+    "explanation": "**Docker-Containerization M Solution:** Set up Docker-Containerization failover clustering. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-M039",
+    "question": "Troubleshoot Docker-Containerization connectivity issue between VLANs",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Correct Docker-Containerization procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "m",
+    "explanation": "**Docker-Containerization M Solution:** Troubleshoot Docker-Containerization connectivity issue between VLANs. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-M040",
+    "question": "Set up Docker-Containerization failover clustering",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct Docker-Containerization procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "m",
+    "explanation": "**Docker-Containerization M Solution:** Set up Docker-Containerization failover clustering. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-M041",
+    "question": "Optimize Docker-Containerization query performance",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct Docker-Containerization procedure"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "m",
+    "explanation": "**Docker-Containerization M Solution:** Optimize Docker-Containerization query performance. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-M042",
+    "question": "Optimize Docker-Containerization query performance",
+    "options": [
+      "Dangerous method",
+      "Correct Docker-Containerization procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "m",
+    "explanation": "**Docker-Containerization M Solution:** Optimize Docker-Containerization query performance. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-M043",
+    "question": "Set up Docker-Containerization failover clustering",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Docker-Containerization procedure"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "m",
+    "explanation": "**Docker-Containerization M Solution:** Set up Docker-Containerization failover clustering. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-M044",
+    "question": "Optimize Docker-Containerization query performance",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct Docker-Containerization procedure"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "m",
+    "explanation": "**Docker-Containerization M Solution:** Optimize Docker-Containerization query performance. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-M045",
+    "question": "Set up Docker-Containerization failover clustering",
+    "options": [
+      "Dangerous method",
+      "Correct Docker-Containerization procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "m",
+    "explanation": "**Docker-Containerization M Solution:** Set up Docker-Containerization failover clustering. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-M046",
+    "question": "Configure Docker-Containerization load balancer for high availability",
+    "options": [
+      "Correct Docker-Containerization procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "m",
+    "explanation": "**Docker-Containerization M Solution:** Configure Docker-Containerization load balancer for high availability. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-M047",
+    "question": "Configure Docker-Containerization load balancer for high availability",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Docker-Containerization procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "m",
+    "explanation": "**Docker-Containerization M Solution:** Configure Docker-Containerization load balancer for high availability. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-M048",
+    "question": "Implement Docker-Containerization backup strategy for compliance",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Docker-Containerization procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "m",
+    "explanation": "**Docker-Containerization M Solution:** Implement Docker-Containerization backup strategy for compliance. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-M049",
+    "question": "Set up Docker-Containerization failover clustering",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Docker-Containerization procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "m",
+    "explanation": "**Docker-Containerization M Solution:** Set up Docker-Containerization failover clustering. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-M050",
+    "question": "Configure Docker-Containerization load balancer for high availability",
+    "options": [
+      "Correct Docker-Containerization procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "m",
+    "explanation": "**Docker-Containerization M Solution:** Configure Docker-Containerization load balancer for high availability. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-H001",
+    "question": "Create disaster recovery plan with RTO < 15min for Docker-Containerization",
+    "options": [
+      "Dangerous method",
+      "Correct Docker-Containerization procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "h",
+    "explanation": "**Docker-Containerization H Solution:** Create disaster recovery plan with RTO < 15min for Docker-Containerization. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-H002",
+    "question": "Optimize Docker-Containerization performance under DDoS attack",
+    "options": [
+      "Correct Docker-Containerization procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "h",
+    "explanation": "**Docker-Containerization H Solution:** Optimize Docker-Containerization performance under DDoS attack. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-H003",
+    "question": "Create disaster recovery plan with RTO < 15min for Docker-Containerization",
+    "options": [
+      "Dangerous method",
+      "Correct Docker-Containerization procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "h",
+    "explanation": "**Docker-Containerization H Solution:** Create disaster recovery plan with RTO < 15min for Docker-Containerization. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-H004",
+    "question": "Design Docker-Containerization architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Dangerous method",
+      "Correct Docker-Containerization procedure",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "h",
+    "explanation": "**Docker-Containerization H Solution:** Design Docker-Containerization architecture for 10k users with 99.99% uptime. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-H005",
+    "question": "Migrate legacy Docker-Containerization systems to cloud-native architecture",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct Docker-Containerization procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "h",
+    "explanation": "**Docker-Containerization H Solution:** Migrate legacy Docker-Containerization systems to cloud-native architecture. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-H006",
+    "question": "Optimize Docker-Containerization performance under DDoS attack",
+    "options": [
+      "Correct Docker-Containerization procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "h",
+    "explanation": "**Docker-Containerization H Solution:** Optimize Docker-Containerization performance under DDoS attack. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-H007",
+    "question": "Design Docker-Containerization architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Docker-Containerization procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "h",
+    "explanation": "**Docker-Containerization H Solution:** Design Docker-Containerization architecture for 10k users with 99.99% uptime. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-H008",
+    "question": "Optimize Docker-Containerization performance under DDoS attack",
+    "options": [
+      "Correct Docker-Containerization procedure",
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "h",
+    "explanation": "**Docker-Containerization H Solution:** Optimize Docker-Containerization performance under DDoS attack. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-H009",
+    "question": "Create disaster recovery plan with RTO < 15min for Docker-Containerization",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Correct Docker-Containerization procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "h",
+    "explanation": "**Docker-Containerization H Solution:** Create disaster recovery plan with RTO < 15min for Docker-Containerization. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-H010",
+    "question": "Design Docker-Containerization architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Docker-Containerization procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "h",
+    "explanation": "**Docker-Containerization H Solution:** Design Docker-Containerization architecture for 10k users with 99.99% uptime. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-H011",
+    "question": "Create disaster recovery plan with RTO < 15min for Docker-Containerization",
+    "options": [
+      "Dangerous method",
+      "Correct Docker-Containerization procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "h",
+    "explanation": "**Docker-Containerization H Solution:** Create disaster recovery plan with RTO < 15min for Docker-Containerization. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-H012",
+    "question": "Optimize Docker-Containerization performance under DDoS attack",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Docker-Containerization procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "h",
+    "explanation": "**Docker-Containerization H Solution:** Optimize Docker-Containerization performance under DDoS attack. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-H013",
+    "question": "Implement zero-trust security model in Docker-Containerization",
+    "options": [
+      "Partially correct",
+      "Correct Docker-Containerization procedure",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "h",
+    "explanation": "**Docker-Containerization H Solution:** Implement zero-trust security model in Docker-Containerization. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-H014",
+    "question": "Implement zero-trust security model in Docker-Containerization",
+    "options": [
+      "Correct Docker-Containerization procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "h",
+    "explanation": "**Docker-Containerization H Solution:** Implement zero-trust security model in Docker-Containerization. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-H015",
+    "question": "Migrate legacy Docker-Containerization systems to cloud-native architecture",
+    "options": [
+      "Dangerous method",
+      "Correct Docker-Containerization procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "h",
+    "explanation": "**Docker-Containerization H Solution:** Migrate legacy Docker-Containerization systems to cloud-native architecture. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-H016",
+    "question": "Optimize Docker-Containerization performance under DDoS attack",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct Docker-Containerization procedure",
+      "Partially correct"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "h",
+    "explanation": "**Docker-Containerization H Solution:** Optimize Docker-Containerization performance under DDoS attack. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-H017",
+    "question": "Implement zero-trust security model in Docker-Containerization",
+    "options": [
+      "Correct Docker-Containerization procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "h",
+    "explanation": "**Docker-Containerization H Solution:** Implement zero-trust security model in Docker-Containerization. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-H018",
+    "question": "Migrate legacy Docker-Containerization systems to cloud-native architecture",
+    "options": [
+      "Correct Docker-Containerization procedure",
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "h",
+    "explanation": "**Docker-Containerization H Solution:** Migrate legacy Docker-Containerization systems to cloud-native architecture. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-H019",
+    "question": "Optimize Docker-Containerization performance under DDoS attack",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Correct Docker-Containerization procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "h",
+    "explanation": "**Docker-Containerization H Solution:** Optimize Docker-Containerization performance under DDoS attack. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-H020",
+    "question": "Migrate legacy Docker-Containerization systems to cloud-native architecture",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Docker-Containerization procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "h",
+    "explanation": "**Docker-Containerization H Solution:** Migrate legacy Docker-Containerization systems to cloud-native architecture. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-H021",
+    "question": "Optimize Docker-Containerization performance under DDoS attack",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct Docker-Containerization procedure"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "h",
+    "explanation": "**Docker-Containerization H Solution:** Optimize Docker-Containerization performance under DDoS attack. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-H022",
+    "question": "Create disaster recovery plan with RTO < 15min for Docker-Containerization",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Correct Docker-Containerization procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "h",
+    "explanation": "**Docker-Containerization H Solution:** Create disaster recovery plan with RTO < 15min for Docker-Containerization. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-H023",
+    "question": "Migrate legacy Docker-Containerization systems to cloud-native architecture",
+    "options": [
+      "Correct Docker-Containerization procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "h",
+    "explanation": "**Docker-Containerization H Solution:** Migrate legacy Docker-Containerization systems to cloud-native architecture. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-H024",
+    "question": "Migrate legacy Docker-Containerization systems to cloud-native architecture",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Correct Docker-Containerization procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "h",
+    "explanation": "**Docker-Containerization H Solution:** Migrate legacy Docker-Containerization systems to cloud-native architecture. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-H025",
+    "question": "Optimize Docker-Containerization performance under DDoS attack",
+    "options": [
+      "Incorrect approach",
+      "Correct Docker-Containerization procedure",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "h",
+    "explanation": "**Docker-Containerization H Solution:** Optimize Docker-Containerization performance under DDoS attack. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-H026",
+    "question": "Optimize Docker-Containerization performance under DDoS attack",
+    "options": [
+      "Incorrect approach",
+      "Correct Docker-Containerization procedure",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "h",
+    "explanation": "**Docker-Containerization H Solution:** Optimize Docker-Containerization performance under DDoS attack. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-H027",
+    "question": "Optimize Docker-Containerization performance under DDoS attack",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct Docker-Containerization procedure"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "h",
+    "explanation": "**Docker-Containerization H Solution:** Optimize Docker-Containerization performance under DDoS attack. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-H028",
+    "question": "Implement zero-trust security model in Docker-Containerization",
+    "options": [
+      "Correct Docker-Containerization procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "h",
+    "explanation": "**Docker-Containerization H Solution:** Implement zero-trust security model in Docker-Containerization. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-H029",
+    "question": "Create disaster recovery plan with RTO < 15min for Docker-Containerization",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Docker-Containerization procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "h",
+    "explanation": "**Docker-Containerization H Solution:** Create disaster recovery plan with RTO < 15min for Docker-Containerization. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-H030",
+    "question": "Implement zero-trust security model in Docker-Containerization",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Docker-Containerization procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "h",
+    "explanation": "**Docker-Containerization H Solution:** Implement zero-trust security model in Docker-Containerization. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-H031",
+    "question": "Migrate legacy Docker-Containerization systems to cloud-native architecture",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Docker-Containerization procedure"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "h",
+    "explanation": "**Docker-Containerization H Solution:** Migrate legacy Docker-Containerization systems to cloud-native architecture. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-H032",
+    "question": "Design Docker-Containerization architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Dangerous method",
+      "Correct Docker-Containerization procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "h",
+    "explanation": "**Docker-Containerization H Solution:** Design Docker-Containerization architecture for 10k users with 99.99% uptime. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-H033",
+    "question": "Optimize Docker-Containerization performance under DDoS attack",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Docker-Containerization procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "h",
+    "explanation": "**Docker-Containerization H Solution:** Optimize Docker-Containerization performance under DDoS attack. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-H034",
+    "question": "Optimize Docker-Containerization performance under DDoS attack",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Docker-Containerization procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "h",
+    "explanation": "**Docker-Containerization H Solution:** Optimize Docker-Containerization performance under DDoS attack. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-H035",
+    "question": "Design Docker-Containerization architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Docker-Containerization procedure"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "h",
+    "explanation": "**Docker-Containerization H Solution:** Design Docker-Containerization architecture for 10k users with 99.99% uptime. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-H036",
+    "question": "Implement zero-trust security model in Docker-Containerization",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Correct Docker-Containerization procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "h",
+    "explanation": "**Docker-Containerization H Solution:** Implement zero-trust security model in Docker-Containerization. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-H037",
+    "question": "Migrate legacy Docker-Containerization systems to cloud-native architecture",
+    "options": [
+      "Dangerous method",
+      "Correct Docker-Containerization procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "h",
+    "explanation": "**Docker-Containerization H Solution:** Migrate legacy Docker-Containerization systems to cloud-native architecture. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-H038",
+    "question": "Design Docker-Containerization architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Correct Docker-Containerization procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "h",
+    "explanation": "**Docker-Containerization H Solution:** Design Docker-Containerization architecture for 10k users with 99.99% uptime. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-H039",
+    "question": "Optimize Docker-Containerization performance under DDoS attack",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Docker-Containerization procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "h",
+    "explanation": "**Docker-Containerization H Solution:** Optimize Docker-Containerization performance under DDoS attack. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-H040",
+    "question": "Optimize Docker-Containerization performance under DDoS attack",
+    "options": [
+      "Dangerous method",
+      "Correct Docker-Containerization procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "h",
+    "explanation": "**Docker-Containerization H Solution:** Optimize Docker-Containerization performance under DDoS attack. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-H041",
+    "question": "Design Docker-Containerization architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct Docker-Containerization procedure"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "h",
+    "explanation": "**Docker-Containerization H Solution:** Design Docker-Containerization architecture for 10k users with 99.99% uptime. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-H042",
+    "question": "Migrate legacy Docker-Containerization systems to cloud-native architecture",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct Docker-Containerization procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "h",
+    "explanation": "**Docker-Containerization H Solution:** Migrate legacy Docker-Containerization systems to cloud-native architecture. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-H043",
+    "question": "Create disaster recovery plan with RTO < 15min for Docker-Containerization",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct Docker-Containerization procedure"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "h",
+    "explanation": "**Docker-Containerization H Solution:** Create disaster recovery plan with RTO < 15min for Docker-Containerization. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-H044",
+    "question": "Optimize Docker-Containerization performance under DDoS attack",
+    "options": [
+      "Correct Docker-Containerization procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "h",
+    "explanation": "**Docker-Containerization H Solution:** Optimize Docker-Containerization performance under DDoS attack. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-H045",
+    "question": "Optimize Docker-Containerization performance under DDoS attack",
+    "options": [
+      "Dangerous method",
+      "Correct Docker-Containerization procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "h",
+    "explanation": "**Docker-Containerization H Solution:** Optimize Docker-Containerization performance under DDoS attack. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-H046",
+    "question": "Create disaster recovery plan with RTO < 15min for Docker-Containerization",
+    "options": [
+      "Partially correct",
+      "Correct Docker-Containerization procedure",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "h",
+    "explanation": "**Docker-Containerization H Solution:** Create disaster recovery plan with RTO < 15min for Docker-Containerization. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-H047",
+    "question": "Create disaster recovery plan with RTO < 15min for Docker-Containerization",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Docker-Containerization procedure"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "h",
+    "explanation": "**Docker-Containerization H Solution:** Create disaster recovery plan with RTO < 15min for Docker-Containerization. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-H048",
+    "question": "Migrate legacy Docker-Containerization systems to cloud-native architecture",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct Docker-Containerization procedure",
+      "Partially correct"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "h",
+    "explanation": "**Docker-Containerization H Solution:** Migrate legacy Docker-Containerization systems to cloud-native architecture. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-H049",
+    "question": "Design Docker-Containerization architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Docker-Containerization procedure"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "h",
+    "explanation": "**Docker-Containerization H Solution:** Design Docker-Containerization architecture for 10k users with 99.99% uptime. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-H050",
+    "question": "Optimize Docker-Containerization performance under DDoS attack",
+    "options": [
+      "Dangerous method",
+      "Correct Docker-Containerization procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Docker-Containerization procedure",
+    "difficulty": "h",
+    "explanation": "**Docker-Containerization H Solution:** Optimize Docker-Containerization performance under DDoS attack. Always verify Docker-Containerization documentation and test in lab environment first."
+  },
+  {
+    "id": "Docker-Containerization-S01-01",
+    "question": "1. Cloud migration failure: rollback strategy in Docker-Containerization environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S01-02",
+    "question": "1. Cloud migration failure: rollback strategy in Docker-Containerization environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S01-03",
+    "question": "1. Cloud migration failure: rollback strategy in Docker-Containerization environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S01-04",
+    "question": "1. Cloud migration failure: rollback strategy in Docker-Containerization environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S01-05",
+    "question": "1. Cloud migration failure: rollback strategy in Docker-Containerization environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S02-01",
+    "question": "2. Security incident response: ransomware attack detected in Docker-Containerization environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S02-02",
+    "question": "2. Security incident response: ransomware attack detected in Docker-Containerization environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S02-03",
+    "question": "2. Security incident response: ransomware attack detected in Docker-Containerization environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S02-04",
+    "question": "2. Security incident response: ransomware attack detected in Docker-Containerization environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S02-05",
+    "question": "2. Security incident response: ransomware attack detected in Docker-Containerization environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S03-01",
+    "question": "3. Network latency issue affecting VoIP calls in Docker-Containerization environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S03-02",
+    "question": "3. Network latency issue affecting VoIP calls in Docker-Containerization environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S03-03",
+    "question": "3. Network latency issue affecting VoIP calls in Docker-Containerization environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S03-04",
+    "question": "3. Network latency issue affecting VoIP calls in Docker-Containerization environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S03-05",
+    "question": "3. Network latency issue affecting VoIP calls in Docker-Containerization environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S04-01",
+    "question": "4. Production outage during peak hours: diagnose and resolve in Docker-Containerization environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S04-02",
+    "question": "4. Production outage during peak hours: diagnose and resolve in Docker-Containerization environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S04-03",
+    "question": "4. Production outage during peak hours: diagnose and resolve in Docker-Containerization environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S04-04",
+    "question": "4. Production outage during peak hours: diagnose and resolve in Docker-Containerization environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S04-05",
+    "question": "4. Production outage during peak hours: diagnose and resolve in Docker-Containerization environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S05-01",
+    "question": "5. Backup failure during scheduled window in Docker-Containerization environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S05-02",
+    "question": "5. Backup failure during scheduled window in Docker-Containerization environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S05-03",
+    "question": "5. Backup failure during scheduled window in Docker-Containerization environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S05-04",
+    "question": "5. Backup failure during scheduled window in Docker-Containerization environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S05-05",
+    "question": "5. Backup failure during scheduled window in Docker-Containerization environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S06-01",
+    "question": "6. Database performance degradation after upgrade in Docker-Containerization environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S06-02",
+    "question": "6. Database performance degradation after upgrade in Docker-Containerization environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S06-03",
+    "question": "6. Database performance degradation after upgrade in Docker-Containerization environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S06-04",
+    "question": "6. Database performance degradation after upgrade in Docker-Containerization environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S06-05",
+    "question": "6. Database performance degradation after upgrade in Docker-Containerization environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S07-01",
+    "question": "7. Backup failure during scheduled window in Docker-Containerization environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S07-02",
+    "question": "7. Backup failure during scheduled window in Docker-Containerization environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S07-03",
+    "question": "7. Backup failure during scheduled window in Docker-Containerization environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S07-04",
+    "question": "7. Backup failure during scheduled window in Docker-Containerization environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S07-05",
+    "question": "7. Backup failure during scheduled window in Docker-Containerization environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S08-01",
+    "question": "8. Server overload during quarterly report generation in Docker-Containerization environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S08-02",
+    "question": "8. Server overload during quarterly report generation in Docker-Containerization environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S08-03",
+    "question": "8. Server overload during quarterly report generation in Docker-Containerization environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S08-04",
+    "question": "8. Server overload during quarterly report generation in Docker-Containerization environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S08-05",
+    "question": "8. Server overload during quarterly report generation in Docker-Containerization environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S09-01",
+    "question": "9. Cloud migration failure: rollback strategy in Docker-Containerization environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S09-02",
+    "question": "9. Cloud migration failure: rollback strategy in Docker-Containerization environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S09-03",
+    "question": "9. Cloud migration failure: rollback strategy in Docker-Containerization environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S09-04",
+    "question": "9. Cloud migration failure: rollback strategy in Docker-Containerization environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S09-05",
+    "question": "9. Cloud migration failure: rollback strategy in Docker-Containerization environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S10-01",
+    "question": "10. Production outage during peak hours: diagnose and resolve in Docker-Containerization environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S10-02",
+    "question": "10. Production outage during peak hours: diagnose and resolve in Docker-Containerization environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S10-03",
+    "question": "10. Production outage during peak hours: diagnose and resolve in Docker-Containerization environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S10-04",
+    "question": "10. Production outage during peak hours: diagnose and resolve in Docker-Containerization environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S10-05",
+    "question": "10. Production outage during peak hours: diagnose and resolve in Docker-Containerization environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S11-01",
+    "question": "11. Network latency issue affecting VoIP calls in Docker-Containerization environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S11-02",
+    "question": "11. Network latency issue affecting VoIP calls in Docker-Containerization environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S11-03",
+    "question": "11. Network latency issue affecting VoIP calls in Docker-Containerization environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S11-04",
+    "question": "11. Network latency issue affecting VoIP calls in Docker-Containerization environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S11-05",
+    "question": "11. Network latency issue affecting VoIP calls in Docker-Containerization environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S12-01",
+    "question": "12. Security incident response: ransomware attack detected in Docker-Containerization environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S12-02",
+    "question": "12. Security incident response: ransomware attack detected in Docker-Containerization environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S12-03",
+    "question": "12. Security incident response: ransomware attack detected in Docker-Containerization environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S12-04",
+    "question": "12. Security incident response: ransomware attack detected in Docker-Containerization environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S12-05",
+    "question": "12. Security incident response: ransomware attack detected in Docker-Containerization environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S13-01",
+    "question": "13. Production outage during peak hours: diagnose and resolve in Docker-Containerization environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S13-02",
+    "question": "13. Production outage during peak hours: diagnose and resolve in Docker-Containerization environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S13-03",
+    "question": "13. Production outage during peak hours: diagnose and resolve in Docker-Containerization environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S13-04",
+    "question": "13. Production outage during peak hours: diagnose and resolve in Docker-Containerization environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S13-05",
+    "question": "13. Production outage during peak hours: diagnose and resolve in Docker-Containerization environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S14-01",
+    "question": "14. Network latency issue affecting VoIP calls in Docker-Containerization environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S14-02",
+    "question": "14. Network latency issue affecting VoIP calls in Docker-Containerization environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S14-03",
+    "question": "14. Network latency issue affecting VoIP calls in Docker-Containerization environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S14-04",
+    "question": "14. Network latency issue affecting VoIP calls in Docker-Containerization environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S14-05",
+    "question": "14. Network latency issue affecting VoIP calls in Docker-Containerization environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S15-01",
+    "question": "15. Backup failure during scheduled window in Docker-Containerization environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S15-02",
+    "question": "15. Backup failure during scheduled window in Docker-Containerization environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S15-03",
+    "question": "15. Backup failure during scheduled window in Docker-Containerization environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S15-04",
+    "question": "15. Backup failure during scheduled window in Docker-Containerization environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S15-05",
+    "question": "15. Backup failure during scheduled window in Docker-Containerization environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S16-01",
+    "question": "16. VPN connectivity failure for remote users in Docker-Containerization environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S16-02",
+    "question": "16. VPN connectivity failure for remote users in Docker-Containerization environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S16-03",
+    "question": "16. VPN connectivity failure for remote users in Docker-Containerization environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S16-04",
+    "question": "16. VPN connectivity failure for remote users in Docker-Containerization environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S16-05",
+    "question": "16. VPN connectivity failure for remote users in Docker-Containerization environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S17-01",
+    "question": "17. Production outage during peak hours: diagnose and resolve in Docker-Containerization environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S17-02",
+    "question": "17. Production outage during peak hours: diagnose and resolve in Docker-Containerization environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S17-03",
+    "question": "17. Production outage during peak hours: diagnose and resolve in Docker-Containerization environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S17-04",
+    "question": "17. Production outage during peak hours: diagnose and resolve in Docker-Containerization environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S17-05",
+    "question": "17. Production outage during peak hours: diagnose and resolve in Docker-Containerization environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S18-01",
+    "question": "18. Cloud migration failure: rollback strategy in Docker-Containerization environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S18-02",
+    "question": "18. Cloud migration failure: rollback strategy in Docker-Containerization environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S18-03",
+    "question": "18. Cloud migration failure: rollback strategy in Docker-Containerization environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S18-04",
+    "question": "18. Cloud migration failure: rollback strategy in Docker-Containerization environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S18-05",
+    "question": "18. Cloud migration failure: rollback strategy in Docker-Containerization environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S19-01",
+    "question": "19. Security incident response: ransomware attack detected in Docker-Containerization environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S19-02",
+    "question": "19. Security incident response: ransomware attack detected in Docker-Containerization environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S19-03",
+    "question": "19. Security incident response: ransomware attack detected in Docker-Containerization environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S19-04",
+    "question": "19. Security incident response: ransomware attack detected in Docker-Containerization environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S19-05",
+    "question": "19. Security incident response: ransomware attack detected in Docker-Containerization environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S20-01",
+    "question": "20. Backup failure during scheduled window in Docker-Containerization environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S20-02",
+    "question": "20. Backup failure during scheduled window in Docker-Containerization environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S20-03",
+    "question": "20. Backup failure during scheduled window in Docker-Containerization environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S20-04",
+    "question": "20. Backup failure during scheduled window in Docker-Containerization environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Docker-Containerization-S20-05",
+    "question": "20. Backup failure during scheduled window in Docker-Containerization environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Docker-Containerization troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Docker-Containerization troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Docker-Containerization best practices. Document all steps for RCA."
+  }
+]

@@ -1,0 +1,213 @@
+[
+  {
+    "id": "Linux-Admin-I01",
+    "title": "Linux-Admin Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Linux-Admin certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain Linux-Admin HA design",
+      "Troubleshoot Linux-Admin outage",
+      "Scale Linux-Admin for 100k users"
+    ],
+    "expected_skills": [
+      "Production Linux-Admin experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Linux-Admin-I02",
+    "title": "Linux-Admin Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Linux-Admin certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain Linux-Admin HA design",
+      "Troubleshoot Linux-Admin outage",
+      "Scale Linux-Admin for 100k users"
+    ],
+    "expected_skills": [
+      "Production Linux-Admin experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Linux-Admin-I03",
+    "title": "Linux-Admin Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Linux-Admin certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain Linux-Admin HA design",
+      "Troubleshoot Linux-Admin outage",
+      "Scale Linux-Admin for 100k users"
+    ],
+    "expected_skills": [
+      "Production Linux-Admin experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Linux-Admin-I04",
+    "title": "Linux-Admin Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Linux-Admin certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain Linux-Admin HA design",
+      "Troubleshoot Linux-Admin outage",
+      "Scale Linux-Admin for 100k users"
+    ],
+    "expected_skills": [
+      "Production Linux-Admin experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Linux-Admin-I05",
+    "title": "Linux-Admin Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Linux-Admin certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain Linux-Admin HA design",
+      "Troubleshoot Linux-Admin outage",
+      "Scale Linux-Admin for 100k users"
+    ],
+    "expected_skills": [
+      "Production Linux-Admin experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Linux-Admin-I06",
+    "title": "Linux-Admin Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Linux-Admin certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain Linux-Admin HA design",
+      "Troubleshoot Linux-Admin outage",
+      "Scale Linux-Admin for 100k users"
+    ],
+    "expected_skills": [
+      "Production Linux-Admin experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Linux-Admin-I07",
+    "title": "Linux-Admin Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Linux-Admin certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain Linux-Admin HA design",
+      "Troubleshoot Linux-Admin outage",
+      "Scale Linux-Admin for 100k users"
+    ],
+    "expected_skills": [
+      "Production Linux-Admin experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Linux-Admin-I08",
+    "title": "Linux-Admin Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Linux-Admin certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain Linux-Admin HA design",
+      "Troubleshoot Linux-Admin outage",
+      "Scale Linux-Admin for 100k users"
+    ],
+    "expected_skills": [
+      "Production Linux-Admin experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Linux-Admin-I09",
+    "title": "Linux-Admin Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Linux-Admin certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain Linux-Admin HA design",
+      "Troubleshoot Linux-Admin outage",
+      "Scale Linux-Admin for 100k users"
+    ],
+    "expected_skills": [
+      "Production Linux-Admin experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Linux-Admin-I10",
+    "title": "Linux-Admin Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Linux-Admin certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain Linux-Admin HA design",
+      "Troubleshoot Linux-Admin outage",
+      "Scale Linux-Admin for 100k users"
+    ],
+    "expected_skills": [
+      "Production Linux-Admin experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  }
+]

@@ -1,0 +1,211 @@
+[
+  {
+    "id": "Kubernetes-DevOps-I01",
+    "title": "Kubernetes-DevOps Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Kubernetes-DevOps certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain Kubernetes-DevOps HA design",
+      "Troubleshoot Kubernetes-DevOps outage",
+      "Scale Kubernetes-DevOps for 100k users"
+    ],
+    "expected_skills": [
+      "Production Kubernetes-DevOps experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Kubernetes-DevOps-I02",
+    "title": "Kubernetes-DevOps Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Kubernetes-DevOps certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain Kubernetes-DevOps HA design",
+      "Troubleshoot Kubernetes-DevOps outage",
+      "Scale Kubernetes-DevOps for 100k users"
+    ],
+    "expected_skills": [
+      "Production Kubernetes-DevOps experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Kubernetes-DevOps-I03",
+    "title": "Kubernetes-DevOps Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Kubernetes-DevOps certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain Kubernetes-DevOps HA design",
+      "Troubleshoot Kubernetes-DevOps outage",
+      "Scale Kubernetes-DevOps for 100k users"
+    ],
+    "expected_skills": [
+      "Production Kubernetes-DevOps experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Kubernetes-DevOps-I04",
+    "title": "Kubernetes-DevOps Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Kubernetes-DevOps certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain Kubernetes-DevOps HA design",
+      "Troubleshoot Kubernetes-DevOps outage",
+      "Scale Kubernetes-DevOps for 100k users"
+    ],
+    "expected_skills": [
+      "Production Kubernetes-DevOps experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Kubernetes-DevOps-I05",
+    "title": "Kubernetes-DevOps Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Kubernetes-DevOps certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain Kubernetes-DevOps HA design",
+      "Troubleshoot Kubernetes-DevOps outage",
+      "Scale Kubernetes-DevOps for 100k users"
+    ],
+    "expected_skills": [
+      "Production Kubernetes-DevOps experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Kubernetes-DevOps-I06",
+    "title": "Kubernetes-DevOps Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Kubernetes-DevOps certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain Kubernetes-DevOps HA design",
+      "Troubleshoot Kubernetes-DevOps outage",
+      "Scale Kubernetes-DevOps for 100k users"
+    ],
+    "expected_skills": [
+      "Production Kubernetes-DevOps experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Kubernetes-DevOps-I07",
+    "title": "Kubernetes-DevOps Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Kubernetes-DevOps certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain Kubernetes-DevOps HA design",
+      "Troubleshoot Kubernetes-DevOps outage",
+      "Scale Kubernetes-DevOps for 100k users"
+    ],
+    "expected_skills": [
+      "Production Kubernetes-DevOps experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Kubernetes-DevOps-I08",
+    "title": "Kubernetes-DevOps Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Kubernetes-DevOps certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain Kubernetes-DevOps HA design",
+      "Troubleshoot Kubernetes-DevOps outage",
+      "Scale Kubernetes-DevOps for 100k users"
+    ],
+    "expected_skills": [
+      "Production Kubernetes-DevOps experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Kubernetes-DevOps-I09",
+    "title": "Kubernetes-DevOps Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Kubernetes-DevOps certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain Kubernetes-DevOps HA design",
+      "Troubleshoot Kubernetes-DevOps outage",
+      "Scale Kubernetes-DevOps for 100k users"
+    ],
+    "expected_skills": [
+      "Production Kubernetes-DevOps experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Kubernetes-DevOps-I10",
+    "title": "Kubernetes-DevOps Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Kubernetes-DevOps certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain Kubernetes-DevOps HA design",
+      "Troubleshoot Kubernetes-DevOps outage",
+      "Scale Kubernetes-DevOps for 100k users"
+    ],
+    "expected_skills": [
+      "Production Kubernetes-DevOps experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  }
+]

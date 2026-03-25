@@ -1,0 +1,83 @@
+[
+  {
+    "id": "ML-001-E1",
+    "question": "Which Python library is most commonly used for data manipulation and analysis?",
+    "options": ["pandas", "tensorflow", "numpy", "matplotlib"],
+    "answer": "pandas",
+    "explanation": "Pandas is the leading Python library for data manipulation, providing data structures like DataFrames and Series.",
+    "tag": "Libraries",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "ML-001-E2",
+    "question": "What is 'Supervised Learning' in machine learning?",
+    "options": ["Learning from labeled data with inputs and correct outputs", "Learning without labeled data", "Learning through manual user interaction", "A way to monitor user behavior"],
+    "answer": "Learning from labeled data with inputs and correct outputs",
+    "explanation": "Supervised Learning involves training a model on a dataset where the target (output) is known, such as classification or regression tasks.",
+    "tag": "ML Basics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "ML-001-E3",
+    "question": "Which of these is a popular framework for Deep Learning?",
+    "options": ["PyTorch", "Excel", "WordPress", "Slack"],
+    "answer": "PyTorch",
+    "explanation": "PyTorch is a popular open-source machine learning library primarily used for deep learning and research applications.",
+    "tag": "DL",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "ML-001-M1",
+    "question": "What is 'Overfitting' in machine learning?",
+    "options": ["When a model learns the training data too well but fails on new data", "When a model is too simple to learn the training data", "When a model takes too much memory", "When a model gives inconsistent results"],
+    "answer": "When a model learns the training data too well but fails on new data",
+    "explanation": "Overfitting happens when a model learns the noise or random fluctuations in the training data, leading to poor generalization to unseen data.",
+    "tag": "Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "ML-001-M2",
+    "question": "Which of the following is a common metric for evaluating classification models?",
+    "options": ["F1-score", "Mean Squared Error (MSE)", "R-squared", "Sum of Squared Errors (SSE)"],
+    "answer": "F1-score",
+    "explanation": "F1-score is the weighted average of precision and recall, providing a single metric for classification performance, especially on imbalanced datasets.",
+    "tag": "Evaluation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "ML-001-M3",
+    "question": "What is the purpose of 'Principal Component Analysis' (PCA)?",
+    "options": ["Reducing the dimensionality of a dataset while preserving variance", "Clustering similar data points together", "Predicting numerical values", "Removing duplicate records"],
+    "answer": "Reducing the dimensionality of a dataset while preserving variance",
+    "explanation": "PCA is an unsupervised technique used to simplify complex datasets by identifying the most significant features (principal components).",
+    "tag": "Unsupervised",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "ML-001-H1",
+    "question": "In Neural Networks, what is 'Backpropagation'?",
+    "options": ["The algorithm that calculates the gradient of the loss function with respect to weights", "A way to backup the model state", "A method for increasing model depth", "A tool for visualizing network layers"],
+    "answer": "The algorithm that calculates the gradient of the loss function with respect to weights",
+    "explanation": "Backpropagation is the fundamental algorithm used to train neural networks by propagating errors from the output layer back to the input layer.",
+    "tag": "Deep Learning",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ML-001-H2",
+    "question": "What is 'Stochastic Gradient Descent' (SGD)?",
+    "options": ["An optimization algorithm that updates weights using a single random training sample", "A way to generate synthetic data", "A tool for evaluating model fairness", "A type of recurrent neural network"],
+    "answer": "An optimization algorithm that updates weights using a single random training sample",
+    "explanation": "SGD is a variant of Gradient Descent that is much faster than standard GD because it calculates the gradient for only one data point at a time.",
+    "tag": "Optimization",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ML-001-H3",
+    "question": "What is 'Ensemble Learning'?",
+    "options": ["Combining several models to improve overall performance", "Learning with many users at once", "A tool for managing model deployments", "A type of unsupervised clustering"],
+    "answer": "Combining several models to improve overall performance",
+    "explanation": "Ensemble techniques (like Random Forest, XGBoost) use multiple weak learners and aggregate their predictions to create a stronger, more accurate final model.",
+    "tag": "Advanced ML",
+    "difficulty": "Hard"
+  }
+]

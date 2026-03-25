@@ -1,0 +1,3252 @@
+[
+  {
+    "id": "Google-Cloud-Associate-E001",
+    "question": "What does Google ACL stand for?",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Google-Cloud-Associate procedure"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "e",
+    "explanation": "**Google-Cloud-Associate E Solution:** What does Google ACL stand for?. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-E002",
+    "question": "Default subnet mask for Class C network in Google-Cloud-Associate?",
+    "options": [
+      "Correct Google-Cloud-Associate procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "e",
+    "explanation": "**Google-Cloud-Associate E Solution:** Default subnet mask for Class C network in Google-Cloud-Associate?. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-E003",
+    "question": "Common protocol for Google-Cloud-Associate remote access?",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Google-Cloud-Associate procedure"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "e",
+    "explanation": "**Google-Cloud-Associate E Solution:** Common protocol for Google-Cloud-Associate remote access?. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-E004",
+    "question": "What is the primary function of Google DHCP?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Google-Cloud-Associate procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "e",
+    "explanation": "**Google-Cloud-Associate E Solution:** What is the primary function of Google DHCP?. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-E005",
+    "question": "Common protocol for Google-Cloud-Associate remote access?",
+    "options": [
+      "Correct Google-Cloud-Associate procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "e",
+    "explanation": "**Google-Cloud-Associate E Solution:** Common protocol for Google-Cloud-Associate remote access?. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-E006",
+    "question": "Which port does Google-Cloud-Associate service use by default?",
+    "options": [
+      "Correct Google-Cloud-Associate procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "e",
+    "explanation": "**Google-Cloud-Associate E Solution:** Which port does Google-Cloud-Associate service use by default?. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-E007",
+    "question": "Common protocol for Google-Cloud-Associate remote access?",
+    "options": [
+      "Dangerous method",
+      "Correct Google-Cloud-Associate procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "e",
+    "explanation": "**Google-Cloud-Associate E Solution:** Common protocol for Google-Cloud-Associate remote access?. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-E008",
+    "question": "Which port does Google-Cloud-Associate service use by default?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Google-Cloud-Associate procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "e",
+    "explanation": "**Google-Cloud-Associate E Solution:** Which port does Google-Cloud-Associate service use by default?. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-E009",
+    "question": "Default subnet mask for Class C network in Google-Cloud-Associate?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Google-Cloud-Associate procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "e",
+    "explanation": "**Google-Cloud-Associate E Solution:** Default subnet mask for Class C network in Google-Cloud-Associate?. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-E010",
+    "question": "Common protocol for Google-Cloud-Associate remote access?",
+    "options": [
+      "Dangerous method",
+      "Correct Google-Cloud-Associate procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "e",
+    "explanation": "**Google-Cloud-Associate E Solution:** Common protocol for Google-Cloud-Associate remote access?. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-E011",
+    "question": "What does Google ACL stand for?",
+    "options": [
+      "Dangerous method",
+      "Correct Google-Cloud-Associate procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "e",
+    "explanation": "**Google-Cloud-Associate E Solution:** What does Google ACL stand for?. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-E012",
+    "question": "Which port does Google-Cloud-Associate service use by default?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct Google-Cloud-Associate procedure"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "e",
+    "explanation": "**Google-Cloud-Associate E Solution:** Which port does Google-Cloud-Associate service use by default?. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-E013",
+    "question": "What is the primary function of Google DHCP?",
+    "options": [
+      "Incorrect approach",
+      "Correct Google-Cloud-Associate procedure",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "e",
+    "explanation": "**Google-Cloud-Associate E Solution:** What is the primary function of Google DHCP?. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-E014",
+    "question": "What is the primary function of Google DHCP?",
+    "options": [
+      "Correct Google-Cloud-Associate procedure",
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "e",
+    "explanation": "**Google-Cloud-Associate E Solution:** What is the primary function of Google DHCP?. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-E015",
+    "question": "What is the primary function of Google DHCP?",
+    "options": [
+      "Correct Google-Cloud-Associate procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "e",
+    "explanation": "**Google-Cloud-Associate E Solution:** What is the primary function of Google DHCP?. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-E016",
+    "question": "Which port does Google-Cloud-Associate service use by default?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Google-Cloud-Associate procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "e",
+    "explanation": "**Google-Cloud-Associate E Solution:** Which port does Google-Cloud-Associate service use by default?. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-E017",
+    "question": "Default subnet mask for Class C network in Google-Cloud-Associate?",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct Google-Cloud-Associate procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "e",
+    "explanation": "**Google-Cloud-Associate E Solution:** Default subnet mask for Class C network in Google-Cloud-Associate?. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-E018",
+    "question": "What does Google ACL stand for?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Google-Cloud-Associate procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "e",
+    "explanation": "**Google-Cloud-Associate E Solution:** What does Google ACL stand for?. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-E019",
+    "question": "Default subnet mask for Class C network in Google-Cloud-Associate?",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct Google-Cloud-Associate procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "e",
+    "explanation": "**Google-Cloud-Associate E Solution:** Default subnet mask for Class C network in Google-Cloud-Associate?. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-E020",
+    "question": "What is the primary function of Google DHCP?",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct Google-Cloud-Associate procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "e",
+    "explanation": "**Google-Cloud-Associate E Solution:** What is the primary function of Google DHCP?. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-E021",
+    "question": "Default subnet mask for Class C network in Google-Cloud-Associate?",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Google-Cloud-Associate procedure"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "e",
+    "explanation": "**Google-Cloud-Associate E Solution:** Default subnet mask for Class C network in Google-Cloud-Associate?. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-E022",
+    "question": "What does Google ACL stand for?",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach",
+      "Correct Google-Cloud-Associate procedure"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "e",
+    "explanation": "**Google-Cloud-Associate E Solution:** What does Google ACL stand for?. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-E023",
+    "question": "Common protocol for Google-Cloud-Associate remote access?",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct Google-Cloud-Associate procedure"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "e",
+    "explanation": "**Google-Cloud-Associate E Solution:** Common protocol for Google-Cloud-Associate remote access?. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-E024",
+    "question": "Default subnet mask for Class C network in Google-Cloud-Associate?",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Google-Cloud-Associate procedure"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "e",
+    "explanation": "**Google-Cloud-Associate E Solution:** Default subnet mask for Class C network in Google-Cloud-Associate?. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-E025",
+    "question": "What does Google ACL stand for?",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Google-Cloud-Associate procedure"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "e",
+    "explanation": "**Google-Cloud-Associate E Solution:** What does Google ACL stand for?. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-E026",
+    "question": "What does Google ACL stand for?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Google-Cloud-Associate procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "e",
+    "explanation": "**Google-Cloud-Associate E Solution:** What does Google ACL stand for?. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-E027",
+    "question": "Which port does Google-Cloud-Associate service use by default?",
+    "options": [
+      "Dangerous method",
+      "Correct Google-Cloud-Associate procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "e",
+    "explanation": "**Google-Cloud-Associate E Solution:** Which port does Google-Cloud-Associate service use by default?. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-E028",
+    "question": "Default subnet mask for Class C network in Google-Cloud-Associate?",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct Google-Cloud-Associate procedure"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "e",
+    "explanation": "**Google-Cloud-Associate E Solution:** Default subnet mask for Class C network in Google-Cloud-Associate?. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-E029",
+    "question": "Common protocol for Google-Cloud-Associate remote access?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Google-Cloud-Associate procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "e",
+    "explanation": "**Google-Cloud-Associate E Solution:** Common protocol for Google-Cloud-Associate remote access?. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-E030",
+    "question": "Default subnet mask for Class C network in Google-Cloud-Associate?",
+    "options": [
+      "Dangerous method",
+      "Correct Google-Cloud-Associate procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "e",
+    "explanation": "**Google-Cloud-Associate E Solution:** Default subnet mask for Class C network in Google-Cloud-Associate?. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-E031",
+    "question": "What is the primary function of Google DHCP?",
+    "options": [
+      "Dangerous method",
+      "Correct Google-Cloud-Associate procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "e",
+    "explanation": "**Google-Cloud-Associate E Solution:** What is the primary function of Google DHCP?. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-E032",
+    "question": "Common protocol for Google-Cloud-Associate remote access?",
+    "options": [
+      "Dangerous method",
+      "Correct Google-Cloud-Associate procedure",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "e",
+    "explanation": "**Google-Cloud-Associate E Solution:** Common protocol for Google-Cloud-Associate remote access?. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-E033",
+    "question": "What does Google ACL stand for?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Google-Cloud-Associate procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "e",
+    "explanation": "**Google-Cloud-Associate E Solution:** What does Google ACL stand for?. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-E034",
+    "question": "Which port does Google-Cloud-Associate service use by default?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Google-Cloud-Associate procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "e",
+    "explanation": "**Google-Cloud-Associate E Solution:** Which port does Google-Cloud-Associate service use by default?. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-E035",
+    "question": "What is the primary function of Google DHCP?",
+    "options": [
+      "Dangerous method",
+      "Correct Google-Cloud-Associate procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "e",
+    "explanation": "**Google-Cloud-Associate E Solution:** What is the primary function of Google DHCP?. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-E036",
+    "question": "Common protocol for Google-Cloud-Associate remote access?",
+    "options": [
+      "Dangerous method",
+      "Correct Google-Cloud-Associate procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "e",
+    "explanation": "**Google-Cloud-Associate E Solution:** Common protocol for Google-Cloud-Associate remote access?. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-E037",
+    "question": "What is the primary function of Google DHCP?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Google-Cloud-Associate procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "e",
+    "explanation": "**Google-Cloud-Associate E Solution:** What is the primary function of Google DHCP?. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-E038",
+    "question": "Common protocol for Google-Cloud-Associate remote access?",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Google-Cloud-Associate procedure"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "e",
+    "explanation": "**Google-Cloud-Associate E Solution:** Common protocol for Google-Cloud-Associate remote access?. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-E039",
+    "question": "What is the primary function of Google DHCP?",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct Google-Cloud-Associate procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "e",
+    "explanation": "**Google-Cloud-Associate E Solution:** What is the primary function of Google DHCP?. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-E040",
+    "question": "What does Google ACL stand for?",
+    "options": [
+      "Correct Google-Cloud-Associate procedure",
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "e",
+    "explanation": "**Google-Cloud-Associate E Solution:** What does Google ACL stand for?. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-E041",
+    "question": "What does Google ACL stand for?",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct Google-Cloud-Associate procedure",
+      "Partially correct"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "e",
+    "explanation": "**Google-Cloud-Associate E Solution:** What does Google ACL stand for?. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-E042",
+    "question": "Which port does Google-Cloud-Associate service use by default?",
+    "options": [
+      "Correct Google-Cloud-Associate procedure",
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "e",
+    "explanation": "**Google-Cloud-Associate E Solution:** Which port does Google-Cloud-Associate service use by default?. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-E043",
+    "question": "Which port does Google-Cloud-Associate service use by default?",
+    "options": [
+      "Dangerous method",
+      "Correct Google-Cloud-Associate procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "e",
+    "explanation": "**Google-Cloud-Associate E Solution:** Which port does Google-Cloud-Associate service use by default?. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-E044",
+    "question": "Default subnet mask for Class C network in Google-Cloud-Associate?",
+    "options": [
+      "Dangerous method",
+      "Correct Google-Cloud-Associate procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "e",
+    "explanation": "**Google-Cloud-Associate E Solution:** Default subnet mask for Class C network in Google-Cloud-Associate?. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-E045",
+    "question": "Which port does Google-Cloud-Associate service use by default?",
+    "options": [
+      "Dangerous method",
+      "Correct Google-Cloud-Associate procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "e",
+    "explanation": "**Google-Cloud-Associate E Solution:** Which port does Google-Cloud-Associate service use by default?. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-E046",
+    "question": "What does Google ACL stand for?",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct Google-Cloud-Associate procedure"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "e",
+    "explanation": "**Google-Cloud-Associate E Solution:** What does Google ACL stand for?. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-E047",
+    "question": "What does Google ACL stand for?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Google-Cloud-Associate procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "e",
+    "explanation": "**Google-Cloud-Associate E Solution:** What does Google ACL stand for?. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-E048",
+    "question": "What is the primary function of Google DHCP?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Google-Cloud-Associate procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "e",
+    "explanation": "**Google-Cloud-Associate E Solution:** What is the primary function of Google DHCP?. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-E049",
+    "question": "What is the primary function of Google DHCP?",
+    "options": [
+      "Correct Google-Cloud-Associate procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "e",
+    "explanation": "**Google-Cloud-Associate E Solution:** What is the primary function of Google DHCP?. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-E050",
+    "question": "Default subnet mask for Class C network in Google-Cloud-Associate?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Google-Cloud-Associate procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "e",
+    "explanation": "**Google-Cloud-Associate E Solution:** Default subnet mask for Class C network in Google-Cloud-Associate?. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-M001",
+    "question": "Configure Google-Cloud-Associate load balancer for high availability",
+    "options": [
+      "Correct Google-Cloud-Associate procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "m",
+    "explanation": "**Google-Cloud-Associate M Solution:** Configure Google-Cloud-Associate load balancer for high availability. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-M002",
+    "question": "Set up Google-Cloud-Associate failover clustering",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct Google-Cloud-Associate procedure"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "m",
+    "explanation": "**Google-Cloud-Associate M Solution:** Set up Google-Cloud-Associate failover clustering. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-M003",
+    "question": "Set up Google-Cloud-Associate failover clustering",
+    "options": [
+      "Correct Google-Cloud-Associate procedure",
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "m",
+    "explanation": "**Google-Cloud-Associate M Solution:** Set up Google-Cloud-Associate failover clustering. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-M004",
+    "question": "Configure Google-Cloud-Associate load balancer for high availability",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct Google-Cloud-Associate procedure"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "m",
+    "explanation": "**Google-Cloud-Associate M Solution:** Configure Google-Cloud-Associate load balancer for high availability. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-M005",
+    "question": "Configure Google-Cloud-Associate load balancer for high availability",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Google-Cloud-Associate procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "m",
+    "explanation": "**Google-Cloud-Associate M Solution:** Configure Google-Cloud-Associate load balancer for high availability. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-M006",
+    "question": "Optimize Google-Cloud-Associate query performance",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct Google-Cloud-Associate procedure"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "m",
+    "explanation": "**Google-Cloud-Associate M Solution:** Optimize Google-Cloud-Associate query performance. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-M007",
+    "question": "Optimize Google-Cloud-Associate query performance",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct Google-Cloud-Associate procedure"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "m",
+    "explanation": "**Google-Cloud-Associate M Solution:** Optimize Google-Cloud-Associate query performance. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-M008",
+    "question": "Troubleshoot Google-Cloud-Associate connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Google-Cloud-Associate procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "m",
+    "explanation": "**Google-Cloud-Associate M Solution:** Troubleshoot Google-Cloud-Associate connectivity issue between VLANs. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-M009",
+    "question": "Implement Google-Cloud-Associate backup strategy for compliance",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct Google-Cloud-Associate procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "m",
+    "explanation": "**Google-Cloud-Associate M Solution:** Implement Google-Cloud-Associate backup strategy for compliance. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-M010",
+    "question": "Configure Google-Cloud-Associate load balancer for high availability",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct Google-Cloud-Associate procedure"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "m",
+    "explanation": "**Google-Cloud-Associate M Solution:** Configure Google-Cloud-Associate load balancer for high availability. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-M011",
+    "question": "Implement Google-Cloud-Associate backup strategy for compliance",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Google-Cloud-Associate procedure"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "m",
+    "explanation": "**Google-Cloud-Associate M Solution:** Implement Google-Cloud-Associate backup strategy for compliance. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-M012",
+    "question": "Set up Google-Cloud-Associate failover clustering",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct Google-Cloud-Associate procedure"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "m",
+    "explanation": "**Google-Cloud-Associate M Solution:** Set up Google-Cloud-Associate failover clustering. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-M013",
+    "question": "Set up Google-Cloud-Associate failover clustering",
+    "options": [
+      "Dangerous method",
+      "Correct Google-Cloud-Associate procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "m",
+    "explanation": "**Google-Cloud-Associate M Solution:** Set up Google-Cloud-Associate failover clustering. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-M014",
+    "question": "Troubleshoot Google-Cloud-Associate connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct Google-Cloud-Associate procedure"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "m",
+    "explanation": "**Google-Cloud-Associate M Solution:** Troubleshoot Google-Cloud-Associate connectivity issue between VLANs. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-M015",
+    "question": "Optimize Google-Cloud-Associate query performance",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Google-Cloud-Associate procedure"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "m",
+    "explanation": "**Google-Cloud-Associate M Solution:** Optimize Google-Cloud-Associate query performance. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-M016",
+    "question": "Optimize Google-Cloud-Associate query performance",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct Google-Cloud-Associate procedure"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "m",
+    "explanation": "**Google-Cloud-Associate M Solution:** Optimize Google-Cloud-Associate query performance. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-M017",
+    "question": "Configure Google-Cloud-Associate load balancer for high availability",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach",
+      "Correct Google-Cloud-Associate procedure"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "m",
+    "explanation": "**Google-Cloud-Associate M Solution:** Configure Google-Cloud-Associate load balancer for high availability. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-M018",
+    "question": "Implement Google-Cloud-Associate backup strategy for compliance",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct Google-Cloud-Associate procedure"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "m",
+    "explanation": "**Google-Cloud-Associate M Solution:** Implement Google-Cloud-Associate backup strategy for compliance. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-M019",
+    "question": "Implement Google-Cloud-Associate backup strategy for compliance",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct Google-Cloud-Associate procedure",
+      "Partially correct"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "m",
+    "explanation": "**Google-Cloud-Associate M Solution:** Implement Google-Cloud-Associate backup strategy for compliance. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-M020",
+    "question": "Implement Google-Cloud-Associate backup strategy for compliance",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Google-Cloud-Associate procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "m",
+    "explanation": "**Google-Cloud-Associate M Solution:** Implement Google-Cloud-Associate backup strategy for compliance. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-M021",
+    "question": "Set up Google-Cloud-Associate failover clustering",
+    "options": [
+      "Correct Google-Cloud-Associate procedure",
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "m",
+    "explanation": "**Google-Cloud-Associate M Solution:** Set up Google-Cloud-Associate failover clustering. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-M022",
+    "question": "Troubleshoot Google-Cloud-Associate connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Google-Cloud-Associate procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "m",
+    "explanation": "**Google-Cloud-Associate M Solution:** Troubleshoot Google-Cloud-Associate connectivity issue between VLANs. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-M023",
+    "question": "Optimize Google-Cloud-Associate query performance",
+    "options": [
+      "Correct Google-Cloud-Associate procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "m",
+    "explanation": "**Google-Cloud-Associate M Solution:** Optimize Google-Cloud-Associate query performance. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-M024",
+    "question": "Configure Google-Cloud-Associate load balancer for high availability",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Google-Cloud-Associate procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "m",
+    "explanation": "**Google-Cloud-Associate M Solution:** Configure Google-Cloud-Associate load balancer for high availability. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-M025",
+    "question": "Configure Google-Cloud-Associate load balancer for high availability",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Google-Cloud-Associate procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "m",
+    "explanation": "**Google-Cloud-Associate M Solution:** Configure Google-Cloud-Associate load balancer for high availability. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-M026",
+    "question": "Set up Google-Cloud-Associate failover clustering",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Google-Cloud-Associate procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "m",
+    "explanation": "**Google-Cloud-Associate M Solution:** Set up Google-Cloud-Associate failover clustering. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-M027",
+    "question": "Troubleshoot Google-Cloud-Associate connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Google-Cloud-Associate procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "m",
+    "explanation": "**Google-Cloud-Associate M Solution:** Troubleshoot Google-Cloud-Associate connectivity issue between VLANs. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-M028",
+    "question": "Optimize Google-Cloud-Associate query performance",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct Google-Cloud-Associate procedure"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "m",
+    "explanation": "**Google-Cloud-Associate M Solution:** Optimize Google-Cloud-Associate query performance. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-M029",
+    "question": "Optimize Google-Cloud-Associate query performance",
+    "options": [
+      "Correct Google-Cloud-Associate procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "m",
+    "explanation": "**Google-Cloud-Associate M Solution:** Optimize Google-Cloud-Associate query performance. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-M030",
+    "question": "Optimize Google-Cloud-Associate query performance",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Google-Cloud-Associate procedure"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "m",
+    "explanation": "**Google-Cloud-Associate M Solution:** Optimize Google-Cloud-Associate query performance. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-M031",
+    "question": "Set up Google-Cloud-Associate failover clustering",
+    "options": [
+      "Dangerous method",
+      "Correct Google-Cloud-Associate procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "m",
+    "explanation": "**Google-Cloud-Associate M Solution:** Set up Google-Cloud-Associate failover clustering. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-M032",
+    "question": "Set up Google-Cloud-Associate failover clustering",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Google-Cloud-Associate procedure"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "m",
+    "explanation": "**Google-Cloud-Associate M Solution:** Set up Google-Cloud-Associate failover clustering. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-M033",
+    "question": "Troubleshoot Google-Cloud-Associate connectivity issue between VLANs",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Google-Cloud-Associate procedure"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "m",
+    "explanation": "**Google-Cloud-Associate M Solution:** Troubleshoot Google-Cloud-Associate connectivity issue between VLANs. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-M034",
+    "question": "Optimize Google-Cloud-Associate query performance",
+    "options": [
+      "Dangerous method",
+      "Correct Google-Cloud-Associate procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "m",
+    "explanation": "**Google-Cloud-Associate M Solution:** Optimize Google-Cloud-Associate query performance. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-M035",
+    "question": "Implement Google-Cloud-Associate backup strategy for compliance",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct Google-Cloud-Associate procedure"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "m",
+    "explanation": "**Google-Cloud-Associate M Solution:** Implement Google-Cloud-Associate backup strategy for compliance. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-M036",
+    "question": "Troubleshoot Google-Cloud-Associate connectivity issue between VLANs",
+    "options": [
+      "Correct Google-Cloud-Associate procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "m",
+    "explanation": "**Google-Cloud-Associate M Solution:** Troubleshoot Google-Cloud-Associate connectivity issue between VLANs. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-M037",
+    "question": "Set up Google-Cloud-Associate failover clustering",
+    "options": [
+      "Partially correct",
+      "Correct Google-Cloud-Associate procedure",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "m",
+    "explanation": "**Google-Cloud-Associate M Solution:** Set up Google-Cloud-Associate failover clustering. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-M038",
+    "question": "Configure Google-Cloud-Associate load balancer for high availability",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct Google-Cloud-Associate procedure"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "m",
+    "explanation": "**Google-Cloud-Associate M Solution:** Configure Google-Cloud-Associate load balancer for high availability. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-M039",
+    "question": "Set up Google-Cloud-Associate failover clustering",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Google-Cloud-Associate procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "m",
+    "explanation": "**Google-Cloud-Associate M Solution:** Set up Google-Cloud-Associate failover clustering. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-M040",
+    "question": "Implement Google-Cloud-Associate backup strategy for compliance",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct Google-Cloud-Associate procedure",
+      "Partially correct"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "m",
+    "explanation": "**Google-Cloud-Associate M Solution:** Implement Google-Cloud-Associate backup strategy for compliance. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-M041",
+    "question": "Set up Google-Cloud-Associate failover clustering",
+    "options": [
+      "Dangerous method",
+      "Correct Google-Cloud-Associate procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "m",
+    "explanation": "**Google-Cloud-Associate M Solution:** Set up Google-Cloud-Associate failover clustering. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-M042",
+    "question": "Set up Google-Cloud-Associate failover clustering",
+    "options": [
+      "Correct Google-Cloud-Associate procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "m",
+    "explanation": "**Google-Cloud-Associate M Solution:** Set up Google-Cloud-Associate failover clustering. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-M043",
+    "question": "Troubleshoot Google-Cloud-Associate connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Google-Cloud-Associate procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "m",
+    "explanation": "**Google-Cloud-Associate M Solution:** Troubleshoot Google-Cloud-Associate connectivity issue between VLANs. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-M044",
+    "question": "Configure Google-Cloud-Associate load balancer for high availability",
+    "options": [
+      "Incorrect approach",
+      "Correct Google-Cloud-Associate procedure",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "m",
+    "explanation": "**Google-Cloud-Associate M Solution:** Configure Google-Cloud-Associate load balancer for high availability. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-M045",
+    "question": "Configure Google-Cloud-Associate load balancer for high availability",
+    "options": [
+      "Dangerous method",
+      "Correct Google-Cloud-Associate procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "m",
+    "explanation": "**Google-Cloud-Associate M Solution:** Configure Google-Cloud-Associate load balancer for high availability. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-M046",
+    "question": "Optimize Google-Cloud-Associate query performance",
+    "options": [
+      "Partially correct",
+      "Correct Google-Cloud-Associate procedure",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "m",
+    "explanation": "**Google-Cloud-Associate M Solution:** Optimize Google-Cloud-Associate query performance. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-M047",
+    "question": "Troubleshoot Google-Cloud-Associate connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Correct Google-Cloud-Associate procedure",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "m",
+    "explanation": "**Google-Cloud-Associate M Solution:** Troubleshoot Google-Cloud-Associate connectivity issue between VLANs. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-M048",
+    "question": "Implement Google-Cloud-Associate backup strategy for compliance",
+    "options": [
+      "Incorrect approach",
+      "Correct Google-Cloud-Associate procedure",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "m",
+    "explanation": "**Google-Cloud-Associate M Solution:** Implement Google-Cloud-Associate backup strategy for compliance. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-M049",
+    "question": "Implement Google-Cloud-Associate backup strategy for compliance",
+    "options": [
+      "Correct Google-Cloud-Associate procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "m",
+    "explanation": "**Google-Cloud-Associate M Solution:** Implement Google-Cloud-Associate backup strategy for compliance. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-M050",
+    "question": "Optimize Google-Cloud-Associate query performance",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct Google-Cloud-Associate procedure"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "m",
+    "explanation": "**Google-Cloud-Associate M Solution:** Optimize Google-Cloud-Associate query performance. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-H001",
+    "question": "Migrate legacy Google-Cloud-Associate systems to cloud-native architecture",
+    "options": [
+      "Incorrect approach",
+      "Correct Google-Cloud-Associate procedure",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "h",
+    "explanation": "**Google-Cloud-Associate H Solution:** Migrate legacy Google-Cloud-Associate systems to cloud-native architecture. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-H002",
+    "question": "Migrate legacy Google-Cloud-Associate systems to cloud-native architecture",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Correct Google-Cloud-Associate procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "h",
+    "explanation": "**Google-Cloud-Associate H Solution:** Migrate legacy Google-Cloud-Associate systems to cloud-native architecture. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-H003",
+    "question": "Optimize Google-Cloud-Associate performance under DDoS attack",
+    "options": [
+      "Correct Google-Cloud-Associate procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "h",
+    "explanation": "**Google-Cloud-Associate H Solution:** Optimize Google-Cloud-Associate performance under DDoS attack. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-H004",
+    "question": "Implement zero-trust security model in Google-Cloud-Associate",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach",
+      "Correct Google-Cloud-Associate procedure"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "h",
+    "explanation": "**Google-Cloud-Associate H Solution:** Implement zero-trust security model in Google-Cloud-Associate. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-H005",
+    "question": "Optimize Google-Cloud-Associate performance under DDoS attack",
+    "options": [
+      "Correct Google-Cloud-Associate procedure",
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "h",
+    "explanation": "**Google-Cloud-Associate H Solution:** Optimize Google-Cloud-Associate performance under DDoS attack. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-H006",
+    "question": "Design Google-Cloud-Associate architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Correct Google-Cloud-Associate procedure",
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "h",
+    "explanation": "**Google-Cloud-Associate H Solution:** Design Google-Cloud-Associate architecture for 10k users with 99.99% uptime. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-H007",
+    "question": "Migrate legacy Google-Cloud-Associate systems to cloud-native architecture",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Google-Cloud-Associate procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "h",
+    "explanation": "**Google-Cloud-Associate H Solution:** Migrate legacy Google-Cloud-Associate systems to cloud-native architecture. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-H008",
+    "question": "Implement zero-trust security model in Google-Cloud-Associate",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct Google-Cloud-Associate procedure"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "h",
+    "explanation": "**Google-Cloud-Associate H Solution:** Implement zero-trust security model in Google-Cloud-Associate. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-H009",
+    "question": "Create disaster recovery plan with RTO < 15min for Google-Cloud-Associate",
+    "options": [
+      "Dangerous method",
+      "Correct Google-Cloud-Associate procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "h",
+    "explanation": "**Google-Cloud-Associate H Solution:** Create disaster recovery plan with RTO < 15min for Google-Cloud-Associate. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-H010",
+    "question": "Implement zero-trust security model in Google-Cloud-Associate",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Google-Cloud-Associate procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "h",
+    "explanation": "**Google-Cloud-Associate H Solution:** Implement zero-trust security model in Google-Cloud-Associate. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-H011",
+    "question": "Optimize Google-Cloud-Associate performance under DDoS attack",
+    "options": [
+      "Dangerous method",
+      "Correct Google-Cloud-Associate procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "h",
+    "explanation": "**Google-Cloud-Associate H Solution:** Optimize Google-Cloud-Associate performance under DDoS attack. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-H012",
+    "question": "Optimize Google-Cloud-Associate performance under DDoS attack",
+    "options": [
+      "Partially correct",
+      "Correct Google-Cloud-Associate procedure",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "h",
+    "explanation": "**Google-Cloud-Associate H Solution:** Optimize Google-Cloud-Associate performance under DDoS attack. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-H013",
+    "question": "Create disaster recovery plan with RTO < 15min for Google-Cloud-Associate",
+    "options": [
+      "Dangerous method",
+      "Correct Google-Cloud-Associate procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "h",
+    "explanation": "**Google-Cloud-Associate H Solution:** Create disaster recovery plan with RTO < 15min for Google-Cloud-Associate. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-H014",
+    "question": "Optimize Google-Cloud-Associate performance under DDoS attack",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct Google-Cloud-Associate procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "h",
+    "explanation": "**Google-Cloud-Associate H Solution:** Optimize Google-Cloud-Associate performance under DDoS attack. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-H015",
+    "question": "Create disaster recovery plan with RTO < 15min for Google-Cloud-Associate",
+    "options": [
+      "Correct Google-Cloud-Associate procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "h",
+    "explanation": "**Google-Cloud-Associate H Solution:** Create disaster recovery plan with RTO < 15min for Google-Cloud-Associate. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-H016",
+    "question": "Design Google-Cloud-Associate architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Dangerous method",
+      "Correct Google-Cloud-Associate procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "h",
+    "explanation": "**Google-Cloud-Associate H Solution:** Design Google-Cloud-Associate architecture for 10k users with 99.99% uptime. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-H017",
+    "question": "Optimize Google-Cloud-Associate performance under DDoS attack",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct Google-Cloud-Associate procedure",
+      "Partially correct"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "h",
+    "explanation": "**Google-Cloud-Associate H Solution:** Optimize Google-Cloud-Associate performance under DDoS attack. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-H018",
+    "question": "Optimize Google-Cloud-Associate performance under DDoS attack",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct Google-Cloud-Associate procedure"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "h",
+    "explanation": "**Google-Cloud-Associate H Solution:** Optimize Google-Cloud-Associate performance under DDoS attack. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-H019",
+    "question": "Create disaster recovery plan with RTO < 15min for Google-Cloud-Associate",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct Google-Cloud-Associate procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "h",
+    "explanation": "**Google-Cloud-Associate H Solution:** Create disaster recovery plan with RTO < 15min for Google-Cloud-Associate. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-H020",
+    "question": "Migrate legacy Google-Cloud-Associate systems to cloud-native architecture",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Google-Cloud-Associate procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "h",
+    "explanation": "**Google-Cloud-Associate H Solution:** Migrate legacy Google-Cloud-Associate systems to cloud-native architecture. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-H021",
+    "question": "Create disaster recovery plan with RTO < 15min for Google-Cloud-Associate",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct Google-Cloud-Associate procedure"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "h",
+    "explanation": "**Google-Cloud-Associate H Solution:** Create disaster recovery plan with RTO < 15min for Google-Cloud-Associate. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-H022",
+    "question": "Migrate legacy Google-Cloud-Associate systems to cloud-native architecture",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct Google-Cloud-Associate procedure"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "h",
+    "explanation": "**Google-Cloud-Associate H Solution:** Migrate legacy Google-Cloud-Associate systems to cloud-native architecture. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-H023",
+    "question": "Create disaster recovery plan with RTO < 15min for Google-Cloud-Associate",
+    "options": [
+      "Dangerous method",
+      "Correct Google-Cloud-Associate procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "h",
+    "explanation": "**Google-Cloud-Associate H Solution:** Create disaster recovery plan with RTO < 15min for Google-Cloud-Associate. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-H024",
+    "question": "Implement zero-trust security model in Google-Cloud-Associate",
+    "options": [
+      "Dangerous method",
+      "Correct Google-Cloud-Associate procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "h",
+    "explanation": "**Google-Cloud-Associate H Solution:** Implement zero-trust security model in Google-Cloud-Associate. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-H025",
+    "question": "Implement zero-trust security model in Google-Cloud-Associate",
+    "options": [
+      "Correct Google-Cloud-Associate procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "h",
+    "explanation": "**Google-Cloud-Associate H Solution:** Implement zero-trust security model in Google-Cloud-Associate. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-H026",
+    "question": "Design Google-Cloud-Associate architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Google-Cloud-Associate procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "h",
+    "explanation": "**Google-Cloud-Associate H Solution:** Design Google-Cloud-Associate architecture for 10k users with 99.99% uptime. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-H027",
+    "question": "Migrate legacy Google-Cloud-Associate systems to cloud-native architecture",
+    "options": [
+      "Dangerous method",
+      "Correct Google-Cloud-Associate procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "h",
+    "explanation": "**Google-Cloud-Associate H Solution:** Migrate legacy Google-Cloud-Associate systems to cloud-native architecture. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-H028",
+    "question": "Create disaster recovery plan with RTO < 15min for Google-Cloud-Associate",
+    "options": [
+      "Correct Google-Cloud-Associate procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "h",
+    "explanation": "**Google-Cloud-Associate H Solution:** Create disaster recovery plan with RTO < 15min for Google-Cloud-Associate. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-H029",
+    "question": "Implement zero-trust security model in Google-Cloud-Associate",
+    "options": [
+      "Correct Google-Cloud-Associate procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "h",
+    "explanation": "**Google-Cloud-Associate H Solution:** Implement zero-trust security model in Google-Cloud-Associate. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-H030",
+    "question": "Create disaster recovery plan with RTO < 15min for Google-Cloud-Associate",
+    "options": [
+      "Dangerous method",
+      "Correct Google-Cloud-Associate procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "h",
+    "explanation": "**Google-Cloud-Associate H Solution:** Create disaster recovery plan with RTO < 15min for Google-Cloud-Associate. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-H031",
+    "question": "Implement zero-trust security model in Google-Cloud-Associate",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Google-Cloud-Associate procedure"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "h",
+    "explanation": "**Google-Cloud-Associate H Solution:** Implement zero-trust security model in Google-Cloud-Associate. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-H032",
+    "question": "Optimize Google-Cloud-Associate performance under DDoS attack",
+    "options": [
+      "Correct Google-Cloud-Associate procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "h",
+    "explanation": "**Google-Cloud-Associate H Solution:** Optimize Google-Cloud-Associate performance under DDoS attack. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-H033",
+    "question": "Migrate legacy Google-Cloud-Associate systems to cloud-native architecture",
+    "options": [
+      "Correct Google-Cloud-Associate procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "h",
+    "explanation": "**Google-Cloud-Associate H Solution:** Migrate legacy Google-Cloud-Associate systems to cloud-native architecture. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-H034",
+    "question": "Implement zero-trust security model in Google-Cloud-Associate",
+    "options": [
+      "Incorrect approach",
+      "Correct Google-Cloud-Associate procedure",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "h",
+    "explanation": "**Google-Cloud-Associate H Solution:** Implement zero-trust security model in Google-Cloud-Associate. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-H035",
+    "question": "Design Google-Cloud-Associate architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Google-Cloud-Associate procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "h",
+    "explanation": "**Google-Cloud-Associate H Solution:** Design Google-Cloud-Associate architecture for 10k users with 99.99% uptime. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-H036",
+    "question": "Create disaster recovery plan with RTO < 15min for Google-Cloud-Associate",
+    "options": [
+      "Dangerous method",
+      "Correct Google-Cloud-Associate procedure",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "h",
+    "explanation": "**Google-Cloud-Associate H Solution:** Create disaster recovery plan with RTO < 15min for Google-Cloud-Associate. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-H037",
+    "question": "Optimize Google-Cloud-Associate performance under DDoS attack",
+    "options": [
+      "Correct Google-Cloud-Associate procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "h",
+    "explanation": "**Google-Cloud-Associate H Solution:** Optimize Google-Cloud-Associate performance under DDoS attack. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-H038",
+    "question": "Implement zero-trust security model in Google-Cloud-Associate",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Google-Cloud-Associate procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "h",
+    "explanation": "**Google-Cloud-Associate H Solution:** Implement zero-trust security model in Google-Cloud-Associate. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-H039",
+    "question": "Design Google-Cloud-Associate architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct Google-Cloud-Associate procedure"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "h",
+    "explanation": "**Google-Cloud-Associate H Solution:** Design Google-Cloud-Associate architecture for 10k users with 99.99% uptime. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-H040",
+    "question": "Optimize Google-Cloud-Associate performance under DDoS attack",
+    "options": [
+      "Dangerous method",
+      "Correct Google-Cloud-Associate procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "h",
+    "explanation": "**Google-Cloud-Associate H Solution:** Optimize Google-Cloud-Associate performance under DDoS attack. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-H041",
+    "question": "Create disaster recovery plan with RTO < 15min for Google-Cloud-Associate",
+    "options": [
+      "Correct Google-Cloud-Associate procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "h",
+    "explanation": "**Google-Cloud-Associate H Solution:** Create disaster recovery plan with RTO < 15min for Google-Cloud-Associate. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-H042",
+    "question": "Design Google-Cloud-Associate architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Dangerous method",
+      "Correct Google-Cloud-Associate procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "h",
+    "explanation": "**Google-Cloud-Associate H Solution:** Design Google-Cloud-Associate architecture for 10k users with 99.99% uptime. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-H043",
+    "question": "Create disaster recovery plan with RTO < 15min for Google-Cloud-Associate",
+    "options": [
+      "Correct Google-Cloud-Associate procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "h",
+    "explanation": "**Google-Cloud-Associate H Solution:** Create disaster recovery plan with RTO < 15min for Google-Cloud-Associate. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-H044",
+    "question": "Implement zero-trust security model in Google-Cloud-Associate",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Correct Google-Cloud-Associate procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "h",
+    "explanation": "**Google-Cloud-Associate H Solution:** Implement zero-trust security model in Google-Cloud-Associate. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-H045",
+    "question": "Create disaster recovery plan with RTO < 15min for Google-Cloud-Associate",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Google-Cloud-Associate procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "h",
+    "explanation": "**Google-Cloud-Associate H Solution:** Create disaster recovery plan with RTO < 15min for Google-Cloud-Associate. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-H046",
+    "question": "Optimize Google-Cloud-Associate performance under DDoS attack",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct Google-Cloud-Associate procedure"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "h",
+    "explanation": "**Google-Cloud-Associate H Solution:** Optimize Google-Cloud-Associate performance under DDoS attack. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-H047",
+    "question": "Optimize Google-Cloud-Associate performance under DDoS attack",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Google-Cloud-Associate procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "h",
+    "explanation": "**Google-Cloud-Associate H Solution:** Optimize Google-Cloud-Associate performance under DDoS attack. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-H048",
+    "question": "Design Google-Cloud-Associate architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach",
+      "Correct Google-Cloud-Associate procedure"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "h",
+    "explanation": "**Google-Cloud-Associate H Solution:** Design Google-Cloud-Associate architecture for 10k users with 99.99% uptime. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-H049",
+    "question": "Design Google-Cloud-Associate architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Google-Cloud-Associate procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "h",
+    "explanation": "**Google-Cloud-Associate H Solution:** Design Google-Cloud-Associate architecture for 10k users with 99.99% uptime. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-H050",
+    "question": "Implement zero-trust security model in Google-Cloud-Associate",
+    "options": [
+      "Dangerous method",
+      "Correct Google-Cloud-Associate procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Google-Cloud-Associate procedure",
+    "difficulty": "h",
+    "explanation": "**Google-Cloud-Associate H Solution:** Implement zero-trust security model in Google-Cloud-Associate. Always verify Google-Cloud-Associate documentation and test in lab environment first."
+  },
+  {
+    "id": "Google-Cloud-Associate-S01-01",
+    "question": "1. Production outage during peak hours: diagnose and resolve in Google-Cloud-Associate environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S01-02",
+    "question": "1. Production outage during peak hours: diagnose and resolve in Google-Cloud-Associate environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S01-03",
+    "question": "1. Production outage during peak hours: diagnose and resolve in Google-Cloud-Associate environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S01-04",
+    "question": "1. Production outage during peak hours: diagnose and resolve in Google-Cloud-Associate environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S01-05",
+    "question": "1. Production outage during peak hours: diagnose and resolve in Google-Cloud-Associate environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S02-01",
+    "question": "2. Load balancer health check failing in Google-Cloud-Associate environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S02-02",
+    "question": "2. Load balancer health check failing in Google-Cloud-Associate environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S02-03",
+    "question": "2. Load balancer health check failing in Google-Cloud-Associate environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S02-04",
+    "question": "2. Load balancer health check failing in Google-Cloud-Associate environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S02-05",
+    "question": "2. Load balancer health check failing in Google-Cloud-Associate environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S03-01",
+    "question": "3. Security incident response: ransomware attack detected in Google-Cloud-Associate environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S03-02",
+    "question": "3. Security incident response: ransomware attack detected in Google-Cloud-Associate environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S03-03",
+    "question": "3. Security incident response: ransomware attack detected in Google-Cloud-Associate environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S03-04",
+    "question": "3. Security incident response: ransomware attack detected in Google-Cloud-Associate environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S03-05",
+    "question": "3. Security incident response: ransomware attack detected in Google-Cloud-Associate environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S04-01",
+    "question": "4. VPN connectivity failure for remote users in Google-Cloud-Associate environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S04-02",
+    "question": "4. VPN connectivity failure for remote users in Google-Cloud-Associate environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S04-03",
+    "question": "4. VPN connectivity failure for remote users in Google-Cloud-Associate environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S04-04",
+    "question": "4. VPN connectivity failure for remote users in Google-Cloud-Associate environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S04-05",
+    "question": "4. VPN connectivity failure for remote users in Google-Cloud-Associate environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S05-01",
+    "question": "5. Load balancer health check failing in Google-Cloud-Associate environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S05-02",
+    "question": "5. Load balancer health check failing in Google-Cloud-Associate environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S05-03",
+    "question": "5. Load balancer health check failing in Google-Cloud-Associate environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S05-04",
+    "question": "5. Load balancer health check failing in Google-Cloud-Associate environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S05-05",
+    "question": "5. Load balancer health check failing in Google-Cloud-Associate environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S06-01",
+    "question": "6. Database performance degradation after upgrade in Google-Cloud-Associate environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S06-02",
+    "question": "6. Database performance degradation after upgrade in Google-Cloud-Associate environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S06-03",
+    "question": "6. Database performance degradation after upgrade in Google-Cloud-Associate environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S06-04",
+    "question": "6. Database performance degradation after upgrade in Google-Cloud-Associate environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S06-05",
+    "question": "6. Database performance degradation after upgrade in Google-Cloud-Associate environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S07-01",
+    "question": "7. VPN connectivity failure for remote users in Google-Cloud-Associate environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S07-02",
+    "question": "7. VPN connectivity failure for remote users in Google-Cloud-Associate environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S07-03",
+    "question": "7. VPN connectivity failure for remote users in Google-Cloud-Associate environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S07-04",
+    "question": "7. VPN connectivity failure for remote users in Google-Cloud-Associate environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S07-05",
+    "question": "7. VPN connectivity failure for remote users in Google-Cloud-Associate environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S08-01",
+    "question": "8. Cloud migration failure: rollback strategy in Google-Cloud-Associate environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S08-02",
+    "question": "8. Cloud migration failure: rollback strategy in Google-Cloud-Associate environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S08-03",
+    "question": "8. Cloud migration failure: rollback strategy in Google-Cloud-Associate environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S08-04",
+    "question": "8. Cloud migration failure: rollback strategy in Google-Cloud-Associate environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S08-05",
+    "question": "8. Cloud migration failure: rollback strategy in Google-Cloud-Associate environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S09-01",
+    "question": "9. Backup failure during scheduled window in Google-Cloud-Associate environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S09-02",
+    "question": "9. Backup failure during scheduled window in Google-Cloud-Associate environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S09-03",
+    "question": "9. Backup failure during scheduled window in Google-Cloud-Associate environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S09-04",
+    "question": "9. Backup failure during scheduled window in Google-Cloud-Associate environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S09-05",
+    "question": "9. Backup failure during scheduled window in Google-Cloud-Associate environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S10-01",
+    "question": "10. Server overload during quarterly report generation in Google-Cloud-Associate environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S10-02",
+    "question": "10. Server overload during quarterly report generation in Google-Cloud-Associate environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S10-03",
+    "question": "10. Server overload during quarterly report generation in Google-Cloud-Associate environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S10-04",
+    "question": "10. Server overload during quarterly report generation in Google-Cloud-Associate environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S10-05",
+    "question": "10. Server overload during quarterly report generation in Google-Cloud-Associate environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S11-01",
+    "question": "11. Cloud migration failure: rollback strategy in Google-Cloud-Associate environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S11-02",
+    "question": "11. Cloud migration failure: rollback strategy in Google-Cloud-Associate environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S11-03",
+    "question": "11. Cloud migration failure: rollback strategy in Google-Cloud-Associate environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S11-04",
+    "question": "11. Cloud migration failure: rollback strategy in Google-Cloud-Associate environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S11-05",
+    "question": "11. Cloud migration failure: rollback strategy in Google-Cloud-Associate environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S12-01",
+    "question": "12. Load balancer health check failing in Google-Cloud-Associate environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S12-02",
+    "question": "12. Load balancer health check failing in Google-Cloud-Associate environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S12-03",
+    "question": "12. Load balancer health check failing in Google-Cloud-Associate environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S12-04",
+    "question": "12. Load balancer health check failing in Google-Cloud-Associate environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S12-05",
+    "question": "12. Load balancer health check failing in Google-Cloud-Associate environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S13-01",
+    "question": "13. Network latency issue affecting VoIP calls in Google-Cloud-Associate environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S13-02",
+    "question": "13. Network latency issue affecting VoIP calls in Google-Cloud-Associate environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S13-03",
+    "question": "13. Network latency issue affecting VoIP calls in Google-Cloud-Associate environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S13-04",
+    "question": "13. Network latency issue affecting VoIP calls in Google-Cloud-Associate environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S13-05",
+    "question": "13. Network latency issue affecting VoIP calls in Google-Cloud-Associate environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S14-01",
+    "question": "14. Production outage during peak hours: diagnose and resolve in Google-Cloud-Associate environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S14-02",
+    "question": "14. Production outage during peak hours: diagnose and resolve in Google-Cloud-Associate environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S14-03",
+    "question": "14. Production outage during peak hours: diagnose and resolve in Google-Cloud-Associate environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S14-04",
+    "question": "14. Production outage during peak hours: diagnose and resolve in Google-Cloud-Associate environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S14-05",
+    "question": "14. Production outage during peak hours: diagnose and resolve in Google-Cloud-Associate environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S15-01",
+    "question": "15. VPN connectivity failure for remote users in Google-Cloud-Associate environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S15-02",
+    "question": "15. VPN connectivity failure for remote users in Google-Cloud-Associate environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S15-03",
+    "question": "15. VPN connectivity failure for remote users in Google-Cloud-Associate environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S15-04",
+    "question": "15. VPN connectivity failure for remote users in Google-Cloud-Associate environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S15-05",
+    "question": "15. VPN connectivity failure for remote users in Google-Cloud-Associate environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S16-01",
+    "question": "16. Backup failure during scheduled window in Google-Cloud-Associate environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S16-02",
+    "question": "16. Backup failure during scheduled window in Google-Cloud-Associate environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S16-03",
+    "question": "16. Backup failure during scheduled window in Google-Cloud-Associate environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S16-04",
+    "question": "16. Backup failure during scheduled window in Google-Cloud-Associate environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S16-05",
+    "question": "16. Backup failure during scheduled window in Google-Cloud-Associate environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S17-01",
+    "question": "17. Production outage during peak hours: diagnose and resolve in Google-Cloud-Associate environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S17-02",
+    "question": "17. Production outage during peak hours: diagnose and resolve in Google-Cloud-Associate environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S17-03",
+    "question": "17. Production outage during peak hours: diagnose and resolve in Google-Cloud-Associate environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S17-04",
+    "question": "17. Production outage during peak hours: diagnose and resolve in Google-Cloud-Associate environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S17-05",
+    "question": "17. Production outage during peak hours: diagnose and resolve in Google-Cloud-Associate environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S18-01",
+    "question": "18. Network latency issue affecting VoIP calls in Google-Cloud-Associate environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S18-02",
+    "question": "18. Network latency issue affecting VoIP calls in Google-Cloud-Associate environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S18-03",
+    "question": "18. Network latency issue affecting VoIP calls in Google-Cloud-Associate environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S18-04",
+    "question": "18. Network latency issue affecting VoIP calls in Google-Cloud-Associate environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S18-05",
+    "question": "18. Network latency issue affecting VoIP calls in Google-Cloud-Associate environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S19-01",
+    "question": "19. Cloud migration failure: rollback strategy in Google-Cloud-Associate environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S19-02",
+    "question": "19. Cloud migration failure: rollback strategy in Google-Cloud-Associate environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S19-03",
+    "question": "19. Cloud migration failure: rollback strategy in Google-Cloud-Associate environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S19-04",
+    "question": "19. Cloud migration failure: rollback strategy in Google-Cloud-Associate environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S19-05",
+    "question": "19. Cloud migration failure: rollback strategy in Google-Cloud-Associate environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S20-01",
+    "question": "20. Firewall blocking legitimate traffic in Google-Cloud-Associate environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S20-02",
+    "question": "20. Firewall blocking legitimate traffic in Google-Cloud-Associate environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S20-03",
+    "question": "20. Firewall blocking legitimate traffic in Google-Cloud-Associate environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S20-04",
+    "question": "20. Firewall blocking legitimate traffic in Google-Cloud-Associate environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Google-Cloud-Associate-S20-05",
+    "question": "20. Firewall blocking legitimate traffic in Google-Cloud-Associate environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Google-Cloud-Associate troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Google-Cloud-Associate troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Google-Cloud-Associate best practices. Document all steps for RCA."
+  }
+]

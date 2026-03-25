@@ -1,0 +1,3260 @@
+{
+  "easy": [
+    {
+      "id": "Cisco-CCNP-E001",
+      "question": "What does Cisco ACL stand for?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Cisco-CCNP procedure"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "e",
+      "explanation": "**Cisco-CCNP E Solution:** What does Cisco ACL stand for?. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-E002",
+      "question": "What does Cisco ACL stand for?",
+      "options": [
+        "Correct Cisco-CCNP procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "e",
+      "explanation": "**Cisco-CCNP E Solution:** What does Cisco ACL stand for?. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-E003",
+      "question": "What does Cisco ACL stand for?",
+      "options": [
+        "Correct Cisco-CCNP procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "e",
+      "explanation": "**Cisco-CCNP E Solution:** What does Cisco ACL stand for?. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-E004",
+      "question": "What is the primary function of Cisco DHCP?",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Cisco-CCNP procedure"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "e",
+      "explanation": "**Cisco-CCNP E Solution:** What is the primary function of Cisco DHCP?. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-E005",
+      "question": "Common protocol for Cisco-CCNP remote access?",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Cisco-CCNP procedure"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "e",
+      "explanation": "**Cisco-CCNP E Solution:** Common protocol for Cisco-CCNP remote access?. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-E006",
+      "question": "Common protocol for Cisco-CCNP remote access?",
+      "options": [
+        "Incorrect approach",
+        "Correct Cisco-CCNP procedure",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "e",
+      "explanation": "**Cisco-CCNP E Solution:** Common protocol for Cisco-CCNP remote access?. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-E007",
+      "question": "What is the primary function of Cisco DHCP?",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Cisco-CCNP procedure"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "e",
+      "explanation": "**Cisco-CCNP E Solution:** What is the primary function of Cisco DHCP?. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-E008",
+      "question": "What does Cisco ACL stand for?",
+      "options": [
+        "Correct Cisco-CCNP procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "e",
+      "explanation": "**Cisco-CCNP E Solution:** What does Cisco ACL stand for?. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-E009",
+      "question": "What is the primary function of Cisco DHCP?",
+      "options": [
+        "Correct Cisco-CCNP procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "e",
+      "explanation": "**Cisco-CCNP E Solution:** What is the primary function of Cisco DHCP?. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-E010",
+      "question": "What does Cisco ACL stand for?",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Cisco-CCNP procedure"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "e",
+      "explanation": "**Cisco-CCNP E Solution:** What does Cisco ACL stand for?. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-E011",
+      "question": "What does Cisco ACL stand for?",
+      "options": [
+        "Dangerous method",
+        "Correct Cisco-CCNP procedure",
+        "Incorrect approach",
+        "Partially correct"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "e",
+      "explanation": "**Cisco-CCNP E Solution:** What does Cisco ACL stand for?. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-E012",
+      "question": "Default subnet mask for Class C network in Cisco-CCNP?",
+      "options": [
+        "Correct Cisco-CCNP procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "e",
+      "explanation": "**Cisco-CCNP E Solution:** Default subnet mask for Class C network in Cisco-CCNP?. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-E013",
+      "question": "Which port does Cisco-CCNP service use by default?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Cisco-CCNP procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "e",
+      "explanation": "**Cisco-CCNP E Solution:** Which port does Cisco-CCNP service use by default?. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-E014",
+      "question": "What is the primary function of Cisco DHCP?",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Cisco-CCNP procedure"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "e",
+      "explanation": "**Cisco-CCNP E Solution:** What is the primary function of Cisco DHCP?. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-E015",
+      "question": "Default subnet mask for Class C network in Cisco-CCNP?",
+      "options": [
+        "Correct Cisco-CCNP procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "e",
+      "explanation": "**Cisco-CCNP E Solution:** Default subnet mask for Class C network in Cisco-CCNP?. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-E016",
+      "question": "Common protocol for Cisco-CCNP remote access?",
+      "options": [
+        "Correct Cisco-CCNP procedure",
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "e",
+      "explanation": "**Cisco-CCNP E Solution:** Common protocol for Cisco-CCNP remote access?. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-E017",
+      "question": "What does Cisco ACL stand for?",
+      "options": [
+        "Dangerous method",
+        "Correct Cisco-CCNP procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "e",
+      "explanation": "**Cisco-CCNP E Solution:** What does Cisco ACL stand for?. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-E018",
+      "question": "Common protocol for Cisco-CCNP remote access?",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Cisco-CCNP procedure"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "e",
+      "explanation": "**Cisco-CCNP E Solution:** Common protocol for Cisco-CCNP remote access?. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-E019",
+      "question": "What does Cisco ACL stand for?",
+      "options": [
+        "Correct Cisco-CCNP procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "e",
+      "explanation": "**Cisco-CCNP E Solution:** What does Cisco ACL stand for?. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-E020",
+      "question": "What does Cisco ACL stand for?",
+      "options": [
+        "Dangerous method",
+        "Correct Cisco-CCNP procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "e",
+      "explanation": "**Cisco-CCNP E Solution:** What does Cisco ACL stand for?. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-E021",
+      "question": "Common protocol for Cisco-CCNP remote access?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Cisco-CCNP procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "e",
+      "explanation": "**Cisco-CCNP E Solution:** Common protocol for Cisco-CCNP remote access?. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-E022",
+      "question": "Default subnet mask for Class C network in Cisco-CCNP?",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Cisco-CCNP procedure"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "e",
+      "explanation": "**Cisco-CCNP E Solution:** Default subnet mask for Class C network in Cisco-CCNP?. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-E023",
+      "question": "What is the primary function of Cisco DHCP?",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Correct Cisco-CCNP procedure",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "e",
+      "explanation": "**Cisco-CCNP E Solution:** What is the primary function of Cisco DHCP?. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-E024",
+      "question": "Which port does Cisco-CCNP service use by default?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Cisco-CCNP procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "e",
+      "explanation": "**Cisco-CCNP E Solution:** Which port does Cisco-CCNP service use by default?. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-E025",
+      "question": "Which port does Cisco-CCNP service use by default?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Cisco-CCNP procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "e",
+      "explanation": "**Cisco-CCNP E Solution:** Which port does Cisco-CCNP service use by default?. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-E026",
+      "question": "Default subnet mask for Class C network in Cisco-CCNP?",
+      "options": [
+        "Correct Cisco-CCNP procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "e",
+      "explanation": "**Cisco-CCNP E Solution:** Default subnet mask for Class C network in Cisco-CCNP?. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-E027",
+      "question": "What is the primary function of Cisco DHCP?",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Cisco-CCNP procedure"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "e",
+      "explanation": "**Cisco-CCNP E Solution:** What is the primary function of Cisco DHCP?. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-E028",
+      "question": "Default subnet mask for Class C network in Cisco-CCNP?",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Cisco-CCNP procedure"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "e",
+      "explanation": "**Cisco-CCNP E Solution:** Default subnet mask for Class C network in Cisco-CCNP?. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-E029",
+      "question": "Default subnet mask for Class C network in Cisco-CCNP?",
+      "options": [
+        "Dangerous method",
+        "Correct Cisco-CCNP procedure",
+        "Incorrect approach",
+        "Partially correct"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "e",
+      "explanation": "**Cisco-CCNP E Solution:** Default subnet mask for Class C network in Cisco-CCNP?. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-E030",
+      "question": "What is the primary function of Cisco DHCP?",
+      "options": [
+        "Dangerous method",
+        "Correct Cisco-CCNP procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "e",
+      "explanation": "**Cisco-CCNP E Solution:** What is the primary function of Cisco DHCP?. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-E031",
+      "question": "Default subnet mask for Class C network in Cisco-CCNP?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Cisco-CCNP procedure"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "e",
+      "explanation": "**Cisco-CCNP E Solution:** Default subnet mask for Class C network in Cisco-CCNP?. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-E032",
+      "question": "What does Cisco ACL stand for?",
+      "options": [
+        "Dangerous method",
+        "Correct Cisco-CCNP procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "e",
+      "explanation": "**Cisco-CCNP E Solution:** What does Cisco ACL stand for?. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-E033",
+      "question": "Which port does Cisco-CCNP service use by default?",
+      "options": [
+        "Incorrect approach",
+        "Correct Cisco-CCNP procedure",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "e",
+      "explanation": "**Cisco-CCNP E Solution:** Which port does Cisco-CCNP service use by default?. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-E034",
+      "question": "What does Cisco ACL stand for?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Cisco-CCNP procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "e",
+      "explanation": "**Cisco-CCNP E Solution:** What does Cisco ACL stand for?. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-E035",
+      "question": "Default subnet mask for Class C network in Cisco-CCNP?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Cisco-CCNP procedure"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "e",
+      "explanation": "**Cisco-CCNP E Solution:** Default subnet mask for Class C network in Cisco-CCNP?. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-E036",
+      "question": "Which port does Cisco-CCNP service use by default?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Cisco-CCNP procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "e",
+      "explanation": "**Cisco-CCNP E Solution:** Which port does Cisco-CCNP service use by default?. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-E037",
+      "question": "Which port does Cisco-CCNP service use by default?",
+      "options": [
+        "Partially correct",
+        "Correct Cisco-CCNP procedure",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "e",
+      "explanation": "**Cisco-CCNP E Solution:** Which port does Cisco-CCNP service use by default?. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-E038",
+      "question": "Default subnet mask for Class C network in Cisco-CCNP?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Cisco-CCNP procedure"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "e",
+      "explanation": "**Cisco-CCNP E Solution:** Default subnet mask for Class C network in Cisco-CCNP?. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-E039",
+      "question": "What does Cisco ACL stand for?",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Correct Cisco-CCNP procedure",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "e",
+      "explanation": "**Cisco-CCNP E Solution:** What does Cisco ACL stand for?. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-E040",
+      "question": "Which port does Cisco-CCNP service use by default?",
+      "options": [
+        "Incorrect approach",
+        "Correct Cisco-CCNP procedure",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "e",
+      "explanation": "**Cisco-CCNP E Solution:** Which port does Cisco-CCNP service use by default?. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-E041",
+      "question": "Common protocol for Cisco-CCNP remote access?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Cisco-CCNP procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "e",
+      "explanation": "**Cisco-CCNP E Solution:** Common protocol for Cisco-CCNP remote access?. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-E042",
+      "question": "Which port does Cisco-CCNP service use by default?",
+      "options": [
+        "Incorrect approach",
+        "Correct Cisco-CCNP procedure",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "e",
+      "explanation": "**Cisco-CCNP E Solution:** Which port does Cisco-CCNP service use by default?. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-E043",
+      "question": "Default subnet mask for Class C network in Cisco-CCNP?",
+      "options": [
+        "Correct Cisco-CCNP procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "e",
+      "explanation": "**Cisco-CCNP E Solution:** Default subnet mask for Class C network in Cisco-CCNP?. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-E044",
+      "question": "Default subnet mask for Class C network in Cisco-CCNP?",
+      "options": [
+        "Correct Cisco-CCNP procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "e",
+      "explanation": "**Cisco-CCNP E Solution:** Default subnet mask for Class C network in Cisco-CCNP?. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-E045",
+      "question": "Default subnet mask for Class C network in Cisco-CCNP?",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Cisco-CCNP procedure"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "e",
+      "explanation": "**Cisco-CCNP E Solution:** Default subnet mask for Class C network in Cisco-CCNP?. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-E046",
+      "question": "Common protocol for Cisco-CCNP remote access?",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Cisco-CCNP procedure"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "e",
+      "explanation": "**Cisco-CCNP E Solution:** Common protocol for Cisco-CCNP remote access?. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-E047",
+      "question": "What is the primary function of Cisco DHCP?",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Cisco-CCNP procedure"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "e",
+      "explanation": "**Cisco-CCNP E Solution:** What is the primary function of Cisco DHCP?. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-E048",
+      "question": "What does Cisco ACL stand for?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Cisco-CCNP procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "e",
+      "explanation": "**Cisco-CCNP E Solution:** What does Cisco ACL stand for?. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-E049",
+      "question": "What does Cisco ACL stand for?",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Cisco-CCNP procedure"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "e",
+      "explanation": "**Cisco-CCNP E Solution:** What does Cisco ACL stand for?. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-E050",
+      "question": "Common protocol for Cisco-CCNP remote access?",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Cisco-CCNP procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "e",
+      "explanation": "**Cisco-CCNP E Solution:** Common protocol for Cisco-CCNP remote access?. Always verify Cisco-CCNP documentation and test in lab environment first."
+    }
+  ],
+  "medium": [
+    {
+      "id": "Cisco-CCNP-M001",
+      "question": "Troubleshoot Cisco-CCNP connectivity issue between VLANs",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Cisco-CCNP procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "m",
+      "explanation": "**Cisco-CCNP M Solution:** Troubleshoot Cisco-CCNP connectivity issue between VLANs. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-M002",
+      "question": "Implement Cisco-CCNP backup strategy for compliance",
+      "options": [
+        "Dangerous method",
+        "Correct Cisco-CCNP procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "m",
+      "explanation": "**Cisco-CCNP M Solution:** Implement Cisco-CCNP backup strategy for compliance. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-M003",
+      "question": "Troubleshoot Cisco-CCNP connectivity issue between VLANs",
+      "options": [
+        "Dangerous method",
+        "Correct Cisco-CCNP procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "m",
+      "explanation": "**Cisco-CCNP M Solution:** Troubleshoot Cisco-CCNP connectivity issue between VLANs. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-M004",
+      "question": "Troubleshoot Cisco-CCNP connectivity issue between VLANs",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Cisco-CCNP procedure"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "m",
+      "explanation": "**Cisco-CCNP M Solution:** Troubleshoot Cisco-CCNP connectivity issue between VLANs. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-M005",
+      "question": "Configure Cisco-CCNP load balancer for high availability",
+      "options": [
+        "Correct Cisco-CCNP procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "m",
+      "explanation": "**Cisco-CCNP M Solution:** Configure Cisco-CCNP load balancer for high availability. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-M006",
+      "question": "Troubleshoot Cisco-CCNP connectivity issue between VLANs",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Correct Cisco-CCNP procedure",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "m",
+      "explanation": "**Cisco-CCNP M Solution:** Troubleshoot Cisco-CCNP connectivity issue between VLANs. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-M007",
+      "question": "Set up Cisco-CCNP failover clustering",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Correct Cisco-CCNP procedure",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "m",
+      "explanation": "**Cisco-CCNP M Solution:** Set up Cisco-CCNP failover clustering. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-M008",
+      "question": "Optimize Cisco-CCNP query performance",
+      "options": [
+        "Correct Cisco-CCNP procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "m",
+      "explanation": "**Cisco-CCNP M Solution:** Optimize Cisco-CCNP query performance. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-M009",
+      "question": "Implement Cisco-CCNP backup strategy for compliance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Cisco-CCNP procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "m",
+      "explanation": "**Cisco-CCNP M Solution:** Implement Cisco-CCNP backup strategy for compliance. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-M010",
+      "question": "Optimize Cisco-CCNP query performance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Cisco-CCNP procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "m",
+      "explanation": "**Cisco-CCNP M Solution:** Optimize Cisco-CCNP query performance. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-M011",
+      "question": "Implement Cisco-CCNP backup strategy for compliance",
+      "options": [
+        "Correct Cisco-CCNP procedure",
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "m",
+      "explanation": "**Cisco-CCNP M Solution:** Implement Cisco-CCNP backup strategy for compliance. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-M012",
+      "question": "Implement Cisco-CCNP backup strategy for compliance",
+      "options": [
+        "Correct Cisco-CCNP procedure",
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "m",
+      "explanation": "**Cisco-CCNP M Solution:** Implement Cisco-CCNP backup strategy for compliance. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-M013",
+      "question": "Troubleshoot Cisco-CCNP connectivity issue between VLANs",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Cisco-CCNP procedure"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "m",
+      "explanation": "**Cisco-CCNP M Solution:** Troubleshoot Cisco-CCNP connectivity issue between VLANs. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-M014",
+      "question": "Troubleshoot Cisco-CCNP connectivity issue between VLANs",
+      "options": [
+        "Correct Cisco-CCNP procedure",
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "m",
+      "explanation": "**Cisco-CCNP M Solution:** Troubleshoot Cisco-CCNP connectivity issue between VLANs. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-M015",
+      "question": "Troubleshoot Cisco-CCNP connectivity issue between VLANs",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Cisco-CCNP procedure"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "m",
+      "explanation": "**Cisco-CCNP M Solution:** Troubleshoot Cisco-CCNP connectivity issue between VLANs. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-M016",
+      "question": "Set up Cisco-CCNP failover clustering",
+      "options": [
+        "Correct Cisco-CCNP procedure",
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "m",
+      "explanation": "**Cisco-CCNP M Solution:** Set up Cisco-CCNP failover clustering. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-M017",
+      "question": "Optimize Cisco-CCNP query performance",
+      "options": [
+        "Dangerous method",
+        "Correct Cisco-CCNP procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "m",
+      "explanation": "**Cisco-CCNP M Solution:** Optimize Cisco-CCNP query performance. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-M018",
+      "question": "Optimize Cisco-CCNP query performance",
+      "options": [
+        "Correct Cisco-CCNP procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "m",
+      "explanation": "**Cisco-CCNP M Solution:** Optimize Cisco-CCNP query performance. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-M019",
+      "question": "Troubleshoot Cisco-CCNP connectivity issue between VLANs",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Correct Cisco-CCNP procedure",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "m",
+      "explanation": "**Cisco-CCNP M Solution:** Troubleshoot Cisco-CCNP connectivity issue between VLANs. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-M020",
+      "question": "Configure Cisco-CCNP load balancer for high availability",
+      "options": [
+        "Dangerous method",
+        "Correct Cisco-CCNP procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "m",
+      "explanation": "**Cisco-CCNP M Solution:** Configure Cisco-CCNP load balancer for high availability. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-M021",
+      "question": "Implement Cisco-CCNP backup strategy for compliance",
+      "options": [
+        "Correct Cisco-CCNP procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "m",
+      "explanation": "**Cisco-CCNP M Solution:** Implement Cisco-CCNP backup strategy for compliance. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-M022",
+      "question": "Optimize Cisco-CCNP query performance",
+      "options": [
+        "Dangerous method",
+        "Correct Cisco-CCNP procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "m",
+      "explanation": "**Cisco-CCNP M Solution:** Optimize Cisco-CCNP query performance. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-M023",
+      "question": "Optimize Cisco-CCNP query performance",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Cisco-CCNP procedure"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "m",
+      "explanation": "**Cisco-CCNP M Solution:** Optimize Cisco-CCNP query performance. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-M024",
+      "question": "Set up Cisco-CCNP failover clustering",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Correct Cisco-CCNP procedure",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "m",
+      "explanation": "**Cisco-CCNP M Solution:** Set up Cisco-CCNP failover clustering. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-M025",
+      "question": "Configure Cisco-CCNP load balancer for high availability",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Cisco-CCNP procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "m",
+      "explanation": "**Cisco-CCNP M Solution:** Configure Cisco-CCNP load balancer for high availability. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-M026",
+      "question": "Set up Cisco-CCNP failover clustering",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Cisco-CCNP procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "m",
+      "explanation": "**Cisco-CCNP M Solution:** Set up Cisco-CCNP failover clustering. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-M027",
+      "question": "Set up Cisco-CCNP failover clustering",
+      "options": [
+        "Dangerous method",
+        "Correct Cisco-CCNP procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "m",
+      "explanation": "**Cisco-CCNP M Solution:** Set up Cisco-CCNP failover clustering. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-M028",
+      "question": "Optimize Cisco-CCNP query performance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Cisco-CCNP procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "m",
+      "explanation": "**Cisco-CCNP M Solution:** Optimize Cisco-CCNP query performance. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-M029",
+      "question": "Implement Cisco-CCNP backup strategy for compliance",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Cisco-CCNP procedure"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "m",
+      "explanation": "**Cisco-CCNP M Solution:** Implement Cisco-CCNP backup strategy for compliance. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-M030",
+      "question": "Set up Cisco-CCNP failover clustering",
+      "options": [
+        "Correct Cisco-CCNP procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "m",
+      "explanation": "**Cisco-CCNP M Solution:** Set up Cisco-CCNP failover clustering. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-M031",
+      "question": "Set up Cisco-CCNP failover clustering",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Cisco-CCNP procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "m",
+      "explanation": "**Cisco-CCNP M Solution:** Set up Cisco-CCNP failover clustering. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-M032",
+      "question": "Implement Cisco-CCNP backup strategy for compliance",
+      "options": [
+        "Dangerous method",
+        "Correct Cisco-CCNP procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "m",
+      "explanation": "**Cisco-CCNP M Solution:** Implement Cisco-CCNP backup strategy for compliance. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-M033",
+      "question": "Implement Cisco-CCNP backup strategy for compliance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Cisco-CCNP procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "m",
+      "explanation": "**Cisco-CCNP M Solution:** Implement Cisco-CCNP backup strategy for compliance. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-M034",
+      "question": "Configure Cisco-CCNP load balancer for high availability",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Cisco-CCNP procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "m",
+      "explanation": "**Cisco-CCNP M Solution:** Configure Cisco-CCNP load balancer for high availability. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-M035",
+      "question": "Troubleshoot Cisco-CCNP connectivity issue between VLANs",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Cisco-CCNP procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "m",
+      "explanation": "**Cisco-CCNP M Solution:** Troubleshoot Cisco-CCNP connectivity issue between VLANs. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-M036",
+      "question": "Implement Cisco-CCNP backup strategy for compliance",
+      "options": [
+        "Dangerous method",
+        "Correct Cisco-CCNP procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "m",
+      "explanation": "**Cisco-CCNP M Solution:** Implement Cisco-CCNP backup strategy for compliance. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-M037",
+      "question": "Optimize Cisco-CCNP query performance",
+      "options": [
+        "Correct Cisco-CCNP procedure",
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "m",
+      "explanation": "**Cisco-CCNP M Solution:** Optimize Cisco-CCNP query performance. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-M038",
+      "question": "Optimize Cisco-CCNP query performance",
+      "options": [
+        "Correct Cisco-CCNP procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "m",
+      "explanation": "**Cisco-CCNP M Solution:** Optimize Cisco-CCNP query performance. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-M039",
+      "question": "Optimize Cisco-CCNP query performance",
+      "options": [
+        "Correct Cisco-CCNP procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "m",
+      "explanation": "**Cisco-CCNP M Solution:** Optimize Cisco-CCNP query performance. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-M040",
+      "question": "Set up Cisco-CCNP failover clustering",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Cisco-CCNP procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "m",
+      "explanation": "**Cisco-CCNP M Solution:** Set up Cisco-CCNP failover clustering. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-M041",
+      "question": "Set up Cisco-CCNP failover clustering",
+      "options": [
+        "Correct Cisco-CCNP procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "m",
+      "explanation": "**Cisco-CCNP M Solution:** Set up Cisco-CCNP failover clustering. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-M042",
+      "question": "Troubleshoot Cisco-CCNP connectivity issue between VLANs",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Cisco-CCNP procedure"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "m",
+      "explanation": "**Cisco-CCNP M Solution:** Troubleshoot Cisco-CCNP connectivity issue between VLANs. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-M043",
+      "question": "Optimize Cisco-CCNP query performance",
+      "options": [
+        "Correct Cisco-CCNP procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "m",
+      "explanation": "**Cisco-CCNP M Solution:** Optimize Cisco-CCNP query performance. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-M044",
+      "question": "Troubleshoot Cisco-CCNP connectivity issue between VLANs",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Cisco-CCNP procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "m",
+      "explanation": "**Cisco-CCNP M Solution:** Troubleshoot Cisco-CCNP connectivity issue between VLANs. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-M045",
+      "question": "Implement Cisco-CCNP backup strategy for compliance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Cisco-CCNP procedure"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "m",
+      "explanation": "**Cisco-CCNP M Solution:** Implement Cisco-CCNP backup strategy for compliance. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-M046",
+      "question": "Optimize Cisco-CCNP query performance",
+      "options": [
+        "Dangerous method",
+        "Correct Cisco-CCNP procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "m",
+      "explanation": "**Cisco-CCNP M Solution:** Optimize Cisco-CCNP query performance. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-M047",
+      "question": "Implement Cisco-CCNP backup strategy for compliance",
+      "options": [
+        "Partially correct",
+        "Correct Cisco-CCNP procedure",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "m",
+      "explanation": "**Cisco-CCNP M Solution:** Implement Cisco-CCNP backup strategy for compliance. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-M048",
+      "question": "Optimize Cisco-CCNP query performance",
+      "options": [
+        "Correct Cisco-CCNP procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "m",
+      "explanation": "**Cisco-CCNP M Solution:** Optimize Cisco-CCNP query performance. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-M049",
+      "question": "Configure Cisco-CCNP load balancer for high availability",
+      "options": [
+        "Correct Cisco-CCNP procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "m",
+      "explanation": "**Cisco-CCNP M Solution:** Configure Cisco-CCNP load balancer for high availability. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-M050",
+      "question": "Configure Cisco-CCNP load balancer for high availability",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Cisco-CCNP procedure"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "m",
+      "explanation": "**Cisco-CCNP M Solution:** Configure Cisco-CCNP load balancer for high availability. Always verify Cisco-CCNP documentation and test in lab environment first."
+    }
+  ],
+  "hard": [
+    {
+      "id": "Cisco-CCNP-H001",
+      "question": "Migrate legacy Cisco-CCNP systems to cloud-native architecture",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Cisco-CCNP procedure"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "h",
+      "explanation": "**Cisco-CCNP H Solution:** Migrate legacy Cisco-CCNP systems to cloud-native architecture. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-H002",
+      "question": "Implement zero-trust security model in Cisco-CCNP",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Cisco-CCNP procedure"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "h",
+      "explanation": "**Cisco-CCNP H Solution:** Implement zero-trust security model in Cisco-CCNP. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-H003",
+      "question": "Implement zero-trust security model in Cisco-CCNP",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Cisco-CCNP procedure"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "h",
+      "explanation": "**Cisco-CCNP H Solution:** Implement zero-trust security model in Cisco-CCNP. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-H004",
+      "question": "Design Cisco-CCNP architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Correct Cisco-CCNP procedure",
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "h",
+      "explanation": "**Cisco-CCNP H Solution:** Design Cisco-CCNP architecture for 10k users with 99.99% uptime. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-H005",
+      "question": "Design Cisco-CCNP architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Partially correct",
+        "Correct Cisco-CCNP procedure",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "h",
+      "explanation": "**Cisco-CCNP H Solution:** Design Cisco-CCNP architecture for 10k users with 99.99% uptime. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-H006",
+      "question": "Migrate legacy Cisco-CCNP systems to cloud-native architecture",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Cisco-CCNP procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "h",
+      "explanation": "**Cisco-CCNP H Solution:** Migrate legacy Cisco-CCNP systems to cloud-native architecture. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-H007",
+      "question": "Implement zero-trust security model in Cisco-CCNP",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Cisco-CCNP procedure"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "h",
+      "explanation": "**Cisco-CCNP H Solution:** Implement zero-trust security model in Cisco-CCNP. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-H008",
+      "question": "Design Cisco-CCNP architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Cisco-CCNP procedure"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "h",
+      "explanation": "**Cisco-CCNP H Solution:** Design Cisco-CCNP architecture for 10k users with 99.99% uptime. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-H009",
+      "question": "Migrate legacy Cisco-CCNP systems to cloud-native architecture",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Cisco-CCNP procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "h",
+      "explanation": "**Cisco-CCNP H Solution:** Migrate legacy Cisco-CCNP systems to cloud-native architecture. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-H010",
+      "question": "Design Cisco-CCNP architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Dangerous method",
+        "Correct Cisco-CCNP procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "h",
+      "explanation": "**Cisco-CCNP H Solution:** Design Cisco-CCNP architecture for 10k users with 99.99% uptime. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-H011",
+      "question": "Design Cisco-CCNP architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Cisco-CCNP procedure"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "h",
+      "explanation": "**Cisco-CCNP H Solution:** Design Cisco-CCNP architecture for 10k users with 99.99% uptime. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-H012",
+      "question": "Optimize Cisco-CCNP performance under DDoS attack",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Cisco-CCNP procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "h",
+      "explanation": "**Cisco-CCNP H Solution:** Optimize Cisco-CCNP performance under DDoS attack. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-H013",
+      "question": "Design Cisco-CCNP architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Cisco-CCNP procedure"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "h",
+      "explanation": "**Cisco-CCNP H Solution:** Design Cisco-CCNP architecture for 10k users with 99.99% uptime. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-H014",
+      "question": "Design Cisco-CCNP architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Correct Cisco-CCNP procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "h",
+      "explanation": "**Cisco-CCNP H Solution:** Design Cisco-CCNP architecture for 10k users with 99.99% uptime. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-H015",
+      "question": "Create disaster recovery plan with RTO < 15min for Cisco-CCNP",
+      "options": [
+        "Dangerous method",
+        "Correct Cisco-CCNP procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "h",
+      "explanation": "**Cisco-CCNP H Solution:** Create disaster recovery plan with RTO < 15min for Cisco-CCNP. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-H016",
+      "question": "Design Cisco-CCNP architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Cisco-CCNP procedure"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "h",
+      "explanation": "**Cisco-CCNP H Solution:** Design Cisco-CCNP architecture for 10k users with 99.99% uptime. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-H017",
+      "question": "Design Cisco-CCNP architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Cisco-CCNP procedure"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "h",
+      "explanation": "**Cisco-CCNP H Solution:** Design Cisco-CCNP architecture for 10k users with 99.99% uptime. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-H018",
+      "question": "Implement zero-trust security model in Cisco-CCNP",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Cisco-CCNP procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "h",
+      "explanation": "**Cisco-CCNP H Solution:** Implement zero-trust security model in Cisco-CCNP. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-H019",
+      "question": "Implement zero-trust security model in Cisco-CCNP",
+      "options": [
+        "Dangerous method",
+        "Correct Cisco-CCNP procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "h",
+      "explanation": "**Cisco-CCNP H Solution:** Implement zero-trust security model in Cisco-CCNP. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-H020",
+      "question": "Migrate legacy Cisco-CCNP systems to cloud-native architecture",
+      "options": [
+        "Dangerous method",
+        "Correct Cisco-CCNP procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "h",
+      "explanation": "**Cisco-CCNP H Solution:** Migrate legacy Cisco-CCNP systems to cloud-native architecture. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-H021",
+      "question": "Optimize Cisco-CCNP performance under DDoS attack",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Cisco-CCNP procedure"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "h",
+      "explanation": "**Cisco-CCNP H Solution:** Optimize Cisco-CCNP performance under DDoS attack. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-H022",
+      "question": "Design Cisco-CCNP architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Dangerous method",
+        "Correct Cisco-CCNP procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "h",
+      "explanation": "**Cisco-CCNP H Solution:** Design Cisco-CCNP architecture for 10k users with 99.99% uptime. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-H023",
+      "question": "Optimize Cisco-CCNP performance under DDoS attack",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Cisco-CCNP procedure"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "h",
+      "explanation": "**Cisco-CCNP H Solution:** Optimize Cisco-CCNP performance under DDoS attack. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-H024",
+      "question": "Optimize Cisco-CCNP performance under DDoS attack",
+      "options": [
+        "Dangerous method",
+        "Correct Cisco-CCNP procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "h",
+      "explanation": "**Cisco-CCNP H Solution:** Optimize Cisco-CCNP performance under DDoS attack. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-H025",
+      "question": "Optimize Cisco-CCNP performance under DDoS attack",
+      "options": [
+        "Dangerous method",
+        "Correct Cisco-CCNP procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "h",
+      "explanation": "**Cisco-CCNP H Solution:** Optimize Cisco-CCNP performance under DDoS attack. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-H026",
+      "question": "Create disaster recovery plan with RTO < 15min for Cisco-CCNP",
+      "options": [
+        "Correct Cisco-CCNP procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "h",
+      "explanation": "**Cisco-CCNP H Solution:** Create disaster recovery plan with RTO < 15min for Cisco-CCNP. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-H027",
+      "question": "Optimize Cisco-CCNP performance under DDoS attack",
+      "options": [
+        "Correct Cisco-CCNP procedure",
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "h",
+      "explanation": "**Cisco-CCNP H Solution:** Optimize Cisco-CCNP performance under DDoS attack. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-H028",
+      "question": "Optimize Cisco-CCNP performance under DDoS attack",
+      "options": [
+        "Dangerous method",
+        "Correct Cisco-CCNP procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "h",
+      "explanation": "**Cisco-CCNP H Solution:** Optimize Cisco-CCNP performance under DDoS attack. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-H029",
+      "question": "Create disaster recovery plan with RTO < 15min for Cisco-CCNP",
+      "options": [
+        "Partially correct",
+        "Correct Cisco-CCNP procedure",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "h",
+      "explanation": "**Cisco-CCNP H Solution:** Create disaster recovery plan with RTO < 15min for Cisco-CCNP. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-H030",
+      "question": "Optimize Cisco-CCNP performance under DDoS attack",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Cisco-CCNP procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "h",
+      "explanation": "**Cisco-CCNP H Solution:** Optimize Cisco-CCNP performance under DDoS attack. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-H031",
+      "question": "Optimize Cisco-CCNP performance under DDoS attack",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Cisco-CCNP procedure"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "h",
+      "explanation": "**Cisco-CCNP H Solution:** Optimize Cisco-CCNP performance under DDoS attack. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-H032",
+      "question": "Design Cisco-CCNP architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Dangerous method",
+        "Correct Cisco-CCNP procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "h",
+      "explanation": "**Cisco-CCNP H Solution:** Design Cisco-CCNP architecture for 10k users with 99.99% uptime. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-H033",
+      "question": "Migrate legacy Cisco-CCNP systems to cloud-native architecture",
+      "options": [
+        "Correct Cisco-CCNP procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "h",
+      "explanation": "**Cisco-CCNP H Solution:** Migrate legacy Cisco-CCNP systems to cloud-native architecture. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-H034",
+      "question": "Implement zero-trust security model in Cisco-CCNP",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Cisco-CCNP procedure"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "h",
+      "explanation": "**Cisco-CCNP H Solution:** Implement zero-trust security model in Cisco-CCNP. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-H035",
+      "question": "Implement zero-trust security model in Cisco-CCNP",
+      "options": [
+        "Dangerous method",
+        "Correct Cisco-CCNP procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "h",
+      "explanation": "**Cisco-CCNP H Solution:** Implement zero-trust security model in Cisco-CCNP. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-H036",
+      "question": "Implement zero-trust security model in Cisco-CCNP",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Cisco-CCNP procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "h",
+      "explanation": "**Cisco-CCNP H Solution:** Implement zero-trust security model in Cisco-CCNP. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-H037",
+      "question": "Migrate legacy Cisco-CCNP systems to cloud-native architecture",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Cisco-CCNP procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "h",
+      "explanation": "**Cisco-CCNP H Solution:** Migrate legacy Cisco-CCNP systems to cloud-native architecture. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-H038",
+      "question": "Migrate legacy Cisco-CCNP systems to cloud-native architecture",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Cisco-CCNP procedure"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "h",
+      "explanation": "**Cisco-CCNP H Solution:** Migrate legacy Cisco-CCNP systems to cloud-native architecture. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-H039",
+      "question": "Create disaster recovery plan with RTO < 15min for Cisco-CCNP",
+      "options": [
+        "Dangerous method",
+        "Correct Cisco-CCNP procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "h",
+      "explanation": "**Cisco-CCNP H Solution:** Create disaster recovery plan with RTO < 15min for Cisco-CCNP. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-H040",
+      "question": "Implement zero-trust security model in Cisco-CCNP",
+      "options": [
+        "Partially correct",
+        "Correct Cisco-CCNP procedure",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "h",
+      "explanation": "**Cisco-CCNP H Solution:** Implement zero-trust security model in Cisco-CCNP. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-H041",
+      "question": "Migrate legacy Cisco-CCNP systems to cloud-native architecture",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Cisco-CCNP procedure"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "h",
+      "explanation": "**Cisco-CCNP H Solution:** Migrate legacy Cisco-CCNP systems to cloud-native architecture. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-H042",
+      "question": "Migrate legacy Cisco-CCNP systems to cloud-native architecture",
+      "options": [
+        "Correct Cisco-CCNP procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "h",
+      "explanation": "**Cisco-CCNP H Solution:** Migrate legacy Cisco-CCNP systems to cloud-native architecture. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-H043",
+      "question": "Migrate legacy Cisco-CCNP systems to cloud-native architecture",
+      "options": [
+        "Incorrect approach",
+        "Correct Cisco-CCNP procedure",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "h",
+      "explanation": "**Cisco-CCNP H Solution:** Migrate legacy Cisco-CCNP systems to cloud-native architecture. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-H044",
+      "question": "Optimize Cisco-CCNP performance under DDoS attack",
+      "options": [
+        "Dangerous method",
+        "Correct Cisco-CCNP procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "h",
+      "explanation": "**Cisco-CCNP H Solution:** Optimize Cisco-CCNP performance under DDoS attack. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-H045",
+      "question": "Migrate legacy Cisco-CCNP systems to cloud-native architecture",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Cisco-CCNP procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "h",
+      "explanation": "**Cisco-CCNP H Solution:** Migrate legacy Cisco-CCNP systems to cloud-native architecture. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-H046",
+      "question": "Design Cisco-CCNP architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Cisco-CCNP procedure"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "h",
+      "explanation": "**Cisco-CCNP H Solution:** Design Cisco-CCNP architecture for 10k users with 99.99% uptime. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-H047",
+      "question": "Optimize Cisco-CCNP performance under DDoS attack",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Cisco-CCNP procedure"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "h",
+      "explanation": "**Cisco-CCNP H Solution:** Optimize Cisco-CCNP performance under DDoS attack. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-H048",
+      "question": "Implement zero-trust security model in Cisco-CCNP",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Cisco-CCNP procedure"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "h",
+      "explanation": "**Cisco-CCNP H Solution:** Implement zero-trust security model in Cisco-CCNP. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-H049",
+      "question": "Design Cisco-CCNP architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Cisco-CCNP procedure"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "h",
+      "explanation": "**Cisco-CCNP H Solution:** Design Cisco-CCNP architecture for 10k users with 99.99% uptime. Always verify Cisco-CCNP documentation and test in lab environment first."
+    },
+    {
+      "id": "Cisco-CCNP-H050",
+      "question": "Create disaster recovery plan with RTO < 15min for Cisco-CCNP",
+      "options": [
+        "Dangerous method",
+        "Correct Cisco-CCNP procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Cisco-CCNP procedure",
+      "difficulty": "h",
+      "explanation": "**Cisco-CCNP H Solution:** Create disaster recovery plan with RTO < 15min for Cisco-CCNP. Always verify Cisco-CCNP documentation and test in lab environment first."
+    }
+  ],
+  "scenarios": [
+    {
+      "id": "Cisco-CCNP-S01-01",
+      "question": "1. VPN connectivity failure for remote users in Cisco-CCNP environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S01-02",
+      "question": "1. VPN connectivity failure for remote users in Cisco-CCNP environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S01-03",
+      "question": "1. VPN connectivity failure for remote users in Cisco-CCNP environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S01-04",
+      "question": "1. VPN connectivity failure for remote users in Cisco-CCNP environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S01-05",
+      "question": "1. VPN connectivity failure for remote users in Cisco-CCNP environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S02-01",
+      "question": "2. Security incident response: ransomware attack detected in Cisco-CCNP environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S02-02",
+      "question": "2. Security incident response: ransomware attack detected in Cisco-CCNP environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S02-03",
+      "question": "2. Security incident response: ransomware attack detected in Cisco-CCNP environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S02-04",
+      "question": "2. Security incident response: ransomware attack detected in Cisco-CCNP environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S02-05",
+      "question": "2. Security incident response: ransomware attack detected in Cisco-CCNP environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S03-01",
+      "question": "3. Load balancer health check failing in Cisco-CCNP environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S03-02",
+      "question": "3. Load balancer health check failing in Cisco-CCNP environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S03-03",
+      "question": "3. Load balancer health check failing in Cisco-CCNP environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S03-04",
+      "question": "3. Load balancer health check failing in Cisco-CCNP environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S03-05",
+      "question": "3. Load balancer health check failing in Cisco-CCNP environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S04-01",
+      "question": "4. Network latency issue affecting VoIP calls in Cisco-CCNP environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S04-02",
+      "question": "4. Network latency issue affecting VoIP calls in Cisco-CCNP environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S04-03",
+      "question": "4. Network latency issue affecting VoIP calls in Cisco-CCNP environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S04-04",
+      "question": "4. Network latency issue affecting VoIP calls in Cisco-CCNP environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S04-05",
+      "question": "4. Network latency issue affecting VoIP calls in Cisco-CCNP environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S05-01",
+      "question": "5. Cloud migration failure: rollback strategy in Cisco-CCNP environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S05-02",
+      "question": "5. Cloud migration failure: rollback strategy in Cisco-CCNP environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S05-03",
+      "question": "5. Cloud migration failure: rollback strategy in Cisco-CCNP environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S05-04",
+      "question": "5. Cloud migration failure: rollback strategy in Cisco-CCNP environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S05-05",
+      "question": "5. Cloud migration failure: rollback strategy in Cisco-CCNP environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S06-01",
+      "question": "6. Backup failure during scheduled window in Cisco-CCNP environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S06-02",
+      "question": "6. Backup failure during scheduled window in Cisco-CCNP environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S06-03",
+      "question": "6. Backup failure during scheduled window in Cisco-CCNP environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S06-04",
+      "question": "6. Backup failure during scheduled window in Cisco-CCNP environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S06-05",
+      "question": "6. Backup failure during scheduled window in Cisco-CCNP environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S07-01",
+      "question": "7. VPN connectivity failure for remote users in Cisco-CCNP environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S07-02",
+      "question": "7. VPN connectivity failure for remote users in Cisco-CCNP environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S07-03",
+      "question": "7. VPN connectivity failure for remote users in Cisco-CCNP environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S07-04",
+      "question": "7. VPN connectivity failure for remote users in Cisco-CCNP environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S07-05",
+      "question": "7. VPN connectivity failure for remote users in Cisco-CCNP environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S08-01",
+      "question": "8. Security incident response: ransomware attack detected in Cisco-CCNP environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S08-02",
+      "question": "8. Security incident response: ransomware attack detected in Cisco-CCNP environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S08-03",
+      "question": "8. Security incident response: ransomware attack detected in Cisco-CCNP environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S08-04",
+      "question": "8. Security incident response: ransomware attack detected in Cisco-CCNP environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S08-05",
+      "question": "8. Security incident response: ransomware attack detected in Cisco-CCNP environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S09-01",
+      "question": "9. Security incident response: ransomware attack detected in Cisco-CCNP environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S09-02",
+      "question": "9. Security incident response: ransomware attack detected in Cisco-CCNP environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S09-03",
+      "question": "9. Security incident response: ransomware attack detected in Cisco-CCNP environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S09-04",
+      "question": "9. Security incident response: ransomware attack detected in Cisco-CCNP environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S09-05",
+      "question": "9. Security incident response: ransomware attack detected in Cisco-CCNP environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S10-01",
+      "question": "10. Security incident response: ransomware attack detected in Cisco-CCNP environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S10-02",
+      "question": "10. Security incident response: ransomware attack detected in Cisco-CCNP environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S10-03",
+      "question": "10. Security incident response: ransomware attack detected in Cisco-CCNP environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S10-04",
+      "question": "10. Security incident response: ransomware attack detected in Cisco-CCNP environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S10-05",
+      "question": "10. Security incident response: ransomware attack detected in Cisco-CCNP environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S11-01",
+      "question": "11. Backup failure during scheduled window in Cisco-CCNP environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S11-02",
+      "question": "11. Backup failure during scheduled window in Cisco-CCNP environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S11-03",
+      "question": "11. Backup failure during scheduled window in Cisco-CCNP environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S11-04",
+      "question": "11. Backup failure during scheduled window in Cisco-CCNP environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S11-05",
+      "question": "11. Backup failure during scheduled window in Cisco-CCNP environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S12-01",
+      "question": "12. Firewall blocking legitimate traffic in Cisco-CCNP environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S12-02",
+      "question": "12. Firewall blocking legitimate traffic in Cisco-CCNP environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S12-03",
+      "question": "12. Firewall blocking legitimate traffic in Cisco-CCNP environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S12-04",
+      "question": "12. Firewall blocking legitimate traffic in Cisco-CCNP environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S12-05",
+      "question": "12. Firewall blocking legitimate traffic in Cisco-CCNP environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S13-01",
+      "question": "13. Backup failure during scheduled window in Cisco-CCNP environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S13-02",
+      "question": "13. Backup failure during scheduled window in Cisco-CCNP environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S13-03",
+      "question": "13. Backup failure during scheduled window in Cisco-CCNP environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S13-04",
+      "question": "13. Backup failure during scheduled window in Cisco-CCNP environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S13-05",
+      "question": "13. Backup failure during scheduled window in Cisco-CCNP environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S14-01",
+      "question": "14. Load balancer health check failing in Cisco-CCNP environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S14-02",
+      "question": "14. Load balancer health check failing in Cisco-CCNP environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S14-03",
+      "question": "14. Load balancer health check failing in Cisco-CCNP environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S14-04",
+      "question": "14. Load balancer health check failing in Cisco-CCNP environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S14-05",
+      "question": "14. Load balancer health check failing in Cisco-CCNP environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S15-01",
+      "question": "15. Backup failure during scheduled window in Cisco-CCNP environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S15-02",
+      "question": "15. Backup failure during scheduled window in Cisco-CCNP environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S15-03",
+      "question": "15. Backup failure during scheduled window in Cisco-CCNP environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S15-04",
+      "question": "15. Backup failure during scheduled window in Cisco-CCNP environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S15-05",
+      "question": "15. Backup failure during scheduled window in Cisco-CCNP environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S16-01",
+      "question": "16. Backup failure during scheduled window in Cisco-CCNP environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S16-02",
+      "question": "16. Backup failure during scheduled window in Cisco-CCNP environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S16-03",
+      "question": "16. Backup failure during scheduled window in Cisco-CCNP environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S16-04",
+      "question": "16. Backup failure during scheduled window in Cisco-CCNP environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S16-05",
+      "question": "16. Backup failure during scheduled window in Cisco-CCNP environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S17-01",
+      "question": "17. Load balancer health check failing in Cisco-CCNP environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S17-02",
+      "question": "17. Load balancer health check failing in Cisco-CCNP environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S17-03",
+      "question": "17. Load balancer health check failing in Cisco-CCNP environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S17-04",
+      "question": "17. Load balancer health check failing in Cisco-CCNP environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S17-05",
+      "question": "17. Load balancer health check failing in Cisco-CCNP environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S18-01",
+      "question": "18. VPN connectivity failure for remote users in Cisco-CCNP environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S18-02",
+      "question": "18. VPN connectivity failure for remote users in Cisco-CCNP environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S18-03",
+      "question": "18. VPN connectivity failure for remote users in Cisco-CCNP environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S18-04",
+      "question": "18. VPN connectivity failure for remote users in Cisco-CCNP environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S18-05",
+      "question": "18. VPN connectivity failure for remote users in Cisco-CCNP environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S19-01",
+      "question": "19. Security incident response: ransomware attack detected in Cisco-CCNP environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S19-02",
+      "question": "19. Security incident response: ransomware attack detected in Cisco-CCNP environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S19-03",
+      "question": "19. Security incident response: ransomware attack detected in Cisco-CCNP environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S19-04",
+      "question": "19. Security incident response: ransomware attack detected in Cisco-CCNP environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S19-05",
+      "question": "19. Security incident response: ransomware attack detected in Cisco-CCNP environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S20-01",
+      "question": "20. Network latency issue affecting VoIP calls in Cisco-CCNP environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S20-02",
+      "question": "20. Network latency issue affecting VoIP calls in Cisco-CCNP environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S20-03",
+      "question": "20. Network latency issue affecting VoIP calls in Cisco-CCNP environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S20-04",
+      "question": "20. Network latency issue affecting VoIP calls in Cisco-CCNP environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Cisco-CCNP-S20-05",
+      "question": "20. Network latency issue affecting VoIP calls in Cisco-CCNP environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Cisco-CCNP troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Cisco-CCNP troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Cisco-CCNP best practices. Document all steps for RCA."
+    }
+  ]
+}

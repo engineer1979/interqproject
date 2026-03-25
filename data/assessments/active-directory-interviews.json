@@ -1,0 +1,215 @@
+[
+  {
+    "id": "Active-Directory-I01",
+    "title": "Active-Directory Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Active-Directory certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain Active-Directory HA design",
+      "Troubleshoot Active-Directory outage",
+      "Scale Active-Directory for 100k users"
+    ],
+    "expected_skills": [
+      "Production Active-Directory experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Active-Directory-I02",
+    "title": "Active-Directory Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Active-Directory certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain Active-Directory HA design",
+      "Troubleshoot Active-Directory outage",
+      "Scale Active-Directory for 100k users"
+    ],
+    "expected_skills": [
+      "Production Active-Directory experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Active-Directory-I03",
+    "title": "Active-Directory Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Active-Directory certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain Active-Directory HA design",
+      "Troubleshoot Active-Directory outage",
+      "Scale Active-Directory for 100k users"
+    ],
+    "expected_skills": [
+      "Production Active-Directory experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Active-Directory-I04",
+    "title": "Active-Directory Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Active-Directory certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain Active-Directory HA design",
+      "Troubleshoot Active-Directory outage",
+      "Scale Active-Directory for 100k users"
+    ],
+    "expected_skills": [
+      "Production Active-Directory experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Active-Directory-I05",
+    "title": "Active-Directory Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Active-Directory certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain Active-Directory HA design",
+      "Troubleshoot Active-Directory outage",
+      "Scale Active-Directory for 100k users"
+    ],
+    "expected_skills": [
+      "Production Active-Directory experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Active-Directory-I06",
+    "title": "Active-Directory Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Active-Directory certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain Active-Directory HA design",
+      "Troubleshoot Active-Directory outage",
+      "Scale Active-Directory for 100k users"
+    ],
+    "expected_skills": [
+      "Production Active-Directory experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Active-Directory-I07",
+    "title": "Active-Directory Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Active-Directory certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain Active-Directory HA design",
+      "Troubleshoot Active-Directory outage",
+      "Scale Active-Directory for 100k users"
+    ],
+    "expected_skills": [
+      "Production Active-Directory experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Active-Directory-I08",
+    "title": "Active-Directory Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Active-Directory certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain Active-Directory HA design",
+      "Troubleshoot Active-Directory outage",
+      "Scale Active-Directory for 100k users"
+    ],
+    "expected_skills": [
+      "Production Active-Directory experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Active-Directory-I09",
+    "title": "Active-Directory Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Active-Directory certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain Active-Directory HA design",
+      "Troubleshoot Active-Directory outage",
+      "Scale Active-Directory for 100k users"
+    ],
+    "expected_skills": [
+      "Production Active-Directory experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Active-Directory-I10",
+    "title": "Active-Directory Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Active-Directory certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain Active-Directory HA design",
+      "Troubleshoot Active-Directory outage",
+      "Scale Active-Directory for 100k users"
+    ],
+    "expected_skills": [
+      "Production Active-Directory experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  }
+]

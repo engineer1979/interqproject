@@ -1,0 +1,209 @@
+[
+  {
+    "id": "Azure-Fundamentals-I01",
+    "title": "Azure-Fundamentals Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Azure-Fundamentals certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain Azure-Fundamentals HA design",
+      "Troubleshoot Azure-Fundamentals outage",
+      "Scale Azure-Fundamentals for 100k users"
+    ],
+    "expected_skills": [
+      "Production Azure-Fundamentals experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Azure-Fundamentals-I02",
+    "title": "Azure-Fundamentals Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Azure-Fundamentals certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain Azure-Fundamentals HA design",
+      "Troubleshoot Azure-Fundamentals outage",
+      "Scale Azure-Fundamentals for 100k users"
+    ],
+    "expected_skills": [
+      "Production Azure-Fundamentals experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Azure-Fundamentals-I03",
+    "title": "Azure-Fundamentals Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Azure-Fundamentals certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain Azure-Fundamentals HA design",
+      "Troubleshoot Azure-Fundamentals outage",
+      "Scale Azure-Fundamentals for 100k users"
+    ],
+    "expected_skills": [
+      "Production Azure-Fundamentals experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Azure-Fundamentals-I04",
+    "title": "Azure-Fundamentals Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Azure-Fundamentals certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain Azure-Fundamentals HA design",
+      "Troubleshoot Azure-Fundamentals outage",
+      "Scale Azure-Fundamentals for 100k users"
+    ],
+    "expected_skills": [
+      "Production Azure-Fundamentals experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Azure-Fundamentals-I05",
+    "title": "Azure-Fundamentals Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Azure-Fundamentals certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain Azure-Fundamentals HA design",
+      "Troubleshoot Azure-Fundamentals outage",
+      "Scale Azure-Fundamentals for 100k users"
+    ],
+    "expected_skills": [
+      "Production Azure-Fundamentals experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Azure-Fundamentals-I06",
+    "title": "Azure-Fundamentals Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Azure-Fundamentals certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain Azure-Fundamentals HA design",
+      "Troubleshoot Azure-Fundamentals outage",
+      "Scale Azure-Fundamentals for 100k users"
+    ],
+    "expected_skills": [
+      "Production Azure-Fundamentals experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Azure-Fundamentals-I07",
+    "title": "Azure-Fundamentals Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Azure-Fundamentals certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain Azure-Fundamentals HA design",
+      "Troubleshoot Azure-Fundamentals outage",
+      "Scale Azure-Fundamentals for 100k users"
+    ],
+    "expected_skills": [
+      "Production Azure-Fundamentals experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Azure-Fundamentals-I08",
+    "title": "Azure-Fundamentals Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Azure-Fundamentals certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain Azure-Fundamentals HA design",
+      "Troubleshoot Azure-Fundamentals outage",
+      "Scale Azure-Fundamentals for 100k users"
+    ],
+    "expected_skills": [
+      "Production Azure-Fundamentals experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Azure-Fundamentals-I09",
+    "title": "Azure-Fundamentals Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Azure-Fundamentals certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain Azure-Fundamentals HA design",
+      "Troubleshoot Azure-Fundamentals outage",
+      "Scale Azure-Fundamentals for 100k users"
+    ],
+    "expected_skills": [
+      "Production Azure-Fundamentals experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Azure-Fundamentals-I10",
+    "title": "Azure-Fundamentals Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Azure-Fundamentals certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain Azure-Fundamentals HA design",
+      "Troubleshoot Azure-Fundamentals outage",
+      "Scale Azure-Fundamentals for 100k users"
+    ],
+    "expected_skills": [
+      "Production Azure-Fundamentals experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  }
+]

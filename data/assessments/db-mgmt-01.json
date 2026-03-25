@@ -1,0 +1,83 @@
+[
+  {
+    "id": "DB-001-E1",
+    "question": "What does SQL stand for?",
+    "options": ["Structured Query Language", "Strong Query Language", "Systemized Question Language", "Simple Query Logic"],
+    "answer": "Structured Query Language",
+    "explanation": "SQL is the standard language for managing relational databases and performing operations like data retrieval and insertion.",
+    "tag": "SQL",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "DB-001-E2",
+    "question": "Which of these is a NoSQL database?",
+    "options": ["MongoDB", "PostgreSQL", "MySQL", "Oracle"],
+    "answer": "MongoDB",
+    "explanation": "MongoDB is a document-oriented NoSQL database that stores data in flexible, JSON-like document format.",
+    "tag": "NoSQL",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "DB-001-E3",
+    "question": "What is a 'Primary Key' in a database table?",
+    "options": ["A unique identifier for each record in a table", "A password for the database", "The first column in every table", "A key that links to another table"],
+    "answer": "A unique identifier for each record in a table",
+    "explanation": "The primary key is a unique field that ensures each row in a table is distinct and can be referenced efficiently.",
+    "tag": "Schema",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "DB-001-M1",
+    "question": "What is 'Database Indexing' primarily used for?",
+    "options": ["Improving the speed of data retrieval operations", "Backing up data", "Ensuring data integrity", "Connecting multiple databases together"],
+    "answer": "Improving the speed of data retrieval operations",
+    "explanation": "An index is a data structure that allows the database engine to find rows more quickly than it would without it, much like an index in a book.",
+    "tag": "Performance",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "DB-001-M2",
+    "question": "What is the result of an 'INNER JOIN' between two tables?",
+    "options": ["Only matching records from both tables", "All records from both tables", "Only records from the first table", "Only records from the second table"],
+    "answer": "Only matching records from both tables",
+    "explanation": "The INNER JOIN selects records that have matching values in both involved tables.",
+    "tag": "SQL",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "DB-001-M3",
+    "question": "In NoSQL, what does 'ACID' properties refer to?",
+    "options": ["Atomicity, Consistency, Isolation, Durability", "Accuracy, Complexity, Integrity, Dependency", "Array, Compression, Indexing, Distribution", "Active, Concurrent, In-memory, Dynamic"],
+    "answer": "Atomicity, Consistency, Isolation, Durability",
+    "explanation": "ACID properties are a set of principles that guarantee database transactions are processed reliably, though some NoSQL databases prioritize BASE over ACID for scalability.",
+    "tag": "Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "DB-001-H1",
+    "question": "What is 'Database Sharding'?",
+    "options": ["Splitting a large database into smaller, faster, more easily managed parts across multiple servers", "Encrypting database backups", "A method for caching frequently accessed queries", "Restricting user access to specific tables"],
+    "answer": "Splitting a large database into smaller, faster, more easily managed parts across multiple servers",
+    "explanation": "Sharding is a horizontal scaling strategy that distributes data across multiple machines (shards), each containing a subset of the dataset.",
+    "tag": "Scalability",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "DB-001-H2",
+    "question": "Which of the following is true about 'Normalization' in relational databases?",
+    "options": ["It reduces data redundancy and improves data integrity", "It increases database storage size", "It always improves query performance", "It is only used for NoSQL databases"],
+    "answer": "It reduces data redundancy and improves data integrity",
+    "explanation": "Normalization is the process of organizing data to minimize redundancy and prevent anomalies like insertion, update, and deletion errors.",
+    "tag": "Design",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "DB-001-H3",
+    "question": "What is 'Transaction Isolation Level' in PostgreSQL?",
+    "options": ["The degree to which transactions are isolated from each other for consistency", "The number of users who can access the database simultaneously", "The speed at which a transaction is committed", "A way to backup transactions"],
+    "answer": "The degree to which transactions are isolated from each other for consistency",
+    "explanation": "Isolation levels (like Read Committed, Serializable) determine how one transaction's changes are visible to others, balancing performance and data consistency.",
+    "tag": "Advanced DB",
+    "difficulty": "Hard"
+  }
+]

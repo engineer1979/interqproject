@@ -1,0 +1,3252 @@
+[
+  {
+    "id": "CompTIA-Security+-E001",
+    "question": "Default subnet mask for Class C network in CompTIA-Security+?",
+    "options": [
+      "Incorrect approach",
+      "Correct CompTIA-Security+ procedure",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Security+ E Solution:** Default subnet mask for Class C network in CompTIA-Security+?. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-E002",
+    "question": "What is the primary function of CompTIA DHCP?",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Correct CompTIA-Security+ procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Security+ E Solution:** What is the primary function of CompTIA DHCP?. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-E003",
+    "question": "Common protocol for CompTIA-Security+ remote access?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct CompTIA-Security+ procedure"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Security+ E Solution:** Common protocol for CompTIA-Security+ remote access?. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-E004",
+    "question": "Common protocol for CompTIA-Security+ remote access?",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach",
+      "Correct CompTIA-Security+ procedure"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Security+ E Solution:** Common protocol for CompTIA-Security+ remote access?. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-E005",
+    "question": "Default subnet mask for Class C network in CompTIA-Security+?",
+    "options": [
+      "Dangerous method",
+      "Correct CompTIA-Security+ procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Security+ E Solution:** Default subnet mask for Class C network in CompTIA-Security+?. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-E006",
+    "question": "Common protocol for CompTIA-Security+ remote access?",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct CompTIA-Security+ procedure",
+      "Partially correct"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Security+ E Solution:** Common protocol for CompTIA-Security+ remote access?. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-E007",
+    "question": "Default subnet mask for Class C network in CompTIA-Security+?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Security+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Security+ E Solution:** Default subnet mask for Class C network in CompTIA-Security+?. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-E008",
+    "question": "What does CompTIA ACL stand for?",
+    "options": [
+      "Partially correct",
+      "Correct CompTIA-Security+ procedure",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Security+ E Solution:** What does CompTIA ACL stand for?. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-E009",
+    "question": "Common protocol for CompTIA-Security+ remote access?",
+    "options": [
+      "Correct CompTIA-Security+ procedure",
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Security+ E Solution:** Common protocol for CompTIA-Security+ remote access?. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-E010",
+    "question": "What is the primary function of CompTIA DHCP?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Security+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Security+ E Solution:** What is the primary function of CompTIA DHCP?. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-E011",
+    "question": "Which port does CompTIA-Security+ service use by default?",
+    "options": [
+      "Correct CompTIA-Security+ procedure",
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Security+ E Solution:** Which port does CompTIA-Security+ service use by default?. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-E012",
+    "question": "What does CompTIA ACL stand for?",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct CompTIA-Security+ procedure"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Security+ E Solution:** What does CompTIA ACL stand for?. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-E013",
+    "question": "Default subnet mask for Class C network in CompTIA-Security+?",
+    "options": [
+      "Correct CompTIA-Security+ procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Security+ E Solution:** Default subnet mask for Class C network in CompTIA-Security+?. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-E014",
+    "question": "Common protocol for CompTIA-Security+ remote access?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct CompTIA-Security+ procedure"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Security+ E Solution:** Common protocol for CompTIA-Security+ remote access?. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-E015",
+    "question": "Common protocol for CompTIA-Security+ remote access?",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Security+ procedure"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Security+ E Solution:** Common protocol for CompTIA-Security+ remote access?. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-E016",
+    "question": "Default subnet mask for Class C network in CompTIA-Security+?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Security+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Security+ E Solution:** Default subnet mask for Class C network in CompTIA-Security+?. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-E017",
+    "question": "What does CompTIA ACL stand for?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Security+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Security+ E Solution:** What does CompTIA ACL stand for?. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-E018",
+    "question": "Which port does CompTIA-Security+ service use by default?",
+    "options": [
+      "Partially correct",
+      "Correct CompTIA-Security+ procedure",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Security+ E Solution:** Which port does CompTIA-Security+ service use by default?. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-E019",
+    "question": "Which port does CompTIA-Security+ service use by default?",
+    "options": [
+      "Correct CompTIA-Security+ procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Security+ E Solution:** Which port does CompTIA-Security+ service use by default?. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-E020",
+    "question": "Which port does CompTIA-Security+ service use by default?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct CompTIA-Security+ procedure"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Security+ E Solution:** Which port does CompTIA-Security+ service use by default?. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-E021",
+    "question": "What does CompTIA ACL stand for?",
+    "options": [
+      "Dangerous method",
+      "Correct CompTIA-Security+ procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Security+ E Solution:** What does CompTIA ACL stand for?. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-E022",
+    "question": "Which port does CompTIA-Security+ service use by default?",
+    "options": [
+      "Dangerous method",
+      "Correct CompTIA-Security+ procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Security+ E Solution:** Which port does CompTIA-Security+ service use by default?. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-E023",
+    "question": "Default subnet mask for Class C network in CompTIA-Security+?",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Security+ procedure"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Security+ E Solution:** Default subnet mask for Class C network in CompTIA-Security+?. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-E024",
+    "question": "Default subnet mask for Class C network in CompTIA-Security+?",
+    "options": [
+      "Correct CompTIA-Security+ procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Security+ E Solution:** Default subnet mask for Class C network in CompTIA-Security+?. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-E025",
+    "question": "Which port does CompTIA-Security+ service use by default?",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct CompTIA-Security+ procedure"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Security+ E Solution:** Which port does CompTIA-Security+ service use by default?. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-E026",
+    "question": "Which port does CompTIA-Security+ service use by default?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct CompTIA-Security+ procedure"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Security+ E Solution:** Which port does CompTIA-Security+ service use by default?. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-E027",
+    "question": "What is the primary function of CompTIA DHCP?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Security+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Security+ E Solution:** What is the primary function of CompTIA DHCP?. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-E028",
+    "question": "What is the primary function of CompTIA DHCP?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Security+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Security+ E Solution:** What is the primary function of CompTIA DHCP?. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-E029",
+    "question": "What does CompTIA ACL stand for?",
+    "options": [
+      "Dangerous method",
+      "Correct CompTIA-Security+ procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Security+ E Solution:** What does CompTIA ACL stand for?. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-E030",
+    "question": "What is the primary function of CompTIA DHCP?",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct CompTIA-Security+ procedure"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Security+ E Solution:** What is the primary function of CompTIA DHCP?. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-E031",
+    "question": "What is the primary function of CompTIA DHCP?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Security+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Security+ E Solution:** What is the primary function of CompTIA DHCP?. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-E032",
+    "question": "What does CompTIA ACL stand for?",
+    "options": [
+      "Correct CompTIA-Security+ procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Security+ E Solution:** What does CompTIA ACL stand for?. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-E033",
+    "question": "What is the primary function of CompTIA DHCP?",
+    "options": [
+      "Correct CompTIA-Security+ procedure",
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Security+ E Solution:** What is the primary function of CompTIA DHCP?. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-E034",
+    "question": "Common protocol for CompTIA-Security+ remote access?",
+    "options": [
+      "Incorrect approach",
+      "Correct CompTIA-Security+ procedure",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Security+ E Solution:** Common protocol for CompTIA-Security+ remote access?. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-E035",
+    "question": "Common protocol for CompTIA-Security+ remote access?",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct CompTIA-Security+ procedure"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Security+ E Solution:** Common protocol for CompTIA-Security+ remote access?. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-E036",
+    "question": "Which port does CompTIA-Security+ service use by default?",
+    "options": [
+      "Dangerous method",
+      "Correct CompTIA-Security+ procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Security+ E Solution:** Which port does CompTIA-Security+ service use by default?. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-E037",
+    "question": "Which port does CompTIA-Security+ service use by default?",
+    "options": [
+      "Partially correct",
+      "Correct CompTIA-Security+ procedure",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Security+ E Solution:** Which port does CompTIA-Security+ service use by default?. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-E038",
+    "question": "What does CompTIA ACL stand for?",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct CompTIA-Security+ procedure"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Security+ E Solution:** What does CompTIA ACL stand for?. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-E039",
+    "question": "What does CompTIA ACL stand for?",
+    "options": [
+      "Dangerous method",
+      "Correct CompTIA-Security+ procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Security+ E Solution:** What does CompTIA ACL stand for?. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-E040",
+    "question": "What is the primary function of CompTIA DHCP?",
+    "options": [
+      "Correct CompTIA-Security+ procedure",
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Security+ E Solution:** What is the primary function of CompTIA DHCP?. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-E041",
+    "question": "Default subnet mask for Class C network in CompTIA-Security+?",
+    "options": [
+      "Dangerous method",
+      "Correct CompTIA-Security+ procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Security+ E Solution:** Default subnet mask for Class C network in CompTIA-Security+?. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-E042",
+    "question": "What is the primary function of CompTIA DHCP?",
+    "options": [
+      "Correct CompTIA-Security+ procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Security+ E Solution:** What is the primary function of CompTIA DHCP?. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-E043",
+    "question": "What does CompTIA ACL stand for?",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct CompTIA-Security+ procedure"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Security+ E Solution:** What does CompTIA ACL stand for?. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-E044",
+    "question": "Which port does CompTIA-Security+ service use by default?",
+    "options": [
+      "Correct CompTIA-Security+ procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Security+ E Solution:** Which port does CompTIA-Security+ service use by default?. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-E045",
+    "question": "Common protocol for CompTIA-Security+ remote access?",
+    "options": [
+      "Dangerous method",
+      "Correct CompTIA-Security+ procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Security+ E Solution:** Common protocol for CompTIA-Security+ remote access?. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-E046",
+    "question": "What is the primary function of CompTIA DHCP?",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct CompTIA-Security+ procedure"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Security+ E Solution:** What is the primary function of CompTIA DHCP?. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-E047",
+    "question": "Default subnet mask for Class C network in CompTIA-Security+?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Security+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Security+ E Solution:** Default subnet mask for Class C network in CompTIA-Security+?. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-E048",
+    "question": "Which port does CompTIA-Security+ service use by default?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Security+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Security+ E Solution:** Which port does CompTIA-Security+ service use by default?. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-E049",
+    "question": "Common protocol for CompTIA-Security+ remote access?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct CompTIA-Security+ procedure"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Security+ E Solution:** Common protocol for CompTIA-Security+ remote access?. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-E050",
+    "question": "What does CompTIA ACL stand for?",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Correct CompTIA-Security+ procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "e",
+    "explanation": "**CompTIA-Security+ E Solution:** What does CompTIA ACL stand for?. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-M001",
+    "question": "Set up CompTIA-Security+ failover clustering",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct CompTIA-Security+ procedure"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Security+ M Solution:** Set up CompTIA-Security+ failover clustering. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-M002",
+    "question": "Implement CompTIA-Security+ backup strategy for compliance",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct CompTIA-Security+ procedure"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Security+ M Solution:** Implement CompTIA-Security+ backup strategy for compliance. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-M003",
+    "question": "Implement CompTIA-Security+ backup strategy for compliance",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct CompTIA-Security+ procedure"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Security+ M Solution:** Implement CompTIA-Security+ backup strategy for compliance. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-M004",
+    "question": "Optimize CompTIA-Security+ query performance",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach",
+      "Correct CompTIA-Security+ procedure"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Security+ M Solution:** Optimize CompTIA-Security+ query performance. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-M005",
+    "question": "Implement CompTIA-Security+ backup strategy for compliance",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach",
+      "Correct CompTIA-Security+ procedure"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Security+ M Solution:** Implement CompTIA-Security+ backup strategy for compliance. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-M006",
+    "question": "Optimize CompTIA-Security+ query performance",
+    "options": [
+      "Dangerous method",
+      "Correct CompTIA-Security+ procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Security+ M Solution:** Optimize CompTIA-Security+ query performance. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-M007",
+    "question": "Set up CompTIA-Security+ failover clustering",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct CompTIA-Security+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Security+ M Solution:** Set up CompTIA-Security+ failover clustering. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-M008",
+    "question": "Configure CompTIA-Security+ load balancer for high availability",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Security+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Security+ M Solution:** Configure CompTIA-Security+ load balancer for high availability. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-M009",
+    "question": "Optimize CompTIA-Security+ query performance",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct CompTIA-Security+ procedure"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Security+ M Solution:** Optimize CompTIA-Security+ query performance. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-M010",
+    "question": "Optimize CompTIA-Security+ query performance",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Security+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Security+ M Solution:** Optimize CompTIA-Security+ query performance. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-M011",
+    "question": "Implement CompTIA-Security+ backup strategy for compliance",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct CompTIA-Security+ procedure"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Security+ M Solution:** Implement CompTIA-Security+ backup strategy for compliance. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-M012",
+    "question": "Implement CompTIA-Security+ backup strategy for compliance",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct CompTIA-Security+ procedure"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Security+ M Solution:** Implement CompTIA-Security+ backup strategy for compliance. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-M013",
+    "question": "Troubleshoot CompTIA-Security+ connectivity issue between VLANs",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct CompTIA-Security+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Security+ M Solution:** Troubleshoot CompTIA-Security+ connectivity issue between VLANs. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-M014",
+    "question": "Implement CompTIA-Security+ backup strategy for compliance",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Security+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Security+ M Solution:** Implement CompTIA-Security+ backup strategy for compliance. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-M015",
+    "question": "Implement CompTIA-Security+ backup strategy for compliance",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Security+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Security+ M Solution:** Implement CompTIA-Security+ backup strategy for compliance. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-M016",
+    "question": "Implement CompTIA-Security+ backup strategy for compliance",
+    "options": [
+      "Dangerous method",
+      "Correct CompTIA-Security+ procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Security+ M Solution:** Implement CompTIA-Security+ backup strategy for compliance. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-M017",
+    "question": "Troubleshoot CompTIA-Security+ connectivity issue between VLANs",
+    "options": [
+      "Dangerous method",
+      "Correct CompTIA-Security+ procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Security+ M Solution:** Troubleshoot CompTIA-Security+ connectivity issue between VLANs. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-M018",
+    "question": "Implement CompTIA-Security+ backup strategy for compliance",
+    "options": [
+      "Correct CompTIA-Security+ procedure",
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Security+ M Solution:** Implement CompTIA-Security+ backup strategy for compliance. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-M019",
+    "question": "Optimize CompTIA-Security+ query performance",
+    "options": [
+      "Dangerous method",
+      "Correct CompTIA-Security+ procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Security+ M Solution:** Optimize CompTIA-Security+ query performance. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-M020",
+    "question": "Troubleshoot CompTIA-Security+ connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct CompTIA-Security+ procedure"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Security+ M Solution:** Troubleshoot CompTIA-Security+ connectivity issue between VLANs. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-M021",
+    "question": "Configure CompTIA-Security+ load balancer for high availability",
+    "options": [
+      "Correct CompTIA-Security+ procedure",
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Security+ M Solution:** Configure CompTIA-Security+ load balancer for high availability. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-M022",
+    "question": "Configure CompTIA-Security+ load balancer for high availability",
+    "options": [
+      "Dangerous method",
+      "Correct CompTIA-Security+ procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Security+ M Solution:** Configure CompTIA-Security+ load balancer for high availability. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-M023",
+    "question": "Troubleshoot CompTIA-Security+ connectivity issue between VLANs",
+    "options": [
+      "Correct CompTIA-Security+ procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Security+ M Solution:** Troubleshoot CompTIA-Security+ connectivity issue between VLANs. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-M024",
+    "question": "Configure CompTIA-Security+ load balancer for high availability",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Security+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Security+ M Solution:** Configure CompTIA-Security+ load balancer for high availability. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-M025",
+    "question": "Configure CompTIA-Security+ load balancer for high availability",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Security+ procedure"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Security+ M Solution:** Configure CompTIA-Security+ load balancer for high availability. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-M026",
+    "question": "Set up CompTIA-Security+ failover clustering",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct CompTIA-Security+ procedure"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Security+ M Solution:** Set up CompTIA-Security+ failover clustering. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-M027",
+    "question": "Configure CompTIA-Security+ load balancer for high availability",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Security+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Security+ M Solution:** Configure CompTIA-Security+ load balancer for high availability. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-M028",
+    "question": "Troubleshoot CompTIA-Security+ connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Security+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Security+ M Solution:** Troubleshoot CompTIA-Security+ connectivity issue between VLANs. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-M029",
+    "question": "Troubleshoot CompTIA-Security+ connectivity issue between VLANs",
+    "options": [
+      "Correct CompTIA-Security+ procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Security+ M Solution:** Troubleshoot CompTIA-Security+ connectivity issue between VLANs. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-M030",
+    "question": "Set up CompTIA-Security+ failover clustering",
+    "options": [
+      "Dangerous method",
+      "Correct CompTIA-Security+ procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Security+ M Solution:** Set up CompTIA-Security+ failover clustering. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-M031",
+    "question": "Set up CompTIA-Security+ failover clustering",
+    "options": [
+      "Correct CompTIA-Security+ procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Security+ M Solution:** Set up CompTIA-Security+ failover clustering. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-M032",
+    "question": "Set up CompTIA-Security+ failover clustering",
+    "options": [
+      "Correct CompTIA-Security+ procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Security+ M Solution:** Set up CompTIA-Security+ failover clustering. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-M033",
+    "question": "Implement CompTIA-Security+ backup strategy for compliance",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct CompTIA-Security+ procedure"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Security+ M Solution:** Implement CompTIA-Security+ backup strategy for compliance. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-M034",
+    "question": "Configure CompTIA-Security+ load balancer for high availability",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct CompTIA-Security+ procedure",
+      "Partially correct"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Security+ M Solution:** Configure CompTIA-Security+ load balancer for high availability. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-M035",
+    "question": "Troubleshoot CompTIA-Security+ connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct CompTIA-Security+ procedure"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Security+ M Solution:** Troubleshoot CompTIA-Security+ connectivity issue between VLANs. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-M036",
+    "question": "Set up CompTIA-Security+ failover clustering",
+    "options": [
+      "Correct CompTIA-Security+ procedure",
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Security+ M Solution:** Set up CompTIA-Security+ failover clustering. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-M037",
+    "question": "Implement CompTIA-Security+ backup strategy for compliance",
+    "options": [
+      "Dangerous method",
+      "Correct CompTIA-Security+ procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Security+ M Solution:** Implement CompTIA-Security+ backup strategy for compliance. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-M038",
+    "question": "Optimize CompTIA-Security+ query performance",
+    "options": [
+      "Dangerous method",
+      "Correct CompTIA-Security+ procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Security+ M Solution:** Optimize CompTIA-Security+ query performance. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-M039",
+    "question": "Troubleshoot CompTIA-Security+ connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Security+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Security+ M Solution:** Troubleshoot CompTIA-Security+ connectivity issue between VLANs. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-M040",
+    "question": "Optimize CompTIA-Security+ query performance",
+    "options": [
+      "Correct CompTIA-Security+ procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Security+ M Solution:** Optimize CompTIA-Security+ query performance. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-M041",
+    "question": "Troubleshoot CompTIA-Security+ connectivity issue between VLANs",
+    "options": [
+      "Correct CompTIA-Security+ procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Security+ M Solution:** Troubleshoot CompTIA-Security+ connectivity issue between VLANs. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-M042",
+    "question": "Optimize CompTIA-Security+ query performance",
+    "options": [
+      "Correct CompTIA-Security+ procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Security+ M Solution:** Optimize CompTIA-Security+ query performance. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-M043",
+    "question": "Set up CompTIA-Security+ failover clustering",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct CompTIA-Security+ procedure"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Security+ M Solution:** Set up CompTIA-Security+ failover clustering. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-M044",
+    "question": "Optimize CompTIA-Security+ query performance",
+    "options": [
+      "Correct CompTIA-Security+ procedure",
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Security+ M Solution:** Optimize CompTIA-Security+ query performance. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-M045",
+    "question": "Troubleshoot CompTIA-Security+ connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct CompTIA-Security+ procedure"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Security+ M Solution:** Troubleshoot CompTIA-Security+ connectivity issue between VLANs. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-M046",
+    "question": "Set up CompTIA-Security+ failover clustering",
+    "options": [
+      "Correct CompTIA-Security+ procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Security+ M Solution:** Set up CompTIA-Security+ failover clustering. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-M047",
+    "question": "Troubleshoot CompTIA-Security+ connectivity issue between VLANs",
+    "options": [
+      "Dangerous method",
+      "Correct CompTIA-Security+ procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Security+ M Solution:** Troubleshoot CompTIA-Security+ connectivity issue between VLANs. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-M048",
+    "question": "Implement CompTIA-Security+ backup strategy for compliance",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Security+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Security+ M Solution:** Implement CompTIA-Security+ backup strategy for compliance. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-M049",
+    "question": "Configure CompTIA-Security+ load balancer for high availability",
+    "options": [
+      "Dangerous method",
+      "Correct CompTIA-Security+ procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Security+ M Solution:** Configure CompTIA-Security+ load balancer for high availability. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-M050",
+    "question": "Set up CompTIA-Security+ failover clustering",
+    "options": [
+      "Correct CompTIA-Security+ procedure",
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "m",
+    "explanation": "**CompTIA-Security+ M Solution:** Set up CompTIA-Security+ failover clustering. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-H001",
+    "question": "Design CompTIA-Security+ architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Dangerous method",
+      "Correct CompTIA-Security+ procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Security+ H Solution:** Design CompTIA-Security+ architecture for 10k users with 99.99% uptime. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-H002",
+    "question": "Optimize CompTIA-Security+ performance under DDoS attack",
+    "options": [
+      "Correct CompTIA-Security+ procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Security+ H Solution:** Optimize CompTIA-Security+ performance under DDoS attack. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-H003",
+    "question": "Migrate legacy CompTIA-Security+ systems to cloud-native architecture",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct CompTIA-Security+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Security+ H Solution:** Migrate legacy CompTIA-Security+ systems to cloud-native architecture. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-H004",
+    "question": "Create disaster recovery plan with RTO < 15min for CompTIA-Security+",
+    "options": [
+      "Dangerous method",
+      "Correct CompTIA-Security+ procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Security+ H Solution:** Create disaster recovery plan with RTO < 15min for CompTIA-Security+. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-H005",
+    "question": "Optimize CompTIA-Security+ performance under DDoS attack",
+    "options": [
+      "Dangerous method",
+      "Correct CompTIA-Security+ procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Security+ H Solution:** Optimize CompTIA-Security+ performance under DDoS attack. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-H006",
+    "question": "Design CompTIA-Security+ architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Dangerous method",
+      "Correct CompTIA-Security+ procedure",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Security+ H Solution:** Design CompTIA-Security+ architecture for 10k users with 99.99% uptime. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-H007",
+    "question": "Design CompTIA-Security+ architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Correct CompTIA-Security+ procedure",
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Security+ H Solution:** Design CompTIA-Security+ architecture for 10k users with 99.99% uptime. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-H008",
+    "question": "Create disaster recovery plan with RTO < 15min for CompTIA-Security+",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct CompTIA-Security+ procedure"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Security+ H Solution:** Create disaster recovery plan with RTO < 15min for CompTIA-Security+. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-H009",
+    "question": "Create disaster recovery plan with RTO < 15min for CompTIA-Security+",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct CompTIA-Security+ procedure"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Security+ H Solution:** Create disaster recovery plan with RTO < 15min for CompTIA-Security+. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-H010",
+    "question": "Migrate legacy CompTIA-Security+ systems to cloud-native architecture",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Security+ procedure"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Security+ H Solution:** Migrate legacy CompTIA-Security+ systems to cloud-native architecture. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-H011",
+    "question": "Design CompTIA-Security+ architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Security+ procedure"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Security+ H Solution:** Design CompTIA-Security+ architecture for 10k users with 99.99% uptime. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-H012",
+    "question": "Create disaster recovery plan with RTO < 15min for CompTIA-Security+",
+    "options": [
+      "Dangerous method",
+      "Correct CompTIA-Security+ procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Security+ H Solution:** Create disaster recovery plan with RTO < 15min for CompTIA-Security+. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-H013",
+    "question": "Implement zero-trust security model in CompTIA-Security+",
+    "options": [
+      "Correct CompTIA-Security+ procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Security+ H Solution:** Implement zero-trust security model in CompTIA-Security+. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-H014",
+    "question": "Migrate legacy CompTIA-Security+ systems to cloud-native architecture",
+    "options": [
+      "Correct CompTIA-Security+ procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Security+ H Solution:** Migrate legacy CompTIA-Security+ systems to cloud-native architecture. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-H015",
+    "question": "Migrate legacy CompTIA-Security+ systems to cloud-native architecture",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct CompTIA-Security+ procedure"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Security+ H Solution:** Migrate legacy CompTIA-Security+ systems to cloud-native architecture. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-H016",
+    "question": "Design CompTIA-Security+ architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Security+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Security+ H Solution:** Design CompTIA-Security+ architecture for 10k users with 99.99% uptime. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-H017",
+    "question": "Optimize CompTIA-Security+ performance under DDoS attack",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Security+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Security+ H Solution:** Optimize CompTIA-Security+ performance under DDoS attack. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-H018",
+    "question": "Optimize CompTIA-Security+ performance under DDoS attack",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Security+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Security+ H Solution:** Optimize CompTIA-Security+ performance under DDoS attack. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-H019",
+    "question": "Optimize CompTIA-Security+ performance under DDoS attack",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct CompTIA-Security+ procedure"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Security+ H Solution:** Optimize CompTIA-Security+ performance under DDoS attack. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-H020",
+    "question": "Design CompTIA-Security+ architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Security+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Security+ H Solution:** Design CompTIA-Security+ architecture for 10k users with 99.99% uptime. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-H021",
+    "question": "Implement zero-trust security model in CompTIA-Security+",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Security+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Security+ H Solution:** Implement zero-trust security model in CompTIA-Security+. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-H022",
+    "question": "Implement zero-trust security model in CompTIA-Security+",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Security+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Security+ H Solution:** Implement zero-trust security model in CompTIA-Security+. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-H023",
+    "question": "Implement zero-trust security model in CompTIA-Security+",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach",
+      "Correct CompTIA-Security+ procedure"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Security+ H Solution:** Implement zero-trust security model in CompTIA-Security+. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-H024",
+    "question": "Migrate legacy CompTIA-Security+ systems to cloud-native architecture",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct CompTIA-Security+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Security+ H Solution:** Migrate legacy CompTIA-Security+ systems to cloud-native architecture. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-H025",
+    "question": "Migrate legacy CompTIA-Security+ systems to cloud-native architecture",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Security+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Security+ H Solution:** Migrate legacy CompTIA-Security+ systems to cloud-native architecture. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-H026",
+    "question": "Design CompTIA-Security+ architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Security+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Security+ H Solution:** Design CompTIA-Security+ architecture for 10k users with 99.99% uptime. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-H027",
+    "question": "Create disaster recovery plan with RTO < 15min for CompTIA-Security+",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct CompTIA-Security+ procedure"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Security+ H Solution:** Create disaster recovery plan with RTO < 15min for CompTIA-Security+. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-H028",
+    "question": "Create disaster recovery plan with RTO < 15min for CompTIA-Security+",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct CompTIA-Security+ procedure"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Security+ H Solution:** Create disaster recovery plan with RTO < 15min for CompTIA-Security+. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-H029",
+    "question": "Implement zero-trust security model in CompTIA-Security+",
+    "options": [
+      "Dangerous method",
+      "Correct CompTIA-Security+ procedure",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Security+ H Solution:** Implement zero-trust security model in CompTIA-Security+. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-H030",
+    "question": "Implement zero-trust security model in CompTIA-Security+",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Security+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Security+ H Solution:** Implement zero-trust security model in CompTIA-Security+. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-H031",
+    "question": "Design CompTIA-Security+ architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach",
+      "Correct CompTIA-Security+ procedure"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Security+ H Solution:** Design CompTIA-Security+ architecture for 10k users with 99.99% uptime. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-H032",
+    "question": "Implement zero-trust security model in CompTIA-Security+",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct CompTIA-Security+ procedure",
+      "Partially correct"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Security+ H Solution:** Implement zero-trust security model in CompTIA-Security+. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-H033",
+    "question": "Create disaster recovery plan with RTO < 15min for CompTIA-Security+",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Security+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Security+ H Solution:** Create disaster recovery plan with RTO < 15min for CompTIA-Security+. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-H034",
+    "question": "Migrate legacy CompTIA-Security+ systems to cloud-native architecture",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Security+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Security+ H Solution:** Migrate legacy CompTIA-Security+ systems to cloud-native architecture. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-H035",
+    "question": "Optimize CompTIA-Security+ performance under DDoS attack",
+    "options": [
+      "Correct CompTIA-Security+ procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Security+ H Solution:** Optimize CompTIA-Security+ performance under DDoS attack. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-H036",
+    "question": "Implement zero-trust security model in CompTIA-Security+",
+    "options": [
+      "Correct CompTIA-Security+ procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Security+ H Solution:** Implement zero-trust security model in CompTIA-Security+. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-H037",
+    "question": "Create disaster recovery plan with RTO < 15min for CompTIA-Security+",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Security+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Security+ H Solution:** Create disaster recovery plan with RTO < 15min for CompTIA-Security+. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-H038",
+    "question": "Migrate legacy CompTIA-Security+ systems to cloud-native architecture",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Security+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Security+ H Solution:** Migrate legacy CompTIA-Security+ systems to cloud-native architecture. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-H039",
+    "question": "Create disaster recovery plan with RTO < 15min for CompTIA-Security+",
+    "options": [
+      "Correct CompTIA-Security+ procedure",
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Security+ H Solution:** Create disaster recovery plan with RTO < 15min for CompTIA-Security+. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-H040",
+    "question": "Implement zero-trust security model in CompTIA-Security+",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Security+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Security+ H Solution:** Implement zero-trust security model in CompTIA-Security+. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-H041",
+    "question": "Migrate legacy CompTIA-Security+ systems to cloud-native architecture",
+    "options": [
+      "Correct CompTIA-Security+ procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Security+ H Solution:** Migrate legacy CompTIA-Security+ systems to cloud-native architecture. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-H042",
+    "question": "Optimize CompTIA-Security+ performance under DDoS attack",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct CompTIA-Security+ procedure"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Security+ H Solution:** Optimize CompTIA-Security+ performance under DDoS attack. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-H043",
+    "question": "Design CompTIA-Security+ architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Security+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Security+ H Solution:** Design CompTIA-Security+ architecture for 10k users with 99.99% uptime. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-H044",
+    "question": "Optimize CompTIA-Security+ performance under DDoS attack",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct CompTIA-Security+ procedure"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Security+ H Solution:** Optimize CompTIA-Security+ performance under DDoS attack. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-H045",
+    "question": "Implement zero-trust security model in CompTIA-Security+",
+    "options": [
+      "Correct CompTIA-Security+ procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Security+ H Solution:** Implement zero-trust security model in CompTIA-Security+. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-H046",
+    "question": "Optimize CompTIA-Security+ performance under DDoS attack",
+    "options": [
+      "Dangerous method",
+      "Correct CompTIA-Security+ procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Security+ H Solution:** Optimize CompTIA-Security+ performance under DDoS attack. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-H047",
+    "question": "Migrate legacy CompTIA-Security+ systems to cloud-native architecture",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct CompTIA-Security+ procedure"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Security+ H Solution:** Migrate legacy CompTIA-Security+ systems to cloud-native architecture. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-H048",
+    "question": "Migrate legacy CompTIA-Security+ systems to cloud-native architecture",
+    "options": [
+      "Incorrect approach",
+      "Correct CompTIA-Security+ procedure",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Security+ H Solution:** Migrate legacy CompTIA-Security+ systems to cloud-native architecture. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-H049",
+    "question": "Design CompTIA-Security+ architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CompTIA-Security+ procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Security+ H Solution:** Design CompTIA-Security+ architecture for 10k users with 99.99% uptime. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-H050",
+    "question": "Design CompTIA-Security+ architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Dangerous method",
+      "Correct CompTIA-Security+ procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CompTIA-Security+ procedure",
+    "difficulty": "h",
+    "explanation": "**CompTIA-Security+ H Solution:** Design CompTIA-Security+ architecture for 10k users with 99.99% uptime. Always verify CompTIA-Security+ documentation and test in lab environment first."
+  },
+  {
+    "id": "CompTIA-Security+-S01-01",
+    "question": "1. Backup failure during scheduled window in CompTIA-Security+ environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S01-02",
+    "question": "1. Backup failure during scheduled window in CompTIA-Security+ environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S01-03",
+    "question": "1. Backup failure during scheduled window in CompTIA-Security+ environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S01-04",
+    "question": "1. Backup failure during scheduled window in CompTIA-Security+ environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S01-05",
+    "question": "1. Backup failure during scheduled window in CompTIA-Security+ environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S02-01",
+    "question": "2. Server overload during quarterly report generation in CompTIA-Security+ environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S02-02",
+    "question": "2. Server overload during quarterly report generation in CompTIA-Security+ environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S02-03",
+    "question": "2. Server overload during quarterly report generation in CompTIA-Security+ environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S02-04",
+    "question": "2. Server overload during quarterly report generation in CompTIA-Security+ environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S02-05",
+    "question": "2. Server overload during quarterly report generation in CompTIA-Security+ environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S03-01",
+    "question": "3. Firewall blocking legitimate traffic in CompTIA-Security+ environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S03-02",
+    "question": "3. Firewall blocking legitimate traffic in CompTIA-Security+ environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S03-03",
+    "question": "3. Firewall blocking legitimate traffic in CompTIA-Security+ environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S03-04",
+    "question": "3. Firewall blocking legitimate traffic in CompTIA-Security+ environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S03-05",
+    "question": "3. Firewall blocking legitimate traffic in CompTIA-Security+ environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S04-01",
+    "question": "4. Security incident response: ransomware attack detected in CompTIA-Security+ environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S04-02",
+    "question": "4. Security incident response: ransomware attack detected in CompTIA-Security+ environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S04-03",
+    "question": "4. Security incident response: ransomware attack detected in CompTIA-Security+ environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S04-04",
+    "question": "4. Security incident response: ransomware attack detected in CompTIA-Security+ environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S04-05",
+    "question": "4. Security incident response: ransomware attack detected in CompTIA-Security+ environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S05-01",
+    "question": "5. Network latency issue affecting VoIP calls in CompTIA-Security+ environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S05-02",
+    "question": "5. Network latency issue affecting VoIP calls in CompTIA-Security+ environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S05-03",
+    "question": "5. Network latency issue affecting VoIP calls in CompTIA-Security+ environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S05-04",
+    "question": "5. Network latency issue affecting VoIP calls in CompTIA-Security+ environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S05-05",
+    "question": "5. Network latency issue affecting VoIP calls in CompTIA-Security+ environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S06-01",
+    "question": "6. Database performance degradation after upgrade in CompTIA-Security+ environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S06-02",
+    "question": "6. Database performance degradation after upgrade in CompTIA-Security+ environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S06-03",
+    "question": "6. Database performance degradation after upgrade in CompTIA-Security+ environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S06-04",
+    "question": "6. Database performance degradation after upgrade in CompTIA-Security+ environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S06-05",
+    "question": "6. Database performance degradation after upgrade in CompTIA-Security+ environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S07-01",
+    "question": "7. Database performance degradation after upgrade in CompTIA-Security+ environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S07-02",
+    "question": "7. Database performance degradation after upgrade in CompTIA-Security+ environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S07-03",
+    "question": "7. Database performance degradation after upgrade in CompTIA-Security+ environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S07-04",
+    "question": "7. Database performance degradation after upgrade in CompTIA-Security+ environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S07-05",
+    "question": "7. Database performance degradation after upgrade in CompTIA-Security+ environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S08-01",
+    "question": "8. Cloud migration failure: rollback strategy in CompTIA-Security+ environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S08-02",
+    "question": "8. Cloud migration failure: rollback strategy in CompTIA-Security+ environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S08-03",
+    "question": "8. Cloud migration failure: rollback strategy in CompTIA-Security+ environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S08-04",
+    "question": "8. Cloud migration failure: rollback strategy in CompTIA-Security+ environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S08-05",
+    "question": "8. Cloud migration failure: rollback strategy in CompTIA-Security+ environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S09-01",
+    "question": "9. Database performance degradation after upgrade in CompTIA-Security+ environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S09-02",
+    "question": "9. Database performance degradation after upgrade in CompTIA-Security+ environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S09-03",
+    "question": "9. Database performance degradation after upgrade in CompTIA-Security+ environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S09-04",
+    "question": "9. Database performance degradation after upgrade in CompTIA-Security+ environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S09-05",
+    "question": "9. Database performance degradation after upgrade in CompTIA-Security+ environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S10-01",
+    "question": "10. Security incident response: ransomware attack detected in CompTIA-Security+ environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S10-02",
+    "question": "10. Security incident response: ransomware attack detected in CompTIA-Security+ environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S10-03",
+    "question": "10. Security incident response: ransomware attack detected in CompTIA-Security+ environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S10-04",
+    "question": "10. Security incident response: ransomware attack detected in CompTIA-Security+ environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S10-05",
+    "question": "10. Security incident response: ransomware attack detected in CompTIA-Security+ environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S11-01",
+    "question": "11. Cloud migration failure: rollback strategy in CompTIA-Security+ environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S11-02",
+    "question": "11. Cloud migration failure: rollback strategy in CompTIA-Security+ environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S11-03",
+    "question": "11. Cloud migration failure: rollback strategy in CompTIA-Security+ environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S11-04",
+    "question": "11. Cloud migration failure: rollback strategy in CompTIA-Security+ environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S11-05",
+    "question": "11. Cloud migration failure: rollback strategy in CompTIA-Security+ environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S12-01",
+    "question": "12. Cloud migration failure: rollback strategy in CompTIA-Security+ environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S12-02",
+    "question": "12. Cloud migration failure: rollback strategy in CompTIA-Security+ environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S12-03",
+    "question": "12. Cloud migration failure: rollback strategy in CompTIA-Security+ environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S12-04",
+    "question": "12. Cloud migration failure: rollback strategy in CompTIA-Security+ environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S12-05",
+    "question": "12. Cloud migration failure: rollback strategy in CompTIA-Security+ environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S13-01",
+    "question": "13. Production outage during peak hours: diagnose and resolve in CompTIA-Security+ environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S13-02",
+    "question": "13. Production outage during peak hours: diagnose and resolve in CompTIA-Security+ environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S13-03",
+    "question": "13. Production outage during peak hours: diagnose and resolve in CompTIA-Security+ environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S13-04",
+    "question": "13. Production outage during peak hours: diagnose and resolve in CompTIA-Security+ environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S13-05",
+    "question": "13. Production outage during peak hours: diagnose and resolve in CompTIA-Security+ environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S14-01",
+    "question": "14. Security incident response: ransomware attack detected in CompTIA-Security+ environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S14-02",
+    "question": "14. Security incident response: ransomware attack detected in CompTIA-Security+ environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S14-03",
+    "question": "14. Security incident response: ransomware attack detected in CompTIA-Security+ environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S14-04",
+    "question": "14. Security incident response: ransomware attack detected in CompTIA-Security+ environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S14-05",
+    "question": "14. Security incident response: ransomware attack detected in CompTIA-Security+ environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S15-01",
+    "question": "15. VPN connectivity failure for remote users in CompTIA-Security+ environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S15-02",
+    "question": "15. VPN connectivity failure for remote users in CompTIA-Security+ environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S15-03",
+    "question": "15. VPN connectivity failure for remote users in CompTIA-Security+ environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S15-04",
+    "question": "15. VPN connectivity failure for remote users in CompTIA-Security+ environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S15-05",
+    "question": "15. VPN connectivity failure for remote users in CompTIA-Security+ environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S16-01",
+    "question": "16. Network latency issue affecting VoIP calls in CompTIA-Security+ environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S16-02",
+    "question": "16. Network latency issue affecting VoIP calls in CompTIA-Security+ environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S16-03",
+    "question": "16. Network latency issue affecting VoIP calls in CompTIA-Security+ environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S16-04",
+    "question": "16. Network latency issue affecting VoIP calls in CompTIA-Security+ environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S16-05",
+    "question": "16. Network latency issue affecting VoIP calls in CompTIA-Security+ environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S17-01",
+    "question": "17. Database performance degradation after upgrade in CompTIA-Security+ environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S17-02",
+    "question": "17. Database performance degradation after upgrade in CompTIA-Security+ environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S17-03",
+    "question": "17. Database performance degradation after upgrade in CompTIA-Security+ environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S17-04",
+    "question": "17. Database performance degradation after upgrade in CompTIA-Security+ environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S17-05",
+    "question": "17. Database performance degradation after upgrade in CompTIA-Security+ environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S18-01",
+    "question": "18. Network latency issue affecting VoIP calls in CompTIA-Security+ environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S18-02",
+    "question": "18. Network latency issue affecting VoIP calls in CompTIA-Security+ environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S18-03",
+    "question": "18. Network latency issue affecting VoIP calls in CompTIA-Security+ environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S18-04",
+    "question": "18. Network latency issue affecting VoIP calls in CompTIA-Security+ environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S18-05",
+    "question": "18. Network latency issue affecting VoIP calls in CompTIA-Security+ environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S19-01",
+    "question": "19. Network latency issue affecting VoIP calls in CompTIA-Security+ environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S19-02",
+    "question": "19. Network latency issue affecting VoIP calls in CompTIA-Security+ environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S19-03",
+    "question": "19. Network latency issue affecting VoIP calls in CompTIA-Security+ environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S19-04",
+    "question": "19. Network latency issue affecting VoIP calls in CompTIA-Security+ environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S19-05",
+    "question": "19. Network latency issue affecting VoIP calls in CompTIA-Security+ environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S20-01",
+    "question": "20. Network latency issue affecting VoIP calls in CompTIA-Security+ environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S20-02",
+    "question": "20. Network latency issue affecting VoIP calls in CompTIA-Security+ environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S20-03",
+    "question": "20. Network latency issue affecting VoIP calls in CompTIA-Security+ environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S20-04",
+    "question": "20. Network latency issue affecting VoIP calls in CompTIA-Security+ environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CompTIA-Security+-S20-05",
+    "question": "20. Network latency issue affecting VoIP calls in CompTIA-Security+ environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CompTIA-Security+ troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CompTIA-Security+ troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CompTIA-Security+ best practices. Document all steps for RCA."
+  }
+]

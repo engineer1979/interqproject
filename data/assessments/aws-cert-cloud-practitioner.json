@@ -1,0 +1,3252 @@
+[
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-E001",
+    "question": "Default subnet mask for Class C network in AWS-Certified-Cloud-Practitioner?",
+    "options": [
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Certified-Cloud-Practitioner E Solution:** Default subnet mask for Class C network in AWS-Certified-Cloud-Practitioner?. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-E002",
+    "question": "What is the primary function of AWS DHCP?",
+    "options": [
+      "Incorrect approach",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Certified-Cloud-Practitioner E Solution:** What is the primary function of AWS DHCP?. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-E003",
+    "question": "Common protocol for AWS-Certified-Cloud-Practitioner remote access?",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Certified-Cloud-Practitioner E Solution:** Common protocol for AWS-Certified-Cloud-Practitioner remote access?. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-E004",
+    "question": "What is the primary function of AWS DHCP?",
+    "options": [
+      "Partially correct",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Certified-Cloud-Practitioner E Solution:** What is the primary function of AWS DHCP?. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-E005",
+    "question": "What is the primary function of AWS DHCP?",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct AWS-Certified-Cloud-Practitioner procedure"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Certified-Cloud-Practitioner E Solution:** What is the primary function of AWS DHCP?. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-E006",
+    "question": "What is the primary function of AWS DHCP?",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct AWS-Certified-Cloud-Practitioner procedure"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Certified-Cloud-Practitioner E Solution:** What is the primary function of AWS DHCP?. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-E007",
+    "question": "What does AWS ACL stand for?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Certified-Cloud-Practitioner E Solution:** What does AWS ACL stand for?. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-E008",
+    "question": "What is the primary function of AWS DHCP?",
+    "options": [
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Certified-Cloud-Practitioner E Solution:** What is the primary function of AWS DHCP?. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-E009",
+    "question": "Common protocol for AWS-Certified-Cloud-Practitioner remote access?",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct AWS-Certified-Cloud-Practitioner procedure"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Certified-Cloud-Practitioner E Solution:** Common protocol for AWS-Certified-Cloud-Practitioner remote access?. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-E010",
+    "question": "Common protocol for AWS-Certified-Cloud-Practitioner remote access?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Certified-Cloud-Practitioner E Solution:** Common protocol for AWS-Certified-Cloud-Practitioner remote access?. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-E011",
+    "question": "What is the primary function of AWS DHCP?",
+    "options": [
+      "Dangerous method",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Certified-Cloud-Practitioner E Solution:** What is the primary function of AWS DHCP?. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-E012",
+    "question": "What is the primary function of AWS DHCP?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct AWS-Certified-Cloud-Practitioner procedure"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Certified-Cloud-Practitioner E Solution:** What is the primary function of AWS DHCP?. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-E013",
+    "question": "What does AWS ACL stand for?",
+    "options": [
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Certified-Cloud-Practitioner E Solution:** What does AWS ACL stand for?. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-E014",
+    "question": "Common protocol for AWS-Certified-Cloud-Practitioner remote access?",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct AWS-Certified-Cloud-Practitioner procedure"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Certified-Cloud-Practitioner E Solution:** Common protocol for AWS-Certified-Cloud-Practitioner remote access?. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-E015",
+    "question": "Default subnet mask for Class C network in AWS-Certified-Cloud-Practitioner?",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Certified-Cloud-Practitioner procedure"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Certified-Cloud-Practitioner E Solution:** Default subnet mask for Class C network in AWS-Certified-Cloud-Practitioner?. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-E016",
+    "question": "What does AWS ACL stand for?",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Certified-Cloud-Practitioner E Solution:** What does AWS ACL stand for?. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-E017",
+    "question": "What does AWS ACL stand for?",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Certified-Cloud-Practitioner E Solution:** What does AWS ACL stand for?. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-E018",
+    "question": "What does AWS ACL stand for?",
+    "options": [
+      "Dangerous method",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Certified-Cloud-Practitioner E Solution:** What does AWS ACL stand for?. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-E019",
+    "question": "Which port does AWS-Certified-Cloud-Practitioner service use by default?",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Certified-Cloud-Practitioner procedure"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Certified-Cloud-Practitioner E Solution:** Which port does AWS-Certified-Cloud-Practitioner service use by default?. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-E020",
+    "question": "What is the primary function of AWS DHCP?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct AWS-Certified-Cloud-Practitioner procedure"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Certified-Cloud-Practitioner E Solution:** What is the primary function of AWS DHCP?. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-E021",
+    "question": "What does AWS ACL stand for?",
+    "options": [
+      "Incorrect approach",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Certified-Cloud-Practitioner E Solution:** What does AWS ACL stand for?. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-E022",
+    "question": "Which port does AWS-Certified-Cloud-Practitioner service use by default?",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Certified-Cloud-Practitioner procedure"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Certified-Cloud-Practitioner E Solution:** Which port does AWS-Certified-Cloud-Practitioner service use by default?. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-E023",
+    "question": "Default subnet mask for Class C network in AWS-Certified-Cloud-Practitioner?",
+    "options": [
+      "Dangerous method",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Certified-Cloud-Practitioner E Solution:** Default subnet mask for Class C network in AWS-Certified-Cloud-Practitioner?. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-E024",
+    "question": "Default subnet mask for Class C network in AWS-Certified-Cloud-Practitioner?",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Certified-Cloud-Practitioner E Solution:** Default subnet mask for Class C network in AWS-Certified-Cloud-Practitioner?. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-E025",
+    "question": "Which port does AWS-Certified-Cloud-Practitioner service use by default?",
+    "options": [
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Certified-Cloud-Practitioner E Solution:** Which port does AWS-Certified-Cloud-Practitioner service use by default?. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-E026",
+    "question": "Which port does AWS-Certified-Cloud-Practitioner service use by default?",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Certified-Cloud-Practitioner E Solution:** Which port does AWS-Certified-Cloud-Practitioner service use by default?. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-E027",
+    "question": "Which port does AWS-Certified-Cloud-Practitioner service use by default?",
+    "options": [
+      "Dangerous method",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Certified-Cloud-Practitioner E Solution:** Which port does AWS-Certified-Cloud-Practitioner service use by default?. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-E028",
+    "question": "Which port does AWS-Certified-Cloud-Practitioner service use by default?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct AWS-Certified-Cloud-Practitioner procedure"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Certified-Cloud-Practitioner E Solution:** Which port does AWS-Certified-Cloud-Practitioner service use by default?. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-E029",
+    "question": "Which port does AWS-Certified-Cloud-Practitioner service use by default?",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach",
+      "Correct AWS-Certified-Cloud-Practitioner procedure"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Certified-Cloud-Practitioner E Solution:** Which port does AWS-Certified-Cloud-Practitioner service use by default?. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-E030",
+    "question": "What is the primary function of AWS DHCP?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct AWS-Certified-Cloud-Practitioner procedure"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Certified-Cloud-Practitioner E Solution:** What is the primary function of AWS DHCP?. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-E031",
+    "question": "Common protocol for AWS-Certified-Cloud-Practitioner remote access?",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Partially correct"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Certified-Cloud-Practitioner E Solution:** Common protocol for AWS-Certified-Cloud-Practitioner remote access?. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-E032",
+    "question": "Which port does AWS-Certified-Cloud-Practitioner service use by default?",
+    "options": [
+      "Dangerous method",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Certified-Cloud-Practitioner E Solution:** Which port does AWS-Certified-Cloud-Practitioner service use by default?. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-E033",
+    "question": "Default subnet mask for Class C network in AWS-Certified-Cloud-Practitioner?",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct AWS-Certified-Cloud-Practitioner procedure"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Certified-Cloud-Practitioner E Solution:** Default subnet mask for Class C network in AWS-Certified-Cloud-Practitioner?. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-E034",
+    "question": "Common protocol for AWS-Certified-Cloud-Practitioner remote access?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Certified-Cloud-Practitioner E Solution:** Common protocol for AWS-Certified-Cloud-Practitioner remote access?. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-E035",
+    "question": "What is the primary function of AWS DHCP?",
+    "options": [
+      "Dangerous method",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Certified-Cloud-Practitioner E Solution:** What is the primary function of AWS DHCP?. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-E036",
+    "question": "What is the primary function of AWS DHCP?",
+    "options": [
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Certified-Cloud-Practitioner E Solution:** What is the primary function of AWS DHCP?. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-E037",
+    "question": "Which port does AWS-Certified-Cloud-Practitioner service use by default?",
+    "options": [
+      "Dangerous method",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Certified-Cloud-Practitioner E Solution:** Which port does AWS-Certified-Cloud-Practitioner service use by default?. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-E038",
+    "question": "Default subnet mask for Class C network in AWS-Certified-Cloud-Practitioner?",
+    "options": [
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Certified-Cloud-Practitioner E Solution:** Default subnet mask for Class C network in AWS-Certified-Cloud-Practitioner?. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-E039",
+    "question": "Which port does AWS-Certified-Cloud-Practitioner service use by default?",
+    "options": [
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Certified-Cloud-Practitioner E Solution:** Which port does AWS-Certified-Cloud-Practitioner service use by default?. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-E040",
+    "question": "Common protocol for AWS-Certified-Cloud-Practitioner remote access?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Certified-Cloud-Practitioner E Solution:** Common protocol for AWS-Certified-Cloud-Practitioner remote access?. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-E041",
+    "question": "What is the primary function of AWS DHCP?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Certified-Cloud-Practitioner E Solution:** What is the primary function of AWS DHCP?. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-E042",
+    "question": "Default subnet mask for Class C network in AWS-Certified-Cloud-Practitioner?",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Partially correct"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Certified-Cloud-Practitioner E Solution:** Default subnet mask for Class C network in AWS-Certified-Cloud-Practitioner?. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-E043",
+    "question": "Default subnet mask for Class C network in AWS-Certified-Cloud-Practitioner?",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct AWS-Certified-Cloud-Practitioner procedure"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Certified-Cloud-Practitioner E Solution:** Default subnet mask for Class C network in AWS-Certified-Cloud-Practitioner?. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-E044",
+    "question": "Default subnet mask for Class C network in AWS-Certified-Cloud-Practitioner?",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach",
+      "Correct AWS-Certified-Cloud-Practitioner procedure"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Certified-Cloud-Practitioner E Solution:** Default subnet mask for Class C network in AWS-Certified-Cloud-Practitioner?. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-E045",
+    "question": "What does AWS ACL stand for?",
+    "options": [
+      "Incorrect approach",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Certified-Cloud-Practitioner E Solution:** What does AWS ACL stand for?. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-E046",
+    "question": "What does AWS ACL stand for?",
+    "options": [
+      "Dangerous method",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Certified-Cloud-Practitioner E Solution:** What does AWS ACL stand for?. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-E047",
+    "question": "What is the primary function of AWS DHCP?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Certified-Cloud-Practitioner E Solution:** What is the primary function of AWS DHCP?. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-E048",
+    "question": "What does AWS ACL stand for?",
+    "options": [
+      "Dangerous method",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Certified-Cloud-Practitioner E Solution:** What does AWS ACL stand for?. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-E049",
+    "question": "What does AWS ACL stand for?",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct AWS-Certified-Cloud-Practitioner procedure"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Certified-Cloud-Practitioner E Solution:** What does AWS ACL stand for?. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-E050",
+    "question": "Default subnet mask for Class C network in AWS-Certified-Cloud-Practitioner?",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct AWS-Certified-Cloud-Practitioner procedure"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Certified-Cloud-Practitioner E Solution:** Default subnet mask for Class C network in AWS-Certified-Cloud-Practitioner?. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-M001",
+    "question": "Optimize AWS-Certified-Cloud-Practitioner query performance",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct AWS-Certified-Cloud-Practitioner procedure"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Certified-Cloud-Practitioner M Solution:** Optimize AWS-Certified-Cloud-Practitioner query performance. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-M002",
+    "question": "Configure AWS-Certified-Cloud-Practitioner load balancer for high availability",
+    "options": [
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Certified-Cloud-Practitioner M Solution:** Configure AWS-Certified-Cloud-Practitioner load balancer for high availability. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-M003",
+    "question": "Implement AWS-Certified-Cloud-Practitioner backup strategy for compliance",
+    "options": [
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Certified-Cloud-Practitioner M Solution:** Implement AWS-Certified-Cloud-Practitioner backup strategy for compliance. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-M004",
+    "question": "Implement AWS-Certified-Cloud-Practitioner backup strategy for compliance",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct AWS-Certified-Cloud-Practitioner procedure"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Certified-Cloud-Practitioner M Solution:** Implement AWS-Certified-Cloud-Practitioner backup strategy for compliance. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-M005",
+    "question": "Set up AWS-Certified-Cloud-Practitioner failover clustering",
+    "options": [
+      "Dangerous method",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Certified-Cloud-Practitioner M Solution:** Set up AWS-Certified-Cloud-Practitioner failover clustering. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-M006",
+    "question": "Troubleshoot AWS-Certified-Cloud-Practitioner connectivity issue between VLANs",
+    "options": [
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Certified-Cloud-Practitioner M Solution:** Troubleshoot AWS-Certified-Cloud-Practitioner connectivity issue between VLANs. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-M007",
+    "question": "Set up AWS-Certified-Cloud-Practitioner failover clustering",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Certified-Cloud-Practitioner M Solution:** Set up AWS-Certified-Cloud-Practitioner failover clustering. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-M008",
+    "question": "Set up AWS-Certified-Cloud-Practitioner failover clustering",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Partially correct"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Certified-Cloud-Practitioner M Solution:** Set up AWS-Certified-Cloud-Practitioner failover clustering. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-M009",
+    "question": "Troubleshoot AWS-Certified-Cloud-Practitioner connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct AWS-Certified-Cloud-Practitioner procedure"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Certified-Cloud-Practitioner M Solution:** Troubleshoot AWS-Certified-Cloud-Practitioner connectivity issue between VLANs. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-M010",
+    "question": "Configure AWS-Certified-Cloud-Practitioner load balancer for high availability",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Certified-Cloud-Practitioner M Solution:** Configure AWS-Certified-Cloud-Practitioner load balancer for high availability. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-M011",
+    "question": "Troubleshoot AWS-Certified-Cloud-Practitioner connectivity issue between VLANs",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Partially correct"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Certified-Cloud-Practitioner M Solution:** Troubleshoot AWS-Certified-Cloud-Practitioner connectivity issue between VLANs. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-M012",
+    "question": "Configure AWS-Certified-Cloud-Practitioner load balancer for high availability",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Certified-Cloud-Practitioner M Solution:** Configure AWS-Certified-Cloud-Practitioner load balancer for high availability. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-M013",
+    "question": "Configure AWS-Certified-Cloud-Practitioner load balancer for high availability",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Certified-Cloud-Practitioner M Solution:** Configure AWS-Certified-Cloud-Practitioner load balancer for high availability. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-M014",
+    "question": "Configure AWS-Certified-Cloud-Practitioner load balancer for high availability",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Certified-Cloud-Practitioner M Solution:** Configure AWS-Certified-Cloud-Practitioner load balancer for high availability. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-M015",
+    "question": "Optimize AWS-Certified-Cloud-Practitioner query performance",
+    "options": [
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Certified-Cloud-Practitioner M Solution:** Optimize AWS-Certified-Cloud-Practitioner query performance. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-M016",
+    "question": "Set up AWS-Certified-Cloud-Practitioner failover clustering",
+    "options": [
+      "Incorrect approach",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Certified-Cloud-Practitioner M Solution:** Set up AWS-Certified-Cloud-Practitioner failover clustering. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-M017",
+    "question": "Set up AWS-Certified-Cloud-Practitioner failover clustering",
+    "options": [
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Certified-Cloud-Practitioner M Solution:** Set up AWS-Certified-Cloud-Practitioner failover clustering. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-M018",
+    "question": "Configure AWS-Certified-Cloud-Practitioner load balancer for high availability",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct AWS-Certified-Cloud-Practitioner procedure"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Certified-Cloud-Practitioner M Solution:** Configure AWS-Certified-Cloud-Practitioner load balancer for high availability. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-M019",
+    "question": "Implement AWS-Certified-Cloud-Practitioner backup strategy for compliance",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Certified-Cloud-Practitioner M Solution:** Implement AWS-Certified-Cloud-Practitioner backup strategy for compliance. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-M020",
+    "question": "Troubleshoot AWS-Certified-Cloud-Practitioner connectivity issue between VLANs",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach",
+      "Correct AWS-Certified-Cloud-Practitioner procedure"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Certified-Cloud-Practitioner M Solution:** Troubleshoot AWS-Certified-Cloud-Practitioner connectivity issue between VLANs. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-M021",
+    "question": "Troubleshoot AWS-Certified-Cloud-Practitioner connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct AWS-Certified-Cloud-Practitioner procedure"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Certified-Cloud-Practitioner M Solution:** Troubleshoot AWS-Certified-Cloud-Practitioner connectivity issue between VLANs. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-M022",
+    "question": "Implement AWS-Certified-Cloud-Practitioner backup strategy for compliance",
+    "options": [
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Certified-Cloud-Practitioner M Solution:** Implement AWS-Certified-Cloud-Practitioner backup strategy for compliance. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-M023",
+    "question": "Configure AWS-Certified-Cloud-Practitioner load balancer for high availability",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Certified-Cloud-Practitioner M Solution:** Configure AWS-Certified-Cloud-Practitioner load balancer for high availability. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-M024",
+    "question": "Implement AWS-Certified-Cloud-Practitioner backup strategy for compliance",
+    "options": [
+      "Dangerous method",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Certified-Cloud-Practitioner M Solution:** Implement AWS-Certified-Cloud-Practitioner backup strategy for compliance. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-M025",
+    "question": "Set up AWS-Certified-Cloud-Practitioner failover clustering",
+    "options": [
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Certified-Cloud-Practitioner M Solution:** Set up AWS-Certified-Cloud-Practitioner failover clustering. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-M026",
+    "question": "Configure AWS-Certified-Cloud-Practitioner load balancer for high availability",
+    "options": [
+      "Dangerous method",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Certified-Cloud-Practitioner M Solution:** Configure AWS-Certified-Cloud-Practitioner load balancer for high availability. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-M027",
+    "question": "Optimize AWS-Certified-Cloud-Practitioner query performance",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Certified-Cloud-Practitioner M Solution:** Optimize AWS-Certified-Cloud-Practitioner query performance. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-M028",
+    "question": "Optimize AWS-Certified-Cloud-Practitioner query performance",
+    "options": [
+      "Dangerous method",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Certified-Cloud-Practitioner M Solution:** Optimize AWS-Certified-Cloud-Practitioner query performance. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-M029",
+    "question": "Implement AWS-Certified-Cloud-Practitioner backup strategy for compliance",
+    "options": [
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Certified-Cloud-Practitioner M Solution:** Implement AWS-Certified-Cloud-Practitioner backup strategy for compliance. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-M030",
+    "question": "Troubleshoot AWS-Certified-Cloud-Practitioner connectivity issue between VLANs",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Partially correct"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Certified-Cloud-Practitioner M Solution:** Troubleshoot AWS-Certified-Cloud-Practitioner connectivity issue between VLANs. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-M031",
+    "question": "Optimize AWS-Certified-Cloud-Practitioner query performance",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct AWS-Certified-Cloud-Practitioner procedure"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Certified-Cloud-Practitioner M Solution:** Optimize AWS-Certified-Cloud-Practitioner query performance. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-M032",
+    "question": "Optimize AWS-Certified-Cloud-Practitioner query performance",
+    "options": [
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Certified-Cloud-Practitioner M Solution:** Optimize AWS-Certified-Cloud-Practitioner query performance. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-M033",
+    "question": "Troubleshoot AWS-Certified-Cloud-Practitioner connectivity issue between VLANs",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Certified-Cloud-Practitioner procedure"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Certified-Cloud-Practitioner M Solution:** Troubleshoot AWS-Certified-Cloud-Practitioner connectivity issue between VLANs. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-M034",
+    "question": "Configure AWS-Certified-Cloud-Practitioner load balancer for high availability",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct AWS-Certified-Cloud-Practitioner procedure"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Certified-Cloud-Practitioner M Solution:** Configure AWS-Certified-Cloud-Practitioner load balancer for high availability. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-M035",
+    "question": "Troubleshoot AWS-Certified-Cloud-Practitioner connectivity issue between VLANs",
+    "options": [
+      "Dangerous method",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Certified-Cloud-Practitioner M Solution:** Troubleshoot AWS-Certified-Cloud-Practitioner connectivity issue between VLANs. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-M036",
+    "question": "Troubleshoot AWS-Certified-Cloud-Practitioner connectivity issue between VLANs",
+    "options": [
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Certified-Cloud-Practitioner M Solution:** Troubleshoot AWS-Certified-Cloud-Practitioner connectivity issue between VLANs. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-M037",
+    "question": "Troubleshoot AWS-Certified-Cloud-Practitioner connectivity issue between VLANs",
+    "options": [
+      "Dangerous method",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Certified-Cloud-Practitioner M Solution:** Troubleshoot AWS-Certified-Cloud-Practitioner connectivity issue between VLANs. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-M038",
+    "question": "Implement AWS-Certified-Cloud-Practitioner backup strategy for compliance",
+    "options": [
+      "Dangerous method",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Certified-Cloud-Practitioner M Solution:** Implement AWS-Certified-Cloud-Practitioner backup strategy for compliance. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-M039",
+    "question": "Configure AWS-Certified-Cloud-Practitioner load balancer for high availability",
+    "options": [
+      "Dangerous method",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Certified-Cloud-Practitioner M Solution:** Configure AWS-Certified-Cloud-Practitioner load balancer for high availability. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-M040",
+    "question": "Set up AWS-Certified-Cloud-Practitioner failover clustering",
+    "options": [
+      "Dangerous method",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Certified-Cloud-Practitioner M Solution:** Set up AWS-Certified-Cloud-Practitioner failover clustering. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-M041",
+    "question": "Set up AWS-Certified-Cloud-Practitioner failover clustering",
+    "options": [
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Certified-Cloud-Practitioner M Solution:** Set up AWS-Certified-Cloud-Practitioner failover clustering. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-M042",
+    "question": "Optimize AWS-Certified-Cloud-Practitioner query performance",
+    "options": [
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Certified-Cloud-Practitioner M Solution:** Optimize AWS-Certified-Cloud-Practitioner query performance. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-M043",
+    "question": "Set up AWS-Certified-Cloud-Practitioner failover clustering",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Certified-Cloud-Practitioner M Solution:** Set up AWS-Certified-Cloud-Practitioner failover clustering. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-M044",
+    "question": "Troubleshoot AWS-Certified-Cloud-Practitioner connectivity issue between VLANs",
+    "options": [
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Certified-Cloud-Practitioner M Solution:** Troubleshoot AWS-Certified-Cloud-Practitioner connectivity issue between VLANs. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-M045",
+    "question": "Configure AWS-Certified-Cloud-Practitioner load balancer for high availability",
+    "options": [
+      "Dangerous method",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Certified-Cloud-Practitioner M Solution:** Configure AWS-Certified-Cloud-Practitioner load balancer for high availability. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-M046",
+    "question": "Troubleshoot AWS-Certified-Cloud-Practitioner connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Certified-Cloud-Practitioner M Solution:** Troubleshoot AWS-Certified-Cloud-Practitioner connectivity issue between VLANs. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-M047",
+    "question": "Troubleshoot AWS-Certified-Cloud-Practitioner connectivity issue between VLANs",
+    "options": [
+      "Dangerous method",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Certified-Cloud-Practitioner M Solution:** Troubleshoot AWS-Certified-Cloud-Practitioner connectivity issue between VLANs. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-M048",
+    "question": "Set up AWS-Certified-Cloud-Practitioner failover clustering",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Certified-Cloud-Practitioner procedure"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Certified-Cloud-Practitioner M Solution:** Set up AWS-Certified-Cloud-Practitioner failover clustering. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-M049",
+    "question": "Optimize AWS-Certified-Cloud-Practitioner query performance",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Certified-Cloud-Practitioner M Solution:** Optimize AWS-Certified-Cloud-Practitioner query performance. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-M050",
+    "question": "Set up AWS-Certified-Cloud-Practitioner failover clustering",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct AWS-Certified-Cloud-Practitioner procedure"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Certified-Cloud-Practitioner M Solution:** Set up AWS-Certified-Cloud-Practitioner failover clustering. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-H001",
+    "question": "Optimize AWS-Certified-Cloud-Practitioner performance under DDoS attack",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Certified-Cloud-Practitioner H Solution:** Optimize AWS-Certified-Cloud-Practitioner performance under DDoS attack. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-H002",
+    "question": "Implement zero-trust security model in AWS-Certified-Cloud-Practitioner",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct AWS-Certified-Cloud-Practitioner procedure"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Certified-Cloud-Practitioner H Solution:** Implement zero-trust security model in AWS-Certified-Cloud-Practitioner. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-H003",
+    "question": "Optimize AWS-Certified-Cloud-Practitioner performance under DDoS attack",
+    "options": [
+      "Dangerous method",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Certified-Cloud-Practitioner H Solution:** Optimize AWS-Certified-Cloud-Practitioner performance under DDoS attack. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-H004",
+    "question": "Implement zero-trust security model in AWS-Certified-Cloud-Practitioner",
+    "options": [
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Certified-Cloud-Practitioner H Solution:** Implement zero-trust security model in AWS-Certified-Cloud-Practitioner. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-H005",
+    "question": "Create disaster recovery plan with RTO < 15min for AWS-Certified-Cloud-Practitioner",
+    "options": [
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Certified-Cloud-Practitioner H Solution:** Create disaster recovery plan with RTO < 15min for AWS-Certified-Cloud-Practitioner. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-H006",
+    "question": "Create disaster recovery plan with RTO < 15min for AWS-Certified-Cloud-Practitioner",
+    "options": [
+      "Partially correct",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Certified-Cloud-Practitioner H Solution:** Create disaster recovery plan with RTO < 15min for AWS-Certified-Cloud-Practitioner. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-H007",
+    "question": "Optimize AWS-Certified-Cloud-Practitioner performance under DDoS attack",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Certified-Cloud-Practitioner H Solution:** Optimize AWS-Certified-Cloud-Practitioner performance under DDoS attack. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-H008",
+    "question": "Optimize AWS-Certified-Cloud-Practitioner performance under DDoS attack",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct AWS-Certified-Cloud-Practitioner procedure"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Certified-Cloud-Practitioner H Solution:** Optimize AWS-Certified-Cloud-Practitioner performance under DDoS attack. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-H009",
+    "question": "Migrate legacy AWS-Certified-Cloud-Practitioner systems to cloud-native architecture",
+    "options": [
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Certified-Cloud-Practitioner H Solution:** Migrate legacy AWS-Certified-Cloud-Practitioner systems to cloud-native architecture. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-H010",
+    "question": "Migrate legacy AWS-Certified-Cloud-Practitioner systems to cloud-native architecture",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach",
+      "Correct AWS-Certified-Cloud-Practitioner procedure"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Certified-Cloud-Practitioner H Solution:** Migrate legacy AWS-Certified-Cloud-Practitioner systems to cloud-native architecture. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-H011",
+    "question": "Create disaster recovery plan with RTO < 15min for AWS-Certified-Cloud-Practitioner",
+    "options": [
+      "Dangerous method",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Certified-Cloud-Practitioner H Solution:** Create disaster recovery plan with RTO < 15min for AWS-Certified-Cloud-Practitioner. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-H012",
+    "question": "Implement zero-trust security model in AWS-Certified-Cloud-Practitioner",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct AWS-Certified-Cloud-Practitioner procedure"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Certified-Cloud-Practitioner H Solution:** Implement zero-trust security model in AWS-Certified-Cloud-Practitioner. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-H013",
+    "question": "Create disaster recovery plan with RTO < 15min for AWS-Certified-Cloud-Practitioner",
+    "options": [
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Certified-Cloud-Practitioner H Solution:** Create disaster recovery plan with RTO < 15min for AWS-Certified-Cloud-Practitioner. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-H014",
+    "question": "Design AWS-Certified-Cloud-Practitioner architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct AWS-Certified-Cloud-Practitioner procedure"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Certified-Cloud-Practitioner H Solution:** Design AWS-Certified-Cloud-Practitioner architecture for 10k users with 99.99% uptime. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-H015",
+    "question": "Optimize AWS-Certified-Cloud-Practitioner performance under DDoS attack",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Certified-Cloud-Practitioner H Solution:** Optimize AWS-Certified-Cloud-Practitioner performance under DDoS attack. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-H016",
+    "question": "Implement zero-trust security model in AWS-Certified-Cloud-Practitioner",
+    "options": [
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Certified-Cloud-Practitioner H Solution:** Implement zero-trust security model in AWS-Certified-Cloud-Practitioner. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-H017",
+    "question": "Design AWS-Certified-Cloud-Practitioner architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Certified-Cloud-Practitioner H Solution:** Design AWS-Certified-Cloud-Practitioner architecture for 10k users with 99.99% uptime. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-H018",
+    "question": "Create disaster recovery plan with RTO < 15min for AWS-Certified-Cloud-Practitioner",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Certified-Cloud-Practitioner H Solution:** Create disaster recovery plan with RTO < 15min for AWS-Certified-Cloud-Practitioner. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-H019",
+    "question": "Design AWS-Certified-Cloud-Practitioner architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Partially correct"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Certified-Cloud-Practitioner H Solution:** Design AWS-Certified-Cloud-Practitioner architecture for 10k users with 99.99% uptime. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-H020",
+    "question": "Migrate legacy AWS-Certified-Cloud-Practitioner systems to cloud-native architecture",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Certified-Cloud-Practitioner H Solution:** Migrate legacy AWS-Certified-Cloud-Practitioner systems to cloud-native architecture. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-H021",
+    "question": "Optimize AWS-Certified-Cloud-Practitioner performance under DDoS attack",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct AWS-Certified-Cloud-Practitioner procedure"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Certified-Cloud-Practitioner H Solution:** Optimize AWS-Certified-Cloud-Practitioner performance under DDoS attack. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-H022",
+    "question": "Migrate legacy AWS-Certified-Cloud-Practitioner systems to cloud-native architecture",
+    "options": [
+      "Partially correct",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Certified-Cloud-Practitioner H Solution:** Migrate legacy AWS-Certified-Cloud-Practitioner systems to cloud-native architecture. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-H023",
+    "question": "Optimize AWS-Certified-Cloud-Practitioner performance under DDoS attack",
+    "options": [
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Certified-Cloud-Practitioner H Solution:** Optimize AWS-Certified-Cloud-Practitioner performance under DDoS attack. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-H024",
+    "question": "Create disaster recovery plan with RTO < 15min for AWS-Certified-Cloud-Practitioner",
+    "options": [
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Certified-Cloud-Practitioner H Solution:** Create disaster recovery plan with RTO < 15min for AWS-Certified-Cloud-Practitioner. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-H025",
+    "question": "Create disaster recovery plan with RTO < 15min for AWS-Certified-Cloud-Practitioner",
+    "options": [
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Certified-Cloud-Practitioner H Solution:** Create disaster recovery plan with RTO < 15min for AWS-Certified-Cloud-Practitioner. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-H026",
+    "question": "Optimize AWS-Certified-Cloud-Practitioner performance under DDoS attack",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Certified-Cloud-Practitioner H Solution:** Optimize AWS-Certified-Cloud-Practitioner performance under DDoS attack. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-H027",
+    "question": "Create disaster recovery plan with RTO < 15min for AWS-Certified-Cloud-Practitioner",
+    "options": [
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Certified-Cloud-Practitioner H Solution:** Create disaster recovery plan with RTO < 15min for AWS-Certified-Cloud-Practitioner. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-H028",
+    "question": "Migrate legacy AWS-Certified-Cloud-Practitioner systems to cloud-native architecture",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct AWS-Certified-Cloud-Practitioner procedure"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Certified-Cloud-Practitioner H Solution:** Migrate legacy AWS-Certified-Cloud-Practitioner systems to cloud-native architecture. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-H029",
+    "question": "Migrate legacy AWS-Certified-Cloud-Practitioner systems to cloud-native architecture",
+    "options": [
+      "Dangerous method",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Certified-Cloud-Practitioner H Solution:** Migrate legacy AWS-Certified-Cloud-Practitioner systems to cloud-native architecture. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-H030",
+    "question": "Migrate legacy AWS-Certified-Cloud-Practitioner systems to cloud-native architecture",
+    "options": [
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Certified-Cloud-Practitioner H Solution:** Migrate legacy AWS-Certified-Cloud-Practitioner systems to cloud-native architecture. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-H031",
+    "question": "Migrate legacy AWS-Certified-Cloud-Practitioner systems to cloud-native architecture",
+    "options": [
+      "Dangerous method",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Certified-Cloud-Practitioner H Solution:** Migrate legacy AWS-Certified-Cloud-Practitioner systems to cloud-native architecture. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-H032",
+    "question": "Migrate legacy AWS-Certified-Cloud-Practitioner systems to cloud-native architecture",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Certified-Cloud-Practitioner H Solution:** Migrate legacy AWS-Certified-Cloud-Practitioner systems to cloud-native architecture. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-H033",
+    "question": "Migrate legacy AWS-Certified-Cloud-Practitioner systems to cloud-native architecture",
+    "options": [
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Certified-Cloud-Practitioner H Solution:** Migrate legacy AWS-Certified-Cloud-Practitioner systems to cloud-native architecture. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-H034",
+    "question": "Create disaster recovery plan with RTO < 15min for AWS-Certified-Cloud-Practitioner",
+    "options": [
+      "Dangerous method",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Certified-Cloud-Practitioner H Solution:** Create disaster recovery plan with RTO < 15min for AWS-Certified-Cloud-Practitioner. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-H035",
+    "question": "Implement zero-trust security model in AWS-Certified-Cloud-Practitioner",
+    "options": [
+      "Incorrect approach",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Certified-Cloud-Practitioner H Solution:** Implement zero-trust security model in AWS-Certified-Cloud-Practitioner. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-H036",
+    "question": "Optimize AWS-Certified-Cloud-Practitioner performance under DDoS attack",
+    "options": [
+      "Dangerous method",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Certified-Cloud-Practitioner H Solution:** Optimize AWS-Certified-Cloud-Practitioner performance under DDoS attack. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-H037",
+    "question": "Migrate legacy AWS-Certified-Cloud-Practitioner systems to cloud-native architecture",
+    "options": [
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Certified-Cloud-Practitioner H Solution:** Migrate legacy AWS-Certified-Cloud-Practitioner systems to cloud-native architecture. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-H038",
+    "question": "Design AWS-Certified-Cloud-Practitioner architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct AWS-Certified-Cloud-Practitioner procedure"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Certified-Cloud-Practitioner H Solution:** Design AWS-Certified-Cloud-Practitioner architecture for 10k users with 99.99% uptime. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-H039",
+    "question": "Migrate legacy AWS-Certified-Cloud-Practitioner systems to cloud-native architecture",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct AWS-Certified-Cloud-Practitioner procedure"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Certified-Cloud-Practitioner H Solution:** Migrate legacy AWS-Certified-Cloud-Practitioner systems to cloud-native architecture. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-H040",
+    "question": "Implement zero-trust security model in AWS-Certified-Cloud-Practitioner",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Certified-Cloud-Practitioner H Solution:** Implement zero-trust security model in AWS-Certified-Cloud-Practitioner. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-H041",
+    "question": "Implement zero-trust security model in AWS-Certified-Cloud-Practitioner",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Certified-Cloud-Practitioner H Solution:** Implement zero-trust security model in AWS-Certified-Cloud-Practitioner. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-H042",
+    "question": "Design AWS-Certified-Cloud-Practitioner architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Partially correct"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Certified-Cloud-Practitioner H Solution:** Design AWS-Certified-Cloud-Practitioner architecture for 10k users with 99.99% uptime. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-H043",
+    "question": "Optimize AWS-Certified-Cloud-Practitioner performance under DDoS attack",
+    "options": [
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Certified-Cloud-Practitioner H Solution:** Optimize AWS-Certified-Cloud-Practitioner performance under DDoS attack. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-H044",
+    "question": "Implement zero-trust security model in AWS-Certified-Cloud-Practitioner",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Certified-Cloud-Practitioner H Solution:** Implement zero-trust security model in AWS-Certified-Cloud-Practitioner. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-H045",
+    "question": "Implement zero-trust security model in AWS-Certified-Cloud-Practitioner",
+    "options": [
+      "Dangerous method",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Certified-Cloud-Practitioner H Solution:** Implement zero-trust security model in AWS-Certified-Cloud-Practitioner. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-H046",
+    "question": "Implement zero-trust security model in AWS-Certified-Cloud-Practitioner",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Certified-Cloud-Practitioner H Solution:** Implement zero-trust security model in AWS-Certified-Cloud-Practitioner. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-H047",
+    "question": "Implement zero-trust security model in AWS-Certified-Cloud-Practitioner",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct AWS-Certified-Cloud-Practitioner procedure"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Certified-Cloud-Practitioner H Solution:** Implement zero-trust security model in AWS-Certified-Cloud-Practitioner. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-H048",
+    "question": "Optimize AWS-Certified-Cloud-Practitioner performance under DDoS attack",
+    "options": [
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Certified-Cloud-Practitioner H Solution:** Optimize AWS-Certified-Cloud-Practitioner performance under DDoS attack. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-H049",
+    "question": "Design AWS-Certified-Cloud-Practitioner architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct AWS-Certified-Cloud-Practitioner procedure"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Certified-Cloud-Practitioner H Solution:** Design AWS-Certified-Cloud-Practitioner architecture for 10k users with 99.99% uptime. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-H050",
+    "question": "Migrate legacy AWS-Certified-Cloud-Practitioner systems to cloud-native architecture",
+    "options": [
+      "Correct AWS-Certified-Cloud-Practitioner procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Certified-Cloud-Practitioner procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Certified-Cloud-Practitioner H Solution:** Migrate legacy AWS-Certified-Cloud-Practitioner systems to cloud-native architecture. Always verify AWS-Certified-Cloud-Practitioner documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S01-01",
+    "question": "1. Database performance degradation after upgrade in AWS-Certified-Cloud-Practitioner environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S01-02",
+    "question": "1. Database performance degradation after upgrade in AWS-Certified-Cloud-Practitioner environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S01-03",
+    "question": "1. Database performance degradation after upgrade in AWS-Certified-Cloud-Practitioner environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S01-04",
+    "question": "1. Database performance degradation after upgrade in AWS-Certified-Cloud-Practitioner environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S01-05",
+    "question": "1. Database performance degradation after upgrade in AWS-Certified-Cloud-Practitioner environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S02-01",
+    "question": "2. Security incident response: ransomware attack detected in AWS-Certified-Cloud-Practitioner environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S02-02",
+    "question": "2. Security incident response: ransomware attack detected in AWS-Certified-Cloud-Practitioner environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S02-03",
+    "question": "2. Security incident response: ransomware attack detected in AWS-Certified-Cloud-Practitioner environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S02-04",
+    "question": "2. Security incident response: ransomware attack detected in AWS-Certified-Cloud-Practitioner environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S02-05",
+    "question": "2. Security incident response: ransomware attack detected in AWS-Certified-Cloud-Practitioner environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S03-01",
+    "question": "3. Cloud migration failure: rollback strategy in AWS-Certified-Cloud-Practitioner environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S03-02",
+    "question": "3. Cloud migration failure: rollback strategy in AWS-Certified-Cloud-Practitioner environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S03-03",
+    "question": "3. Cloud migration failure: rollback strategy in AWS-Certified-Cloud-Practitioner environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S03-04",
+    "question": "3. Cloud migration failure: rollback strategy in AWS-Certified-Cloud-Practitioner environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S03-05",
+    "question": "3. Cloud migration failure: rollback strategy in AWS-Certified-Cloud-Practitioner environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S04-01",
+    "question": "4. Cloud migration failure: rollback strategy in AWS-Certified-Cloud-Practitioner environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S04-02",
+    "question": "4. Cloud migration failure: rollback strategy in AWS-Certified-Cloud-Practitioner environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S04-03",
+    "question": "4. Cloud migration failure: rollback strategy in AWS-Certified-Cloud-Practitioner environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S04-04",
+    "question": "4. Cloud migration failure: rollback strategy in AWS-Certified-Cloud-Practitioner environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S04-05",
+    "question": "4. Cloud migration failure: rollback strategy in AWS-Certified-Cloud-Practitioner environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S05-01",
+    "question": "5. Security incident response: ransomware attack detected in AWS-Certified-Cloud-Practitioner environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S05-02",
+    "question": "5. Security incident response: ransomware attack detected in AWS-Certified-Cloud-Practitioner environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S05-03",
+    "question": "5. Security incident response: ransomware attack detected in AWS-Certified-Cloud-Practitioner environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S05-04",
+    "question": "5. Security incident response: ransomware attack detected in AWS-Certified-Cloud-Practitioner environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S05-05",
+    "question": "5. Security incident response: ransomware attack detected in AWS-Certified-Cloud-Practitioner environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S06-01",
+    "question": "6. Network latency issue affecting VoIP calls in AWS-Certified-Cloud-Practitioner environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S06-02",
+    "question": "6. Network latency issue affecting VoIP calls in AWS-Certified-Cloud-Practitioner environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S06-03",
+    "question": "6. Network latency issue affecting VoIP calls in AWS-Certified-Cloud-Practitioner environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S06-04",
+    "question": "6. Network latency issue affecting VoIP calls in AWS-Certified-Cloud-Practitioner environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S06-05",
+    "question": "6. Network latency issue affecting VoIP calls in AWS-Certified-Cloud-Practitioner environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S07-01",
+    "question": "7. Server overload during quarterly report generation in AWS-Certified-Cloud-Practitioner environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S07-02",
+    "question": "7. Server overload during quarterly report generation in AWS-Certified-Cloud-Practitioner environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S07-03",
+    "question": "7. Server overload during quarterly report generation in AWS-Certified-Cloud-Practitioner environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S07-04",
+    "question": "7. Server overload during quarterly report generation in AWS-Certified-Cloud-Practitioner environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S07-05",
+    "question": "7. Server overload during quarterly report generation in AWS-Certified-Cloud-Practitioner environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S08-01",
+    "question": "8. Firewall blocking legitimate traffic in AWS-Certified-Cloud-Practitioner environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S08-02",
+    "question": "8. Firewall blocking legitimate traffic in AWS-Certified-Cloud-Practitioner environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S08-03",
+    "question": "8. Firewall blocking legitimate traffic in AWS-Certified-Cloud-Practitioner environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S08-04",
+    "question": "8. Firewall blocking legitimate traffic in AWS-Certified-Cloud-Practitioner environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S08-05",
+    "question": "8. Firewall blocking legitimate traffic in AWS-Certified-Cloud-Practitioner environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S09-01",
+    "question": "9. Cloud migration failure: rollback strategy in AWS-Certified-Cloud-Practitioner environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S09-02",
+    "question": "9. Cloud migration failure: rollback strategy in AWS-Certified-Cloud-Practitioner environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S09-03",
+    "question": "9. Cloud migration failure: rollback strategy in AWS-Certified-Cloud-Practitioner environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S09-04",
+    "question": "9. Cloud migration failure: rollback strategy in AWS-Certified-Cloud-Practitioner environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S09-05",
+    "question": "9. Cloud migration failure: rollback strategy in AWS-Certified-Cloud-Practitioner environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S10-01",
+    "question": "10. Server overload during quarterly report generation in AWS-Certified-Cloud-Practitioner environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S10-02",
+    "question": "10. Server overload during quarterly report generation in AWS-Certified-Cloud-Practitioner environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S10-03",
+    "question": "10. Server overload during quarterly report generation in AWS-Certified-Cloud-Practitioner environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S10-04",
+    "question": "10. Server overload during quarterly report generation in AWS-Certified-Cloud-Practitioner environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S10-05",
+    "question": "10. Server overload during quarterly report generation in AWS-Certified-Cloud-Practitioner environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S11-01",
+    "question": "11. Database performance degradation after upgrade in AWS-Certified-Cloud-Practitioner environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S11-02",
+    "question": "11. Database performance degradation after upgrade in AWS-Certified-Cloud-Practitioner environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S11-03",
+    "question": "11. Database performance degradation after upgrade in AWS-Certified-Cloud-Practitioner environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S11-04",
+    "question": "11. Database performance degradation after upgrade in AWS-Certified-Cloud-Practitioner environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S11-05",
+    "question": "11. Database performance degradation after upgrade in AWS-Certified-Cloud-Practitioner environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S12-01",
+    "question": "12. VPN connectivity failure for remote users in AWS-Certified-Cloud-Practitioner environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S12-02",
+    "question": "12. VPN connectivity failure for remote users in AWS-Certified-Cloud-Practitioner environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S12-03",
+    "question": "12. VPN connectivity failure for remote users in AWS-Certified-Cloud-Practitioner environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S12-04",
+    "question": "12. VPN connectivity failure for remote users in AWS-Certified-Cloud-Practitioner environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S12-05",
+    "question": "12. VPN connectivity failure for remote users in AWS-Certified-Cloud-Practitioner environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S13-01",
+    "question": "13. Cloud migration failure: rollback strategy in AWS-Certified-Cloud-Practitioner environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S13-02",
+    "question": "13. Cloud migration failure: rollback strategy in AWS-Certified-Cloud-Practitioner environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S13-03",
+    "question": "13. Cloud migration failure: rollback strategy in AWS-Certified-Cloud-Practitioner environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S13-04",
+    "question": "13. Cloud migration failure: rollback strategy in AWS-Certified-Cloud-Practitioner environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S13-05",
+    "question": "13. Cloud migration failure: rollback strategy in AWS-Certified-Cloud-Practitioner environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S14-01",
+    "question": "14. Network latency issue affecting VoIP calls in AWS-Certified-Cloud-Practitioner environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S14-02",
+    "question": "14. Network latency issue affecting VoIP calls in AWS-Certified-Cloud-Practitioner environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S14-03",
+    "question": "14. Network latency issue affecting VoIP calls in AWS-Certified-Cloud-Practitioner environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S14-04",
+    "question": "14. Network latency issue affecting VoIP calls in AWS-Certified-Cloud-Practitioner environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S14-05",
+    "question": "14. Network latency issue affecting VoIP calls in AWS-Certified-Cloud-Practitioner environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S15-01",
+    "question": "15. Production outage during peak hours: diagnose and resolve in AWS-Certified-Cloud-Practitioner environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S15-02",
+    "question": "15. Production outage during peak hours: diagnose and resolve in AWS-Certified-Cloud-Practitioner environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S15-03",
+    "question": "15. Production outage during peak hours: diagnose and resolve in AWS-Certified-Cloud-Practitioner environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S15-04",
+    "question": "15. Production outage during peak hours: diagnose and resolve in AWS-Certified-Cloud-Practitioner environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S15-05",
+    "question": "15. Production outage during peak hours: diagnose and resolve in AWS-Certified-Cloud-Practitioner environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S16-01",
+    "question": "16. Security incident response: ransomware attack detected in AWS-Certified-Cloud-Practitioner environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S16-02",
+    "question": "16. Security incident response: ransomware attack detected in AWS-Certified-Cloud-Practitioner environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S16-03",
+    "question": "16. Security incident response: ransomware attack detected in AWS-Certified-Cloud-Practitioner environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S16-04",
+    "question": "16. Security incident response: ransomware attack detected in AWS-Certified-Cloud-Practitioner environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S16-05",
+    "question": "16. Security incident response: ransomware attack detected in AWS-Certified-Cloud-Practitioner environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S17-01",
+    "question": "17. Production outage during peak hours: diagnose and resolve in AWS-Certified-Cloud-Practitioner environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S17-02",
+    "question": "17. Production outage during peak hours: diagnose and resolve in AWS-Certified-Cloud-Practitioner environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S17-03",
+    "question": "17. Production outage during peak hours: diagnose and resolve in AWS-Certified-Cloud-Practitioner environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S17-04",
+    "question": "17. Production outage during peak hours: diagnose and resolve in AWS-Certified-Cloud-Practitioner environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S17-05",
+    "question": "17. Production outage during peak hours: diagnose and resolve in AWS-Certified-Cloud-Practitioner environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S18-01",
+    "question": "18. Production outage during peak hours: diagnose and resolve in AWS-Certified-Cloud-Practitioner environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S18-02",
+    "question": "18. Production outage during peak hours: diagnose and resolve in AWS-Certified-Cloud-Practitioner environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S18-03",
+    "question": "18. Production outage during peak hours: diagnose and resolve in AWS-Certified-Cloud-Practitioner environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S18-04",
+    "question": "18. Production outage during peak hours: diagnose and resolve in AWS-Certified-Cloud-Practitioner environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S18-05",
+    "question": "18. Production outage during peak hours: diagnose and resolve in AWS-Certified-Cloud-Practitioner environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S19-01",
+    "question": "19. Security incident response: ransomware attack detected in AWS-Certified-Cloud-Practitioner environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S19-02",
+    "question": "19. Security incident response: ransomware attack detected in AWS-Certified-Cloud-Practitioner environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S19-03",
+    "question": "19. Security incident response: ransomware attack detected in AWS-Certified-Cloud-Practitioner environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S19-04",
+    "question": "19. Security incident response: ransomware attack detected in AWS-Certified-Cloud-Practitioner environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S19-05",
+    "question": "19. Security incident response: ransomware attack detected in AWS-Certified-Cloud-Practitioner environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S20-01",
+    "question": "20. Load balancer health check failing in AWS-Certified-Cloud-Practitioner environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S20-02",
+    "question": "20. Load balancer health check failing in AWS-Certified-Cloud-Practitioner environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S20-03",
+    "question": "20. Load balancer health check failing in AWS-Certified-Cloud-Practitioner environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S20-04",
+    "question": "20. Load balancer health check failing in AWS-Certified-Cloud-Practitioner environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Certified-Cloud-Practitioner-S20-05",
+    "question": "20. Load balancer health check failing in AWS-Certified-Cloud-Practitioner environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Certified-Cloud-Practitioner troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Certified-Cloud-Practitioner best practices. Document all steps for RCA."
+  }
+]

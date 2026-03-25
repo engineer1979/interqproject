@@ -1,0 +1,3260 @@
+{
+  "easy": [
+    {
+      "id": "Active-Directory-E001",
+      "question": "What is the primary function of Active DHCP?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Active-Directory procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "e",
+      "explanation": "**Active-Directory E Solution:** What is the primary function of Active DHCP?. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-E002",
+      "question": "Which port does Active-Directory service use by default?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Active-Directory procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "e",
+      "explanation": "**Active-Directory E Solution:** Which port does Active-Directory service use by default?. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-E003",
+      "question": "Default subnet mask for Class C network in Active-Directory?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Active-Directory procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "e",
+      "explanation": "**Active-Directory E Solution:** Default subnet mask for Class C network in Active-Directory?. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-E004",
+      "question": "Common protocol for Active-Directory remote access?",
+      "options": [
+        "Correct Active-Directory procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "e",
+      "explanation": "**Active-Directory E Solution:** Common protocol for Active-Directory remote access?. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-E005",
+      "question": "Which port does Active-Directory service use by default?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Active-Directory procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "e",
+      "explanation": "**Active-Directory E Solution:** Which port does Active-Directory service use by default?. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-E006",
+      "question": "Common protocol for Active-Directory remote access?",
+      "options": [
+        "Dangerous method",
+        "Correct Active-Directory procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "e",
+      "explanation": "**Active-Directory E Solution:** Common protocol for Active-Directory remote access?. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-E007",
+      "question": "Which port does Active-Directory service use by default?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Active-Directory procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "e",
+      "explanation": "**Active-Directory E Solution:** Which port does Active-Directory service use by default?. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-E008",
+      "question": "Common protocol for Active-Directory remote access?",
+      "options": [
+        "Dangerous method",
+        "Correct Active-Directory procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "e",
+      "explanation": "**Active-Directory E Solution:** Common protocol for Active-Directory remote access?. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-E009",
+      "question": "Common protocol for Active-Directory remote access?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Active-Directory procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "e",
+      "explanation": "**Active-Directory E Solution:** Common protocol for Active-Directory remote access?. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-E010",
+      "question": "Common protocol for Active-Directory remote access?",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Active-Directory procedure"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "e",
+      "explanation": "**Active-Directory E Solution:** Common protocol for Active-Directory remote access?. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-E011",
+      "question": "What does Active ACL stand for?",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Correct Active-Directory procedure",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "e",
+      "explanation": "**Active-Directory E Solution:** What does Active ACL stand for?. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-E012",
+      "question": "What is the primary function of Active DHCP?",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Active-Directory procedure"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "e",
+      "explanation": "**Active-Directory E Solution:** What is the primary function of Active DHCP?. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-E013",
+      "question": "Default subnet mask for Class C network in Active-Directory?",
+      "options": [
+        "Correct Active-Directory procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "e",
+      "explanation": "**Active-Directory E Solution:** Default subnet mask for Class C network in Active-Directory?. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-E014",
+      "question": "Default subnet mask for Class C network in Active-Directory?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Active-Directory procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "e",
+      "explanation": "**Active-Directory E Solution:** Default subnet mask for Class C network in Active-Directory?. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-E015",
+      "question": "Common protocol for Active-Directory remote access?",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Active-Directory procedure"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "e",
+      "explanation": "**Active-Directory E Solution:** Common protocol for Active-Directory remote access?. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-E016",
+      "question": "What is the primary function of Active DHCP?",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Active-Directory procedure"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "e",
+      "explanation": "**Active-Directory E Solution:** What is the primary function of Active DHCP?. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-E017",
+      "question": "Common protocol for Active-Directory remote access?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Active-Directory procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "e",
+      "explanation": "**Active-Directory E Solution:** Common protocol for Active-Directory remote access?. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-E018",
+      "question": "What does Active ACL stand for?",
+      "options": [
+        "Dangerous method",
+        "Correct Active-Directory procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "e",
+      "explanation": "**Active-Directory E Solution:** What does Active ACL stand for?. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-E019",
+      "question": "Which port does Active-Directory service use by default?",
+      "options": [
+        "Correct Active-Directory procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "e",
+      "explanation": "**Active-Directory E Solution:** Which port does Active-Directory service use by default?. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-E020",
+      "question": "What is the primary function of Active DHCP?",
+      "options": [
+        "Dangerous method",
+        "Correct Active-Directory procedure",
+        "Incorrect approach",
+        "Partially correct"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "e",
+      "explanation": "**Active-Directory E Solution:** What is the primary function of Active DHCP?. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-E021",
+      "question": "Common protocol for Active-Directory remote access?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Active-Directory procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "e",
+      "explanation": "**Active-Directory E Solution:** Common protocol for Active-Directory remote access?. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-E022",
+      "question": "What is the primary function of Active DHCP?",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Active-Directory procedure"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "e",
+      "explanation": "**Active-Directory E Solution:** What is the primary function of Active DHCP?. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-E023",
+      "question": "Which port does Active-Directory service use by default?",
+      "options": [
+        "Dangerous method",
+        "Correct Active-Directory procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "e",
+      "explanation": "**Active-Directory E Solution:** Which port does Active-Directory service use by default?. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-E024",
+      "question": "Default subnet mask for Class C network in Active-Directory?",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Active-Directory procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "e",
+      "explanation": "**Active-Directory E Solution:** Default subnet mask for Class C network in Active-Directory?. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-E025",
+      "question": "Common protocol for Active-Directory remote access?",
+      "options": [
+        "Partially correct",
+        "Correct Active-Directory procedure",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "e",
+      "explanation": "**Active-Directory E Solution:** Common protocol for Active-Directory remote access?. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-E026",
+      "question": "Default subnet mask for Class C network in Active-Directory?",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Active-Directory procedure"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "e",
+      "explanation": "**Active-Directory E Solution:** Default subnet mask for Class C network in Active-Directory?. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-E027",
+      "question": "Default subnet mask for Class C network in Active-Directory?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Active-Directory procedure"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "e",
+      "explanation": "**Active-Directory E Solution:** Default subnet mask for Class C network in Active-Directory?. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-E028",
+      "question": "Common protocol for Active-Directory remote access?",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Active-Directory procedure"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "e",
+      "explanation": "**Active-Directory E Solution:** Common protocol for Active-Directory remote access?. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-E029",
+      "question": "Which port does Active-Directory service use by default?",
+      "options": [
+        "Correct Active-Directory procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "e",
+      "explanation": "**Active-Directory E Solution:** Which port does Active-Directory service use by default?. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-E030",
+      "question": "Default subnet mask for Class C network in Active-Directory?",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Active-Directory procedure"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "e",
+      "explanation": "**Active-Directory E Solution:** Default subnet mask for Class C network in Active-Directory?. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-E031",
+      "question": "Common protocol for Active-Directory remote access?",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Active-Directory procedure"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "e",
+      "explanation": "**Active-Directory E Solution:** Common protocol for Active-Directory remote access?. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-E032",
+      "question": "What does Active ACL stand for?",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Active-Directory procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "e",
+      "explanation": "**Active-Directory E Solution:** What does Active ACL stand for?. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-E033",
+      "question": "Default subnet mask for Class C network in Active-Directory?",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Active-Directory procedure"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "e",
+      "explanation": "**Active-Directory E Solution:** Default subnet mask for Class C network in Active-Directory?. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-E034",
+      "question": "What does Active ACL stand for?",
+      "options": [
+        "Dangerous method",
+        "Correct Active-Directory procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "e",
+      "explanation": "**Active-Directory E Solution:** What does Active ACL stand for?. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-E035",
+      "question": "Which port does Active-Directory service use by default?",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Correct Active-Directory procedure",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "e",
+      "explanation": "**Active-Directory E Solution:** Which port does Active-Directory service use by default?. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-E036",
+      "question": "What does Active ACL stand for?",
+      "options": [
+        "Correct Active-Directory procedure",
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "e",
+      "explanation": "**Active-Directory E Solution:** What does Active ACL stand for?. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-E037",
+      "question": "What does Active ACL stand for?",
+      "options": [
+        "Correct Active-Directory procedure",
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "e",
+      "explanation": "**Active-Directory E Solution:** What does Active ACL stand for?. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-E038",
+      "question": "Which port does Active-Directory service use by default?",
+      "options": [
+        "Dangerous method",
+        "Correct Active-Directory procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "e",
+      "explanation": "**Active-Directory E Solution:** Which port does Active-Directory service use by default?. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-E039",
+      "question": "What is the primary function of Active DHCP?",
+      "options": [
+        "Correct Active-Directory procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "e",
+      "explanation": "**Active-Directory E Solution:** What is the primary function of Active DHCP?. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-E040",
+      "question": "What is the primary function of Active DHCP?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Active-Directory procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "e",
+      "explanation": "**Active-Directory E Solution:** What is the primary function of Active DHCP?. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-E041",
+      "question": "What does Active ACL stand for?",
+      "options": [
+        "Incorrect approach",
+        "Correct Active-Directory procedure",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "e",
+      "explanation": "**Active-Directory E Solution:** What does Active ACL stand for?. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-E042",
+      "question": "What is the primary function of Active DHCP?",
+      "options": [
+        "Dangerous method",
+        "Correct Active-Directory procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "e",
+      "explanation": "**Active-Directory E Solution:** What is the primary function of Active DHCP?. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-E043",
+      "question": "Which port does Active-Directory service use by default?",
+      "options": [
+        "Dangerous method",
+        "Correct Active-Directory procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "e",
+      "explanation": "**Active-Directory E Solution:** Which port does Active-Directory service use by default?. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-E044",
+      "question": "What is the primary function of Active DHCP?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Active-Directory procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "e",
+      "explanation": "**Active-Directory E Solution:** What is the primary function of Active DHCP?. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-E045",
+      "question": "What does Active ACL stand for?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Active-Directory procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "e",
+      "explanation": "**Active-Directory E Solution:** What does Active ACL stand for?. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-E046",
+      "question": "Default subnet mask for Class C network in Active-Directory?",
+      "options": [
+        "Correct Active-Directory procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "e",
+      "explanation": "**Active-Directory E Solution:** Default subnet mask for Class C network in Active-Directory?. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-E047",
+      "question": "Which port does Active-Directory service use by default?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Active-Directory procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "e",
+      "explanation": "**Active-Directory E Solution:** Which port does Active-Directory service use by default?. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-E048",
+      "question": "What is the primary function of Active DHCP?",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Active-Directory procedure"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "e",
+      "explanation": "**Active-Directory E Solution:** What is the primary function of Active DHCP?. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-E049",
+      "question": "Which port does Active-Directory service use by default?",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Active-Directory procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "e",
+      "explanation": "**Active-Directory E Solution:** Which port does Active-Directory service use by default?. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-E050",
+      "question": "Default subnet mask for Class C network in Active-Directory?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Active-Directory procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "e",
+      "explanation": "**Active-Directory E Solution:** Default subnet mask for Class C network in Active-Directory?. Always verify Active-Directory documentation and test in lab environment first."
+    }
+  ],
+  "medium": [
+    {
+      "id": "Active-Directory-M001",
+      "question": "Troubleshoot Active-Directory connectivity issue between VLANs",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Active-Directory procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "m",
+      "explanation": "**Active-Directory M Solution:** Troubleshoot Active-Directory connectivity issue between VLANs. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-M002",
+      "question": "Optimize Active-Directory query performance",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Active-Directory procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "m",
+      "explanation": "**Active-Directory M Solution:** Optimize Active-Directory query performance. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-M003",
+      "question": "Troubleshoot Active-Directory connectivity issue between VLANs",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Active-Directory procedure"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "m",
+      "explanation": "**Active-Directory M Solution:** Troubleshoot Active-Directory connectivity issue between VLANs. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-M004",
+      "question": "Implement Active-Directory backup strategy for compliance",
+      "options": [
+        "Correct Active-Directory procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "m",
+      "explanation": "**Active-Directory M Solution:** Implement Active-Directory backup strategy for compliance. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-M005",
+      "question": "Optimize Active-Directory query performance",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Active-Directory procedure"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "m",
+      "explanation": "**Active-Directory M Solution:** Optimize Active-Directory query performance. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-M006",
+      "question": "Optimize Active-Directory query performance",
+      "options": [
+        "Correct Active-Directory procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "m",
+      "explanation": "**Active-Directory M Solution:** Optimize Active-Directory query performance. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-M007",
+      "question": "Optimize Active-Directory query performance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Active-Directory procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "m",
+      "explanation": "**Active-Directory M Solution:** Optimize Active-Directory query performance. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-M008",
+      "question": "Set up Active-Directory failover clustering",
+      "options": [
+        "Correct Active-Directory procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "m",
+      "explanation": "**Active-Directory M Solution:** Set up Active-Directory failover clustering. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-M009",
+      "question": "Configure Active-Directory load balancer for high availability",
+      "options": [
+        "Correct Active-Directory procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "m",
+      "explanation": "**Active-Directory M Solution:** Configure Active-Directory load balancer for high availability. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-M010",
+      "question": "Set up Active-Directory failover clustering",
+      "options": [
+        "Partially correct",
+        "Correct Active-Directory procedure",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "m",
+      "explanation": "**Active-Directory M Solution:** Set up Active-Directory failover clustering. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-M011",
+      "question": "Implement Active-Directory backup strategy for compliance",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Active-Directory procedure"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "m",
+      "explanation": "**Active-Directory M Solution:** Implement Active-Directory backup strategy for compliance. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-M012",
+      "question": "Optimize Active-Directory query performance",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Active-Directory procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "m",
+      "explanation": "**Active-Directory M Solution:** Optimize Active-Directory query performance. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-M013",
+      "question": "Implement Active-Directory backup strategy for compliance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Active-Directory procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "m",
+      "explanation": "**Active-Directory M Solution:** Implement Active-Directory backup strategy for compliance. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-M014",
+      "question": "Implement Active-Directory backup strategy for compliance",
+      "options": [
+        "Correct Active-Directory procedure",
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "m",
+      "explanation": "**Active-Directory M Solution:** Implement Active-Directory backup strategy for compliance. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-M015",
+      "question": "Implement Active-Directory backup strategy for compliance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Active-Directory procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "m",
+      "explanation": "**Active-Directory M Solution:** Implement Active-Directory backup strategy for compliance. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-M016",
+      "question": "Configure Active-Directory load balancer for high availability",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Active-Directory procedure"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "m",
+      "explanation": "**Active-Directory M Solution:** Configure Active-Directory load balancer for high availability. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-M017",
+      "question": "Set up Active-Directory failover clustering",
+      "options": [
+        "Correct Active-Directory procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "m",
+      "explanation": "**Active-Directory M Solution:** Set up Active-Directory failover clustering. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-M018",
+      "question": "Implement Active-Directory backup strategy for compliance",
+      "options": [
+        "Correct Active-Directory procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "m",
+      "explanation": "**Active-Directory M Solution:** Implement Active-Directory backup strategy for compliance. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-M019",
+      "question": "Set up Active-Directory failover clustering",
+      "options": [
+        "Correct Active-Directory procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "m",
+      "explanation": "**Active-Directory M Solution:** Set up Active-Directory failover clustering. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-M020",
+      "question": "Configure Active-Directory load balancer for high availability",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Active-Directory procedure"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "m",
+      "explanation": "**Active-Directory M Solution:** Configure Active-Directory load balancer for high availability. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-M021",
+      "question": "Optimize Active-Directory query performance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Active-Directory procedure"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "m",
+      "explanation": "**Active-Directory M Solution:** Optimize Active-Directory query performance. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-M022",
+      "question": "Implement Active-Directory backup strategy for compliance",
+      "options": [
+        "Dangerous method",
+        "Correct Active-Directory procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "m",
+      "explanation": "**Active-Directory M Solution:** Implement Active-Directory backup strategy for compliance. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-M023",
+      "question": "Configure Active-Directory load balancer for high availability",
+      "options": [
+        "Correct Active-Directory procedure",
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "m",
+      "explanation": "**Active-Directory M Solution:** Configure Active-Directory load balancer for high availability. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-M024",
+      "question": "Optimize Active-Directory query performance",
+      "options": [
+        "Correct Active-Directory procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "m",
+      "explanation": "**Active-Directory M Solution:** Optimize Active-Directory query performance. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-M025",
+      "question": "Implement Active-Directory backup strategy for compliance",
+      "options": [
+        "Partially correct",
+        "Correct Active-Directory procedure",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "m",
+      "explanation": "**Active-Directory M Solution:** Implement Active-Directory backup strategy for compliance. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-M026",
+      "question": "Implement Active-Directory backup strategy for compliance",
+      "options": [
+        "Partially correct",
+        "Correct Active-Directory procedure",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "m",
+      "explanation": "**Active-Directory M Solution:** Implement Active-Directory backup strategy for compliance. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-M027",
+      "question": "Optimize Active-Directory query performance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Active-Directory procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "m",
+      "explanation": "**Active-Directory M Solution:** Optimize Active-Directory query performance. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-M028",
+      "question": "Configure Active-Directory load balancer for high availability",
+      "options": [
+        "Correct Active-Directory procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "m",
+      "explanation": "**Active-Directory M Solution:** Configure Active-Directory load balancer for high availability. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-M029",
+      "question": "Troubleshoot Active-Directory connectivity issue between VLANs",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Active-Directory procedure"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "m",
+      "explanation": "**Active-Directory M Solution:** Troubleshoot Active-Directory connectivity issue between VLANs. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-M030",
+      "question": "Troubleshoot Active-Directory connectivity issue between VLANs",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Active-Directory procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "m",
+      "explanation": "**Active-Directory M Solution:** Troubleshoot Active-Directory connectivity issue between VLANs. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-M031",
+      "question": "Optimize Active-Directory query performance",
+      "options": [
+        "Incorrect approach",
+        "Correct Active-Directory procedure",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "m",
+      "explanation": "**Active-Directory M Solution:** Optimize Active-Directory query performance. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-M032",
+      "question": "Set up Active-Directory failover clustering",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Active-Directory procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "m",
+      "explanation": "**Active-Directory M Solution:** Set up Active-Directory failover clustering. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-M033",
+      "question": "Set up Active-Directory failover clustering",
+      "options": [
+        "Partially correct",
+        "Correct Active-Directory procedure",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "m",
+      "explanation": "**Active-Directory M Solution:** Set up Active-Directory failover clustering. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-M034",
+      "question": "Troubleshoot Active-Directory connectivity issue between VLANs",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Correct Active-Directory procedure",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "m",
+      "explanation": "**Active-Directory M Solution:** Troubleshoot Active-Directory connectivity issue between VLANs. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-M035",
+      "question": "Configure Active-Directory load balancer for high availability",
+      "options": [
+        "Correct Active-Directory procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "m",
+      "explanation": "**Active-Directory M Solution:** Configure Active-Directory load balancer for high availability. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-M036",
+      "question": "Optimize Active-Directory query performance",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Active-Directory procedure"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "m",
+      "explanation": "**Active-Directory M Solution:** Optimize Active-Directory query performance. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-M037",
+      "question": "Troubleshoot Active-Directory connectivity issue between VLANs",
+      "options": [
+        "Dangerous method",
+        "Correct Active-Directory procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "m",
+      "explanation": "**Active-Directory M Solution:** Troubleshoot Active-Directory connectivity issue between VLANs. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-M038",
+      "question": "Configure Active-Directory load balancer for high availability",
+      "options": [
+        "Correct Active-Directory procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "m",
+      "explanation": "**Active-Directory M Solution:** Configure Active-Directory load balancer for high availability. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-M039",
+      "question": "Troubleshoot Active-Directory connectivity issue between VLANs",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Active-Directory procedure"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "m",
+      "explanation": "**Active-Directory M Solution:** Troubleshoot Active-Directory connectivity issue between VLANs. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-M040",
+      "question": "Set up Active-Directory failover clustering",
+      "options": [
+        "Correct Active-Directory procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "m",
+      "explanation": "**Active-Directory M Solution:** Set up Active-Directory failover clustering. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-M041",
+      "question": "Configure Active-Directory load balancer for high availability",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Active-Directory procedure"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "m",
+      "explanation": "**Active-Directory M Solution:** Configure Active-Directory load balancer for high availability. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-M042",
+      "question": "Configure Active-Directory load balancer for high availability",
+      "options": [
+        "Correct Active-Directory procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "m",
+      "explanation": "**Active-Directory M Solution:** Configure Active-Directory load balancer for high availability. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-M043",
+      "question": "Set up Active-Directory failover clustering",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Active-Directory procedure"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "m",
+      "explanation": "**Active-Directory M Solution:** Set up Active-Directory failover clustering. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-M044",
+      "question": "Troubleshoot Active-Directory connectivity issue between VLANs",
+      "options": [
+        "Correct Active-Directory procedure",
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "m",
+      "explanation": "**Active-Directory M Solution:** Troubleshoot Active-Directory connectivity issue between VLANs. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-M045",
+      "question": "Set up Active-Directory failover clustering",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Active-Directory procedure"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "m",
+      "explanation": "**Active-Directory M Solution:** Set up Active-Directory failover clustering. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-M046",
+      "question": "Configure Active-Directory load balancer for high availability",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Active-Directory procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "m",
+      "explanation": "**Active-Directory M Solution:** Configure Active-Directory load balancer for high availability. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-M047",
+      "question": "Implement Active-Directory backup strategy for compliance",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Active-Directory procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "m",
+      "explanation": "**Active-Directory M Solution:** Implement Active-Directory backup strategy for compliance. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-M048",
+      "question": "Implement Active-Directory backup strategy for compliance",
+      "options": [
+        "Correct Active-Directory procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "m",
+      "explanation": "**Active-Directory M Solution:** Implement Active-Directory backup strategy for compliance. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-M049",
+      "question": "Optimize Active-Directory query performance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Active-Directory procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "m",
+      "explanation": "**Active-Directory M Solution:** Optimize Active-Directory query performance. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-M050",
+      "question": "Optimize Active-Directory query performance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Active-Directory procedure"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "m",
+      "explanation": "**Active-Directory M Solution:** Optimize Active-Directory query performance. Always verify Active-Directory documentation and test in lab environment first."
+    }
+  ],
+  "hard": [
+    {
+      "id": "Active-Directory-H001",
+      "question": "Create disaster recovery plan with RTO < 15min for Active-Directory",
+      "options": [
+        "Dangerous method",
+        "Correct Active-Directory procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "h",
+      "explanation": "**Active-Directory H Solution:** Create disaster recovery plan with RTO < 15min for Active-Directory. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-H002",
+      "question": "Implement zero-trust security model in Active-Directory",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Active-Directory procedure"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "h",
+      "explanation": "**Active-Directory H Solution:** Implement zero-trust security model in Active-Directory. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-H003",
+      "question": "Migrate legacy Active-Directory systems to cloud-native architecture",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Correct Active-Directory procedure",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "h",
+      "explanation": "**Active-Directory H Solution:** Migrate legacy Active-Directory systems to cloud-native architecture. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-H004",
+      "question": "Create disaster recovery plan with RTO < 15min for Active-Directory",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Active-Directory procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "h",
+      "explanation": "**Active-Directory H Solution:** Create disaster recovery plan with RTO < 15min for Active-Directory. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-H005",
+      "question": "Design Active-Directory architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Dangerous method",
+        "Correct Active-Directory procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "h",
+      "explanation": "**Active-Directory H Solution:** Design Active-Directory architecture for 10k users with 99.99% uptime. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-H006",
+      "question": "Design Active-Directory architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Active-Directory procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "h",
+      "explanation": "**Active-Directory H Solution:** Design Active-Directory architecture for 10k users with 99.99% uptime. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-H007",
+      "question": "Implement zero-trust security model in Active-Directory",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Active-Directory procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "h",
+      "explanation": "**Active-Directory H Solution:** Implement zero-trust security model in Active-Directory. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-H008",
+      "question": "Migrate legacy Active-Directory systems to cloud-native architecture",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Active-Directory procedure"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "h",
+      "explanation": "**Active-Directory H Solution:** Migrate legacy Active-Directory systems to cloud-native architecture. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-H009",
+      "question": "Design Active-Directory architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Correct Active-Directory procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "h",
+      "explanation": "**Active-Directory H Solution:** Design Active-Directory architecture for 10k users with 99.99% uptime. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-H010",
+      "question": "Optimize Active-Directory performance under DDoS attack",
+      "options": [
+        "Dangerous method",
+        "Correct Active-Directory procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "h",
+      "explanation": "**Active-Directory H Solution:** Optimize Active-Directory performance under DDoS attack. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-H011",
+      "question": "Optimize Active-Directory performance under DDoS attack",
+      "options": [
+        "Dangerous method",
+        "Correct Active-Directory procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "h",
+      "explanation": "**Active-Directory H Solution:** Optimize Active-Directory performance under DDoS attack. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-H012",
+      "question": "Migrate legacy Active-Directory systems to cloud-native architecture",
+      "options": [
+        "Correct Active-Directory procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "h",
+      "explanation": "**Active-Directory H Solution:** Migrate legacy Active-Directory systems to cloud-native architecture. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-H013",
+      "question": "Create disaster recovery plan with RTO < 15min for Active-Directory",
+      "options": [
+        "Dangerous method",
+        "Correct Active-Directory procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "h",
+      "explanation": "**Active-Directory H Solution:** Create disaster recovery plan with RTO < 15min for Active-Directory. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-H014",
+      "question": "Design Active-Directory architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Dangerous method",
+        "Correct Active-Directory procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "h",
+      "explanation": "**Active-Directory H Solution:** Design Active-Directory architecture for 10k users with 99.99% uptime. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-H015",
+      "question": "Design Active-Directory architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Active-Directory procedure"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "h",
+      "explanation": "**Active-Directory H Solution:** Design Active-Directory architecture for 10k users with 99.99% uptime. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-H016",
+      "question": "Optimize Active-Directory performance under DDoS attack",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Active-Directory procedure"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "h",
+      "explanation": "**Active-Directory H Solution:** Optimize Active-Directory performance under DDoS attack. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-H017",
+      "question": "Create disaster recovery plan with RTO < 15min for Active-Directory",
+      "options": [
+        "Correct Active-Directory procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "h",
+      "explanation": "**Active-Directory H Solution:** Create disaster recovery plan with RTO < 15min for Active-Directory. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-H018",
+      "question": "Create disaster recovery plan with RTO < 15min for Active-Directory",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Active-Directory procedure"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "h",
+      "explanation": "**Active-Directory H Solution:** Create disaster recovery plan with RTO < 15min for Active-Directory. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-H019",
+      "question": "Implement zero-trust security model in Active-Directory",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Active-Directory procedure"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "h",
+      "explanation": "**Active-Directory H Solution:** Implement zero-trust security model in Active-Directory. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-H020",
+      "question": "Optimize Active-Directory performance under DDoS attack",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Active-Directory procedure"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "h",
+      "explanation": "**Active-Directory H Solution:** Optimize Active-Directory performance under DDoS attack. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-H021",
+      "question": "Create disaster recovery plan with RTO < 15min for Active-Directory",
+      "options": [
+        "Correct Active-Directory procedure",
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "h",
+      "explanation": "**Active-Directory H Solution:** Create disaster recovery plan with RTO < 15min for Active-Directory. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-H022",
+      "question": "Implement zero-trust security model in Active-Directory",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Active-Directory procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "h",
+      "explanation": "**Active-Directory H Solution:** Implement zero-trust security model in Active-Directory. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-H023",
+      "question": "Migrate legacy Active-Directory systems to cloud-native architecture",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Active-Directory procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "h",
+      "explanation": "**Active-Directory H Solution:** Migrate legacy Active-Directory systems to cloud-native architecture. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-H024",
+      "question": "Migrate legacy Active-Directory systems to cloud-native architecture",
+      "options": [
+        "Correct Active-Directory procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "h",
+      "explanation": "**Active-Directory H Solution:** Migrate legacy Active-Directory systems to cloud-native architecture. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-H025",
+      "question": "Create disaster recovery plan with RTO < 15min for Active-Directory",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Active-Directory procedure"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "h",
+      "explanation": "**Active-Directory H Solution:** Create disaster recovery plan with RTO < 15min for Active-Directory. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-H026",
+      "question": "Design Active-Directory architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Active-Directory procedure"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "h",
+      "explanation": "**Active-Directory H Solution:** Design Active-Directory architecture for 10k users with 99.99% uptime. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-H027",
+      "question": "Create disaster recovery plan with RTO < 15min for Active-Directory",
+      "options": [
+        "Dangerous method",
+        "Correct Active-Directory procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "h",
+      "explanation": "**Active-Directory H Solution:** Create disaster recovery plan with RTO < 15min for Active-Directory. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-H028",
+      "question": "Create disaster recovery plan with RTO < 15min for Active-Directory",
+      "options": [
+        "Partially correct",
+        "Correct Active-Directory procedure",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "h",
+      "explanation": "**Active-Directory H Solution:** Create disaster recovery plan with RTO < 15min for Active-Directory. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-H029",
+      "question": "Implement zero-trust security model in Active-Directory",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Active-Directory procedure"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "h",
+      "explanation": "**Active-Directory H Solution:** Implement zero-trust security model in Active-Directory. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-H030",
+      "question": "Design Active-Directory architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Active-Directory procedure"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "h",
+      "explanation": "**Active-Directory H Solution:** Design Active-Directory architecture for 10k users with 99.99% uptime. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-H031",
+      "question": "Migrate legacy Active-Directory systems to cloud-native architecture",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Active-Directory procedure"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "h",
+      "explanation": "**Active-Directory H Solution:** Migrate legacy Active-Directory systems to cloud-native architecture. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-H032",
+      "question": "Implement zero-trust security model in Active-Directory",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Active-Directory procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "h",
+      "explanation": "**Active-Directory H Solution:** Implement zero-trust security model in Active-Directory. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-H033",
+      "question": "Migrate legacy Active-Directory systems to cloud-native architecture",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Active-Directory procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "h",
+      "explanation": "**Active-Directory H Solution:** Migrate legacy Active-Directory systems to cloud-native architecture. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-H034",
+      "question": "Migrate legacy Active-Directory systems to cloud-native architecture",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Active-Directory procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "h",
+      "explanation": "**Active-Directory H Solution:** Migrate legacy Active-Directory systems to cloud-native architecture. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-H035",
+      "question": "Migrate legacy Active-Directory systems to cloud-native architecture",
+      "options": [
+        "Incorrect approach",
+        "Correct Active-Directory procedure",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "h",
+      "explanation": "**Active-Directory H Solution:** Migrate legacy Active-Directory systems to cloud-native architecture. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-H036",
+      "question": "Create disaster recovery plan with RTO < 15min for Active-Directory",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Active-Directory procedure"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "h",
+      "explanation": "**Active-Directory H Solution:** Create disaster recovery plan with RTO < 15min for Active-Directory. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-H037",
+      "question": "Create disaster recovery plan with RTO < 15min for Active-Directory",
+      "options": [
+        "Correct Active-Directory procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "h",
+      "explanation": "**Active-Directory H Solution:** Create disaster recovery plan with RTO < 15min for Active-Directory. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-H038",
+      "question": "Optimize Active-Directory performance under DDoS attack",
+      "options": [
+        "Dangerous method",
+        "Correct Active-Directory procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "h",
+      "explanation": "**Active-Directory H Solution:** Optimize Active-Directory performance under DDoS attack. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-H039",
+      "question": "Migrate legacy Active-Directory systems to cloud-native architecture",
+      "options": [
+        "Dangerous method",
+        "Correct Active-Directory procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "h",
+      "explanation": "**Active-Directory H Solution:** Migrate legacy Active-Directory systems to cloud-native architecture. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-H040",
+      "question": "Create disaster recovery plan with RTO < 15min for Active-Directory",
+      "options": [
+        "Dangerous method",
+        "Correct Active-Directory procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "h",
+      "explanation": "**Active-Directory H Solution:** Create disaster recovery plan with RTO < 15min for Active-Directory. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-H041",
+      "question": "Create disaster recovery plan with RTO < 15min for Active-Directory",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Active-Directory procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "h",
+      "explanation": "**Active-Directory H Solution:** Create disaster recovery plan with RTO < 15min for Active-Directory. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-H042",
+      "question": "Create disaster recovery plan with RTO < 15min for Active-Directory",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Active-Directory procedure"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "h",
+      "explanation": "**Active-Directory H Solution:** Create disaster recovery plan with RTO < 15min for Active-Directory. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-H043",
+      "question": "Design Active-Directory architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Active-Directory procedure"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "h",
+      "explanation": "**Active-Directory H Solution:** Design Active-Directory architecture for 10k users with 99.99% uptime. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-H044",
+      "question": "Create disaster recovery plan with RTO < 15min for Active-Directory",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Active-Directory procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "h",
+      "explanation": "**Active-Directory H Solution:** Create disaster recovery plan with RTO < 15min for Active-Directory. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-H045",
+      "question": "Implement zero-trust security model in Active-Directory",
+      "options": [
+        "Correct Active-Directory procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "h",
+      "explanation": "**Active-Directory H Solution:** Implement zero-trust security model in Active-Directory. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-H046",
+      "question": "Migrate legacy Active-Directory systems to cloud-native architecture",
+      "options": [
+        "Incorrect approach",
+        "Correct Active-Directory procedure",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "h",
+      "explanation": "**Active-Directory H Solution:** Migrate legacy Active-Directory systems to cloud-native architecture. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-H047",
+      "question": "Design Active-Directory architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Correct Active-Directory procedure",
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "h",
+      "explanation": "**Active-Directory H Solution:** Design Active-Directory architecture for 10k users with 99.99% uptime. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-H048",
+      "question": "Optimize Active-Directory performance under DDoS attack",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Active-Directory procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "h",
+      "explanation": "**Active-Directory H Solution:** Optimize Active-Directory performance under DDoS attack. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-H049",
+      "question": "Implement zero-trust security model in Active-Directory",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Active-Directory procedure"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "h",
+      "explanation": "**Active-Directory H Solution:** Implement zero-trust security model in Active-Directory. Always verify Active-Directory documentation and test in lab environment first."
+    },
+    {
+      "id": "Active-Directory-H050",
+      "question": "Create disaster recovery plan with RTO < 15min for Active-Directory",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Active-Directory procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct Active-Directory procedure",
+      "difficulty": "h",
+      "explanation": "**Active-Directory H Solution:** Create disaster recovery plan with RTO < 15min for Active-Directory. Always verify Active-Directory documentation and test in lab environment first."
+    }
+  ],
+  "scenarios": [
+    {
+      "id": "Active-Directory-S01-01",
+      "question": "1. Production outage during peak hours: diagnose and resolve in Active-Directory environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S01-02",
+      "question": "1. Production outage during peak hours: diagnose and resolve in Active-Directory environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S01-03",
+      "question": "1. Production outage during peak hours: diagnose and resolve in Active-Directory environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S01-04",
+      "question": "1. Production outage during peak hours: diagnose and resolve in Active-Directory environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S01-05",
+      "question": "1. Production outage during peak hours: diagnose and resolve in Active-Directory environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S02-01",
+      "question": "2. Server overload during quarterly report generation in Active-Directory environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S02-02",
+      "question": "2. Server overload during quarterly report generation in Active-Directory environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S02-03",
+      "question": "2. Server overload during quarterly report generation in Active-Directory environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S02-04",
+      "question": "2. Server overload during quarterly report generation in Active-Directory environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S02-05",
+      "question": "2. Server overload during quarterly report generation in Active-Directory environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S03-01",
+      "question": "3. Security incident response: ransomware attack detected in Active-Directory environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S03-02",
+      "question": "3. Security incident response: ransomware attack detected in Active-Directory environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S03-03",
+      "question": "3. Security incident response: ransomware attack detected in Active-Directory environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S03-04",
+      "question": "3. Security incident response: ransomware attack detected in Active-Directory environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S03-05",
+      "question": "3. Security incident response: ransomware attack detected in Active-Directory environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S04-01",
+      "question": "4. Server overload during quarterly report generation in Active-Directory environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S04-02",
+      "question": "4. Server overload during quarterly report generation in Active-Directory environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S04-03",
+      "question": "4. Server overload during quarterly report generation in Active-Directory environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S04-04",
+      "question": "4. Server overload during quarterly report generation in Active-Directory environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S04-05",
+      "question": "4. Server overload during quarterly report generation in Active-Directory environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S05-01",
+      "question": "5. Backup failure during scheduled window in Active-Directory environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S05-02",
+      "question": "5. Backup failure during scheduled window in Active-Directory environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S05-03",
+      "question": "5. Backup failure during scheduled window in Active-Directory environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S05-04",
+      "question": "5. Backup failure during scheduled window in Active-Directory environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S05-05",
+      "question": "5. Backup failure during scheduled window in Active-Directory environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S06-01",
+      "question": "6. Database performance degradation after upgrade in Active-Directory environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S06-02",
+      "question": "6. Database performance degradation after upgrade in Active-Directory environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S06-03",
+      "question": "6. Database performance degradation after upgrade in Active-Directory environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S06-04",
+      "question": "6. Database performance degradation after upgrade in Active-Directory environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S06-05",
+      "question": "6. Database performance degradation after upgrade in Active-Directory environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S07-01",
+      "question": "7. Backup failure during scheduled window in Active-Directory environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S07-02",
+      "question": "7. Backup failure during scheduled window in Active-Directory environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S07-03",
+      "question": "7. Backup failure during scheduled window in Active-Directory environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S07-04",
+      "question": "7. Backup failure during scheduled window in Active-Directory environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S07-05",
+      "question": "7. Backup failure during scheduled window in Active-Directory environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S08-01",
+      "question": "8. Server overload during quarterly report generation in Active-Directory environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S08-02",
+      "question": "8. Server overload during quarterly report generation in Active-Directory environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S08-03",
+      "question": "8. Server overload during quarterly report generation in Active-Directory environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S08-04",
+      "question": "8. Server overload during quarterly report generation in Active-Directory environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S08-05",
+      "question": "8. Server overload during quarterly report generation in Active-Directory environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S09-01",
+      "question": "9. VPN connectivity failure for remote users in Active-Directory environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S09-02",
+      "question": "9. VPN connectivity failure for remote users in Active-Directory environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S09-03",
+      "question": "9. VPN connectivity failure for remote users in Active-Directory environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S09-04",
+      "question": "9. VPN connectivity failure for remote users in Active-Directory environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S09-05",
+      "question": "9. VPN connectivity failure for remote users in Active-Directory environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S10-01",
+      "question": "10. Backup failure during scheduled window in Active-Directory environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S10-02",
+      "question": "10. Backup failure during scheduled window in Active-Directory environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S10-03",
+      "question": "10. Backup failure during scheduled window in Active-Directory environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S10-04",
+      "question": "10. Backup failure during scheduled window in Active-Directory environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S10-05",
+      "question": "10. Backup failure during scheduled window in Active-Directory environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S11-01",
+      "question": "11. Load balancer health check failing in Active-Directory environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S11-02",
+      "question": "11. Load balancer health check failing in Active-Directory environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S11-03",
+      "question": "11. Load balancer health check failing in Active-Directory environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S11-04",
+      "question": "11. Load balancer health check failing in Active-Directory environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S11-05",
+      "question": "11. Load balancer health check failing in Active-Directory environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S12-01",
+      "question": "12. Security incident response: ransomware attack detected in Active-Directory environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S12-02",
+      "question": "12. Security incident response: ransomware attack detected in Active-Directory environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S12-03",
+      "question": "12. Security incident response: ransomware attack detected in Active-Directory environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S12-04",
+      "question": "12. Security incident response: ransomware attack detected in Active-Directory environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S12-05",
+      "question": "12. Security incident response: ransomware attack detected in Active-Directory environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S13-01",
+      "question": "13. Network latency issue affecting VoIP calls in Active-Directory environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S13-02",
+      "question": "13. Network latency issue affecting VoIP calls in Active-Directory environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S13-03",
+      "question": "13. Network latency issue affecting VoIP calls in Active-Directory environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S13-04",
+      "question": "13. Network latency issue affecting VoIP calls in Active-Directory environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S13-05",
+      "question": "13. Network latency issue affecting VoIP calls in Active-Directory environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S14-01",
+      "question": "14. Network latency issue affecting VoIP calls in Active-Directory environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S14-02",
+      "question": "14. Network latency issue affecting VoIP calls in Active-Directory environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S14-03",
+      "question": "14. Network latency issue affecting VoIP calls in Active-Directory environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S14-04",
+      "question": "14. Network latency issue affecting VoIP calls in Active-Directory environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S14-05",
+      "question": "14. Network latency issue affecting VoIP calls in Active-Directory environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S15-01",
+      "question": "15. Load balancer health check failing in Active-Directory environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S15-02",
+      "question": "15. Load balancer health check failing in Active-Directory environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S15-03",
+      "question": "15. Load balancer health check failing in Active-Directory environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S15-04",
+      "question": "15. Load balancer health check failing in Active-Directory environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S15-05",
+      "question": "15. Load balancer health check failing in Active-Directory environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S16-01",
+      "question": "16. Server overload during quarterly report generation in Active-Directory environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S16-02",
+      "question": "16. Server overload during quarterly report generation in Active-Directory environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S16-03",
+      "question": "16. Server overload during quarterly report generation in Active-Directory environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S16-04",
+      "question": "16. Server overload during quarterly report generation in Active-Directory environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S16-05",
+      "question": "16. Server overload during quarterly report generation in Active-Directory environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S17-01",
+      "question": "17. Load balancer health check failing in Active-Directory environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S17-02",
+      "question": "17. Load balancer health check failing in Active-Directory environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S17-03",
+      "question": "17. Load balancer health check failing in Active-Directory environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S17-04",
+      "question": "17. Load balancer health check failing in Active-Directory environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S17-05",
+      "question": "17. Load balancer health check failing in Active-Directory environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S18-01",
+      "question": "18. Server overload during quarterly report generation in Active-Directory environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S18-02",
+      "question": "18. Server overload during quarterly report generation in Active-Directory environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S18-03",
+      "question": "18. Server overload during quarterly report generation in Active-Directory environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S18-04",
+      "question": "18. Server overload during quarterly report generation in Active-Directory environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S18-05",
+      "question": "18. Server overload during quarterly report generation in Active-Directory environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S19-01",
+      "question": "19. Database performance degradation after upgrade in Active-Directory environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S19-02",
+      "question": "19. Database performance degradation after upgrade in Active-Directory environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S19-03",
+      "question": "19. Database performance degradation after upgrade in Active-Directory environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S19-04",
+      "question": "19. Database performance degradation after upgrade in Active-Directory environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S19-05",
+      "question": "19. Database performance degradation after upgrade in Active-Directory environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S20-01",
+      "question": "20. Security incident response: ransomware attack detected in Active-Directory environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S20-02",
+      "question": "20. Security incident response: ransomware attack detected in Active-Directory environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S20-03",
+      "question": "20. Security incident response: ransomware attack detected in Active-Directory environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S20-04",
+      "question": "20. Security incident response: ransomware attack detected in Active-Directory environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Active-Directory-S20-05",
+      "question": "20. Security incident response: ransomware attack detected in Active-Directory environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Active-Directory troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Active-Directory troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Active-Directory best practices. Document all steps for RCA."
+    }
+  ]
+}

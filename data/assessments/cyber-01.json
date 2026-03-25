@@ -1,0 +1,83 @@
+[
+  {
+    "id": "SEC-001-E1",
+    "question": "Which of the following describes a 'Phishing' attack?",
+    "options": ["A way to trick users into revealing sensitive data", "A tool for port scanning", "A method for encrypting data", "A type of firewall configuration"],
+    "answer": "A way to trick users into revealing sensitive data",
+    "explanation": "Phishing is a deceptive social engineering attack used to steal data, such as login credentials and credit card numbers.",
+    "tag": "Social Engineering",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "SEC-001-E2",
+    "question": "What is the primary function of a VPN (Virtual Private Network)?",
+    "options": ["Creating a secure and encrypted network connection", "Blocking all incoming traffic", "Speeding up internet access", "Monitoring user activities"],
+    "answer": "Creating a secure and encrypted network connection",
+    "explanation": "A VPN establishes an encrypted tunnel over the internet to allow secure access to a remote network.",
+    "tag": "Networking",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "SEC-001-E3",
+    "question": "Which protocol is used for secure web browsing?",
+    "options": ["HTTPS", "HTTP", "FTP", "Telnet"],
+    "answer": "HTTPS",
+    "explanation": "HTTPS (HyperText Transfer Protocol Secure) uses TLS/SSL to encrypt communications between a web browser and a website.",
+    "tag": "Web Security",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "SEC-001-M1",
+    "question": "What does 'SQL Injection' (SQLi) target?",
+    "options": ["A database's query structure through malformed parameters", "The network router's firmware", "The user's web browser cache", "The CPU's instruction set"],
+    "answer": "A database's query structure through malformed parameters",
+    "explanation": "SQL injection attacks use malicious SQL statements to manipulate a database, often leading to unauthorized data access.",
+    "tag": "Vulnerabilities",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "SEC-001-M2",
+    "question": "In the context of the CIA Triad, what does 'Availability' mean?",
+    "options": ["Ensuring data and systems are accessible when needed", "Hiding data from unauthorized users", "Ensuring data is accurate", "Creating backups of all files"],
+    "answer": "Ensuring data and systems are accessible when needed",
+    "explanation": "Availability ensures that authorized users have reliable and timely access to information and resources.",
+    "tag": "Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "SEC-001-M3",
+    "question": "Which tool is commonly used for network packet analysis and troubleshooting?",
+    "options": ["Wireshark", "Metasploit", "Nmap", "Nessus"],
+    "answer": "Wireshark",
+    "explanation": "Wireshark is a popular open-source packet analyzer used for network troubleshooting and analysis.",
+    "tag": "Tools",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "SEC-001-H1",
+    "question": "What is the 'Diffie-Hellman' algorithm primarily used for?",
+    "options": ["Secure key exchange over insecure channels", "Symmetric data encryption", "Hashing passwords", "Creating digital certificates"],
+    "answer": "Secure key exchange over insecure channels",
+    "explanation": "Diffie-Hellman allows two parties to create a shared secret key over an untrusted network, enabling further secure communication.",
+    "tag": "Cryptography",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "SEC-001-H2",
+    "question": "What is a 'Zero-Day' vulnerability?",
+    "options": ["A security flaw unknown to the software creator and unprotected by patches", "A bug that occurs only on the first day of the year", "A type of denial-of-service attack", "A system that has no users"],
+    "answer": "A security flaw unknown to the software creator and unprotected by patches",
+    "explanation": "Zero-day refers to the fact that the developer has 'zero days' to fix the flaw before it becomes a potential target for hackers.",
+    "tag": "Vulnerabilities",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "SEC-001-H3",
+    "question": "In an 'ARP Spoofing' attack, what does the attacker aim to manipulate?",
+    "options": ["The mapping of IP addresses to MAC addresses", "The DNS resolution process", "The server's routing table", "The web browser's search history"],
+    "answer": "The mapping of IP addresses to MAC addresses",
+    "explanation": "By sending fake ARP messages, an attacker can associate their MAC address with the IP address of a legitimate server, intercepting network traffic.",
+    "tag": "Network Attacks",
+    "difficulty": "Hard"
+  }
+]

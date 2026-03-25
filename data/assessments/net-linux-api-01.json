@@ -1,0 +1,83 @@
+[
+  {
+    "id": "NET-001-E1",
+    "question": "What is the primary purpose of an IP address?",
+    "options": ["To identify a device on a network", "To encrypt data", "To speed up a computer", "To connect to a printer"],
+    "answer": "To identify a device on a network",
+    "explanation": "An IP (Internet Protocol) address is a numerical label assigned to each device connected to a computer network that uses the Internet Protocol for communication.",
+    "tag": "Networking",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "LINUX-001-E1",
+    "question": "Which command is used to list files in a directory in Linux?",
+    "options": ["ls", "cd", "dir", "mkdir"],
+    "answer": "ls",
+    "explanation": "The 'ls' command lists all files and directories in the current working directory.",
+    "tag": "Linux",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "API-001-E1",
+    "question": "Which HTTP method is most commonly used to 'Create' a new resource?",
+    "options": ["POST", "GET", "PUT", "DELETE"],
+    "answer": "POST",
+    "explanation": "In RESTful APIs, the POST method is used to send data to a server to create a new resource.",
+    "tag": "API Basics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "NET-001-M1",
+    "question": "What is the difference between a 'Hub' and a 'Switch'?",
+    "options": ["A Hub broadcasts traffic to all ports; a Switch sends it only to the destination port", "A Switch is slower than a Hub", "A Hub is for large networks; a Switch for small ones", "There is no difference"],
+    "answer": "A Hub broadcasts traffic to all ports; a Switch sends it only to the destination port",
+    "explanation": "Switches are more intelligent than hubs as they use MAC addresses to forward data only to the specific port that needs to receive it.",
+    "tag": "Networking",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "LINUX-001-M1",
+    "question": "How do you change the permissions of a file to 'Read, Write, and Execute' for the owner in Linux?",
+    "options": ["chmod 700 filename", "chown 777 filename", "chmod +rwx filename", "chgrp 700 filename"],
+    "answer": "chmod 700 filename",
+    "explanation": "The number 7 represents 4 (read) + 2 (write) + 1 (execute) for the owner, while 00 means no permissions for others.",
+    "tag": "Linux",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "API-001-M1",
+    "question": "What does 'Idempotent' mean in the context of an API?",
+    "options": ["An operation that can be performed multiple times with the same result", "An operation that is very fast", "An operation that uses a lot of memory", "An operation that is encrypted"],
+    "answer": "An operation that can be performed multiple times with the same result",
+    "explanation": "In REST, GET, PUT, and DELETE methods are typically idempotent, meaning repeating the request doesn't change the server's state further after the first execution.",
+    "tag": "API Design",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "NET-001-H1",
+    "question": "What is 'OSPF' (Open Shortest Path First)?",
+    "options": ["A link-state routing protocol for IP networks", "A type of firewall configuration", "A tool for monitoring website traffic", "A method for encrypting data"],
+    "answer": "A link-state routing protocol for IP networks",
+    "explanation": "OSPF is a dynamic routing protocol used to find the best path for data within an autonomous system (AS).",
+    "tag": "Networking",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "LINUX-001-H1",
+    "question": "What is a 'Kernel Panic' and what cause it?",
+    "options": ["A safety measure taken by an operating system's kernel upon detecting a fatal internal error", "A type of user error", "A warning about low disk space", "A tool for fixing code syntax"],
+    "answer": "A safety measure taken by an operating system's kernel upon detecting a fatal internal error",
+    "explanation": "A kernel panic occurs when the Linux kernel encounters a situation it cannot recover from, such as hardware failure or corrupted system files.",
+    "tag": "Linux",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "API-001-H1",
+    "question": "How would you handle 'Rate Limiting' in a distributed API system?",
+    "options": ["Using a centralized middleware like Redis to store request counts", "Implementing it on the server side using locally-stored counters", "Asking users to wait for a specific time", "Blocking all incoming traffic for a certain period"],
+    "answer": "Using a centralized middleware like Redis to store request counts",
+    "explanation": "In a distributed system, local counters would allow more requests than the overall limit. A central, fast database like Redis can keep track of all requests from a user across all servers.",
+    "tag": "API Scaling",
+    "difficulty": "Hard"
+  }
+]

@@ -1,0 +1,3252 @@
+[
+  {
+    "id": "CEH-Ethical-Hacking-E001",
+    "question": "What is the primary function of CEH DHCP?",
+    "options": [
+      "Incorrect approach",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "e",
+    "explanation": "**CEH-Ethical-Hacking E Solution:** What is the primary function of CEH DHCP?. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-E002",
+    "question": "Default subnet mask for Class C network in CEH-Ethical-Hacking?",
+    "options": [
+      "Correct CEH-Ethical-Hacking procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "e",
+    "explanation": "**CEH-Ethical-Hacking E Solution:** Default subnet mask for Class C network in CEH-Ethical-Hacking?. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-E003",
+    "question": "Which port does CEH-Ethical-Hacking service use by default?",
+    "options": [
+      "Dangerous method",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "e",
+    "explanation": "**CEH-Ethical-Hacking E Solution:** Which port does CEH-Ethical-Hacking service use by default?. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-E004",
+    "question": "Common protocol for CEH-Ethical-Hacking remote access?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "e",
+    "explanation": "**CEH-Ethical-Hacking E Solution:** Common protocol for CEH-Ethical-Hacking remote access?. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-E005",
+    "question": "Common protocol for CEH-Ethical-Hacking remote access?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "e",
+    "explanation": "**CEH-Ethical-Hacking E Solution:** Common protocol for CEH-Ethical-Hacking remote access?. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-E006",
+    "question": "Common protocol for CEH-Ethical-Hacking remote access?",
+    "options": [
+      "Incorrect approach",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "e",
+    "explanation": "**CEH-Ethical-Hacking E Solution:** Common protocol for CEH-Ethical-Hacking remote access?. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-E007",
+    "question": "Default subnet mask for Class C network in CEH-Ethical-Hacking?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "e",
+    "explanation": "**CEH-Ethical-Hacking E Solution:** Default subnet mask for Class C network in CEH-Ethical-Hacking?. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-E008",
+    "question": "Which port does CEH-Ethical-Hacking service use by default?",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "e",
+    "explanation": "**CEH-Ethical-Hacking E Solution:** Which port does CEH-Ethical-Hacking service use by default?. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-E009",
+    "question": "Which port does CEH-Ethical-Hacking service use by default?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct CEH-Ethical-Hacking procedure"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "e",
+    "explanation": "**CEH-Ethical-Hacking E Solution:** Which port does CEH-Ethical-Hacking service use by default?. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-E010",
+    "question": "Common protocol for CEH-Ethical-Hacking remote access?",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct CEH-Ethical-Hacking procedure"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "e",
+    "explanation": "**CEH-Ethical-Hacking E Solution:** Common protocol for CEH-Ethical-Hacking remote access?. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-E011",
+    "question": "Default subnet mask for Class C network in CEH-Ethical-Hacking?",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CEH-Ethical-Hacking procedure"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "e",
+    "explanation": "**CEH-Ethical-Hacking E Solution:** Default subnet mask for Class C network in CEH-Ethical-Hacking?. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-E012",
+    "question": "Common protocol for CEH-Ethical-Hacking remote access?",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct CEH-Ethical-Hacking procedure"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "e",
+    "explanation": "**CEH-Ethical-Hacking E Solution:** Common protocol for CEH-Ethical-Hacking remote access?. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-E013",
+    "question": "What does CEH ACL stand for?",
+    "options": [
+      "Correct CEH-Ethical-Hacking procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "e",
+    "explanation": "**CEH-Ethical-Hacking E Solution:** What does CEH ACL stand for?. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-E014",
+    "question": "What does CEH ACL stand for?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "e",
+    "explanation": "**CEH-Ethical-Hacking E Solution:** What does CEH ACL stand for?. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-E015",
+    "question": "Common protocol for CEH-Ethical-Hacking remote access?",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct CEH-Ethical-Hacking procedure"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "e",
+    "explanation": "**CEH-Ethical-Hacking E Solution:** Common protocol for CEH-Ethical-Hacking remote access?. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-E016",
+    "question": "Common protocol for CEH-Ethical-Hacking remote access?",
+    "options": [
+      "Dangerous method",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "e",
+    "explanation": "**CEH-Ethical-Hacking E Solution:** Common protocol for CEH-Ethical-Hacking remote access?. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-E017",
+    "question": "Common protocol for CEH-Ethical-Hacking remote access?",
+    "options": [
+      "Correct CEH-Ethical-Hacking procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "e",
+    "explanation": "**CEH-Ethical-Hacking E Solution:** Common protocol for CEH-Ethical-Hacking remote access?. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-E018",
+    "question": "Default subnet mask for Class C network in CEH-Ethical-Hacking?",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach",
+      "Correct CEH-Ethical-Hacking procedure"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "e",
+    "explanation": "**CEH-Ethical-Hacking E Solution:** Default subnet mask for Class C network in CEH-Ethical-Hacking?. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-E019",
+    "question": "Which port does CEH-Ethical-Hacking service use by default?",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CEH-Ethical-Hacking procedure"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "e",
+    "explanation": "**CEH-Ethical-Hacking E Solution:** Which port does CEH-Ethical-Hacking service use by default?. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-E020",
+    "question": "What does CEH ACL stand for?",
+    "options": [
+      "Correct CEH-Ethical-Hacking procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "e",
+    "explanation": "**CEH-Ethical-Hacking E Solution:** What does CEH ACL stand for?. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-E021",
+    "question": "Default subnet mask for Class C network in CEH-Ethical-Hacking?",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct CEH-Ethical-Hacking procedure"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "e",
+    "explanation": "**CEH-Ethical-Hacking E Solution:** Default subnet mask for Class C network in CEH-Ethical-Hacking?. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-E022",
+    "question": "What does CEH ACL stand for?",
+    "options": [
+      "Dangerous method",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "e",
+    "explanation": "**CEH-Ethical-Hacking E Solution:** What does CEH ACL stand for?. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-E023",
+    "question": "What does CEH ACL stand for?",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CEH-Ethical-Hacking procedure"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "e",
+    "explanation": "**CEH-Ethical-Hacking E Solution:** What does CEH ACL stand for?. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-E024",
+    "question": "What is the primary function of CEH DHCP?",
+    "options": [
+      "Partially correct",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "e",
+    "explanation": "**CEH-Ethical-Hacking E Solution:** What is the primary function of CEH DHCP?. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-E025",
+    "question": "What does CEH ACL stand for?",
+    "options": [
+      "Dangerous method",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "e",
+    "explanation": "**CEH-Ethical-Hacking E Solution:** What does CEH ACL stand for?. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-E026",
+    "question": "Default subnet mask for Class C network in CEH-Ethical-Hacking?",
+    "options": [
+      "Dangerous method",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "e",
+    "explanation": "**CEH-Ethical-Hacking E Solution:** Default subnet mask for Class C network in CEH-Ethical-Hacking?. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-E027",
+    "question": "Common protocol for CEH-Ethical-Hacking remote access?",
+    "options": [
+      "Partially correct",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "e",
+    "explanation": "**CEH-Ethical-Hacking E Solution:** Common protocol for CEH-Ethical-Hacking remote access?. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-E028",
+    "question": "Which port does CEH-Ethical-Hacking service use by default?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct CEH-Ethical-Hacking procedure"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "e",
+    "explanation": "**CEH-Ethical-Hacking E Solution:** Which port does CEH-Ethical-Hacking service use by default?. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-E029",
+    "question": "Default subnet mask for Class C network in CEH-Ethical-Hacking?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct CEH-Ethical-Hacking procedure"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "e",
+    "explanation": "**CEH-Ethical-Hacking E Solution:** Default subnet mask for Class C network in CEH-Ethical-Hacking?. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-E030",
+    "question": "Default subnet mask for Class C network in CEH-Ethical-Hacking?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "e",
+    "explanation": "**CEH-Ethical-Hacking E Solution:** Default subnet mask for Class C network in CEH-Ethical-Hacking?. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-E031",
+    "question": "Common protocol for CEH-Ethical-Hacking remote access?",
+    "options": [
+      "Correct CEH-Ethical-Hacking procedure",
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "e",
+    "explanation": "**CEH-Ethical-Hacking E Solution:** Common protocol for CEH-Ethical-Hacking remote access?. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-E032",
+    "question": "Default subnet mask for Class C network in CEH-Ethical-Hacking?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "e",
+    "explanation": "**CEH-Ethical-Hacking E Solution:** Default subnet mask for Class C network in CEH-Ethical-Hacking?. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-E033",
+    "question": "Common protocol for CEH-Ethical-Hacking remote access?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "e",
+    "explanation": "**CEH-Ethical-Hacking E Solution:** Common protocol for CEH-Ethical-Hacking remote access?. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-E034",
+    "question": "Common protocol for CEH-Ethical-Hacking remote access?",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "e",
+    "explanation": "**CEH-Ethical-Hacking E Solution:** Common protocol for CEH-Ethical-Hacking remote access?. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-E035",
+    "question": "Common protocol for CEH-Ethical-Hacking remote access?",
+    "options": [
+      "Correct CEH-Ethical-Hacking procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "e",
+    "explanation": "**CEH-Ethical-Hacking E Solution:** Common protocol for CEH-Ethical-Hacking remote access?. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-E036",
+    "question": "What does CEH ACL stand for?",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CEH-Ethical-Hacking procedure"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "e",
+    "explanation": "**CEH-Ethical-Hacking E Solution:** What does CEH ACL stand for?. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-E037",
+    "question": "What is the primary function of CEH DHCP?",
+    "options": [
+      "Correct CEH-Ethical-Hacking procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "e",
+    "explanation": "**CEH-Ethical-Hacking E Solution:** What is the primary function of CEH DHCP?. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-E038",
+    "question": "What does CEH ACL stand for?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct CEH-Ethical-Hacking procedure"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "e",
+    "explanation": "**CEH-Ethical-Hacking E Solution:** What does CEH ACL stand for?. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-E039",
+    "question": "Default subnet mask for Class C network in CEH-Ethical-Hacking?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "e",
+    "explanation": "**CEH-Ethical-Hacking E Solution:** Default subnet mask for Class C network in CEH-Ethical-Hacking?. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-E040",
+    "question": "What is the primary function of CEH DHCP?",
+    "options": [
+      "Dangerous method",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "e",
+    "explanation": "**CEH-Ethical-Hacking E Solution:** What is the primary function of CEH DHCP?. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-E041",
+    "question": "What does CEH ACL stand for?",
+    "options": [
+      "Dangerous method",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "e",
+    "explanation": "**CEH-Ethical-Hacking E Solution:** What does CEH ACL stand for?. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-E042",
+    "question": "Default subnet mask for Class C network in CEH-Ethical-Hacking?",
+    "options": [
+      "Dangerous method",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "e",
+    "explanation": "**CEH-Ethical-Hacking E Solution:** Default subnet mask for Class C network in CEH-Ethical-Hacking?. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-E043",
+    "question": "What is the primary function of CEH DHCP?",
+    "options": [
+      "Partially correct",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "e",
+    "explanation": "**CEH-Ethical-Hacking E Solution:** What is the primary function of CEH DHCP?. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-E044",
+    "question": "Which port does CEH-Ethical-Hacking service use by default?",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Partially correct"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "e",
+    "explanation": "**CEH-Ethical-Hacking E Solution:** Which port does CEH-Ethical-Hacking service use by default?. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-E045",
+    "question": "Default subnet mask for Class C network in CEH-Ethical-Hacking?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct CEH-Ethical-Hacking procedure"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "e",
+    "explanation": "**CEH-Ethical-Hacking E Solution:** Default subnet mask for Class C network in CEH-Ethical-Hacking?. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-E046",
+    "question": "Default subnet mask for Class C network in CEH-Ethical-Hacking?",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CEH-Ethical-Hacking procedure"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "e",
+    "explanation": "**CEH-Ethical-Hacking E Solution:** Default subnet mask for Class C network in CEH-Ethical-Hacking?. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-E047",
+    "question": "What is the primary function of CEH DHCP?",
+    "options": [
+      "Incorrect approach",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "e",
+    "explanation": "**CEH-Ethical-Hacking E Solution:** What is the primary function of CEH DHCP?. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-E048",
+    "question": "What does CEH ACL stand for?",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach",
+      "Correct CEH-Ethical-Hacking procedure"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "e",
+    "explanation": "**CEH-Ethical-Hacking E Solution:** What does CEH ACL stand for?. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-E049",
+    "question": "What does CEH ACL stand for?",
+    "options": [
+      "Dangerous method",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "e",
+    "explanation": "**CEH-Ethical-Hacking E Solution:** What does CEH ACL stand for?. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-E050",
+    "question": "What does CEH ACL stand for?",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct CEH-Ethical-Hacking procedure"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "e",
+    "explanation": "**CEH-Ethical-Hacking E Solution:** What does CEH ACL stand for?. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-M001",
+    "question": "Troubleshoot CEH-Ethical-Hacking connectivity issue between VLANs",
+    "options": [
+      "Dangerous method",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "m",
+    "explanation": "**CEH-Ethical-Hacking M Solution:** Troubleshoot CEH-Ethical-Hacking connectivity issue between VLANs. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-M002",
+    "question": "Set up CEH-Ethical-Hacking failover clustering",
+    "options": [
+      "Partially correct",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "m",
+    "explanation": "**CEH-Ethical-Hacking M Solution:** Set up CEH-Ethical-Hacking failover clustering. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-M003",
+    "question": "Configure CEH-Ethical-Hacking load balancer for high availability",
+    "options": [
+      "Dangerous method",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "m",
+    "explanation": "**CEH-Ethical-Hacking M Solution:** Configure CEH-Ethical-Hacking load balancer for high availability. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-M004",
+    "question": "Troubleshoot CEH-Ethical-Hacking connectivity issue between VLANs",
+    "options": [
+      "Correct CEH-Ethical-Hacking procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "m",
+    "explanation": "**CEH-Ethical-Hacking M Solution:** Troubleshoot CEH-Ethical-Hacking connectivity issue between VLANs. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-M005",
+    "question": "Set up CEH-Ethical-Hacking failover clustering",
+    "options": [
+      "Correct CEH-Ethical-Hacking procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "m",
+    "explanation": "**CEH-Ethical-Hacking M Solution:** Set up CEH-Ethical-Hacking failover clustering. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-M006",
+    "question": "Implement CEH-Ethical-Hacking backup strategy for compliance",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "m",
+    "explanation": "**CEH-Ethical-Hacking M Solution:** Implement CEH-Ethical-Hacking backup strategy for compliance. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-M007",
+    "question": "Implement CEH-Ethical-Hacking backup strategy for compliance",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct CEH-Ethical-Hacking procedure"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "m",
+    "explanation": "**CEH-Ethical-Hacking M Solution:** Implement CEH-Ethical-Hacking backup strategy for compliance. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-M008",
+    "question": "Troubleshoot CEH-Ethical-Hacking connectivity issue between VLANs",
+    "options": [
+      "Correct CEH-Ethical-Hacking procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "m",
+    "explanation": "**CEH-Ethical-Hacking M Solution:** Troubleshoot CEH-Ethical-Hacking connectivity issue between VLANs. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-M009",
+    "question": "Troubleshoot CEH-Ethical-Hacking connectivity issue between VLANs",
+    "options": [
+      "Dangerous method",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "m",
+    "explanation": "**CEH-Ethical-Hacking M Solution:** Troubleshoot CEH-Ethical-Hacking connectivity issue between VLANs. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-M010",
+    "question": "Implement CEH-Ethical-Hacking backup strategy for compliance",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct CEH-Ethical-Hacking procedure"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "m",
+    "explanation": "**CEH-Ethical-Hacking M Solution:** Implement CEH-Ethical-Hacking backup strategy for compliance. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-M011",
+    "question": "Implement CEH-Ethical-Hacking backup strategy for compliance",
+    "options": [
+      "Correct CEH-Ethical-Hacking procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "m",
+    "explanation": "**CEH-Ethical-Hacking M Solution:** Implement CEH-Ethical-Hacking backup strategy for compliance. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-M012",
+    "question": "Optimize CEH-Ethical-Hacking query performance",
+    "options": [
+      "Correct CEH-Ethical-Hacking procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "m",
+    "explanation": "**CEH-Ethical-Hacking M Solution:** Optimize CEH-Ethical-Hacking query performance. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-M013",
+    "question": "Optimize CEH-Ethical-Hacking query performance",
+    "options": [
+      "Incorrect approach",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "m",
+    "explanation": "**CEH-Ethical-Hacking M Solution:** Optimize CEH-Ethical-Hacking query performance. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-M014",
+    "question": "Set up CEH-Ethical-Hacking failover clustering",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "m",
+    "explanation": "**CEH-Ethical-Hacking M Solution:** Set up CEH-Ethical-Hacking failover clustering. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-M015",
+    "question": "Implement CEH-Ethical-Hacking backup strategy for compliance",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "m",
+    "explanation": "**CEH-Ethical-Hacking M Solution:** Implement CEH-Ethical-Hacking backup strategy for compliance. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-M016",
+    "question": "Implement CEH-Ethical-Hacking backup strategy for compliance",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct CEH-Ethical-Hacking procedure"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "m",
+    "explanation": "**CEH-Ethical-Hacking M Solution:** Implement CEH-Ethical-Hacking backup strategy for compliance. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-M017",
+    "question": "Troubleshoot CEH-Ethical-Hacking connectivity issue between VLANs",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CEH-Ethical-Hacking procedure"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "m",
+    "explanation": "**CEH-Ethical-Hacking M Solution:** Troubleshoot CEH-Ethical-Hacking connectivity issue between VLANs. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-M018",
+    "question": "Set up CEH-Ethical-Hacking failover clustering",
+    "options": [
+      "Dangerous method",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "m",
+    "explanation": "**CEH-Ethical-Hacking M Solution:** Set up CEH-Ethical-Hacking failover clustering. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-M019",
+    "question": "Troubleshoot CEH-Ethical-Hacking connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "m",
+    "explanation": "**CEH-Ethical-Hacking M Solution:** Troubleshoot CEH-Ethical-Hacking connectivity issue between VLANs. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-M020",
+    "question": "Set up CEH-Ethical-Hacking failover clustering",
+    "options": [
+      "Partially correct",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "m",
+    "explanation": "**CEH-Ethical-Hacking M Solution:** Set up CEH-Ethical-Hacking failover clustering. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-M021",
+    "question": "Optimize CEH-Ethical-Hacking query performance",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct CEH-Ethical-Hacking procedure"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "m",
+    "explanation": "**CEH-Ethical-Hacking M Solution:** Optimize CEH-Ethical-Hacking query performance. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-M022",
+    "question": "Configure CEH-Ethical-Hacking load balancer for high availability",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "m",
+    "explanation": "**CEH-Ethical-Hacking M Solution:** Configure CEH-Ethical-Hacking load balancer for high availability. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-M023",
+    "question": "Troubleshoot CEH-Ethical-Hacking connectivity issue between VLANs",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "m",
+    "explanation": "**CEH-Ethical-Hacking M Solution:** Troubleshoot CEH-Ethical-Hacking connectivity issue between VLANs. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-M024",
+    "question": "Troubleshoot CEH-Ethical-Hacking connectivity issue between VLANs",
+    "options": [
+      "Dangerous method",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "m",
+    "explanation": "**CEH-Ethical-Hacking M Solution:** Troubleshoot CEH-Ethical-Hacking connectivity issue between VLANs. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-M025",
+    "question": "Troubleshoot CEH-Ethical-Hacking connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "m",
+    "explanation": "**CEH-Ethical-Hacking M Solution:** Troubleshoot CEH-Ethical-Hacking connectivity issue between VLANs. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-M026",
+    "question": "Implement CEH-Ethical-Hacking backup strategy for compliance",
+    "options": [
+      "Correct CEH-Ethical-Hacking procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "m",
+    "explanation": "**CEH-Ethical-Hacking M Solution:** Implement CEH-Ethical-Hacking backup strategy for compliance. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-M027",
+    "question": "Configure CEH-Ethical-Hacking load balancer for high availability",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Partially correct"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "m",
+    "explanation": "**CEH-Ethical-Hacking M Solution:** Configure CEH-Ethical-Hacking load balancer for high availability. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-M028",
+    "question": "Troubleshoot CEH-Ethical-Hacking connectivity issue between VLANs",
+    "options": [
+      "Dangerous method",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "m",
+    "explanation": "**CEH-Ethical-Hacking M Solution:** Troubleshoot CEH-Ethical-Hacking connectivity issue between VLANs. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-M029",
+    "question": "Implement CEH-Ethical-Hacking backup strategy for compliance",
+    "options": [
+      "Correct CEH-Ethical-Hacking procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "m",
+    "explanation": "**CEH-Ethical-Hacking M Solution:** Implement CEH-Ethical-Hacking backup strategy for compliance. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-M030",
+    "question": "Optimize CEH-Ethical-Hacking query performance",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "m",
+    "explanation": "**CEH-Ethical-Hacking M Solution:** Optimize CEH-Ethical-Hacking query performance. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-M031",
+    "question": "Set up CEH-Ethical-Hacking failover clustering",
+    "options": [
+      "Correct CEH-Ethical-Hacking procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "m",
+    "explanation": "**CEH-Ethical-Hacking M Solution:** Set up CEH-Ethical-Hacking failover clustering. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-M032",
+    "question": "Optimize CEH-Ethical-Hacking query performance",
+    "options": [
+      "Dangerous method",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "m",
+    "explanation": "**CEH-Ethical-Hacking M Solution:** Optimize CEH-Ethical-Hacking query performance. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-M033",
+    "question": "Optimize CEH-Ethical-Hacking query performance",
+    "options": [
+      "Correct CEH-Ethical-Hacking procedure",
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "m",
+    "explanation": "**CEH-Ethical-Hacking M Solution:** Optimize CEH-Ethical-Hacking query performance. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-M034",
+    "question": "Implement CEH-Ethical-Hacking backup strategy for compliance",
+    "options": [
+      "Correct CEH-Ethical-Hacking procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "m",
+    "explanation": "**CEH-Ethical-Hacking M Solution:** Implement CEH-Ethical-Hacking backup strategy for compliance. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-M035",
+    "question": "Configure CEH-Ethical-Hacking load balancer for high availability",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CEH-Ethical-Hacking procedure"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "m",
+    "explanation": "**CEH-Ethical-Hacking M Solution:** Configure CEH-Ethical-Hacking load balancer for high availability. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-M036",
+    "question": "Set up CEH-Ethical-Hacking failover clustering",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct CEH-Ethical-Hacking procedure"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "m",
+    "explanation": "**CEH-Ethical-Hacking M Solution:** Set up CEH-Ethical-Hacking failover clustering. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-M037",
+    "question": "Implement CEH-Ethical-Hacking backup strategy for compliance",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "m",
+    "explanation": "**CEH-Ethical-Hacking M Solution:** Implement CEH-Ethical-Hacking backup strategy for compliance. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-M038",
+    "question": "Configure CEH-Ethical-Hacking load balancer for high availability",
+    "options": [
+      "Correct CEH-Ethical-Hacking procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "m",
+    "explanation": "**CEH-Ethical-Hacking M Solution:** Configure CEH-Ethical-Hacking load balancer for high availability. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-M039",
+    "question": "Implement CEH-Ethical-Hacking backup strategy for compliance",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct CEH-Ethical-Hacking procedure"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "m",
+    "explanation": "**CEH-Ethical-Hacking M Solution:** Implement CEH-Ethical-Hacking backup strategy for compliance. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-M040",
+    "question": "Implement CEH-Ethical-Hacking backup strategy for compliance",
+    "options": [
+      "Dangerous method",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "m",
+    "explanation": "**CEH-Ethical-Hacking M Solution:** Implement CEH-Ethical-Hacking backup strategy for compliance. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-M041",
+    "question": "Troubleshoot CEH-Ethical-Hacking connectivity issue between VLANs",
+    "options": [
+      "Correct CEH-Ethical-Hacking procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "m",
+    "explanation": "**CEH-Ethical-Hacking M Solution:** Troubleshoot CEH-Ethical-Hacking connectivity issue between VLANs. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-M042",
+    "question": "Set up CEH-Ethical-Hacking failover clustering",
+    "options": [
+      "Dangerous method",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "m",
+    "explanation": "**CEH-Ethical-Hacking M Solution:** Set up CEH-Ethical-Hacking failover clustering. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-M043",
+    "question": "Set up CEH-Ethical-Hacking failover clustering",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct CEH-Ethical-Hacking procedure"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "m",
+    "explanation": "**CEH-Ethical-Hacking M Solution:** Set up CEH-Ethical-Hacking failover clustering. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-M044",
+    "question": "Implement CEH-Ethical-Hacking backup strategy for compliance",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach",
+      "Correct CEH-Ethical-Hacking procedure"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "m",
+    "explanation": "**CEH-Ethical-Hacking M Solution:** Implement CEH-Ethical-Hacking backup strategy for compliance. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-M045",
+    "question": "Implement CEH-Ethical-Hacking backup strategy for compliance",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "m",
+    "explanation": "**CEH-Ethical-Hacking M Solution:** Implement CEH-Ethical-Hacking backup strategy for compliance. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-M046",
+    "question": "Set up CEH-Ethical-Hacking failover clustering",
+    "options": [
+      "Correct CEH-Ethical-Hacking procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "m",
+    "explanation": "**CEH-Ethical-Hacking M Solution:** Set up CEH-Ethical-Hacking failover clustering. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-M047",
+    "question": "Troubleshoot CEH-Ethical-Hacking connectivity issue between VLANs",
+    "options": [
+      "Dangerous method",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "m",
+    "explanation": "**CEH-Ethical-Hacking M Solution:** Troubleshoot CEH-Ethical-Hacking connectivity issue between VLANs. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-M048",
+    "question": "Optimize CEH-Ethical-Hacking query performance",
+    "options": [
+      "Correct CEH-Ethical-Hacking procedure",
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "m",
+    "explanation": "**CEH-Ethical-Hacking M Solution:** Optimize CEH-Ethical-Hacking query performance. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-M049",
+    "question": "Configure CEH-Ethical-Hacking load balancer for high availability",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct CEH-Ethical-Hacking procedure"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "m",
+    "explanation": "**CEH-Ethical-Hacking M Solution:** Configure CEH-Ethical-Hacking load balancer for high availability. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-M050",
+    "question": "Optimize CEH-Ethical-Hacking query performance",
+    "options": [
+      "Dangerous method",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "m",
+    "explanation": "**CEH-Ethical-Hacking M Solution:** Optimize CEH-Ethical-Hacking query performance. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-H001",
+    "question": "Optimize CEH-Ethical-Hacking performance under DDoS attack",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CEH-Ethical-Hacking procedure"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "h",
+    "explanation": "**CEH-Ethical-Hacking H Solution:** Optimize CEH-Ethical-Hacking performance under DDoS attack. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-H002",
+    "question": "Implement zero-trust security model in CEH-Ethical-Hacking",
+    "options": [
+      "Correct CEH-Ethical-Hacking procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "h",
+    "explanation": "**CEH-Ethical-Hacking H Solution:** Implement zero-trust security model in CEH-Ethical-Hacking. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-H003",
+    "question": "Create disaster recovery plan with RTO < 15min for CEH-Ethical-Hacking",
+    "options": [
+      "Correct CEH-Ethical-Hacking procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "h",
+    "explanation": "**CEH-Ethical-Hacking H Solution:** Create disaster recovery plan with RTO < 15min for CEH-Ethical-Hacking. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-H004",
+    "question": "Implement zero-trust security model in CEH-Ethical-Hacking",
+    "options": [
+      "Dangerous method",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "h",
+    "explanation": "**CEH-Ethical-Hacking H Solution:** Implement zero-trust security model in CEH-Ethical-Hacking. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-H005",
+    "question": "Migrate legacy CEH-Ethical-Hacking systems to cloud-native architecture",
+    "options": [
+      "Dangerous method",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "h",
+    "explanation": "**CEH-Ethical-Hacking H Solution:** Migrate legacy CEH-Ethical-Hacking systems to cloud-native architecture. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-H006",
+    "question": "Implement zero-trust security model in CEH-Ethical-Hacking",
+    "options": [
+      "Dangerous method",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "h",
+    "explanation": "**CEH-Ethical-Hacking H Solution:** Implement zero-trust security model in CEH-Ethical-Hacking. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-H007",
+    "question": "Design CEH-Ethical-Hacking architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "h",
+    "explanation": "**CEH-Ethical-Hacking H Solution:** Design CEH-Ethical-Hacking architecture for 10k users with 99.99% uptime. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-H008",
+    "question": "Optimize CEH-Ethical-Hacking performance under DDoS attack",
+    "options": [
+      "Correct CEH-Ethical-Hacking procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "h",
+    "explanation": "**CEH-Ethical-Hacking H Solution:** Optimize CEH-Ethical-Hacking performance under DDoS attack. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-H009",
+    "question": "Migrate legacy CEH-Ethical-Hacking systems to cloud-native architecture",
+    "options": [
+      "Correct CEH-Ethical-Hacking procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "h",
+    "explanation": "**CEH-Ethical-Hacking H Solution:** Migrate legacy CEH-Ethical-Hacking systems to cloud-native architecture. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-H010",
+    "question": "Design CEH-Ethical-Hacking architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct CEH-Ethical-Hacking procedure"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "h",
+    "explanation": "**CEH-Ethical-Hacking H Solution:** Design CEH-Ethical-Hacking architecture for 10k users with 99.99% uptime. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-H011",
+    "question": "Create disaster recovery plan with RTO < 15min for CEH-Ethical-Hacking",
+    "options": [
+      "Dangerous method",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "h",
+    "explanation": "**CEH-Ethical-Hacking H Solution:** Create disaster recovery plan with RTO < 15min for CEH-Ethical-Hacking. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-H012",
+    "question": "Implement zero-trust security model in CEH-Ethical-Hacking",
+    "options": [
+      "Dangerous method",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "h",
+    "explanation": "**CEH-Ethical-Hacking H Solution:** Implement zero-trust security model in CEH-Ethical-Hacking. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-H013",
+    "question": "Implement zero-trust security model in CEH-Ethical-Hacking",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct CEH-Ethical-Hacking procedure"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "h",
+    "explanation": "**CEH-Ethical-Hacking H Solution:** Implement zero-trust security model in CEH-Ethical-Hacking. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-H014",
+    "question": "Optimize CEH-Ethical-Hacking performance under DDoS attack",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "h",
+    "explanation": "**CEH-Ethical-Hacking H Solution:** Optimize CEH-Ethical-Hacking performance under DDoS attack. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-H015",
+    "question": "Design CEH-Ethical-Hacking architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Incorrect approach",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "h",
+    "explanation": "**CEH-Ethical-Hacking H Solution:** Design CEH-Ethical-Hacking architecture for 10k users with 99.99% uptime. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-H016",
+    "question": "Design CEH-Ethical-Hacking architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Dangerous method",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "h",
+    "explanation": "**CEH-Ethical-Hacking H Solution:** Design CEH-Ethical-Hacking architecture for 10k users with 99.99% uptime. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-H017",
+    "question": "Migrate legacy CEH-Ethical-Hacking systems to cloud-native architecture",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "h",
+    "explanation": "**CEH-Ethical-Hacking H Solution:** Migrate legacy CEH-Ethical-Hacking systems to cloud-native architecture. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-H018",
+    "question": "Migrate legacy CEH-Ethical-Hacking systems to cloud-native architecture",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct CEH-Ethical-Hacking procedure"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "h",
+    "explanation": "**CEH-Ethical-Hacking H Solution:** Migrate legacy CEH-Ethical-Hacking systems to cloud-native architecture. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-H019",
+    "question": "Design CEH-Ethical-Hacking architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Dangerous method",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "h",
+    "explanation": "**CEH-Ethical-Hacking H Solution:** Design CEH-Ethical-Hacking architecture for 10k users with 99.99% uptime. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-H020",
+    "question": "Migrate legacy CEH-Ethical-Hacking systems to cloud-native architecture",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach",
+      "Correct CEH-Ethical-Hacking procedure"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "h",
+    "explanation": "**CEH-Ethical-Hacking H Solution:** Migrate legacy CEH-Ethical-Hacking systems to cloud-native architecture. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-H021",
+    "question": "Create disaster recovery plan with RTO < 15min for CEH-Ethical-Hacking",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "h",
+    "explanation": "**CEH-Ethical-Hacking H Solution:** Create disaster recovery plan with RTO < 15min for CEH-Ethical-Hacking. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-H022",
+    "question": "Migrate legacy CEH-Ethical-Hacking systems to cloud-native architecture",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct CEH-Ethical-Hacking procedure"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "h",
+    "explanation": "**CEH-Ethical-Hacking H Solution:** Migrate legacy CEH-Ethical-Hacking systems to cloud-native architecture. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-H023",
+    "question": "Create disaster recovery plan with RTO < 15min for CEH-Ethical-Hacking",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "h",
+    "explanation": "**CEH-Ethical-Hacking H Solution:** Create disaster recovery plan with RTO < 15min for CEH-Ethical-Hacking. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-H024",
+    "question": "Design CEH-Ethical-Hacking architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Dangerous method",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "h",
+    "explanation": "**CEH-Ethical-Hacking H Solution:** Design CEH-Ethical-Hacking architecture for 10k users with 99.99% uptime. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-H025",
+    "question": "Optimize CEH-Ethical-Hacking performance under DDoS attack",
+    "options": [
+      "Correct CEH-Ethical-Hacking procedure",
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "h",
+    "explanation": "**CEH-Ethical-Hacking H Solution:** Optimize CEH-Ethical-Hacking performance under DDoS attack. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-H026",
+    "question": "Implement zero-trust security model in CEH-Ethical-Hacking",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "h",
+    "explanation": "**CEH-Ethical-Hacking H Solution:** Implement zero-trust security model in CEH-Ethical-Hacking. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-H027",
+    "question": "Implement zero-trust security model in CEH-Ethical-Hacking",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "h",
+    "explanation": "**CEH-Ethical-Hacking H Solution:** Implement zero-trust security model in CEH-Ethical-Hacking. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-H028",
+    "question": "Optimize CEH-Ethical-Hacking performance under DDoS attack",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "h",
+    "explanation": "**CEH-Ethical-Hacking H Solution:** Optimize CEH-Ethical-Hacking performance under DDoS attack. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-H029",
+    "question": "Implement zero-trust security model in CEH-Ethical-Hacking",
+    "options": [
+      "Dangerous method",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "h",
+    "explanation": "**CEH-Ethical-Hacking H Solution:** Implement zero-trust security model in CEH-Ethical-Hacking. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-H030",
+    "question": "Design CEH-Ethical-Hacking architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Dangerous method",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "h",
+    "explanation": "**CEH-Ethical-Hacking H Solution:** Design CEH-Ethical-Hacking architecture for 10k users with 99.99% uptime. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-H031",
+    "question": "Implement zero-trust security model in CEH-Ethical-Hacking",
+    "options": [
+      "Correct CEH-Ethical-Hacking procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "h",
+    "explanation": "**CEH-Ethical-Hacking H Solution:** Implement zero-trust security model in CEH-Ethical-Hacking. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-H032",
+    "question": "Implement zero-trust security model in CEH-Ethical-Hacking",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "h",
+    "explanation": "**CEH-Ethical-Hacking H Solution:** Implement zero-trust security model in CEH-Ethical-Hacking. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-H033",
+    "question": "Implement zero-trust security model in CEH-Ethical-Hacking",
+    "options": [
+      "Correct CEH-Ethical-Hacking procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "h",
+    "explanation": "**CEH-Ethical-Hacking H Solution:** Implement zero-trust security model in CEH-Ethical-Hacking. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-H034",
+    "question": "Design CEH-Ethical-Hacking architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "h",
+    "explanation": "**CEH-Ethical-Hacking H Solution:** Design CEH-Ethical-Hacking architecture for 10k users with 99.99% uptime. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-H035",
+    "question": "Migrate legacy CEH-Ethical-Hacking systems to cloud-native architecture",
+    "options": [
+      "Dangerous method",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "h",
+    "explanation": "**CEH-Ethical-Hacking H Solution:** Migrate legacy CEH-Ethical-Hacking systems to cloud-native architecture. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-H036",
+    "question": "Implement zero-trust security model in CEH-Ethical-Hacking",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CEH-Ethical-Hacking procedure"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "h",
+    "explanation": "**CEH-Ethical-Hacking H Solution:** Implement zero-trust security model in CEH-Ethical-Hacking. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-H037",
+    "question": "Implement zero-trust security model in CEH-Ethical-Hacking",
+    "options": [
+      "Dangerous method",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "h",
+    "explanation": "**CEH-Ethical-Hacking H Solution:** Implement zero-trust security model in CEH-Ethical-Hacking. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-H038",
+    "question": "Migrate legacy CEH-Ethical-Hacking systems to cloud-native architecture",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach",
+      "Correct CEH-Ethical-Hacking procedure"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "h",
+    "explanation": "**CEH-Ethical-Hacking H Solution:** Migrate legacy CEH-Ethical-Hacking systems to cloud-native architecture. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-H039",
+    "question": "Optimize CEH-Ethical-Hacking performance under DDoS attack",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct CEH-Ethical-Hacking procedure"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "h",
+    "explanation": "**CEH-Ethical-Hacking H Solution:** Optimize CEH-Ethical-Hacking performance under DDoS attack. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-H040",
+    "question": "Design CEH-Ethical-Hacking architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Dangerous method",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "h",
+    "explanation": "**CEH-Ethical-Hacking H Solution:** Design CEH-Ethical-Hacking architecture for 10k users with 99.99% uptime. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-H041",
+    "question": "Create disaster recovery plan with RTO < 15min for CEH-Ethical-Hacking",
+    "options": [
+      "Correct CEH-Ethical-Hacking procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "h",
+    "explanation": "**CEH-Ethical-Hacking H Solution:** Create disaster recovery plan with RTO < 15min for CEH-Ethical-Hacking. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-H042",
+    "question": "Implement zero-trust security model in CEH-Ethical-Hacking",
+    "options": [
+      "Dangerous method",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "h",
+    "explanation": "**CEH-Ethical-Hacking H Solution:** Implement zero-trust security model in CEH-Ethical-Hacking. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-H043",
+    "question": "Migrate legacy CEH-Ethical-Hacking systems to cloud-native architecture",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "h",
+    "explanation": "**CEH-Ethical-Hacking H Solution:** Migrate legacy CEH-Ethical-Hacking systems to cloud-native architecture. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-H044",
+    "question": "Implement zero-trust security model in CEH-Ethical-Hacking",
+    "options": [
+      "Correct CEH-Ethical-Hacking procedure",
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "h",
+    "explanation": "**CEH-Ethical-Hacking H Solution:** Implement zero-trust security model in CEH-Ethical-Hacking. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-H045",
+    "question": "Design CEH-Ethical-Hacking architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "h",
+    "explanation": "**CEH-Ethical-Hacking H Solution:** Design CEH-Ethical-Hacking architecture for 10k users with 99.99% uptime. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-H046",
+    "question": "Design CEH-Ethical-Hacking architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "h",
+    "explanation": "**CEH-Ethical-Hacking H Solution:** Design CEH-Ethical-Hacking architecture for 10k users with 99.99% uptime. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-H047",
+    "question": "Optimize CEH-Ethical-Hacking performance under DDoS attack",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct CEH-Ethical-Hacking procedure"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "h",
+    "explanation": "**CEH-Ethical-Hacking H Solution:** Optimize CEH-Ethical-Hacking performance under DDoS attack. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-H048",
+    "question": "Create disaster recovery plan with RTO < 15min for CEH-Ethical-Hacking",
+    "options": [
+      "Dangerous method",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "h",
+    "explanation": "**CEH-Ethical-Hacking H Solution:** Create disaster recovery plan with RTO < 15min for CEH-Ethical-Hacking. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-H049",
+    "question": "Migrate legacy CEH-Ethical-Hacking systems to cloud-native architecture",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct CEH-Ethical-Hacking procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "h",
+    "explanation": "**CEH-Ethical-Hacking H Solution:** Migrate legacy CEH-Ethical-Hacking systems to cloud-native architecture. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-H050",
+    "question": "Optimize CEH-Ethical-Hacking performance under DDoS attack",
+    "options": [
+      "Correct CEH-Ethical-Hacking procedure",
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct CEH-Ethical-Hacking procedure",
+    "difficulty": "h",
+    "explanation": "**CEH-Ethical-Hacking H Solution:** Optimize CEH-Ethical-Hacking performance under DDoS attack. Always verify CEH-Ethical-Hacking documentation and test in lab environment first."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S01-01",
+    "question": "1. Backup failure during scheduled window in CEH-Ethical-Hacking environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S01-02",
+    "question": "1. Backup failure during scheduled window in CEH-Ethical-Hacking environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S01-03",
+    "question": "1. Backup failure during scheduled window in CEH-Ethical-Hacking environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S01-04",
+    "question": "1. Backup failure during scheduled window in CEH-Ethical-Hacking environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S01-05",
+    "question": "1. Backup failure during scheduled window in CEH-Ethical-Hacking environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S02-01",
+    "question": "2. Cloud migration failure: rollback strategy in CEH-Ethical-Hacking environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S02-02",
+    "question": "2. Cloud migration failure: rollback strategy in CEH-Ethical-Hacking environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S02-03",
+    "question": "2. Cloud migration failure: rollback strategy in CEH-Ethical-Hacking environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S02-04",
+    "question": "2. Cloud migration failure: rollback strategy in CEH-Ethical-Hacking environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S02-05",
+    "question": "2. Cloud migration failure: rollback strategy in CEH-Ethical-Hacking environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S03-01",
+    "question": "3. VPN connectivity failure for remote users in CEH-Ethical-Hacking environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S03-02",
+    "question": "3. VPN connectivity failure for remote users in CEH-Ethical-Hacking environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S03-03",
+    "question": "3. VPN connectivity failure for remote users in CEH-Ethical-Hacking environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S03-04",
+    "question": "3. VPN connectivity failure for remote users in CEH-Ethical-Hacking environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S03-05",
+    "question": "3. VPN connectivity failure for remote users in CEH-Ethical-Hacking environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S04-01",
+    "question": "4. Backup failure during scheduled window in CEH-Ethical-Hacking environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S04-02",
+    "question": "4. Backup failure during scheduled window in CEH-Ethical-Hacking environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S04-03",
+    "question": "4. Backup failure during scheduled window in CEH-Ethical-Hacking environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S04-04",
+    "question": "4. Backup failure during scheduled window in CEH-Ethical-Hacking environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S04-05",
+    "question": "4. Backup failure during scheduled window in CEH-Ethical-Hacking environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S05-01",
+    "question": "5. Server overload during quarterly report generation in CEH-Ethical-Hacking environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S05-02",
+    "question": "5. Server overload during quarterly report generation in CEH-Ethical-Hacking environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S05-03",
+    "question": "5. Server overload during quarterly report generation in CEH-Ethical-Hacking environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S05-04",
+    "question": "5. Server overload during quarterly report generation in CEH-Ethical-Hacking environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S05-05",
+    "question": "5. Server overload during quarterly report generation in CEH-Ethical-Hacking environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S06-01",
+    "question": "6. Production outage during peak hours: diagnose and resolve in CEH-Ethical-Hacking environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S06-02",
+    "question": "6. Production outage during peak hours: diagnose and resolve in CEH-Ethical-Hacking environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S06-03",
+    "question": "6. Production outage during peak hours: diagnose and resolve in CEH-Ethical-Hacking environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S06-04",
+    "question": "6. Production outage during peak hours: diagnose and resolve in CEH-Ethical-Hacking environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S06-05",
+    "question": "6. Production outage during peak hours: diagnose and resolve in CEH-Ethical-Hacking environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S07-01",
+    "question": "7. Server overload during quarterly report generation in CEH-Ethical-Hacking environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S07-02",
+    "question": "7. Server overload during quarterly report generation in CEH-Ethical-Hacking environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S07-03",
+    "question": "7. Server overload during quarterly report generation in CEH-Ethical-Hacking environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S07-04",
+    "question": "7. Server overload during quarterly report generation in CEH-Ethical-Hacking environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S07-05",
+    "question": "7. Server overload during quarterly report generation in CEH-Ethical-Hacking environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S08-01",
+    "question": "8. Firewall blocking legitimate traffic in CEH-Ethical-Hacking environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S08-02",
+    "question": "8. Firewall blocking legitimate traffic in CEH-Ethical-Hacking environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S08-03",
+    "question": "8. Firewall blocking legitimate traffic in CEH-Ethical-Hacking environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S08-04",
+    "question": "8. Firewall blocking legitimate traffic in CEH-Ethical-Hacking environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S08-05",
+    "question": "8. Firewall blocking legitimate traffic in CEH-Ethical-Hacking environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S09-01",
+    "question": "9. Firewall blocking legitimate traffic in CEH-Ethical-Hacking environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S09-02",
+    "question": "9. Firewall blocking legitimate traffic in CEH-Ethical-Hacking environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S09-03",
+    "question": "9. Firewall blocking legitimate traffic in CEH-Ethical-Hacking environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S09-04",
+    "question": "9. Firewall blocking legitimate traffic in CEH-Ethical-Hacking environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S09-05",
+    "question": "9. Firewall blocking legitimate traffic in CEH-Ethical-Hacking environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S10-01",
+    "question": "10. Firewall blocking legitimate traffic in CEH-Ethical-Hacking environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S10-02",
+    "question": "10. Firewall blocking legitimate traffic in CEH-Ethical-Hacking environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S10-03",
+    "question": "10. Firewall blocking legitimate traffic in CEH-Ethical-Hacking environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S10-04",
+    "question": "10. Firewall blocking legitimate traffic in CEH-Ethical-Hacking environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S10-05",
+    "question": "10. Firewall blocking legitimate traffic in CEH-Ethical-Hacking environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S11-01",
+    "question": "11. Production outage during peak hours: diagnose and resolve in CEH-Ethical-Hacking environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S11-02",
+    "question": "11. Production outage during peak hours: diagnose and resolve in CEH-Ethical-Hacking environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S11-03",
+    "question": "11. Production outage during peak hours: diagnose and resolve in CEH-Ethical-Hacking environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S11-04",
+    "question": "11. Production outage during peak hours: diagnose and resolve in CEH-Ethical-Hacking environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S11-05",
+    "question": "11. Production outage during peak hours: diagnose and resolve in CEH-Ethical-Hacking environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S12-01",
+    "question": "12. Network latency issue affecting VoIP calls in CEH-Ethical-Hacking environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S12-02",
+    "question": "12. Network latency issue affecting VoIP calls in CEH-Ethical-Hacking environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S12-03",
+    "question": "12. Network latency issue affecting VoIP calls in CEH-Ethical-Hacking environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S12-04",
+    "question": "12. Network latency issue affecting VoIP calls in CEH-Ethical-Hacking environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S12-05",
+    "question": "12. Network latency issue affecting VoIP calls in CEH-Ethical-Hacking environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S13-01",
+    "question": "13. Network latency issue affecting VoIP calls in CEH-Ethical-Hacking environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S13-02",
+    "question": "13. Network latency issue affecting VoIP calls in CEH-Ethical-Hacking environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S13-03",
+    "question": "13. Network latency issue affecting VoIP calls in CEH-Ethical-Hacking environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S13-04",
+    "question": "13. Network latency issue affecting VoIP calls in CEH-Ethical-Hacking environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S13-05",
+    "question": "13. Network latency issue affecting VoIP calls in CEH-Ethical-Hacking environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S14-01",
+    "question": "14. Backup failure during scheduled window in CEH-Ethical-Hacking environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S14-02",
+    "question": "14. Backup failure during scheduled window in CEH-Ethical-Hacking environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S14-03",
+    "question": "14. Backup failure during scheduled window in CEH-Ethical-Hacking environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S14-04",
+    "question": "14. Backup failure during scheduled window in CEH-Ethical-Hacking environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S14-05",
+    "question": "14. Backup failure during scheduled window in CEH-Ethical-Hacking environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S15-01",
+    "question": "15. Server overload during quarterly report generation in CEH-Ethical-Hacking environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S15-02",
+    "question": "15. Server overload during quarterly report generation in CEH-Ethical-Hacking environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S15-03",
+    "question": "15. Server overload during quarterly report generation in CEH-Ethical-Hacking environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S15-04",
+    "question": "15. Server overload during quarterly report generation in CEH-Ethical-Hacking environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S15-05",
+    "question": "15. Server overload during quarterly report generation in CEH-Ethical-Hacking environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S16-01",
+    "question": "16. Firewall blocking legitimate traffic in CEH-Ethical-Hacking environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S16-02",
+    "question": "16. Firewall blocking legitimate traffic in CEH-Ethical-Hacking environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S16-03",
+    "question": "16. Firewall blocking legitimate traffic in CEH-Ethical-Hacking environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S16-04",
+    "question": "16. Firewall blocking legitimate traffic in CEH-Ethical-Hacking environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S16-05",
+    "question": "16. Firewall blocking legitimate traffic in CEH-Ethical-Hacking environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S17-01",
+    "question": "17. VPN connectivity failure for remote users in CEH-Ethical-Hacking environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S17-02",
+    "question": "17. VPN connectivity failure for remote users in CEH-Ethical-Hacking environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S17-03",
+    "question": "17. VPN connectivity failure for remote users in CEH-Ethical-Hacking environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S17-04",
+    "question": "17. VPN connectivity failure for remote users in CEH-Ethical-Hacking environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S17-05",
+    "question": "17. VPN connectivity failure for remote users in CEH-Ethical-Hacking environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S18-01",
+    "question": "18. Cloud migration failure: rollback strategy in CEH-Ethical-Hacking environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S18-02",
+    "question": "18. Cloud migration failure: rollback strategy in CEH-Ethical-Hacking environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S18-03",
+    "question": "18. Cloud migration failure: rollback strategy in CEH-Ethical-Hacking environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S18-04",
+    "question": "18. Cloud migration failure: rollback strategy in CEH-Ethical-Hacking environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S18-05",
+    "question": "18. Cloud migration failure: rollback strategy in CEH-Ethical-Hacking environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S19-01",
+    "question": "19. Server overload during quarterly report generation in CEH-Ethical-Hacking environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S19-02",
+    "question": "19. Server overload during quarterly report generation in CEH-Ethical-Hacking environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S19-03",
+    "question": "19. Server overload during quarterly report generation in CEH-Ethical-Hacking environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S19-04",
+    "question": "19. Server overload during quarterly report generation in CEH-Ethical-Hacking environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S19-05",
+    "question": "19. Server overload during quarterly report generation in CEH-Ethical-Hacking environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S20-01",
+    "question": "20. Cloud migration failure: rollback strategy in CEH-Ethical-Hacking environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S20-02",
+    "question": "20. Cloud migration failure: rollback strategy in CEH-Ethical-Hacking environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S20-03",
+    "question": "20. Cloud migration failure: rollback strategy in CEH-Ethical-Hacking environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S20-04",
+    "question": "20. Cloud migration failure: rollback strategy in CEH-Ethical-Hacking environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  },
+  {
+    "id": "CEH-Ethical-Hacking-S20-05",
+    "question": "20. Cloud migration failure: rollback strategy in CEH-Ethical-Hacking environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow CEH-Ethical-Hacking troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow CEH-Ethical-Hacking troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per CEH-Ethical-Hacking best practices. Document all steps for RCA."
+  }
+]

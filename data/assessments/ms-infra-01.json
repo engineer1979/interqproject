@@ -1,0 +1,146 @@
+[
+  {
+    "id": "MSI-001-E1",
+    "question": "What is the primary role of Active Directory?",
+    "options": ["A central repository for network resources", "A tool for creating Word documents", "A backup solution for Windows", "A web browser client"],
+    "answer": "A central repository for network resources",
+    "explanation": "Active Directory (AD) is a directory service that stores information about objects on the network and makes this information easy for administrators and users to find and use.",
+    "tag": "Active Directory",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "MSI-001-E2",
+    "question": "Which command-line tool is used for basic networking tests like checking connectivity?",
+    "options": ["ping", "nslookup", "tracert", "netstat"],
+    "answer": "ping",
+    "explanation": "The 'ping' command sends ICMP Echo Request messages to an IP address to check if it's reachable.",
+    "tag": "Networking",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "MSI-001-E3",
+    "question": "What does GPO stand for?",
+    "options": ["Group Policy Object", "General Process Operator", "Global Protocol Option", "General Power Order"],
+    "answer": "Group Policy Object",
+    "explanation": "Group Policy Objects are a collection of Group Policy settings that define what a system will look like and how it will behave for a defined group of users.",
+    "tag": "GPO",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "MSI-001-E4",
+    "question": "Which service resolution port is used for DNS by default?",
+    "options": ["53", "80", "443", "3389"],
+    "answer": "53",
+    "explanation": "DNS uses UDP/TCP port 53 for name resolution service.",
+    "tag": "DNS",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "MSI-001-E5",
+    "question": "What is a 'Domain' in the context of Microsoft Infrastructure?",
+    "options": ["A logical group of network objects", "A physical location of a server", "An email address suffix", "A type of firewall rule"],
+    "answer": "A logical group of network objects",
+    "explanation": "A domain is a logical group of network objects (users, computers, groups, etc.) that share the same Active Directory database.",
+    "tag": "Active Directory",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "MSI-001-E6",
+    "question": "Which Windows Server role handles automatic IP address assignment?",
+    "options": ["DHCP Server", "DNS Server", "Web Server (IIS)", "File Server"],
+    "answer": "DHCP Server",
+    "explanation": "DHCP (Dynamic Host Configuration Protocol) automatically assigns IP addresses and other network configurations to clients.",
+    "tag": "DHCP",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "MSI-001-M1",
+    "question": "What is the 'Infrastructure Master' FSMO role responsible for?",
+    "options": ["Managing cross-domain object references", "Defining the schema", "Assigning RIDs", "Handling and processing password changes"],
+    "answer": "Managing cross-domain object references",
+    "explanation": "The Infrastructure Master ensures that cross-domain object references are updated correctly (e.g., when a user is renamed in one domain and exists in a group in another).",
+    "tag": "FSMO Roles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "MSI-001-M2",
+    "question": "In GPO, what does 'Enforced' do?",
+    "options": ["Ensures the GPO settings cannot be overridden by lower-level GPOs", "Apply setting immediately to all machines", "Disables the GPO for testing", "Requires a password to view"],
+    "answer": "Ensures the GPO settings cannot be overridden by lower-level GPOs",
+    "explanation": "Enforcing a GPO link ensures that its settings take precedence over GPOs linked at lower levels of the AD structure, even if they have conflicting settings.",
+    "tag": "GPO",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "MSI-001-M3",
+    "question": "Which PowerShell cmdlet is used to retrieve a list of Active Directory users?",
+    "options": ["Get-ADUser", "List-ADUser", "Fetch-ADUser", "Select-ADUser"],
+    "answer": "Get-ADUser",
+    "explanation": "Get-ADUser is the standard Active Directory module cmdlet to retrieve one or more user objects mapping to specific search criteria.",
+    "tag": "PowerShell",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "MSI-001-M4",
+    "question": "What is 'DNS Scavenging' used for?",
+    "options": ["Removing stale and outdated resource records", "Preventing DDoS attacks", "Improving DNS lookups speed", "Backing up DNS zones"],
+    "answer": "Removing stale and outdated resource records",
+    "explanation": "DNS Scavenging automatically deletes stale resource records that are older than a specified aging period to keep the DNS zone database clean.",
+    "tag": "DNS",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "MSI-001-M5",
+    "question": "What occurs during 'Authoritative Restore' of Active Directory?",
+    "options": ["Restored objects get a higher version number to propagate back to other DCs", "The entire AD database is wiped", "A backup is taken", "The DC becomes a Read-Only DC"],
+    "answer": "Restored objects get a higher version number to propagate back to other DCs",
+    "explanation": "Authoritative Restore increments the version numbers/sequence numbers of restored objects so that replication sees them as 'newer' and propagates them to all other DCs.",
+    "tag": "Active Directory",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "MSI-001-H1",
+    "question": "You have a forest with multiple domains. Which FSMO role must be unique per forest?",
+    "options": ["Schema Master", "PDC Emulator", "RID Master", "Infrastructure Master"],
+    "answer": "Schema Master",
+    "explanation": "Schema Master and Domain Naming Master are forest-wide roles; only one exists per forest. PDC Emulator, RID Master, and Infrastructure Master are domain-wide roles.",
+    "tag": "FSMO Roles",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "MSI-001-H2",
+    "question": "How do you resolve a 'USN Rollback' scenario in Active Directory?",
+    "options": ["Force a full DC demotion and re-promotion", "Enable 'Replication' manually", "Rebooting the server", "Changing the DC IP address"],
+    "answer": "Force a full DC demotion and re-promotion",
+    "explanation": "USN Rollback is a state where a DC's USN has been reverted (often due to snapshots/cloning), and it stops repl. Resolving it properly typically requires demoting/re-promoting the affected DC.",
+    "tag": "Replication",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "MSI-001-H3",
+    "question": "In a PowerShell script, how would you target only AD users in a specific Organizational Unit (OU) who are currently enabled?",
+    "options": ["Get-ADUser -SearchBase 'OU=Sales,DC=example,DC=com' -Filter 'Enabled -eq $true'", "Get-ADUser -OU 'Sales' -Enabled", "Search-ADUser -Path 'Sales' -Filter 'active'", "Get-ADUser -Base 'Sales' -Where {Enabled}"],
+    "answer": "Get-ADUser -SearchBase 'OU=Sales,DC=example,DC=com' -Filter 'Enabled -eq $true'",
+    "explanation": "Using -SearchBase limits the scope of the search to a specific container, and -Filter 'Enabled -eq $true' is the efficient way to filter for enabled users.",
+    "tag": "PowerShell",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "MSI-001-H4",
+    "question": "What is the purpose of the 'KCC' (Knowledge Consistency Checker) in Active Directory replication?",
+    "options": ["To automatically generate the replication topology", "To verify user passwords", "To check the hardware health of the DC", "To manage SYSVOL file replication"],
+    "answer": "To automatically generate the replication topology",
+    "explanation": "The KCC runs periodic processes on each DC to generate the replication topology based on site and site link configurations.",
+    "tag": "Replication",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "MSI-001-H5",
+    "question": "When configuring 'Fine-Grained Password Policies' (FGPP), what AD object is used to link the policy to specific users or groups?",
+    "options": ["PSO (Password Settings Object)", "GPO (Group Policy Object)", "OU (Organizational Unit)", "Site"],
+    "answer": "PSO (Password Settings Object)",
+    "explanation": "FGPP are implemented using Password Settings Objects (PSOs) which are created in the Password Settings Container and linked to global groups or users.",
+    "tag": "GPO/Security",
+    "difficulty": "Hard"
+  }
+]

@@ -1,0 +1,3252 @@
+[
+  {
+    "id": "RHCSA-RedHat-E001",
+    "question": "Default subnet mask for Class C network in RHCSA-RedHat?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct RHCSA-RedHat procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "e",
+    "explanation": "**RHCSA-RedHat E Solution:** Default subnet mask for Class C network in RHCSA-RedHat?. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-E002",
+    "question": "Which port does RHCSA-RedHat service use by default?",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Correct RHCSA-RedHat procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "e",
+    "explanation": "**RHCSA-RedHat E Solution:** Which port does RHCSA-RedHat service use by default?. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-E003",
+    "question": "Common protocol for RHCSA-RedHat remote access?",
+    "options": [
+      "Correct RHCSA-RedHat procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "e",
+    "explanation": "**RHCSA-RedHat E Solution:** Common protocol for RHCSA-RedHat remote access?. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-E004",
+    "question": "What does RHCSA ACL stand for?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct RHCSA-RedHat procedure"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "e",
+    "explanation": "**RHCSA-RedHat E Solution:** What does RHCSA ACL stand for?. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-E005",
+    "question": "Which port does RHCSA-RedHat service use by default?",
+    "options": [
+      "Correct RHCSA-RedHat procedure",
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "e",
+    "explanation": "**RHCSA-RedHat E Solution:** Which port does RHCSA-RedHat service use by default?. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-E006",
+    "question": "What does RHCSA ACL stand for?",
+    "options": [
+      "Dangerous method",
+      "Correct RHCSA-RedHat procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "e",
+    "explanation": "**RHCSA-RedHat E Solution:** What does RHCSA ACL stand for?. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-E007",
+    "question": "Default subnet mask for Class C network in RHCSA-RedHat?",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct RHCSA-RedHat procedure"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "e",
+    "explanation": "**RHCSA-RedHat E Solution:** Default subnet mask for Class C network in RHCSA-RedHat?. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-E008",
+    "question": "Default subnet mask for Class C network in RHCSA-RedHat?",
+    "options": [
+      "Dangerous method",
+      "Correct RHCSA-RedHat procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "e",
+    "explanation": "**RHCSA-RedHat E Solution:** Default subnet mask for Class C network in RHCSA-RedHat?. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-E009",
+    "question": "Which port does RHCSA-RedHat service use by default?",
+    "options": [
+      "Dangerous method",
+      "Correct RHCSA-RedHat procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "e",
+    "explanation": "**RHCSA-RedHat E Solution:** Which port does RHCSA-RedHat service use by default?. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-E010",
+    "question": "Default subnet mask for Class C network in RHCSA-RedHat?",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach",
+      "Correct RHCSA-RedHat procedure"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "e",
+    "explanation": "**RHCSA-RedHat E Solution:** Default subnet mask for Class C network in RHCSA-RedHat?. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-E011",
+    "question": "What does RHCSA ACL stand for?",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct RHCSA-RedHat procedure",
+      "Partially correct"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "e",
+    "explanation": "**RHCSA-RedHat E Solution:** What does RHCSA ACL stand for?. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-E012",
+    "question": "Common protocol for RHCSA-RedHat remote access?",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct RHCSA-RedHat procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "e",
+    "explanation": "**RHCSA-RedHat E Solution:** Common protocol for RHCSA-RedHat remote access?. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-E013",
+    "question": "Which port does RHCSA-RedHat service use by default?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct RHCSA-RedHat procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "e",
+    "explanation": "**RHCSA-RedHat E Solution:** Which port does RHCSA-RedHat service use by default?. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-E014",
+    "question": "Common protocol for RHCSA-RedHat remote access?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct RHCSA-RedHat procedure"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "e",
+    "explanation": "**RHCSA-RedHat E Solution:** Common protocol for RHCSA-RedHat remote access?. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-E015",
+    "question": "What is the primary function of RHCSA DHCP?",
+    "options": [
+      "Correct RHCSA-RedHat procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "e",
+    "explanation": "**RHCSA-RedHat E Solution:** What is the primary function of RHCSA DHCP?. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-E016",
+    "question": "What is the primary function of RHCSA DHCP?",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct RHCSA-RedHat procedure",
+      "Partially correct"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "e",
+    "explanation": "**RHCSA-RedHat E Solution:** What is the primary function of RHCSA DHCP?. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-E017",
+    "question": "Common protocol for RHCSA-RedHat remote access?",
+    "options": [
+      "Dangerous method",
+      "Correct RHCSA-RedHat procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "e",
+    "explanation": "**RHCSA-RedHat E Solution:** Common protocol for RHCSA-RedHat remote access?. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-E018",
+    "question": "Default subnet mask for Class C network in RHCSA-RedHat?",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Correct RHCSA-RedHat procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "e",
+    "explanation": "**RHCSA-RedHat E Solution:** Default subnet mask for Class C network in RHCSA-RedHat?. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-E019",
+    "question": "Which port does RHCSA-RedHat service use by default?",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct RHCSA-RedHat procedure"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "e",
+    "explanation": "**RHCSA-RedHat E Solution:** Which port does RHCSA-RedHat service use by default?. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-E020",
+    "question": "Common protocol for RHCSA-RedHat remote access?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct RHCSA-RedHat procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "e",
+    "explanation": "**RHCSA-RedHat E Solution:** Common protocol for RHCSA-RedHat remote access?. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-E021",
+    "question": "Which port does RHCSA-RedHat service use by default?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct RHCSA-RedHat procedure"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "e",
+    "explanation": "**RHCSA-RedHat E Solution:** Which port does RHCSA-RedHat service use by default?. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-E022",
+    "question": "Default subnet mask for Class C network in RHCSA-RedHat?",
+    "options": [
+      "Dangerous method",
+      "Correct RHCSA-RedHat procedure",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "e",
+    "explanation": "**RHCSA-RedHat E Solution:** Default subnet mask for Class C network in RHCSA-RedHat?. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-E023",
+    "question": "Default subnet mask for Class C network in RHCSA-RedHat?",
+    "options": [
+      "Dangerous method",
+      "Correct RHCSA-RedHat procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "e",
+    "explanation": "**RHCSA-RedHat E Solution:** Default subnet mask for Class C network in RHCSA-RedHat?. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-E024",
+    "question": "What is the primary function of RHCSA DHCP?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct RHCSA-RedHat procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "e",
+    "explanation": "**RHCSA-RedHat E Solution:** What is the primary function of RHCSA DHCP?. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-E025",
+    "question": "What does RHCSA ACL stand for?",
+    "options": [
+      "Partially correct",
+      "Correct RHCSA-RedHat procedure",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "e",
+    "explanation": "**RHCSA-RedHat E Solution:** What does RHCSA ACL stand for?. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-E026",
+    "question": "What is the primary function of RHCSA DHCP?",
+    "options": [
+      "Correct RHCSA-RedHat procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "e",
+    "explanation": "**RHCSA-RedHat E Solution:** What is the primary function of RHCSA DHCP?. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-E027",
+    "question": "Default subnet mask for Class C network in RHCSA-RedHat?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct RHCSA-RedHat procedure"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "e",
+    "explanation": "**RHCSA-RedHat E Solution:** Default subnet mask for Class C network in RHCSA-RedHat?. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-E028",
+    "question": "What does RHCSA ACL stand for?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct RHCSA-RedHat procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "e",
+    "explanation": "**RHCSA-RedHat E Solution:** What does RHCSA ACL stand for?. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-E029",
+    "question": "Default subnet mask for Class C network in RHCSA-RedHat?",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct RHCSA-RedHat procedure"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "e",
+    "explanation": "**RHCSA-RedHat E Solution:** Default subnet mask for Class C network in RHCSA-RedHat?. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-E030",
+    "question": "What is the primary function of RHCSA DHCP?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct RHCSA-RedHat procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "e",
+    "explanation": "**RHCSA-RedHat E Solution:** What is the primary function of RHCSA DHCP?. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-E031",
+    "question": "Default subnet mask for Class C network in RHCSA-RedHat?",
+    "options": [
+      "Incorrect approach",
+      "Correct RHCSA-RedHat procedure",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "e",
+    "explanation": "**RHCSA-RedHat E Solution:** Default subnet mask for Class C network in RHCSA-RedHat?. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-E032",
+    "question": "What does RHCSA ACL stand for?",
+    "options": [
+      "Dangerous method",
+      "Correct RHCSA-RedHat procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "e",
+    "explanation": "**RHCSA-RedHat E Solution:** What does RHCSA ACL stand for?. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-E033",
+    "question": "Default subnet mask for Class C network in RHCSA-RedHat?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct RHCSA-RedHat procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "e",
+    "explanation": "**RHCSA-RedHat E Solution:** Default subnet mask for Class C network in RHCSA-RedHat?. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-E034",
+    "question": "Which port does RHCSA-RedHat service use by default?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct RHCSA-RedHat procedure"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "e",
+    "explanation": "**RHCSA-RedHat E Solution:** Which port does RHCSA-RedHat service use by default?. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-E035",
+    "question": "Common protocol for RHCSA-RedHat remote access?",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct RHCSA-RedHat procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "e",
+    "explanation": "**RHCSA-RedHat E Solution:** Common protocol for RHCSA-RedHat remote access?. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-E036",
+    "question": "Which port does RHCSA-RedHat service use by default?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct RHCSA-RedHat procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "e",
+    "explanation": "**RHCSA-RedHat E Solution:** Which port does RHCSA-RedHat service use by default?. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-E037",
+    "question": "Default subnet mask for Class C network in RHCSA-RedHat?",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct RHCSA-RedHat procedure"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "e",
+    "explanation": "**RHCSA-RedHat E Solution:** Default subnet mask for Class C network in RHCSA-RedHat?. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-E038",
+    "question": "Default subnet mask for Class C network in RHCSA-RedHat?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct RHCSA-RedHat procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "e",
+    "explanation": "**RHCSA-RedHat E Solution:** Default subnet mask for Class C network in RHCSA-RedHat?. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-E039",
+    "question": "Which port does RHCSA-RedHat service use by default?",
+    "options": [
+      "Correct RHCSA-RedHat procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "e",
+    "explanation": "**RHCSA-RedHat E Solution:** Which port does RHCSA-RedHat service use by default?. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-E040",
+    "question": "What does RHCSA ACL stand for?",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Correct RHCSA-RedHat procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "e",
+    "explanation": "**RHCSA-RedHat E Solution:** What does RHCSA ACL stand for?. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-E041",
+    "question": "What is the primary function of RHCSA DHCP?",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Correct RHCSA-RedHat procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "e",
+    "explanation": "**RHCSA-RedHat E Solution:** What is the primary function of RHCSA DHCP?. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-E042",
+    "question": "Default subnet mask for Class C network in RHCSA-RedHat?",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct RHCSA-RedHat procedure"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "e",
+    "explanation": "**RHCSA-RedHat E Solution:** Default subnet mask for Class C network in RHCSA-RedHat?. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-E043",
+    "question": "What is the primary function of RHCSA DHCP?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct RHCSA-RedHat procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "e",
+    "explanation": "**RHCSA-RedHat E Solution:** What is the primary function of RHCSA DHCP?. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-E044",
+    "question": "Default subnet mask for Class C network in RHCSA-RedHat?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct RHCSA-RedHat procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "e",
+    "explanation": "**RHCSA-RedHat E Solution:** Default subnet mask for Class C network in RHCSA-RedHat?. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-E045",
+    "question": "What does RHCSA ACL stand for?",
+    "options": [
+      "Correct RHCSA-RedHat procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "e",
+    "explanation": "**RHCSA-RedHat E Solution:** What does RHCSA ACL stand for?. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-E046",
+    "question": "Which port does RHCSA-RedHat service use by default?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct RHCSA-RedHat procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "e",
+    "explanation": "**RHCSA-RedHat E Solution:** Which port does RHCSA-RedHat service use by default?. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-E047",
+    "question": "Which port does RHCSA-RedHat service use by default?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct RHCSA-RedHat procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "e",
+    "explanation": "**RHCSA-RedHat E Solution:** Which port does RHCSA-RedHat service use by default?. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-E048",
+    "question": "What is the primary function of RHCSA DHCP?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct RHCSA-RedHat procedure"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "e",
+    "explanation": "**RHCSA-RedHat E Solution:** What is the primary function of RHCSA DHCP?. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-E049",
+    "question": "Which port does RHCSA-RedHat service use by default?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct RHCSA-RedHat procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "e",
+    "explanation": "**RHCSA-RedHat E Solution:** Which port does RHCSA-RedHat service use by default?. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-E050",
+    "question": "What does RHCSA ACL stand for?",
+    "options": [
+      "Correct RHCSA-RedHat procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "e",
+    "explanation": "**RHCSA-RedHat E Solution:** What does RHCSA ACL stand for?. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-M001",
+    "question": "Optimize RHCSA-RedHat query performance",
+    "options": [
+      "Dangerous method",
+      "Correct RHCSA-RedHat procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "m",
+    "explanation": "**RHCSA-RedHat M Solution:** Optimize RHCSA-RedHat query performance. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-M002",
+    "question": "Set up RHCSA-RedHat failover clustering",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct RHCSA-RedHat procedure"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "m",
+    "explanation": "**RHCSA-RedHat M Solution:** Set up RHCSA-RedHat failover clustering. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-M003",
+    "question": "Implement RHCSA-RedHat backup strategy for compliance",
+    "options": [
+      "Correct RHCSA-RedHat procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "m",
+    "explanation": "**RHCSA-RedHat M Solution:** Implement RHCSA-RedHat backup strategy for compliance. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-M004",
+    "question": "Configure RHCSA-RedHat load balancer for high availability",
+    "options": [
+      "Correct RHCSA-RedHat procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "m",
+    "explanation": "**RHCSA-RedHat M Solution:** Configure RHCSA-RedHat load balancer for high availability. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-M005",
+    "question": "Troubleshoot RHCSA-RedHat connectivity issue between VLANs",
+    "options": [
+      "Correct RHCSA-RedHat procedure",
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "m",
+    "explanation": "**RHCSA-RedHat M Solution:** Troubleshoot RHCSA-RedHat connectivity issue between VLANs. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-M006",
+    "question": "Troubleshoot RHCSA-RedHat connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct RHCSA-RedHat procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "m",
+    "explanation": "**RHCSA-RedHat M Solution:** Troubleshoot RHCSA-RedHat connectivity issue between VLANs. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-M007",
+    "question": "Implement RHCSA-RedHat backup strategy for compliance",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct RHCSA-RedHat procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "m",
+    "explanation": "**RHCSA-RedHat M Solution:** Implement RHCSA-RedHat backup strategy for compliance. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-M008",
+    "question": "Troubleshoot RHCSA-RedHat connectivity issue between VLANs",
+    "options": [
+      "Correct RHCSA-RedHat procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "m",
+    "explanation": "**RHCSA-RedHat M Solution:** Troubleshoot RHCSA-RedHat connectivity issue between VLANs. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-M009",
+    "question": "Configure RHCSA-RedHat load balancer for high availability",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct RHCSA-RedHat procedure"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "m",
+    "explanation": "**RHCSA-RedHat M Solution:** Configure RHCSA-RedHat load balancer for high availability. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-M010",
+    "question": "Configure RHCSA-RedHat load balancer for high availability",
+    "options": [
+      "Correct RHCSA-RedHat procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "m",
+    "explanation": "**RHCSA-RedHat M Solution:** Configure RHCSA-RedHat load balancer for high availability. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-M011",
+    "question": "Configure RHCSA-RedHat load balancer for high availability",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct RHCSA-RedHat procedure"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "m",
+    "explanation": "**RHCSA-RedHat M Solution:** Configure RHCSA-RedHat load balancer for high availability. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-M012",
+    "question": "Troubleshoot RHCSA-RedHat connectivity issue between VLANs",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct RHCSA-RedHat procedure"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "m",
+    "explanation": "**RHCSA-RedHat M Solution:** Troubleshoot RHCSA-RedHat connectivity issue between VLANs. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-M013",
+    "question": "Configure RHCSA-RedHat load balancer for high availability",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct RHCSA-RedHat procedure",
+      "Partially correct"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "m",
+    "explanation": "**RHCSA-RedHat M Solution:** Configure RHCSA-RedHat load balancer for high availability. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-M014",
+    "question": "Troubleshoot RHCSA-RedHat connectivity issue between VLANs",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct RHCSA-RedHat procedure"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "m",
+    "explanation": "**RHCSA-RedHat M Solution:** Troubleshoot RHCSA-RedHat connectivity issue between VLANs. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-M015",
+    "question": "Optimize RHCSA-RedHat query performance",
+    "options": [
+      "Dangerous method",
+      "Correct RHCSA-RedHat procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "m",
+    "explanation": "**RHCSA-RedHat M Solution:** Optimize RHCSA-RedHat query performance. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-M016",
+    "question": "Configure RHCSA-RedHat load balancer for high availability",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct RHCSA-RedHat procedure"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "m",
+    "explanation": "**RHCSA-RedHat M Solution:** Configure RHCSA-RedHat load balancer for high availability. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-M017",
+    "question": "Implement RHCSA-RedHat backup strategy for compliance",
+    "options": [
+      "Dangerous method",
+      "Correct RHCSA-RedHat procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "m",
+    "explanation": "**RHCSA-RedHat M Solution:** Implement RHCSA-RedHat backup strategy for compliance. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-M018",
+    "question": "Implement RHCSA-RedHat backup strategy for compliance",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct RHCSA-RedHat procedure"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "m",
+    "explanation": "**RHCSA-RedHat M Solution:** Implement RHCSA-RedHat backup strategy for compliance. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-M019",
+    "question": "Optimize RHCSA-RedHat query performance",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct RHCSA-RedHat procedure"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "m",
+    "explanation": "**RHCSA-RedHat M Solution:** Optimize RHCSA-RedHat query performance. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-M020",
+    "question": "Troubleshoot RHCSA-RedHat connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct RHCSA-RedHat procedure"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "m",
+    "explanation": "**RHCSA-RedHat M Solution:** Troubleshoot RHCSA-RedHat connectivity issue between VLANs. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-M021",
+    "question": "Implement RHCSA-RedHat backup strategy for compliance",
+    "options": [
+      "Correct RHCSA-RedHat procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "m",
+    "explanation": "**RHCSA-RedHat M Solution:** Implement RHCSA-RedHat backup strategy for compliance. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-M022",
+    "question": "Configure RHCSA-RedHat load balancer for high availability",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct RHCSA-RedHat procedure"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "m",
+    "explanation": "**RHCSA-RedHat M Solution:** Configure RHCSA-RedHat load balancer for high availability. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-M023",
+    "question": "Configure RHCSA-RedHat load balancer for high availability",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct RHCSA-RedHat procedure"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "m",
+    "explanation": "**RHCSA-RedHat M Solution:** Configure RHCSA-RedHat load balancer for high availability. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-M024",
+    "question": "Optimize RHCSA-RedHat query performance",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct RHCSA-RedHat procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "m",
+    "explanation": "**RHCSA-RedHat M Solution:** Optimize RHCSA-RedHat query performance. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-M025",
+    "question": "Implement RHCSA-RedHat backup strategy for compliance",
+    "options": [
+      "Dangerous method",
+      "Correct RHCSA-RedHat procedure",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "m",
+    "explanation": "**RHCSA-RedHat M Solution:** Implement RHCSA-RedHat backup strategy for compliance. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-M026",
+    "question": "Optimize RHCSA-RedHat query performance",
+    "options": [
+      "Dangerous method",
+      "Correct RHCSA-RedHat procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "m",
+    "explanation": "**RHCSA-RedHat M Solution:** Optimize RHCSA-RedHat query performance. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-M027",
+    "question": "Implement RHCSA-RedHat backup strategy for compliance",
+    "options": [
+      "Correct RHCSA-RedHat procedure",
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "m",
+    "explanation": "**RHCSA-RedHat M Solution:** Implement RHCSA-RedHat backup strategy for compliance. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-M028",
+    "question": "Implement RHCSA-RedHat backup strategy for compliance",
+    "options": [
+      "Correct RHCSA-RedHat procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "m",
+    "explanation": "**RHCSA-RedHat M Solution:** Implement RHCSA-RedHat backup strategy for compliance. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-M029",
+    "question": "Implement RHCSA-RedHat backup strategy for compliance",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct RHCSA-RedHat procedure"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "m",
+    "explanation": "**RHCSA-RedHat M Solution:** Implement RHCSA-RedHat backup strategy for compliance. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-M030",
+    "question": "Configure RHCSA-RedHat load balancer for high availability",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct RHCSA-RedHat procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "m",
+    "explanation": "**RHCSA-RedHat M Solution:** Configure RHCSA-RedHat load balancer for high availability. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-M031",
+    "question": "Implement RHCSA-RedHat backup strategy for compliance",
+    "options": [
+      "Incorrect approach",
+      "Correct RHCSA-RedHat procedure",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "m",
+    "explanation": "**RHCSA-RedHat M Solution:** Implement RHCSA-RedHat backup strategy for compliance. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-M032",
+    "question": "Implement RHCSA-RedHat backup strategy for compliance",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct RHCSA-RedHat procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "m",
+    "explanation": "**RHCSA-RedHat M Solution:** Implement RHCSA-RedHat backup strategy for compliance. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-M033",
+    "question": "Configure RHCSA-RedHat load balancer for high availability",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct RHCSA-RedHat procedure"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "m",
+    "explanation": "**RHCSA-RedHat M Solution:** Configure RHCSA-RedHat load balancer for high availability. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-M034",
+    "question": "Optimize RHCSA-RedHat query performance",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct RHCSA-RedHat procedure",
+      "Partially correct"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "m",
+    "explanation": "**RHCSA-RedHat M Solution:** Optimize RHCSA-RedHat query performance. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-M035",
+    "question": "Optimize RHCSA-RedHat query performance",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach",
+      "Correct RHCSA-RedHat procedure"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "m",
+    "explanation": "**RHCSA-RedHat M Solution:** Optimize RHCSA-RedHat query performance. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-M036",
+    "question": "Troubleshoot RHCSA-RedHat connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct RHCSA-RedHat procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "m",
+    "explanation": "**RHCSA-RedHat M Solution:** Troubleshoot RHCSA-RedHat connectivity issue between VLANs. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-M037",
+    "question": "Implement RHCSA-RedHat backup strategy for compliance",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct RHCSA-RedHat procedure",
+      "Partially correct"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "m",
+    "explanation": "**RHCSA-RedHat M Solution:** Implement RHCSA-RedHat backup strategy for compliance. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-M038",
+    "question": "Set up RHCSA-RedHat failover clustering",
+    "options": [
+      "Dangerous method",
+      "Correct RHCSA-RedHat procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "m",
+    "explanation": "**RHCSA-RedHat M Solution:** Set up RHCSA-RedHat failover clustering. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-M039",
+    "question": "Optimize RHCSA-RedHat query performance",
+    "options": [
+      "Dangerous method",
+      "Correct RHCSA-RedHat procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "m",
+    "explanation": "**RHCSA-RedHat M Solution:** Optimize RHCSA-RedHat query performance. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-M040",
+    "question": "Set up RHCSA-RedHat failover clustering",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct RHCSA-RedHat procedure"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "m",
+    "explanation": "**RHCSA-RedHat M Solution:** Set up RHCSA-RedHat failover clustering. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-M041",
+    "question": "Set up RHCSA-RedHat failover clustering",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach",
+      "Correct RHCSA-RedHat procedure"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "m",
+    "explanation": "**RHCSA-RedHat M Solution:** Set up RHCSA-RedHat failover clustering. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-M042",
+    "question": "Troubleshoot RHCSA-RedHat connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct RHCSA-RedHat procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "m",
+    "explanation": "**RHCSA-RedHat M Solution:** Troubleshoot RHCSA-RedHat connectivity issue between VLANs. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-M043",
+    "question": "Configure RHCSA-RedHat load balancer for high availability",
+    "options": [
+      "Correct RHCSA-RedHat procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "m",
+    "explanation": "**RHCSA-RedHat M Solution:** Configure RHCSA-RedHat load balancer for high availability. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-M044",
+    "question": "Configure RHCSA-RedHat load balancer for high availability",
+    "options": [
+      "Dangerous method",
+      "Correct RHCSA-RedHat procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "m",
+    "explanation": "**RHCSA-RedHat M Solution:** Configure RHCSA-RedHat load balancer for high availability. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-M045",
+    "question": "Troubleshoot RHCSA-RedHat connectivity issue between VLANs",
+    "options": [
+      "Dangerous method",
+      "Correct RHCSA-RedHat procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "m",
+    "explanation": "**RHCSA-RedHat M Solution:** Troubleshoot RHCSA-RedHat connectivity issue between VLANs. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-M046",
+    "question": "Set up RHCSA-RedHat failover clustering",
+    "options": [
+      "Dangerous method",
+      "Correct RHCSA-RedHat procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "m",
+    "explanation": "**RHCSA-RedHat M Solution:** Set up RHCSA-RedHat failover clustering. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-M047",
+    "question": "Troubleshoot RHCSA-RedHat connectivity issue between VLANs",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Correct RHCSA-RedHat procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "m",
+    "explanation": "**RHCSA-RedHat M Solution:** Troubleshoot RHCSA-RedHat connectivity issue between VLANs. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-M048",
+    "question": "Optimize RHCSA-RedHat query performance",
+    "options": [
+      "Correct RHCSA-RedHat procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "m",
+    "explanation": "**RHCSA-RedHat M Solution:** Optimize RHCSA-RedHat query performance. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-M049",
+    "question": "Troubleshoot RHCSA-RedHat connectivity issue between VLANs",
+    "options": [
+      "Correct RHCSA-RedHat procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "m",
+    "explanation": "**RHCSA-RedHat M Solution:** Troubleshoot RHCSA-RedHat connectivity issue between VLANs. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-M050",
+    "question": "Set up RHCSA-RedHat failover clustering",
+    "options": [
+      "Correct RHCSA-RedHat procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "m",
+    "explanation": "**RHCSA-RedHat M Solution:** Set up RHCSA-RedHat failover clustering. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-H001",
+    "question": "Create disaster recovery plan with RTO < 15min for RHCSA-RedHat",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct RHCSA-RedHat procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "h",
+    "explanation": "**RHCSA-RedHat H Solution:** Create disaster recovery plan with RTO < 15min for RHCSA-RedHat. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-H002",
+    "question": "Optimize RHCSA-RedHat performance under DDoS attack",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct RHCSA-RedHat procedure"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "h",
+    "explanation": "**RHCSA-RedHat H Solution:** Optimize RHCSA-RedHat performance under DDoS attack. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-H003",
+    "question": "Implement zero-trust security model in RHCSA-RedHat",
+    "options": [
+      "Dangerous method",
+      "Correct RHCSA-RedHat procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "h",
+    "explanation": "**RHCSA-RedHat H Solution:** Implement zero-trust security model in RHCSA-RedHat. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-H004",
+    "question": "Implement zero-trust security model in RHCSA-RedHat",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct RHCSA-RedHat procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "h",
+    "explanation": "**RHCSA-RedHat H Solution:** Implement zero-trust security model in RHCSA-RedHat. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-H005",
+    "question": "Design RHCSA-RedHat architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Dangerous method",
+      "Correct RHCSA-RedHat procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "h",
+    "explanation": "**RHCSA-RedHat H Solution:** Design RHCSA-RedHat architecture for 10k users with 99.99% uptime. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-H006",
+    "question": "Optimize RHCSA-RedHat performance under DDoS attack",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct RHCSA-RedHat procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "h",
+    "explanation": "**RHCSA-RedHat H Solution:** Optimize RHCSA-RedHat performance under DDoS attack. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-H007",
+    "question": "Design RHCSA-RedHat architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct RHCSA-RedHat procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "h",
+    "explanation": "**RHCSA-RedHat H Solution:** Design RHCSA-RedHat architecture for 10k users with 99.99% uptime. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-H008",
+    "question": "Create disaster recovery plan with RTO < 15min for RHCSA-RedHat",
+    "options": [
+      "Correct RHCSA-RedHat procedure",
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "h",
+    "explanation": "**RHCSA-RedHat H Solution:** Create disaster recovery plan with RTO < 15min for RHCSA-RedHat. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-H009",
+    "question": "Migrate legacy RHCSA-RedHat systems to cloud-native architecture",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct RHCSA-RedHat procedure"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "h",
+    "explanation": "**RHCSA-RedHat H Solution:** Migrate legacy RHCSA-RedHat systems to cloud-native architecture. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-H010",
+    "question": "Design RHCSA-RedHat architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach",
+      "Correct RHCSA-RedHat procedure"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "h",
+    "explanation": "**RHCSA-RedHat H Solution:** Design RHCSA-RedHat architecture for 10k users with 99.99% uptime. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-H011",
+    "question": "Design RHCSA-RedHat architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct RHCSA-RedHat procedure"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "h",
+    "explanation": "**RHCSA-RedHat H Solution:** Design RHCSA-RedHat architecture for 10k users with 99.99% uptime. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-H012",
+    "question": "Create disaster recovery plan with RTO < 15min for RHCSA-RedHat",
+    "options": [
+      "Incorrect approach",
+      "Correct RHCSA-RedHat procedure",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "h",
+    "explanation": "**RHCSA-RedHat H Solution:** Create disaster recovery plan with RTO < 15min for RHCSA-RedHat. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-H013",
+    "question": "Implement zero-trust security model in RHCSA-RedHat",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct RHCSA-RedHat procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "h",
+    "explanation": "**RHCSA-RedHat H Solution:** Implement zero-trust security model in RHCSA-RedHat. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-H014",
+    "question": "Optimize RHCSA-RedHat performance under DDoS attack",
+    "options": [
+      "Dangerous method",
+      "Correct RHCSA-RedHat procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "h",
+    "explanation": "**RHCSA-RedHat H Solution:** Optimize RHCSA-RedHat performance under DDoS attack. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-H015",
+    "question": "Optimize RHCSA-RedHat performance under DDoS attack",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct RHCSA-RedHat procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "h",
+    "explanation": "**RHCSA-RedHat H Solution:** Optimize RHCSA-RedHat performance under DDoS attack. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-H016",
+    "question": "Design RHCSA-RedHat architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Correct RHCSA-RedHat procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "h",
+    "explanation": "**RHCSA-RedHat H Solution:** Design RHCSA-RedHat architecture for 10k users with 99.99% uptime. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-H017",
+    "question": "Create disaster recovery plan with RTO < 15min for RHCSA-RedHat",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct RHCSA-RedHat procedure"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "h",
+    "explanation": "**RHCSA-RedHat H Solution:** Create disaster recovery plan with RTO < 15min for RHCSA-RedHat. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-H018",
+    "question": "Optimize RHCSA-RedHat performance under DDoS attack",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct RHCSA-RedHat procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "h",
+    "explanation": "**RHCSA-RedHat H Solution:** Optimize RHCSA-RedHat performance under DDoS attack. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-H019",
+    "question": "Design RHCSA-RedHat architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Dangerous method",
+      "Correct RHCSA-RedHat procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "h",
+    "explanation": "**RHCSA-RedHat H Solution:** Design RHCSA-RedHat architecture for 10k users with 99.99% uptime. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-H020",
+    "question": "Design RHCSA-RedHat architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Dangerous method",
+      "Correct RHCSA-RedHat procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "h",
+    "explanation": "**RHCSA-RedHat H Solution:** Design RHCSA-RedHat architecture for 10k users with 99.99% uptime. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-H021",
+    "question": "Create disaster recovery plan with RTO < 15min for RHCSA-RedHat",
+    "options": [
+      "Dangerous method",
+      "Correct RHCSA-RedHat procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "h",
+    "explanation": "**RHCSA-RedHat H Solution:** Create disaster recovery plan with RTO < 15min for RHCSA-RedHat. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-H022",
+    "question": "Migrate legacy RHCSA-RedHat systems to cloud-native architecture",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach",
+      "Correct RHCSA-RedHat procedure"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "h",
+    "explanation": "**RHCSA-RedHat H Solution:** Migrate legacy RHCSA-RedHat systems to cloud-native architecture. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-H023",
+    "question": "Implement zero-trust security model in RHCSA-RedHat",
+    "options": [
+      "Dangerous method",
+      "Correct RHCSA-RedHat procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "h",
+    "explanation": "**RHCSA-RedHat H Solution:** Implement zero-trust security model in RHCSA-RedHat. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-H024",
+    "question": "Create disaster recovery plan with RTO < 15min for RHCSA-RedHat",
+    "options": [
+      "Dangerous method",
+      "Correct RHCSA-RedHat procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "h",
+    "explanation": "**RHCSA-RedHat H Solution:** Create disaster recovery plan with RTO < 15min for RHCSA-RedHat. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-H025",
+    "question": "Design RHCSA-RedHat architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct RHCSA-RedHat procedure"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "h",
+    "explanation": "**RHCSA-RedHat H Solution:** Design RHCSA-RedHat architecture for 10k users with 99.99% uptime. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-H026",
+    "question": "Create disaster recovery plan with RTO < 15min for RHCSA-RedHat",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct RHCSA-RedHat procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "h",
+    "explanation": "**RHCSA-RedHat H Solution:** Create disaster recovery plan with RTO < 15min for RHCSA-RedHat. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-H027",
+    "question": "Design RHCSA-RedHat architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct RHCSA-RedHat procedure"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "h",
+    "explanation": "**RHCSA-RedHat H Solution:** Design RHCSA-RedHat architecture for 10k users with 99.99% uptime. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-H028",
+    "question": "Migrate legacy RHCSA-RedHat systems to cloud-native architecture",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct RHCSA-RedHat procedure"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "h",
+    "explanation": "**RHCSA-RedHat H Solution:** Migrate legacy RHCSA-RedHat systems to cloud-native architecture. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-H029",
+    "question": "Implement zero-trust security model in RHCSA-RedHat",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Correct RHCSA-RedHat procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "h",
+    "explanation": "**RHCSA-RedHat H Solution:** Implement zero-trust security model in RHCSA-RedHat. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-H030",
+    "question": "Migrate legacy RHCSA-RedHat systems to cloud-native architecture",
+    "options": [
+      "Correct RHCSA-RedHat procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "h",
+    "explanation": "**RHCSA-RedHat H Solution:** Migrate legacy RHCSA-RedHat systems to cloud-native architecture. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-H031",
+    "question": "Optimize RHCSA-RedHat performance under DDoS attack",
+    "options": [
+      "Correct RHCSA-RedHat procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "h",
+    "explanation": "**RHCSA-RedHat H Solution:** Optimize RHCSA-RedHat performance under DDoS attack. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-H032",
+    "question": "Migrate legacy RHCSA-RedHat systems to cloud-native architecture",
+    "options": [
+      "Correct RHCSA-RedHat procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "h",
+    "explanation": "**RHCSA-RedHat H Solution:** Migrate legacy RHCSA-RedHat systems to cloud-native architecture. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-H033",
+    "question": "Optimize RHCSA-RedHat performance under DDoS attack",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct RHCSA-RedHat procedure"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "h",
+    "explanation": "**RHCSA-RedHat H Solution:** Optimize RHCSA-RedHat performance under DDoS attack. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-H034",
+    "question": "Migrate legacy RHCSA-RedHat systems to cloud-native architecture",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct RHCSA-RedHat procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "h",
+    "explanation": "**RHCSA-RedHat H Solution:** Migrate legacy RHCSA-RedHat systems to cloud-native architecture. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-H035",
+    "question": "Optimize RHCSA-RedHat performance under DDoS attack",
+    "options": [
+      "Correct RHCSA-RedHat procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "h",
+    "explanation": "**RHCSA-RedHat H Solution:** Optimize RHCSA-RedHat performance under DDoS attack. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-H036",
+    "question": "Implement zero-trust security model in RHCSA-RedHat",
+    "options": [
+      "Correct RHCSA-RedHat procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "h",
+    "explanation": "**RHCSA-RedHat H Solution:** Implement zero-trust security model in RHCSA-RedHat. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-H037",
+    "question": "Migrate legacy RHCSA-RedHat systems to cloud-native architecture",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct RHCSA-RedHat procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "h",
+    "explanation": "**RHCSA-RedHat H Solution:** Migrate legacy RHCSA-RedHat systems to cloud-native architecture. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-H038",
+    "question": "Create disaster recovery plan with RTO < 15min for RHCSA-RedHat",
+    "options": [
+      "Dangerous method",
+      "Correct RHCSA-RedHat procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "h",
+    "explanation": "**RHCSA-RedHat H Solution:** Create disaster recovery plan with RTO < 15min for RHCSA-RedHat. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-H039",
+    "question": "Create disaster recovery plan with RTO < 15min for RHCSA-RedHat",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct RHCSA-RedHat procedure"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "h",
+    "explanation": "**RHCSA-RedHat H Solution:** Create disaster recovery plan with RTO < 15min for RHCSA-RedHat. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-H040",
+    "question": "Implement zero-trust security model in RHCSA-RedHat",
+    "options": [
+      "Correct RHCSA-RedHat procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "h",
+    "explanation": "**RHCSA-RedHat H Solution:** Implement zero-trust security model in RHCSA-RedHat. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-H041",
+    "question": "Implement zero-trust security model in RHCSA-RedHat",
+    "options": [
+      "Dangerous method",
+      "Correct RHCSA-RedHat procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "h",
+    "explanation": "**RHCSA-RedHat H Solution:** Implement zero-trust security model in RHCSA-RedHat. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-H042",
+    "question": "Optimize RHCSA-RedHat performance under DDoS attack",
+    "options": [
+      "Dangerous method",
+      "Correct RHCSA-RedHat procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "h",
+    "explanation": "**RHCSA-RedHat H Solution:** Optimize RHCSA-RedHat performance under DDoS attack. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-H043",
+    "question": "Create disaster recovery plan with RTO < 15min for RHCSA-RedHat",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct RHCSA-RedHat procedure"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "h",
+    "explanation": "**RHCSA-RedHat H Solution:** Create disaster recovery plan with RTO < 15min for RHCSA-RedHat. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-H044",
+    "question": "Optimize RHCSA-RedHat performance under DDoS attack",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct RHCSA-RedHat procedure"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "h",
+    "explanation": "**RHCSA-RedHat H Solution:** Optimize RHCSA-RedHat performance under DDoS attack. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-H045",
+    "question": "Optimize RHCSA-RedHat performance under DDoS attack",
+    "options": [
+      "Correct RHCSA-RedHat procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "h",
+    "explanation": "**RHCSA-RedHat H Solution:** Optimize RHCSA-RedHat performance under DDoS attack. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-H046",
+    "question": "Optimize RHCSA-RedHat performance under DDoS attack",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct RHCSA-RedHat procedure"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "h",
+    "explanation": "**RHCSA-RedHat H Solution:** Optimize RHCSA-RedHat performance under DDoS attack. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-H047",
+    "question": "Optimize RHCSA-RedHat performance under DDoS attack",
+    "options": [
+      "Dangerous method",
+      "Correct RHCSA-RedHat procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "h",
+    "explanation": "**RHCSA-RedHat H Solution:** Optimize RHCSA-RedHat performance under DDoS attack. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-H048",
+    "question": "Design RHCSA-RedHat architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Dangerous method",
+      "Correct RHCSA-RedHat procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "h",
+    "explanation": "**RHCSA-RedHat H Solution:** Design RHCSA-RedHat architecture for 10k users with 99.99% uptime. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-H049",
+    "question": "Optimize RHCSA-RedHat performance under DDoS attack",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct RHCSA-RedHat procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "h",
+    "explanation": "**RHCSA-RedHat H Solution:** Optimize RHCSA-RedHat performance under DDoS attack. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-H050",
+    "question": "Migrate legacy RHCSA-RedHat systems to cloud-native architecture",
+    "options": [
+      "Dangerous method",
+      "Correct RHCSA-RedHat procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct RHCSA-RedHat procedure",
+    "difficulty": "h",
+    "explanation": "**RHCSA-RedHat H Solution:** Migrate legacy RHCSA-RedHat systems to cloud-native architecture. Always verify RHCSA-RedHat documentation and test in lab environment first."
+  },
+  {
+    "id": "RHCSA-RedHat-S01-01",
+    "question": "1. Production outage during peak hours: diagnose and resolve in RHCSA-RedHat environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S01-02",
+    "question": "1. Production outage during peak hours: diagnose and resolve in RHCSA-RedHat environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S01-03",
+    "question": "1. Production outage during peak hours: diagnose and resolve in RHCSA-RedHat environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S01-04",
+    "question": "1. Production outage during peak hours: diagnose and resolve in RHCSA-RedHat environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S01-05",
+    "question": "1. Production outage during peak hours: diagnose and resolve in RHCSA-RedHat environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S02-01",
+    "question": "2. Load balancer health check failing in RHCSA-RedHat environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S02-02",
+    "question": "2. Load balancer health check failing in RHCSA-RedHat environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S02-03",
+    "question": "2. Load balancer health check failing in RHCSA-RedHat environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S02-04",
+    "question": "2. Load balancer health check failing in RHCSA-RedHat environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S02-05",
+    "question": "2. Load balancer health check failing in RHCSA-RedHat environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S03-01",
+    "question": "3. Database performance degradation after upgrade in RHCSA-RedHat environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S03-02",
+    "question": "3. Database performance degradation after upgrade in RHCSA-RedHat environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S03-03",
+    "question": "3. Database performance degradation after upgrade in RHCSA-RedHat environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S03-04",
+    "question": "3. Database performance degradation after upgrade in RHCSA-RedHat environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S03-05",
+    "question": "3. Database performance degradation after upgrade in RHCSA-RedHat environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S04-01",
+    "question": "4. Database performance degradation after upgrade in RHCSA-RedHat environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S04-02",
+    "question": "4. Database performance degradation after upgrade in RHCSA-RedHat environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S04-03",
+    "question": "4. Database performance degradation after upgrade in RHCSA-RedHat environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S04-04",
+    "question": "4. Database performance degradation after upgrade in RHCSA-RedHat environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S04-05",
+    "question": "4. Database performance degradation after upgrade in RHCSA-RedHat environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S05-01",
+    "question": "5. Backup failure during scheduled window in RHCSA-RedHat environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S05-02",
+    "question": "5. Backup failure during scheduled window in RHCSA-RedHat environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S05-03",
+    "question": "5. Backup failure during scheduled window in RHCSA-RedHat environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S05-04",
+    "question": "5. Backup failure during scheduled window in RHCSA-RedHat environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S05-05",
+    "question": "5. Backup failure during scheduled window in RHCSA-RedHat environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S06-01",
+    "question": "6. Production outage during peak hours: diagnose and resolve in RHCSA-RedHat environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S06-02",
+    "question": "6. Production outage during peak hours: diagnose and resolve in RHCSA-RedHat environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S06-03",
+    "question": "6. Production outage during peak hours: diagnose and resolve in RHCSA-RedHat environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S06-04",
+    "question": "6. Production outage during peak hours: diagnose and resolve in RHCSA-RedHat environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S06-05",
+    "question": "6. Production outage during peak hours: diagnose and resolve in RHCSA-RedHat environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S07-01",
+    "question": "7. Backup failure during scheduled window in RHCSA-RedHat environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S07-02",
+    "question": "7. Backup failure during scheduled window in RHCSA-RedHat environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S07-03",
+    "question": "7. Backup failure during scheduled window in RHCSA-RedHat environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S07-04",
+    "question": "7. Backup failure during scheduled window in RHCSA-RedHat environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S07-05",
+    "question": "7. Backup failure during scheduled window in RHCSA-RedHat environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S08-01",
+    "question": "8. Database performance degradation after upgrade in RHCSA-RedHat environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S08-02",
+    "question": "8. Database performance degradation after upgrade in RHCSA-RedHat environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S08-03",
+    "question": "8. Database performance degradation after upgrade in RHCSA-RedHat environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S08-04",
+    "question": "8. Database performance degradation after upgrade in RHCSA-RedHat environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S08-05",
+    "question": "8. Database performance degradation after upgrade in RHCSA-RedHat environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S09-01",
+    "question": "9. Server overload during quarterly report generation in RHCSA-RedHat environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S09-02",
+    "question": "9. Server overload during quarterly report generation in RHCSA-RedHat environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S09-03",
+    "question": "9. Server overload during quarterly report generation in RHCSA-RedHat environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S09-04",
+    "question": "9. Server overload during quarterly report generation in RHCSA-RedHat environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S09-05",
+    "question": "9. Server overload during quarterly report generation in RHCSA-RedHat environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S10-01",
+    "question": "10. Backup failure during scheduled window in RHCSA-RedHat environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S10-02",
+    "question": "10. Backup failure during scheduled window in RHCSA-RedHat environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S10-03",
+    "question": "10. Backup failure during scheduled window in RHCSA-RedHat environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S10-04",
+    "question": "10. Backup failure during scheduled window in RHCSA-RedHat environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S10-05",
+    "question": "10. Backup failure during scheduled window in RHCSA-RedHat environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S11-01",
+    "question": "11. Security incident response: ransomware attack detected in RHCSA-RedHat environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S11-02",
+    "question": "11. Security incident response: ransomware attack detected in RHCSA-RedHat environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S11-03",
+    "question": "11. Security incident response: ransomware attack detected in RHCSA-RedHat environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S11-04",
+    "question": "11. Security incident response: ransomware attack detected in RHCSA-RedHat environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S11-05",
+    "question": "11. Security incident response: ransomware attack detected in RHCSA-RedHat environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S12-01",
+    "question": "12. Security incident response: ransomware attack detected in RHCSA-RedHat environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S12-02",
+    "question": "12. Security incident response: ransomware attack detected in RHCSA-RedHat environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S12-03",
+    "question": "12. Security incident response: ransomware attack detected in RHCSA-RedHat environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S12-04",
+    "question": "12. Security incident response: ransomware attack detected in RHCSA-RedHat environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S12-05",
+    "question": "12. Security incident response: ransomware attack detected in RHCSA-RedHat environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S13-01",
+    "question": "13. Server overload during quarterly report generation in RHCSA-RedHat environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S13-02",
+    "question": "13. Server overload during quarterly report generation in RHCSA-RedHat environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S13-03",
+    "question": "13. Server overload during quarterly report generation in RHCSA-RedHat environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S13-04",
+    "question": "13. Server overload during quarterly report generation in RHCSA-RedHat environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S13-05",
+    "question": "13. Server overload during quarterly report generation in RHCSA-RedHat environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S14-01",
+    "question": "14. Network latency issue affecting VoIP calls in RHCSA-RedHat environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S14-02",
+    "question": "14. Network latency issue affecting VoIP calls in RHCSA-RedHat environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S14-03",
+    "question": "14. Network latency issue affecting VoIP calls in RHCSA-RedHat environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S14-04",
+    "question": "14. Network latency issue affecting VoIP calls in RHCSA-RedHat environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S14-05",
+    "question": "14. Network latency issue affecting VoIP calls in RHCSA-RedHat environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S15-01",
+    "question": "15. Database performance degradation after upgrade in RHCSA-RedHat environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S15-02",
+    "question": "15. Database performance degradation after upgrade in RHCSA-RedHat environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S15-03",
+    "question": "15. Database performance degradation after upgrade in RHCSA-RedHat environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S15-04",
+    "question": "15. Database performance degradation after upgrade in RHCSA-RedHat environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S15-05",
+    "question": "15. Database performance degradation after upgrade in RHCSA-RedHat environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S16-01",
+    "question": "16. Database performance degradation after upgrade in RHCSA-RedHat environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S16-02",
+    "question": "16. Database performance degradation after upgrade in RHCSA-RedHat environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S16-03",
+    "question": "16. Database performance degradation after upgrade in RHCSA-RedHat environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S16-04",
+    "question": "16. Database performance degradation after upgrade in RHCSA-RedHat environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S16-05",
+    "question": "16. Database performance degradation after upgrade in RHCSA-RedHat environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S17-01",
+    "question": "17. Backup failure during scheduled window in RHCSA-RedHat environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S17-02",
+    "question": "17. Backup failure during scheduled window in RHCSA-RedHat environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S17-03",
+    "question": "17. Backup failure during scheduled window in RHCSA-RedHat environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S17-04",
+    "question": "17. Backup failure during scheduled window in RHCSA-RedHat environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S17-05",
+    "question": "17. Backup failure during scheduled window in RHCSA-RedHat environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S18-01",
+    "question": "18. Network latency issue affecting VoIP calls in RHCSA-RedHat environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S18-02",
+    "question": "18. Network latency issue affecting VoIP calls in RHCSA-RedHat environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S18-03",
+    "question": "18. Network latency issue affecting VoIP calls in RHCSA-RedHat environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S18-04",
+    "question": "18. Network latency issue affecting VoIP calls in RHCSA-RedHat environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S18-05",
+    "question": "18. Network latency issue affecting VoIP calls in RHCSA-RedHat environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S19-01",
+    "question": "19. VPN connectivity failure for remote users in RHCSA-RedHat environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S19-02",
+    "question": "19. VPN connectivity failure for remote users in RHCSA-RedHat environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S19-03",
+    "question": "19. VPN connectivity failure for remote users in RHCSA-RedHat environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S19-04",
+    "question": "19. VPN connectivity failure for remote users in RHCSA-RedHat environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S19-05",
+    "question": "19. VPN connectivity failure for remote users in RHCSA-RedHat environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S20-01",
+    "question": "20. Backup failure during scheduled window in RHCSA-RedHat environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S20-02",
+    "question": "20. Backup failure during scheduled window in RHCSA-RedHat environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S20-03",
+    "question": "20. Backup failure during scheduled window in RHCSA-RedHat environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S20-04",
+    "question": "20. Backup failure during scheduled window in RHCSA-RedHat environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  },
+  {
+    "id": "RHCSA-RedHat-S20-05",
+    "question": "20. Backup failure during scheduled window in RHCSA-RedHat environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow RHCSA-RedHat troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow RHCSA-RedHat troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per RHCSA-RedHat best practices. Document all steps for RCA."
+  }
+]

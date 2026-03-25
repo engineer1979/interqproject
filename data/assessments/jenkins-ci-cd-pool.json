@@ -1,0 +1,3260 @@
+{
+  "easy": [
+    {
+      "id": "Jenkins-CI-CD-E001",
+      "question": "Which port does Jenkins-CI-CD service use by default?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Jenkins-CI-CD procedure"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "e",
+      "explanation": "**Jenkins-CI-CD E Solution:** Which port does Jenkins-CI-CD service use by default?. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-E002",
+      "question": "Which port does Jenkins-CI-CD service use by default?",
+      "options": [
+        "Correct Jenkins-CI-CD procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "e",
+      "explanation": "**Jenkins-CI-CD E Solution:** Which port does Jenkins-CI-CD service use by default?. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-E003",
+      "question": "Default subnet mask for Class C network in Jenkins-CI-CD?",
+      "options": [
+        "Dangerous method",
+        "Correct Jenkins-CI-CD procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "e",
+      "explanation": "**Jenkins-CI-CD E Solution:** Default subnet mask for Class C network in Jenkins-CI-CD?. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-E004",
+      "question": "Which port does Jenkins-CI-CD service use by default?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Jenkins-CI-CD procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "e",
+      "explanation": "**Jenkins-CI-CD E Solution:** Which port does Jenkins-CI-CD service use by default?. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-E005",
+      "question": "Default subnet mask for Class C network in Jenkins-CI-CD?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Jenkins-CI-CD procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "e",
+      "explanation": "**Jenkins-CI-CD E Solution:** Default subnet mask for Class C network in Jenkins-CI-CD?. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-E006",
+      "question": "What is the primary function of Jenkins DHCP?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Jenkins-CI-CD procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "e",
+      "explanation": "**Jenkins-CI-CD E Solution:** What is the primary function of Jenkins DHCP?. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-E007",
+      "question": "Which port does Jenkins-CI-CD service use by default?",
+      "options": [
+        "Correct Jenkins-CI-CD procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "e",
+      "explanation": "**Jenkins-CI-CD E Solution:** Which port does Jenkins-CI-CD service use by default?. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-E008",
+      "question": "Common protocol for Jenkins-CI-CD remote access?",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Jenkins-CI-CD procedure"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "e",
+      "explanation": "**Jenkins-CI-CD E Solution:** Common protocol for Jenkins-CI-CD remote access?. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-E009",
+      "question": "What does Jenkins ACL stand for?",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Jenkins-CI-CD procedure"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "e",
+      "explanation": "**Jenkins-CI-CD E Solution:** What does Jenkins ACL stand for?. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-E010",
+      "question": "What is the primary function of Jenkins DHCP?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Jenkins-CI-CD procedure"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "e",
+      "explanation": "**Jenkins-CI-CD E Solution:** What is the primary function of Jenkins DHCP?. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-E011",
+      "question": "Default subnet mask for Class C network in Jenkins-CI-CD?",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Jenkins-CI-CD procedure"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "e",
+      "explanation": "**Jenkins-CI-CD E Solution:** Default subnet mask for Class C network in Jenkins-CI-CD?. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-E012",
+      "question": "Common protocol for Jenkins-CI-CD remote access?",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Jenkins-CI-CD procedure"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "e",
+      "explanation": "**Jenkins-CI-CD E Solution:** Common protocol for Jenkins-CI-CD remote access?. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-E013",
+      "question": "Default subnet mask for Class C network in Jenkins-CI-CD?",
+      "options": [
+        "Dangerous method",
+        "Correct Jenkins-CI-CD procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "e",
+      "explanation": "**Jenkins-CI-CD E Solution:** Default subnet mask for Class C network in Jenkins-CI-CD?. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-E014",
+      "question": "What does Jenkins ACL stand for?",
+      "options": [
+        "Dangerous method",
+        "Correct Jenkins-CI-CD procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "e",
+      "explanation": "**Jenkins-CI-CD E Solution:** What does Jenkins ACL stand for?. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-E015",
+      "question": "What is the primary function of Jenkins DHCP?",
+      "options": [
+        "Correct Jenkins-CI-CD procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "e",
+      "explanation": "**Jenkins-CI-CD E Solution:** What is the primary function of Jenkins DHCP?. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-E016",
+      "question": "Default subnet mask for Class C network in Jenkins-CI-CD?",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Jenkins-CI-CD procedure"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "e",
+      "explanation": "**Jenkins-CI-CD E Solution:** Default subnet mask for Class C network in Jenkins-CI-CD?. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-E017",
+      "question": "Default subnet mask for Class C network in Jenkins-CI-CD?",
+      "options": [
+        "Dangerous method",
+        "Correct Jenkins-CI-CD procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "e",
+      "explanation": "**Jenkins-CI-CD E Solution:** Default subnet mask for Class C network in Jenkins-CI-CD?. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-E018",
+      "question": "Which port does Jenkins-CI-CD service use by default?",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Jenkins-CI-CD procedure"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "e",
+      "explanation": "**Jenkins-CI-CD E Solution:** Which port does Jenkins-CI-CD service use by default?. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-E019",
+      "question": "Common protocol for Jenkins-CI-CD remote access?",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Jenkins-CI-CD procedure"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "e",
+      "explanation": "**Jenkins-CI-CD E Solution:** Common protocol for Jenkins-CI-CD remote access?. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-E020",
+      "question": "Common protocol for Jenkins-CI-CD remote access?",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Jenkins-CI-CD procedure"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "e",
+      "explanation": "**Jenkins-CI-CD E Solution:** Common protocol for Jenkins-CI-CD remote access?. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-E021",
+      "question": "Default subnet mask for Class C network in Jenkins-CI-CD?",
+      "options": [
+        "Partially correct",
+        "Correct Jenkins-CI-CD procedure",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "e",
+      "explanation": "**Jenkins-CI-CD E Solution:** Default subnet mask for Class C network in Jenkins-CI-CD?. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-E022",
+      "question": "What is the primary function of Jenkins DHCP?",
+      "options": [
+        "Dangerous method",
+        "Correct Jenkins-CI-CD procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "e",
+      "explanation": "**Jenkins-CI-CD E Solution:** What is the primary function of Jenkins DHCP?. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-E023",
+      "question": "Common protocol for Jenkins-CI-CD remote access?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Jenkins-CI-CD procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "e",
+      "explanation": "**Jenkins-CI-CD E Solution:** Common protocol for Jenkins-CI-CD remote access?. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-E024",
+      "question": "Common protocol for Jenkins-CI-CD remote access?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Jenkins-CI-CD procedure"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "e",
+      "explanation": "**Jenkins-CI-CD E Solution:** Common protocol for Jenkins-CI-CD remote access?. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-E025",
+      "question": "Default subnet mask for Class C network in Jenkins-CI-CD?",
+      "options": [
+        "Correct Jenkins-CI-CD procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "e",
+      "explanation": "**Jenkins-CI-CD E Solution:** Default subnet mask for Class C network in Jenkins-CI-CD?. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-E026",
+      "question": "What does Jenkins ACL stand for?",
+      "options": [
+        "Dangerous method",
+        "Correct Jenkins-CI-CD procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "e",
+      "explanation": "**Jenkins-CI-CD E Solution:** What does Jenkins ACL stand for?. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-E027",
+      "question": "Default subnet mask for Class C network in Jenkins-CI-CD?",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Correct Jenkins-CI-CD procedure",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "e",
+      "explanation": "**Jenkins-CI-CD E Solution:** Default subnet mask for Class C network in Jenkins-CI-CD?. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-E028",
+      "question": "Which port does Jenkins-CI-CD service use by default?",
+      "options": [
+        "Dangerous method",
+        "Correct Jenkins-CI-CD procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "e",
+      "explanation": "**Jenkins-CI-CD E Solution:** Which port does Jenkins-CI-CD service use by default?. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-E029",
+      "question": "Which port does Jenkins-CI-CD service use by default?",
+      "options": [
+        "Dangerous method",
+        "Correct Jenkins-CI-CD procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "e",
+      "explanation": "**Jenkins-CI-CD E Solution:** Which port does Jenkins-CI-CD service use by default?. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-E030",
+      "question": "Default subnet mask for Class C network in Jenkins-CI-CD?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Jenkins-CI-CD procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "e",
+      "explanation": "**Jenkins-CI-CD E Solution:** Default subnet mask for Class C network in Jenkins-CI-CD?. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-E031",
+      "question": "Which port does Jenkins-CI-CD service use by default?",
+      "options": [
+        "Incorrect approach",
+        "Correct Jenkins-CI-CD procedure",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "e",
+      "explanation": "**Jenkins-CI-CD E Solution:** Which port does Jenkins-CI-CD service use by default?. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-E032",
+      "question": "Default subnet mask for Class C network in Jenkins-CI-CD?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Jenkins-CI-CD procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "e",
+      "explanation": "**Jenkins-CI-CD E Solution:** Default subnet mask for Class C network in Jenkins-CI-CD?. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-E033",
+      "question": "Which port does Jenkins-CI-CD service use by default?",
+      "options": [
+        "Correct Jenkins-CI-CD procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "e",
+      "explanation": "**Jenkins-CI-CD E Solution:** Which port does Jenkins-CI-CD service use by default?. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-E034",
+      "question": "What does Jenkins ACL stand for?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Jenkins-CI-CD procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "e",
+      "explanation": "**Jenkins-CI-CD E Solution:** What does Jenkins ACL stand for?. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-E035",
+      "question": "Common protocol for Jenkins-CI-CD remote access?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Jenkins-CI-CD procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "e",
+      "explanation": "**Jenkins-CI-CD E Solution:** Common protocol for Jenkins-CI-CD remote access?. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-E036",
+      "question": "Which port does Jenkins-CI-CD service use by default?",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Correct Jenkins-CI-CD procedure",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "e",
+      "explanation": "**Jenkins-CI-CD E Solution:** Which port does Jenkins-CI-CD service use by default?. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-E037",
+      "question": "Which port does Jenkins-CI-CD service use by default?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Jenkins-CI-CD procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "e",
+      "explanation": "**Jenkins-CI-CD E Solution:** Which port does Jenkins-CI-CD service use by default?. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-E038",
+      "question": "What is the primary function of Jenkins DHCP?",
+      "options": [
+        "Incorrect approach",
+        "Correct Jenkins-CI-CD procedure",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "e",
+      "explanation": "**Jenkins-CI-CD E Solution:** What is the primary function of Jenkins DHCP?. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-E039",
+      "question": "Default subnet mask for Class C network in Jenkins-CI-CD?",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Jenkins-CI-CD procedure"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "e",
+      "explanation": "**Jenkins-CI-CD E Solution:** Default subnet mask for Class C network in Jenkins-CI-CD?. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-E040",
+      "question": "Default subnet mask for Class C network in Jenkins-CI-CD?",
+      "options": [
+        "Incorrect approach",
+        "Correct Jenkins-CI-CD procedure",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "e",
+      "explanation": "**Jenkins-CI-CD E Solution:** Default subnet mask for Class C network in Jenkins-CI-CD?. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-E041",
+      "question": "Which port does Jenkins-CI-CD service use by default?",
+      "options": [
+        "Dangerous method",
+        "Correct Jenkins-CI-CD procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "e",
+      "explanation": "**Jenkins-CI-CD E Solution:** Which port does Jenkins-CI-CD service use by default?. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-E042",
+      "question": "Common protocol for Jenkins-CI-CD remote access?",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Jenkins-CI-CD procedure"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "e",
+      "explanation": "**Jenkins-CI-CD E Solution:** Common protocol for Jenkins-CI-CD remote access?. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-E043",
+      "question": "Which port does Jenkins-CI-CD service use by default?",
+      "options": [
+        "Correct Jenkins-CI-CD procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "e",
+      "explanation": "**Jenkins-CI-CD E Solution:** Which port does Jenkins-CI-CD service use by default?. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-E044",
+      "question": "What does Jenkins ACL stand for?",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Jenkins-CI-CD procedure"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "e",
+      "explanation": "**Jenkins-CI-CD E Solution:** What does Jenkins ACL stand for?. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-E045",
+      "question": "Common protocol for Jenkins-CI-CD remote access?",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Jenkins-CI-CD procedure"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "e",
+      "explanation": "**Jenkins-CI-CD E Solution:** Common protocol for Jenkins-CI-CD remote access?. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-E046",
+      "question": "Default subnet mask for Class C network in Jenkins-CI-CD?",
+      "options": [
+        "Correct Jenkins-CI-CD procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "e",
+      "explanation": "**Jenkins-CI-CD E Solution:** Default subnet mask for Class C network in Jenkins-CI-CD?. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-E047",
+      "question": "Which port does Jenkins-CI-CD service use by default?",
+      "options": [
+        "Correct Jenkins-CI-CD procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "e",
+      "explanation": "**Jenkins-CI-CD E Solution:** Which port does Jenkins-CI-CD service use by default?. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-E048",
+      "question": "Common protocol for Jenkins-CI-CD remote access?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Jenkins-CI-CD procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "e",
+      "explanation": "**Jenkins-CI-CD E Solution:** Common protocol for Jenkins-CI-CD remote access?. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-E049",
+      "question": "Default subnet mask for Class C network in Jenkins-CI-CD?",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Jenkins-CI-CD procedure"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "e",
+      "explanation": "**Jenkins-CI-CD E Solution:** Default subnet mask for Class C network in Jenkins-CI-CD?. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-E050",
+      "question": "Common protocol for Jenkins-CI-CD remote access?",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Jenkins-CI-CD procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "e",
+      "explanation": "**Jenkins-CI-CD E Solution:** Common protocol for Jenkins-CI-CD remote access?. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    }
+  ],
+  "medium": [
+    {
+      "id": "Jenkins-CI-CD-M001",
+      "question": "Troubleshoot Jenkins-CI-CD connectivity issue between VLANs",
+      "options": [
+        "Correct Jenkins-CI-CD procedure",
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "m",
+      "explanation": "**Jenkins-CI-CD M Solution:** Troubleshoot Jenkins-CI-CD connectivity issue between VLANs. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-M002",
+      "question": "Set up Jenkins-CI-CD failover clustering",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Jenkins-CI-CD procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "m",
+      "explanation": "**Jenkins-CI-CD M Solution:** Set up Jenkins-CI-CD failover clustering. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-M003",
+      "question": "Configure Jenkins-CI-CD load balancer for high availability",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Jenkins-CI-CD procedure"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "m",
+      "explanation": "**Jenkins-CI-CD M Solution:** Configure Jenkins-CI-CD load balancer for high availability. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-M004",
+      "question": "Troubleshoot Jenkins-CI-CD connectivity issue between VLANs",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Jenkins-CI-CD procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "m",
+      "explanation": "**Jenkins-CI-CD M Solution:** Troubleshoot Jenkins-CI-CD connectivity issue between VLANs. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-M005",
+      "question": "Configure Jenkins-CI-CD load balancer for high availability",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Jenkins-CI-CD procedure"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "m",
+      "explanation": "**Jenkins-CI-CD M Solution:** Configure Jenkins-CI-CD load balancer for high availability. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-M006",
+      "question": "Set up Jenkins-CI-CD failover clustering",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Jenkins-CI-CD procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "m",
+      "explanation": "**Jenkins-CI-CD M Solution:** Set up Jenkins-CI-CD failover clustering. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-M007",
+      "question": "Set up Jenkins-CI-CD failover clustering",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Jenkins-CI-CD procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "m",
+      "explanation": "**Jenkins-CI-CD M Solution:** Set up Jenkins-CI-CD failover clustering. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-M008",
+      "question": "Configure Jenkins-CI-CD load balancer for high availability",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Jenkins-CI-CD procedure"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "m",
+      "explanation": "**Jenkins-CI-CD M Solution:** Configure Jenkins-CI-CD load balancer for high availability. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-M009",
+      "question": "Implement Jenkins-CI-CD backup strategy for compliance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Jenkins-CI-CD procedure"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "m",
+      "explanation": "**Jenkins-CI-CD M Solution:** Implement Jenkins-CI-CD backup strategy for compliance. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-M010",
+      "question": "Troubleshoot Jenkins-CI-CD connectivity issue between VLANs",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Jenkins-CI-CD procedure"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "m",
+      "explanation": "**Jenkins-CI-CD M Solution:** Troubleshoot Jenkins-CI-CD connectivity issue between VLANs. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-M011",
+      "question": "Implement Jenkins-CI-CD backup strategy for compliance",
+      "options": [
+        "Dangerous method",
+        "Correct Jenkins-CI-CD procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "m",
+      "explanation": "**Jenkins-CI-CD M Solution:** Implement Jenkins-CI-CD backup strategy for compliance. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-M012",
+      "question": "Troubleshoot Jenkins-CI-CD connectivity issue between VLANs",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Jenkins-CI-CD procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "m",
+      "explanation": "**Jenkins-CI-CD M Solution:** Troubleshoot Jenkins-CI-CD connectivity issue between VLANs. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-M013",
+      "question": "Configure Jenkins-CI-CD load balancer for high availability",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Jenkins-CI-CD procedure"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "m",
+      "explanation": "**Jenkins-CI-CD M Solution:** Configure Jenkins-CI-CD load balancer for high availability. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-M014",
+      "question": "Optimize Jenkins-CI-CD query performance",
+      "options": [
+        "Dangerous method",
+        "Correct Jenkins-CI-CD procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "m",
+      "explanation": "**Jenkins-CI-CD M Solution:** Optimize Jenkins-CI-CD query performance. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-M015",
+      "question": "Optimize Jenkins-CI-CD query performance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Jenkins-CI-CD procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "m",
+      "explanation": "**Jenkins-CI-CD M Solution:** Optimize Jenkins-CI-CD query performance. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-M016",
+      "question": "Troubleshoot Jenkins-CI-CD connectivity issue between VLANs",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Jenkins-CI-CD procedure"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "m",
+      "explanation": "**Jenkins-CI-CD M Solution:** Troubleshoot Jenkins-CI-CD connectivity issue between VLANs. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-M017",
+      "question": "Configure Jenkins-CI-CD load balancer for high availability",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Jenkins-CI-CD procedure"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "m",
+      "explanation": "**Jenkins-CI-CD M Solution:** Configure Jenkins-CI-CD load balancer for high availability. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-M018",
+      "question": "Configure Jenkins-CI-CD load balancer for high availability",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Jenkins-CI-CD procedure"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "m",
+      "explanation": "**Jenkins-CI-CD M Solution:** Configure Jenkins-CI-CD load balancer for high availability. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-M019",
+      "question": "Configure Jenkins-CI-CD load balancer for high availability",
+      "options": [
+        "Dangerous method",
+        "Correct Jenkins-CI-CD procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "m",
+      "explanation": "**Jenkins-CI-CD M Solution:** Configure Jenkins-CI-CD load balancer for high availability. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-M020",
+      "question": "Implement Jenkins-CI-CD backup strategy for compliance",
+      "options": [
+        "Correct Jenkins-CI-CD procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "m",
+      "explanation": "**Jenkins-CI-CD M Solution:** Implement Jenkins-CI-CD backup strategy for compliance. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-M021",
+      "question": "Configure Jenkins-CI-CD load balancer for high availability",
+      "options": [
+        "Dangerous method",
+        "Correct Jenkins-CI-CD procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "m",
+      "explanation": "**Jenkins-CI-CD M Solution:** Configure Jenkins-CI-CD load balancer for high availability. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-M022",
+      "question": "Optimize Jenkins-CI-CD query performance",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Jenkins-CI-CD procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "m",
+      "explanation": "**Jenkins-CI-CD M Solution:** Optimize Jenkins-CI-CD query performance. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-M023",
+      "question": "Set up Jenkins-CI-CD failover clustering",
+      "options": [
+        "Correct Jenkins-CI-CD procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "m",
+      "explanation": "**Jenkins-CI-CD M Solution:** Set up Jenkins-CI-CD failover clustering. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-M024",
+      "question": "Troubleshoot Jenkins-CI-CD connectivity issue between VLANs",
+      "options": [
+        "Dangerous method",
+        "Correct Jenkins-CI-CD procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "m",
+      "explanation": "**Jenkins-CI-CD M Solution:** Troubleshoot Jenkins-CI-CD connectivity issue between VLANs. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-M025",
+      "question": "Implement Jenkins-CI-CD backup strategy for compliance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Jenkins-CI-CD procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "m",
+      "explanation": "**Jenkins-CI-CD M Solution:** Implement Jenkins-CI-CD backup strategy for compliance. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-M026",
+      "question": "Implement Jenkins-CI-CD backup strategy for compliance",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Jenkins-CI-CD procedure"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "m",
+      "explanation": "**Jenkins-CI-CD M Solution:** Implement Jenkins-CI-CD backup strategy for compliance. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-M027",
+      "question": "Troubleshoot Jenkins-CI-CD connectivity issue between VLANs",
+      "options": [
+        "Dangerous method",
+        "Correct Jenkins-CI-CD procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "m",
+      "explanation": "**Jenkins-CI-CD M Solution:** Troubleshoot Jenkins-CI-CD connectivity issue between VLANs. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-M028",
+      "question": "Optimize Jenkins-CI-CD query performance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Jenkins-CI-CD procedure"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "m",
+      "explanation": "**Jenkins-CI-CD M Solution:** Optimize Jenkins-CI-CD query performance. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-M029",
+      "question": "Configure Jenkins-CI-CD load balancer for high availability",
+      "options": [
+        "Correct Jenkins-CI-CD procedure",
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "m",
+      "explanation": "**Jenkins-CI-CD M Solution:** Configure Jenkins-CI-CD load balancer for high availability. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-M030",
+      "question": "Troubleshoot Jenkins-CI-CD connectivity issue between VLANs",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Jenkins-CI-CD procedure"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "m",
+      "explanation": "**Jenkins-CI-CD M Solution:** Troubleshoot Jenkins-CI-CD connectivity issue between VLANs. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-M031",
+      "question": "Implement Jenkins-CI-CD backup strategy for compliance",
+      "options": [
+        "Dangerous method",
+        "Correct Jenkins-CI-CD procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "m",
+      "explanation": "**Jenkins-CI-CD M Solution:** Implement Jenkins-CI-CD backup strategy for compliance. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-M032",
+      "question": "Set up Jenkins-CI-CD failover clustering",
+      "options": [
+        "Correct Jenkins-CI-CD procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "m",
+      "explanation": "**Jenkins-CI-CD M Solution:** Set up Jenkins-CI-CD failover clustering. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-M033",
+      "question": "Troubleshoot Jenkins-CI-CD connectivity issue between VLANs",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Jenkins-CI-CD procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "m",
+      "explanation": "**Jenkins-CI-CD M Solution:** Troubleshoot Jenkins-CI-CD connectivity issue between VLANs. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-M034",
+      "question": "Optimize Jenkins-CI-CD query performance",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Jenkins-CI-CD procedure"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "m",
+      "explanation": "**Jenkins-CI-CD M Solution:** Optimize Jenkins-CI-CD query performance. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-M035",
+      "question": "Implement Jenkins-CI-CD backup strategy for compliance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Jenkins-CI-CD procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "m",
+      "explanation": "**Jenkins-CI-CD M Solution:** Implement Jenkins-CI-CD backup strategy for compliance. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-M036",
+      "question": "Implement Jenkins-CI-CD backup strategy for compliance",
+      "options": [
+        "Partially correct",
+        "Correct Jenkins-CI-CD procedure",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "m",
+      "explanation": "**Jenkins-CI-CD M Solution:** Implement Jenkins-CI-CD backup strategy for compliance. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-M037",
+      "question": "Implement Jenkins-CI-CD backup strategy for compliance",
+      "options": [
+        "Correct Jenkins-CI-CD procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "m",
+      "explanation": "**Jenkins-CI-CD M Solution:** Implement Jenkins-CI-CD backup strategy for compliance. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-M038",
+      "question": "Troubleshoot Jenkins-CI-CD connectivity issue between VLANs",
+      "options": [
+        "Dangerous method",
+        "Correct Jenkins-CI-CD procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "m",
+      "explanation": "**Jenkins-CI-CD M Solution:** Troubleshoot Jenkins-CI-CD connectivity issue between VLANs. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-M039",
+      "question": "Set up Jenkins-CI-CD failover clustering",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Jenkins-CI-CD procedure"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "m",
+      "explanation": "**Jenkins-CI-CD M Solution:** Set up Jenkins-CI-CD failover clustering. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-M040",
+      "question": "Optimize Jenkins-CI-CD query performance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Jenkins-CI-CD procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "m",
+      "explanation": "**Jenkins-CI-CD M Solution:** Optimize Jenkins-CI-CD query performance. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-M041",
+      "question": "Set up Jenkins-CI-CD failover clustering",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Jenkins-CI-CD procedure"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "m",
+      "explanation": "**Jenkins-CI-CD M Solution:** Set up Jenkins-CI-CD failover clustering. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-M042",
+      "question": "Troubleshoot Jenkins-CI-CD connectivity issue between VLANs",
+      "options": [
+        "Dangerous method",
+        "Correct Jenkins-CI-CD procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "m",
+      "explanation": "**Jenkins-CI-CD M Solution:** Troubleshoot Jenkins-CI-CD connectivity issue between VLANs. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-M043",
+      "question": "Set up Jenkins-CI-CD failover clustering",
+      "options": [
+        "Correct Jenkins-CI-CD procedure",
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "m",
+      "explanation": "**Jenkins-CI-CD M Solution:** Set up Jenkins-CI-CD failover clustering. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-M044",
+      "question": "Optimize Jenkins-CI-CD query performance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Jenkins-CI-CD procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "m",
+      "explanation": "**Jenkins-CI-CD M Solution:** Optimize Jenkins-CI-CD query performance. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-M045",
+      "question": "Implement Jenkins-CI-CD backup strategy for compliance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Jenkins-CI-CD procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "m",
+      "explanation": "**Jenkins-CI-CD M Solution:** Implement Jenkins-CI-CD backup strategy for compliance. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-M046",
+      "question": "Optimize Jenkins-CI-CD query performance",
+      "options": [
+        "Incorrect approach",
+        "Correct Jenkins-CI-CD procedure",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "m",
+      "explanation": "**Jenkins-CI-CD M Solution:** Optimize Jenkins-CI-CD query performance. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-M047",
+      "question": "Set up Jenkins-CI-CD failover clustering",
+      "options": [
+        "Incorrect approach",
+        "Correct Jenkins-CI-CD procedure",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "m",
+      "explanation": "**Jenkins-CI-CD M Solution:** Set up Jenkins-CI-CD failover clustering. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-M048",
+      "question": "Set up Jenkins-CI-CD failover clustering",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Jenkins-CI-CD procedure"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "m",
+      "explanation": "**Jenkins-CI-CD M Solution:** Set up Jenkins-CI-CD failover clustering. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-M049",
+      "question": "Configure Jenkins-CI-CD load balancer for high availability",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Jenkins-CI-CD procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "m",
+      "explanation": "**Jenkins-CI-CD M Solution:** Configure Jenkins-CI-CD load balancer for high availability. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-M050",
+      "question": "Troubleshoot Jenkins-CI-CD connectivity issue between VLANs",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Jenkins-CI-CD procedure"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "m",
+      "explanation": "**Jenkins-CI-CD M Solution:** Troubleshoot Jenkins-CI-CD connectivity issue between VLANs. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    }
+  ],
+  "hard": [
+    {
+      "id": "Jenkins-CI-CD-H001",
+      "question": "Optimize Jenkins-CI-CD performance under DDoS attack",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Jenkins-CI-CD procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "h",
+      "explanation": "**Jenkins-CI-CD H Solution:** Optimize Jenkins-CI-CD performance under DDoS attack. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-H002",
+      "question": "Migrate legacy Jenkins-CI-CD systems to cloud-native architecture",
+      "options": [
+        "Dangerous method",
+        "Correct Jenkins-CI-CD procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "h",
+      "explanation": "**Jenkins-CI-CD H Solution:** Migrate legacy Jenkins-CI-CD systems to cloud-native architecture. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-H003",
+      "question": "Optimize Jenkins-CI-CD performance under DDoS attack",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Jenkins-CI-CD procedure"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "h",
+      "explanation": "**Jenkins-CI-CD H Solution:** Optimize Jenkins-CI-CD performance under DDoS attack. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-H004",
+      "question": "Optimize Jenkins-CI-CD performance under DDoS attack",
+      "options": [
+        "Incorrect approach",
+        "Correct Jenkins-CI-CD procedure",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "h",
+      "explanation": "**Jenkins-CI-CD H Solution:** Optimize Jenkins-CI-CD performance under DDoS attack. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-H005",
+      "question": "Migrate legacy Jenkins-CI-CD systems to cloud-native architecture",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Jenkins-CI-CD procedure"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "h",
+      "explanation": "**Jenkins-CI-CD H Solution:** Migrate legacy Jenkins-CI-CD systems to cloud-native architecture. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-H006",
+      "question": "Migrate legacy Jenkins-CI-CD systems to cloud-native architecture",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Jenkins-CI-CD procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "h",
+      "explanation": "**Jenkins-CI-CD H Solution:** Migrate legacy Jenkins-CI-CD systems to cloud-native architecture. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-H007",
+      "question": "Design Jenkins-CI-CD architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Correct Jenkins-CI-CD procedure",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "h",
+      "explanation": "**Jenkins-CI-CD H Solution:** Design Jenkins-CI-CD architecture for 10k users with 99.99% uptime. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-H008",
+      "question": "Migrate legacy Jenkins-CI-CD systems to cloud-native architecture",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Jenkins-CI-CD procedure"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "h",
+      "explanation": "**Jenkins-CI-CD H Solution:** Migrate legacy Jenkins-CI-CD systems to cloud-native architecture. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-H009",
+      "question": "Implement zero-trust security model in Jenkins-CI-CD",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Jenkins-CI-CD procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "h",
+      "explanation": "**Jenkins-CI-CD H Solution:** Implement zero-trust security model in Jenkins-CI-CD. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-H010",
+      "question": "Optimize Jenkins-CI-CD performance under DDoS attack",
+      "options": [
+        "Dangerous method",
+        "Correct Jenkins-CI-CD procedure",
+        "Incorrect approach",
+        "Partially correct"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "h",
+      "explanation": "**Jenkins-CI-CD H Solution:** Optimize Jenkins-CI-CD performance under DDoS attack. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-H011",
+      "question": "Create disaster recovery plan with RTO < 15min for Jenkins-CI-CD",
+      "options": [
+        "Correct Jenkins-CI-CD procedure",
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "h",
+      "explanation": "**Jenkins-CI-CD H Solution:** Create disaster recovery plan with RTO < 15min for Jenkins-CI-CD. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-H012",
+      "question": "Design Jenkins-CI-CD architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Correct Jenkins-CI-CD procedure",
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "h",
+      "explanation": "**Jenkins-CI-CD H Solution:** Design Jenkins-CI-CD architecture for 10k users with 99.99% uptime. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-H013",
+      "question": "Create disaster recovery plan with RTO < 15min for Jenkins-CI-CD",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Jenkins-CI-CD procedure"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "h",
+      "explanation": "**Jenkins-CI-CD H Solution:** Create disaster recovery plan with RTO < 15min for Jenkins-CI-CD. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-H014",
+      "question": "Optimize Jenkins-CI-CD performance under DDoS attack",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Jenkins-CI-CD procedure"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "h",
+      "explanation": "**Jenkins-CI-CD H Solution:** Optimize Jenkins-CI-CD performance under DDoS attack. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-H015",
+      "question": "Design Jenkins-CI-CD architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Jenkins-CI-CD procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "h",
+      "explanation": "**Jenkins-CI-CD H Solution:** Design Jenkins-CI-CD architecture for 10k users with 99.99% uptime. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-H016",
+      "question": "Migrate legacy Jenkins-CI-CD systems to cloud-native architecture",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Jenkins-CI-CD procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "h",
+      "explanation": "**Jenkins-CI-CD H Solution:** Migrate legacy Jenkins-CI-CD systems to cloud-native architecture. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-H017",
+      "question": "Migrate legacy Jenkins-CI-CD systems to cloud-native architecture",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Jenkins-CI-CD procedure"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "h",
+      "explanation": "**Jenkins-CI-CD H Solution:** Migrate legacy Jenkins-CI-CD systems to cloud-native architecture. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-H018",
+      "question": "Migrate legacy Jenkins-CI-CD systems to cloud-native architecture",
+      "options": [
+        "Dangerous method",
+        "Correct Jenkins-CI-CD procedure",
+        "Incorrect approach",
+        "Partially correct"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "h",
+      "explanation": "**Jenkins-CI-CD H Solution:** Migrate legacy Jenkins-CI-CD systems to cloud-native architecture. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-H019",
+      "question": "Optimize Jenkins-CI-CD performance under DDoS attack",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Correct Jenkins-CI-CD procedure",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "h",
+      "explanation": "**Jenkins-CI-CD H Solution:** Optimize Jenkins-CI-CD performance under DDoS attack. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-H020",
+      "question": "Design Jenkins-CI-CD architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Jenkins-CI-CD procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "h",
+      "explanation": "**Jenkins-CI-CD H Solution:** Design Jenkins-CI-CD architecture for 10k users with 99.99% uptime. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-H021",
+      "question": "Implement zero-trust security model in Jenkins-CI-CD",
+      "options": [
+        "Dangerous method",
+        "Correct Jenkins-CI-CD procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "h",
+      "explanation": "**Jenkins-CI-CD H Solution:** Implement zero-trust security model in Jenkins-CI-CD. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-H022",
+      "question": "Optimize Jenkins-CI-CD performance under DDoS attack",
+      "options": [
+        "Dangerous method",
+        "Correct Jenkins-CI-CD procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "h",
+      "explanation": "**Jenkins-CI-CD H Solution:** Optimize Jenkins-CI-CD performance under DDoS attack. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-H023",
+      "question": "Design Jenkins-CI-CD architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Correct Jenkins-CI-CD procedure",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "h",
+      "explanation": "**Jenkins-CI-CD H Solution:** Design Jenkins-CI-CD architecture for 10k users with 99.99% uptime. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-H024",
+      "question": "Implement zero-trust security model in Jenkins-CI-CD",
+      "options": [
+        "Dangerous method",
+        "Correct Jenkins-CI-CD procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "h",
+      "explanation": "**Jenkins-CI-CD H Solution:** Implement zero-trust security model in Jenkins-CI-CD. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-H025",
+      "question": "Optimize Jenkins-CI-CD performance under DDoS attack",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Correct Jenkins-CI-CD procedure",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "h",
+      "explanation": "**Jenkins-CI-CD H Solution:** Optimize Jenkins-CI-CD performance under DDoS attack. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-H026",
+      "question": "Design Jenkins-CI-CD architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Dangerous method",
+        "Correct Jenkins-CI-CD procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "h",
+      "explanation": "**Jenkins-CI-CD H Solution:** Design Jenkins-CI-CD architecture for 10k users with 99.99% uptime. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-H027",
+      "question": "Migrate legacy Jenkins-CI-CD systems to cloud-native architecture",
+      "options": [
+        "Correct Jenkins-CI-CD procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "h",
+      "explanation": "**Jenkins-CI-CD H Solution:** Migrate legacy Jenkins-CI-CD systems to cloud-native architecture. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-H028",
+      "question": "Implement zero-trust security model in Jenkins-CI-CD",
+      "options": [
+        "Correct Jenkins-CI-CD procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "h",
+      "explanation": "**Jenkins-CI-CD H Solution:** Implement zero-trust security model in Jenkins-CI-CD. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-H029",
+      "question": "Implement zero-trust security model in Jenkins-CI-CD",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Jenkins-CI-CD procedure"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "h",
+      "explanation": "**Jenkins-CI-CD H Solution:** Implement zero-trust security model in Jenkins-CI-CD. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-H030",
+      "question": "Optimize Jenkins-CI-CD performance under DDoS attack",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Jenkins-CI-CD procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "h",
+      "explanation": "**Jenkins-CI-CD H Solution:** Optimize Jenkins-CI-CD performance under DDoS attack. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-H031",
+      "question": "Create disaster recovery plan with RTO < 15min for Jenkins-CI-CD",
+      "options": [
+        "Partially correct",
+        "Correct Jenkins-CI-CD procedure",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "h",
+      "explanation": "**Jenkins-CI-CD H Solution:** Create disaster recovery plan with RTO < 15min for Jenkins-CI-CD. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-H032",
+      "question": "Optimize Jenkins-CI-CD performance under DDoS attack",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Jenkins-CI-CD procedure"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "h",
+      "explanation": "**Jenkins-CI-CD H Solution:** Optimize Jenkins-CI-CD performance under DDoS attack. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-H033",
+      "question": "Design Jenkins-CI-CD architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Correct Jenkins-CI-CD procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "h",
+      "explanation": "**Jenkins-CI-CD H Solution:** Design Jenkins-CI-CD architecture for 10k users with 99.99% uptime. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-H034",
+      "question": "Create disaster recovery plan with RTO < 15min for Jenkins-CI-CD",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Jenkins-CI-CD procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "h",
+      "explanation": "**Jenkins-CI-CD H Solution:** Create disaster recovery plan with RTO < 15min for Jenkins-CI-CD. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-H035",
+      "question": "Implement zero-trust security model in Jenkins-CI-CD",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Jenkins-CI-CD procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "h",
+      "explanation": "**Jenkins-CI-CD H Solution:** Implement zero-trust security model in Jenkins-CI-CD. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-H036",
+      "question": "Design Jenkins-CI-CD architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Dangerous method",
+        "Correct Jenkins-CI-CD procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "h",
+      "explanation": "**Jenkins-CI-CD H Solution:** Design Jenkins-CI-CD architecture for 10k users with 99.99% uptime. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-H037",
+      "question": "Create disaster recovery plan with RTO < 15min for Jenkins-CI-CD",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Jenkins-CI-CD procedure"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "h",
+      "explanation": "**Jenkins-CI-CD H Solution:** Create disaster recovery plan with RTO < 15min for Jenkins-CI-CD. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-H038",
+      "question": "Design Jenkins-CI-CD architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Correct Jenkins-CI-CD procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "h",
+      "explanation": "**Jenkins-CI-CD H Solution:** Design Jenkins-CI-CD architecture for 10k users with 99.99% uptime. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-H039",
+      "question": "Implement zero-trust security model in Jenkins-CI-CD",
+      "options": [
+        "Correct Jenkins-CI-CD procedure",
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "h",
+      "explanation": "**Jenkins-CI-CD H Solution:** Implement zero-trust security model in Jenkins-CI-CD. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-H040",
+      "question": "Implement zero-trust security model in Jenkins-CI-CD",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Jenkins-CI-CD procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "h",
+      "explanation": "**Jenkins-CI-CD H Solution:** Implement zero-trust security model in Jenkins-CI-CD. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-H041",
+      "question": "Design Jenkins-CI-CD architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Dangerous method",
+        "Correct Jenkins-CI-CD procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "h",
+      "explanation": "**Jenkins-CI-CD H Solution:** Design Jenkins-CI-CD architecture for 10k users with 99.99% uptime. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-H042",
+      "question": "Migrate legacy Jenkins-CI-CD systems to cloud-native architecture",
+      "options": [
+        "Correct Jenkins-CI-CD procedure",
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "h",
+      "explanation": "**Jenkins-CI-CD H Solution:** Migrate legacy Jenkins-CI-CD systems to cloud-native architecture. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-H043",
+      "question": "Implement zero-trust security model in Jenkins-CI-CD",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Jenkins-CI-CD procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "h",
+      "explanation": "**Jenkins-CI-CD H Solution:** Implement zero-trust security model in Jenkins-CI-CD. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-H044",
+      "question": "Design Jenkins-CI-CD architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Jenkins-CI-CD procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "h",
+      "explanation": "**Jenkins-CI-CD H Solution:** Design Jenkins-CI-CD architecture for 10k users with 99.99% uptime. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-H045",
+      "question": "Design Jenkins-CI-CD architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Jenkins-CI-CD procedure"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "h",
+      "explanation": "**Jenkins-CI-CD H Solution:** Design Jenkins-CI-CD architecture for 10k users with 99.99% uptime. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-H046",
+      "question": "Create disaster recovery plan with RTO < 15min for Jenkins-CI-CD",
+      "options": [
+        "Incorrect approach",
+        "Correct Jenkins-CI-CD procedure",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "h",
+      "explanation": "**Jenkins-CI-CD H Solution:** Create disaster recovery plan with RTO < 15min for Jenkins-CI-CD. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-H047",
+      "question": "Design Jenkins-CI-CD architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Correct Jenkins-CI-CD procedure",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "h",
+      "explanation": "**Jenkins-CI-CD H Solution:** Design Jenkins-CI-CD architecture for 10k users with 99.99% uptime. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-H048",
+      "question": "Implement zero-trust security model in Jenkins-CI-CD",
+      "options": [
+        "Correct Jenkins-CI-CD procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "h",
+      "explanation": "**Jenkins-CI-CD H Solution:** Implement zero-trust security model in Jenkins-CI-CD. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-H049",
+      "question": "Optimize Jenkins-CI-CD performance under DDoS attack",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Jenkins-CI-CD procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "h",
+      "explanation": "**Jenkins-CI-CD H Solution:** Optimize Jenkins-CI-CD performance under DDoS attack. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    },
+    {
+      "id": "Jenkins-CI-CD-H050",
+      "question": "Create disaster recovery plan with RTO < 15min for Jenkins-CI-CD",
+      "options": [
+        "Correct Jenkins-CI-CD procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Jenkins-CI-CD procedure",
+      "difficulty": "h",
+      "explanation": "**Jenkins-CI-CD H Solution:** Create disaster recovery plan with RTO < 15min for Jenkins-CI-CD. Always verify Jenkins-CI-CD documentation and test in lab environment first."
+    }
+  ],
+  "scenarios": [
+    {
+      "id": "Jenkins-CI-CD-S01-01",
+      "question": "1. Security incident response: ransomware attack detected in Jenkins-CI-CD environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S01-02",
+      "question": "1. Security incident response: ransomware attack detected in Jenkins-CI-CD environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S01-03",
+      "question": "1. Security incident response: ransomware attack detected in Jenkins-CI-CD environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S01-04",
+      "question": "1. Security incident response: ransomware attack detected in Jenkins-CI-CD environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S01-05",
+      "question": "1. Security incident response: ransomware attack detected in Jenkins-CI-CD environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S02-01",
+      "question": "2. Network latency issue affecting VoIP calls in Jenkins-CI-CD environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S02-02",
+      "question": "2. Network latency issue affecting VoIP calls in Jenkins-CI-CD environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S02-03",
+      "question": "2. Network latency issue affecting VoIP calls in Jenkins-CI-CD environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S02-04",
+      "question": "2. Network latency issue affecting VoIP calls in Jenkins-CI-CD environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S02-05",
+      "question": "2. Network latency issue affecting VoIP calls in Jenkins-CI-CD environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S03-01",
+      "question": "3. Server overload during quarterly report generation in Jenkins-CI-CD environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S03-02",
+      "question": "3. Server overload during quarterly report generation in Jenkins-CI-CD environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S03-03",
+      "question": "3. Server overload during quarterly report generation in Jenkins-CI-CD environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S03-04",
+      "question": "3. Server overload during quarterly report generation in Jenkins-CI-CD environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S03-05",
+      "question": "3. Server overload during quarterly report generation in Jenkins-CI-CD environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S04-01",
+      "question": "4. Cloud migration failure: rollback strategy in Jenkins-CI-CD environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S04-02",
+      "question": "4. Cloud migration failure: rollback strategy in Jenkins-CI-CD environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S04-03",
+      "question": "4. Cloud migration failure: rollback strategy in Jenkins-CI-CD environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S04-04",
+      "question": "4. Cloud migration failure: rollback strategy in Jenkins-CI-CD environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S04-05",
+      "question": "4. Cloud migration failure: rollback strategy in Jenkins-CI-CD environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S05-01",
+      "question": "5. Server overload during quarterly report generation in Jenkins-CI-CD environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S05-02",
+      "question": "5. Server overload during quarterly report generation in Jenkins-CI-CD environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S05-03",
+      "question": "5. Server overload during quarterly report generation in Jenkins-CI-CD environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S05-04",
+      "question": "5. Server overload during quarterly report generation in Jenkins-CI-CD environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S05-05",
+      "question": "5. Server overload during quarterly report generation in Jenkins-CI-CD environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S06-01",
+      "question": "6. Cloud migration failure: rollback strategy in Jenkins-CI-CD environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S06-02",
+      "question": "6. Cloud migration failure: rollback strategy in Jenkins-CI-CD environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S06-03",
+      "question": "6. Cloud migration failure: rollback strategy in Jenkins-CI-CD environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S06-04",
+      "question": "6. Cloud migration failure: rollback strategy in Jenkins-CI-CD environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S06-05",
+      "question": "6. Cloud migration failure: rollback strategy in Jenkins-CI-CD environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S07-01",
+      "question": "7. Backup failure during scheduled window in Jenkins-CI-CD environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S07-02",
+      "question": "7. Backup failure during scheduled window in Jenkins-CI-CD environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S07-03",
+      "question": "7. Backup failure during scheduled window in Jenkins-CI-CD environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S07-04",
+      "question": "7. Backup failure during scheduled window in Jenkins-CI-CD environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S07-05",
+      "question": "7. Backup failure during scheduled window in Jenkins-CI-CD environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S08-01",
+      "question": "8. Security incident response: ransomware attack detected in Jenkins-CI-CD environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S08-02",
+      "question": "8. Security incident response: ransomware attack detected in Jenkins-CI-CD environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S08-03",
+      "question": "8. Security incident response: ransomware attack detected in Jenkins-CI-CD environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S08-04",
+      "question": "8. Security incident response: ransomware attack detected in Jenkins-CI-CD environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S08-05",
+      "question": "8. Security incident response: ransomware attack detected in Jenkins-CI-CD environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S09-01",
+      "question": "9. Server overload during quarterly report generation in Jenkins-CI-CD environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S09-02",
+      "question": "9. Server overload during quarterly report generation in Jenkins-CI-CD environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S09-03",
+      "question": "9. Server overload during quarterly report generation in Jenkins-CI-CD environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S09-04",
+      "question": "9. Server overload during quarterly report generation in Jenkins-CI-CD environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S09-05",
+      "question": "9. Server overload during quarterly report generation in Jenkins-CI-CD environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S10-01",
+      "question": "10. Network latency issue affecting VoIP calls in Jenkins-CI-CD environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S10-02",
+      "question": "10. Network latency issue affecting VoIP calls in Jenkins-CI-CD environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S10-03",
+      "question": "10. Network latency issue affecting VoIP calls in Jenkins-CI-CD environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S10-04",
+      "question": "10. Network latency issue affecting VoIP calls in Jenkins-CI-CD environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S10-05",
+      "question": "10. Network latency issue affecting VoIP calls in Jenkins-CI-CD environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S11-01",
+      "question": "11. Load balancer health check failing in Jenkins-CI-CD environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S11-02",
+      "question": "11. Load balancer health check failing in Jenkins-CI-CD environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S11-03",
+      "question": "11. Load balancer health check failing in Jenkins-CI-CD environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S11-04",
+      "question": "11. Load balancer health check failing in Jenkins-CI-CD environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S11-05",
+      "question": "11. Load balancer health check failing in Jenkins-CI-CD environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S12-01",
+      "question": "12. Cloud migration failure: rollback strategy in Jenkins-CI-CD environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S12-02",
+      "question": "12. Cloud migration failure: rollback strategy in Jenkins-CI-CD environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S12-03",
+      "question": "12. Cloud migration failure: rollback strategy in Jenkins-CI-CD environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S12-04",
+      "question": "12. Cloud migration failure: rollback strategy in Jenkins-CI-CD environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S12-05",
+      "question": "12. Cloud migration failure: rollback strategy in Jenkins-CI-CD environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S13-01",
+      "question": "13. Cloud migration failure: rollback strategy in Jenkins-CI-CD environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S13-02",
+      "question": "13. Cloud migration failure: rollback strategy in Jenkins-CI-CD environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S13-03",
+      "question": "13. Cloud migration failure: rollback strategy in Jenkins-CI-CD environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S13-04",
+      "question": "13. Cloud migration failure: rollback strategy in Jenkins-CI-CD environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S13-05",
+      "question": "13. Cloud migration failure: rollback strategy in Jenkins-CI-CD environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S14-01",
+      "question": "14. Backup failure during scheduled window in Jenkins-CI-CD environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S14-02",
+      "question": "14. Backup failure during scheduled window in Jenkins-CI-CD environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S14-03",
+      "question": "14. Backup failure during scheduled window in Jenkins-CI-CD environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S14-04",
+      "question": "14. Backup failure during scheduled window in Jenkins-CI-CD environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S14-05",
+      "question": "14. Backup failure during scheduled window in Jenkins-CI-CD environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S15-01",
+      "question": "15. Load balancer health check failing in Jenkins-CI-CD environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S15-02",
+      "question": "15. Load balancer health check failing in Jenkins-CI-CD environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S15-03",
+      "question": "15. Load balancer health check failing in Jenkins-CI-CD environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S15-04",
+      "question": "15. Load balancer health check failing in Jenkins-CI-CD environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S15-05",
+      "question": "15. Load balancer health check failing in Jenkins-CI-CD environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S16-01",
+      "question": "16. VPN connectivity failure for remote users in Jenkins-CI-CD environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S16-02",
+      "question": "16. VPN connectivity failure for remote users in Jenkins-CI-CD environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S16-03",
+      "question": "16. VPN connectivity failure for remote users in Jenkins-CI-CD environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S16-04",
+      "question": "16. VPN connectivity failure for remote users in Jenkins-CI-CD environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S16-05",
+      "question": "16. VPN connectivity failure for remote users in Jenkins-CI-CD environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S17-01",
+      "question": "17. Server overload during quarterly report generation in Jenkins-CI-CD environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S17-02",
+      "question": "17. Server overload during quarterly report generation in Jenkins-CI-CD environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S17-03",
+      "question": "17. Server overload during quarterly report generation in Jenkins-CI-CD environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S17-04",
+      "question": "17. Server overload during quarterly report generation in Jenkins-CI-CD environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S17-05",
+      "question": "17. Server overload during quarterly report generation in Jenkins-CI-CD environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S18-01",
+      "question": "18. Production outage during peak hours: diagnose and resolve in Jenkins-CI-CD environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S18-02",
+      "question": "18. Production outage during peak hours: diagnose and resolve in Jenkins-CI-CD environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S18-03",
+      "question": "18. Production outage during peak hours: diagnose and resolve in Jenkins-CI-CD environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S18-04",
+      "question": "18. Production outage during peak hours: diagnose and resolve in Jenkins-CI-CD environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S18-05",
+      "question": "18. Production outage during peak hours: diagnose and resolve in Jenkins-CI-CD environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S19-01",
+      "question": "19. Server overload during quarterly report generation in Jenkins-CI-CD environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S19-02",
+      "question": "19. Server overload during quarterly report generation in Jenkins-CI-CD environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S19-03",
+      "question": "19. Server overload during quarterly report generation in Jenkins-CI-CD environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S19-04",
+      "question": "19. Server overload during quarterly report generation in Jenkins-CI-CD environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S19-05",
+      "question": "19. Server overload during quarterly report generation in Jenkins-CI-CD environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S20-01",
+      "question": "20. Network latency issue affecting VoIP calls in Jenkins-CI-CD environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S20-02",
+      "question": "20. Network latency issue affecting VoIP calls in Jenkins-CI-CD environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S20-03",
+      "question": "20. Network latency issue affecting VoIP calls in Jenkins-CI-CD environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S20-04",
+      "question": "20. Network latency issue affecting VoIP calls in Jenkins-CI-CD environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Jenkins-CI-CD-S20-05",
+      "question": "20. Network latency issue affecting VoIP calls in Jenkins-CI-CD environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Jenkins-CI-CD troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Jenkins-CI-CD troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Jenkins-CI-CD best practices. Document all steps for RCA."
+    }
+  ]
+}

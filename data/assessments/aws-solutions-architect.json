@@ -1,0 +1,3252 @@
+[
+  {
+    "id": "AWS-Solutions-Architect-E001",
+    "question": "What does AWS ACL stand for?",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct AWS-Solutions-Architect procedure",
+      "Partially correct"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Solutions-Architect E Solution:** What does AWS ACL stand for?. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-E002",
+    "question": "What does AWS ACL stand for?",
+    "options": [
+      "Correct AWS-Solutions-Architect procedure",
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Solutions-Architect E Solution:** What does AWS ACL stand for?. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-E003",
+    "question": "Default subnet mask for Class C network in AWS-Solutions-Architect?",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct AWS-Solutions-Architect procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Solutions-Architect E Solution:** Default subnet mask for Class C network in AWS-Solutions-Architect?. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-E004",
+    "question": "What does AWS ACL stand for?",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Solutions-Architect procedure"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Solutions-Architect E Solution:** What does AWS ACL stand for?. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-E005",
+    "question": "Which port does AWS-Solutions-Architect service use by default?",
+    "options": [
+      "Dangerous method",
+      "Correct AWS-Solutions-Architect procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Solutions-Architect E Solution:** Which port does AWS-Solutions-Architect service use by default?. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-E006",
+    "question": "Default subnet mask for Class C network in AWS-Solutions-Architect?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Solutions-Architect procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Solutions-Architect E Solution:** Default subnet mask for Class C network in AWS-Solutions-Architect?. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-E007",
+    "question": "What is the primary function of AWS DHCP?",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct AWS-Solutions-Architect procedure"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Solutions-Architect E Solution:** What is the primary function of AWS DHCP?. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-E008",
+    "question": "What does AWS ACL stand for?",
+    "options": [
+      "Incorrect approach",
+      "Correct AWS-Solutions-Architect procedure",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Solutions-Architect E Solution:** What does AWS ACL stand for?. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-E009",
+    "question": "Default subnet mask for Class C network in AWS-Solutions-Architect?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Solutions-Architect procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Solutions-Architect E Solution:** Default subnet mask for Class C network in AWS-Solutions-Architect?. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-E010",
+    "question": "Which port does AWS-Solutions-Architect service use by default?",
+    "options": [
+      "Correct AWS-Solutions-Architect procedure",
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Solutions-Architect E Solution:** Which port does AWS-Solutions-Architect service use by default?. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-E011",
+    "question": "What is the primary function of AWS DHCP?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Solutions-Architect procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Solutions-Architect E Solution:** What is the primary function of AWS DHCP?. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-E012",
+    "question": "What does AWS ACL stand for?",
+    "options": [
+      "Incorrect approach",
+      "Correct AWS-Solutions-Architect procedure",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Solutions-Architect E Solution:** What does AWS ACL stand for?. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-E013",
+    "question": "What does AWS ACL stand for?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Solutions-Architect procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Solutions-Architect E Solution:** What does AWS ACL stand for?. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-E014",
+    "question": "Common protocol for AWS-Solutions-Architect remote access?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Solutions-Architect procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Solutions-Architect E Solution:** Common protocol for AWS-Solutions-Architect remote access?. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-E015",
+    "question": "Common protocol for AWS-Solutions-Architect remote access?",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Solutions-Architect procedure"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Solutions-Architect E Solution:** Common protocol for AWS-Solutions-Architect remote access?. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-E016",
+    "question": "Which port does AWS-Solutions-Architect service use by default?",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct AWS-Solutions-Architect procedure"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Solutions-Architect E Solution:** Which port does AWS-Solutions-Architect service use by default?. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-E017",
+    "question": "What is the primary function of AWS DHCP?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Solutions-Architect procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Solutions-Architect E Solution:** What is the primary function of AWS DHCP?. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-E018",
+    "question": "What does AWS ACL stand for?",
+    "options": [
+      "Dangerous method",
+      "Correct AWS-Solutions-Architect procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Solutions-Architect E Solution:** What does AWS ACL stand for?. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-E019",
+    "question": "What does AWS ACL stand for?",
+    "options": [
+      "Dangerous method",
+      "Correct AWS-Solutions-Architect procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Solutions-Architect E Solution:** What does AWS ACL stand for?. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-E020",
+    "question": "Common protocol for AWS-Solutions-Architect remote access?",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct AWS-Solutions-Architect procedure"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Solutions-Architect E Solution:** Common protocol for AWS-Solutions-Architect remote access?. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-E021",
+    "question": "What does AWS ACL stand for?",
+    "options": [
+      "Correct AWS-Solutions-Architect procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Solutions-Architect E Solution:** What does AWS ACL stand for?. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-E022",
+    "question": "Which port does AWS-Solutions-Architect service use by default?",
+    "options": [
+      "Dangerous method",
+      "Correct AWS-Solutions-Architect procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Solutions-Architect E Solution:** Which port does AWS-Solutions-Architect service use by default?. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-E023",
+    "question": "Which port does AWS-Solutions-Architect service use by default?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct AWS-Solutions-Architect procedure"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Solutions-Architect E Solution:** Which port does AWS-Solutions-Architect service use by default?. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-E024",
+    "question": "What is the primary function of AWS DHCP?",
+    "options": [
+      "Incorrect approach",
+      "Correct AWS-Solutions-Architect procedure",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Solutions-Architect E Solution:** What is the primary function of AWS DHCP?. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-E025",
+    "question": "What does AWS ACL stand for?",
+    "options": [
+      "Partially correct",
+      "Correct AWS-Solutions-Architect procedure",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Solutions-Architect E Solution:** What does AWS ACL stand for?. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-E026",
+    "question": "What is the primary function of AWS DHCP?",
+    "options": [
+      "Correct AWS-Solutions-Architect procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Solutions-Architect E Solution:** What is the primary function of AWS DHCP?. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-E027",
+    "question": "What is the primary function of AWS DHCP?",
+    "options": [
+      "Dangerous method",
+      "Correct AWS-Solutions-Architect procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Solutions-Architect E Solution:** What is the primary function of AWS DHCP?. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-E028",
+    "question": "Which port does AWS-Solutions-Architect service use by default?",
+    "options": [
+      "Correct AWS-Solutions-Architect procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Solutions-Architect E Solution:** Which port does AWS-Solutions-Architect service use by default?. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-E029",
+    "question": "What is the primary function of AWS DHCP?",
+    "options": [
+      "Dangerous method",
+      "Correct AWS-Solutions-Architect procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Solutions-Architect E Solution:** What is the primary function of AWS DHCP?. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-E030",
+    "question": "Default subnet mask for Class C network in AWS-Solutions-Architect?",
+    "options": [
+      "Dangerous method",
+      "Correct AWS-Solutions-Architect procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Solutions-Architect E Solution:** Default subnet mask for Class C network in AWS-Solutions-Architect?. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-E031",
+    "question": "Default subnet mask for Class C network in AWS-Solutions-Architect?",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct AWS-Solutions-Architect procedure",
+      "Partially correct"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Solutions-Architect E Solution:** Default subnet mask for Class C network in AWS-Solutions-Architect?. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-E032",
+    "question": "Common protocol for AWS-Solutions-Architect remote access?",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Solutions-Architect procedure"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Solutions-Architect E Solution:** Common protocol for AWS-Solutions-Architect remote access?. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-E033",
+    "question": "What does AWS ACL stand for?",
+    "options": [
+      "Correct AWS-Solutions-Architect procedure",
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Solutions-Architect E Solution:** What does AWS ACL stand for?. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-E034",
+    "question": "What is the primary function of AWS DHCP?",
+    "options": [
+      "Dangerous method",
+      "Correct AWS-Solutions-Architect procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Solutions-Architect E Solution:** What is the primary function of AWS DHCP?. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-E035",
+    "question": "Which port does AWS-Solutions-Architect service use by default?",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct AWS-Solutions-Architect procedure"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Solutions-Architect E Solution:** Which port does AWS-Solutions-Architect service use by default?. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-E036",
+    "question": "Default subnet mask for Class C network in AWS-Solutions-Architect?",
+    "options": [
+      "Incorrect approach",
+      "Correct AWS-Solutions-Architect procedure",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Solutions-Architect E Solution:** Default subnet mask for Class C network in AWS-Solutions-Architect?. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-E037",
+    "question": "Common protocol for AWS-Solutions-Architect remote access?",
+    "options": [
+      "Correct AWS-Solutions-Architect procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Solutions-Architect E Solution:** Common protocol for AWS-Solutions-Architect remote access?. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-E038",
+    "question": "Common protocol for AWS-Solutions-Architect remote access?",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Solutions-Architect procedure"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Solutions-Architect E Solution:** Common protocol for AWS-Solutions-Architect remote access?. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-E039",
+    "question": "Common protocol for AWS-Solutions-Architect remote access?",
+    "options": [
+      "Dangerous method",
+      "Correct AWS-Solutions-Architect procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Solutions-Architect E Solution:** Common protocol for AWS-Solutions-Architect remote access?. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-E040",
+    "question": "Which port does AWS-Solutions-Architect service use by default?",
+    "options": [
+      "Incorrect approach",
+      "Correct AWS-Solutions-Architect procedure",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Solutions-Architect E Solution:** Which port does AWS-Solutions-Architect service use by default?. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-E041",
+    "question": "What is the primary function of AWS DHCP?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Solutions-Architect procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Solutions-Architect E Solution:** What is the primary function of AWS DHCP?. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-E042",
+    "question": "Default subnet mask for Class C network in AWS-Solutions-Architect?",
+    "options": [
+      "Correct AWS-Solutions-Architect procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Solutions-Architect E Solution:** Default subnet mask for Class C network in AWS-Solutions-Architect?. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-E043",
+    "question": "Which port does AWS-Solutions-Architect service use by default?",
+    "options": [
+      "Incorrect approach",
+      "Correct AWS-Solutions-Architect procedure",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Solutions-Architect E Solution:** Which port does AWS-Solutions-Architect service use by default?. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-E044",
+    "question": "What is the primary function of AWS DHCP?",
+    "options": [
+      "Correct AWS-Solutions-Architect procedure",
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Solutions-Architect E Solution:** What is the primary function of AWS DHCP?. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-E045",
+    "question": "Default subnet mask for Class C network in AWS-Solutions-Architect?",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct AWS-Solutions-Architect procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Solutions-Architect E Solution:** Default subnet mask for Class C network in AWS-Solutions-Architect?. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-E046",
+    "question": "What is the primary function of AWS DHCP?",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct AWS-Solutions-Architect procedure"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Solutions-Architect E Solution:** What is the primary function of AWS DHCP?. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-E047",
+    "question": "Common protocol for AWS-Solutions-Architect remote access?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct AWS-Solutions-Architect procedure"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Solutions-Architect E Solution:** Common protocol for AWS-Solutions-Architect remote access?. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-E048",
+    "question": "What does AWS ACL stand for?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Solutions-Architect procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Solutions-Architect E Solution:** What does AWS ACL stand for?. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-E049",
+    "question": "Which port does AWS-Solutions-Architect service use by default?",
+    "options": [
+      "Correct AWS-Solutions-Architect procedure",
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Solutions-Architect E Solution:** Which port does AWS-Solutions-Architect service use by default?. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-E050",
+    "question": "Which port does AWS-Solutions-Architect service use by default?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Solutions-Architect procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "e",
+    "explanation": "**AWS-Solutions-Architect E Solution:** Which port does AWS-Solutions-Architect service use by default?. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-M001",
+    "question": "Troubleshoot AWS-Solutions-Architect connectivity issue between VLANs",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct AWS-Solutions-Architect procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Solutions-Architect M Solution:** Troubleshoot AWS-Solutions-Architect connectivity issue between VLANs. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-M002",
+    "question": "Configure AWS-Solutions-Architect load balancer for high availability",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Solutions-Architect procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Solutions-Architect M Solution:** Configure AWS-Solutions-Architect load balancer for high availability. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-M003",
+    "question": "Implement AWS-Solutions-Architect backup strategy for compliance",
+    "options": [
+      "Incorrect approach",
+      "Correct AWS-Solutions-Architect procedure",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Solutions-Architect M Solution:** Implement AWS-Solutions-Architect backup strategy for compliance. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-M004",
+    "question": "Configure AWS-Solutions-Architect load balancer for high availability",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct AWS-Solutions-Architect procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Solutions-Architect M Solution:** Configure AWS-Solutions-Architect load balancer for high availability. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-M005",
+    "question": "Set up AWS-Solutions-Architect failover clustering",
+    "options": [
+      "Correct AWS-Solutions-Architect procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Solutions-Architect M Solution:** Set up AWS-Solutions-Architect failover clustering. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-M006",
+    "question": "Set up AWS-Solutions-Architect failover clustering",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct AWS-Solutions-Architect procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Solutions-Architect M Solution:** Set up AWS-Solutions-Architect failover clustering. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-M007",
+    "question": "Configure AWS-Solutions-Architect load balancer for high availability",
+    "options": [
+      "Dangerous method",
+      "Correct AWS-Solutions-Architect procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Solutions-Architect M Solution:** Configure AWS-Solutions-Architect load balancer for high availability. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-M008",
+    "question": "Configure AWS-Solutions-Architect load balancer for high availability",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct AWS-Solutions-Architect procedure",
+      "Partially correct"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Solutions-Architect M Solution:** Configure AWS-Solutions-Architect load balancer for high availability. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-M009",
+    "question": "Set up AWS-Solutions-Architect failover clustering",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Solutions-Architect procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Solutions-Architect M Solution:** Set up AWS-Solutions-Architect failover clustering. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-M010",
+    "question": "Configure AWS-Solutions-Architect load balancer for high availability",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Solutions-Architect procedure"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Solutions-Architect M Solution:** Configure AWS-Solutions-Architect load balancer for high availability. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-M011",
+    "question": "Troubleshoot AWS-Solutions-Architect connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct AWS-Solutions-Architect procedure",
+      "Partially correct"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Solutions-Architect M Solution:** Troubleshoot AWS-Solutions-Architect connectivity issue between VLANs. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-M012",
+    "question": "Implement AWS-Solutions-Architect backup strategy for compliance",
+    "options": [
+      "Correct AWS-Solutions-Architect procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Solutions-Architect M Solution:** Implement AWS-Solutions-Architect backup strategy for compliance. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-M013",
+    "question": "Optimize AWS-Solutions-Architect query performance",
+    "options": [
+      "Correct AWS-Solutions-Architect procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Solutions-Architect M Solution:** Optimize AWS-Solutions-Architect query performance. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-M014",
+    "question": "Optimize AWS-Solutions-Architect query performance",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Correct AWS-Solutions-Architect procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Solutions-Architect M Solution:** Optimize AWS-Solutions-Architect query performance. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-M015",
+    "question": "Configure AWS-Solutions-Architect load balancer for high availability",
+    "options": [
+      "Dangerous method",
+      "Correct AWS-Solutions-Architect procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Solutions-Architect M Solution:** Configure AWS-Solutions-Architect load balancer for high availability. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-M016",
+    "question": "Implement AWS-Solutions-Architect backup strategy for compliance",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Solutions-Architect procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Solutions-Architect M Solution:** Implement AWS-Solutions-Architect backup strategy for compliance. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-M017",
+    "question": "Optimize AWS-Solutions-Architect query performance",
+    "options": [
+      "Dangerous method",
+      "Correct AWS-Solutions-Architect procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Solutions-Architect M Solution:** Optimize AWS-Solutions-Architect query performance. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-M018",
+    "question": "Troubleshoot AWS-Solutions-Architect connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Correct AWS-Solutions-Architect procedure",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Solutions-Architect M Solution:** Troubleshoot AWS-Solutions-Architect connectivity issue between VLANs. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-M019",
+    "question": "Troubleshoot AWS-Solutions-Architect connectivity issue between VLANs",
+    "options": [
+      "Correct AWS-Solutions-Architect procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Solutions-Architect M Solution:** Troubleshoot AWS-Solutions-Architect connectivity issue between VLANs. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-M020",
+    "question": "Optimize AWS-Solutions-Architect query performance",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Solutions-Architect procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Solutions-Architect M Solution:** Optimize AWS-Solutions-Architect query performance. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-M021",
+    "question": "Troubleshoot AWS-Solutions-Architect connectivity issue between VLANs",
+    "options": [
+      "Dangerous method",
+      "Correct AWS-Solutions-Architect procedure",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Solutions-Architect M Solution:** Troubleshoot AWS-Solutions-Architect connectivity issue between VLANs. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-M022",
+    "question": "Optimize AWS-Solutions-Architect query performance",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Solutions-Architect procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Solutions-Architect M Solution:** Optimize AWS-Solutions-Architect query performance. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-M023",
+    "question": "Troubleshoot AWS-Solutions-Architect connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Solutions-Architect procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Solutions-Architect M Solution:** Troubleshoot AWS-Solutions-Architect connectivity issue between VLANs. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-M024",
+    "question": "Configure AWS-Solutions-Architect load balancer for high availability",
+    "options": [
+      "Correct AWS-Solutions-Architect procedure",
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Solutions-Architect M Solution:** Configure AWS-Solutions-Architect load balancer for high availability. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-M025",
+    "question": "Configure AWS-Solutions-Architect load balancer for high availability",
+    "options": [
+      "Correct AWS-Solutions-Architect procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Solutions-Architect M Solution:** Configure AWS-Solutions-Architect load balancer for high availability. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-M026",
+    "question": "Implement AWS-Solutions-Architect backup strategy for compliance",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct AWS-Solutions-Architect procedure",
+      "Partially correct"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Solutions-Architect M Solution:** Implement AWS-Solutions-Architect backup strategy for compliance. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-M027",
+    "question": "Troubleshoot AWS-Solutions-Architect connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Solutions-Architect procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Solutions-Architect M Solution:** Troubleshoot AWS-Solutions-Architect connectivity issue between VLANs. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-M028",
+    "question": "Set up AWS-Solutions-Architect failover clustering",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Solutions-Architect procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Solutions-Architect M Solution:** Set up AWS-Solutions-Architect failover clustering. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-M029",
+    "question": "Implement AWS-Solutions-Architect backup strategy for compliance",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Correct AWS-Solutions-Architect procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Solutions-Architect M Solution:** Implement AWS-Solutions-Architect backup strategy for compliance. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-M030",
+    "question": "Implement AWS-Solutions-Architect backup strategy for compliance",
+    "options": [
+      "Dangerous method",
+      "Correct AWS-Solutions-Architect procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Solutions-Architect M Solution:** Implement AWS-Solutions-Architect backup strategy for compliance. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-M031",
+    "question": "Implement AWS-Solutions-Architect backup strategy for compliance",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct AWS-Solutions-Architect procedure"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Solutions-Architect M Solution:** Implement AWS-Solutions-Architect backup strategy for compliance. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-M032",
+    "question": "Set up AWS-Solutions-Architect failover clustering",
+    "options": [
+      "Correct AWS-Solutions-Architect procedure",
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Solutions-Architect M Solution:** Set up AWS-Solutions-Architect failover clustering. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-M033",
+    "question": "Optimize AWS-Solutions-Architect query performance",
+    "options": [
+      "Dangerous method",
+      "Correct AWS-Solutions-Architect procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Solutions-Architect M Solution:** Optimize AWS-Solutions-Architect query performance. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-M034",
+    "question": "Optimize AWS-Solutions-Architect query performance",
+    "options": [
+      "Correct AWS-Solutions-Architect procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Solutions-Architect M Solution:** Optimize AWS-Solutions-Architect query performance. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-M035",
+    "question": "Configure AWS-Solutions-Architect load balancer for high availability",
+    "options": [
+      "Correct AWS-Solutions-Architect procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Solutions-Architect M Solution:** Configure AWS-Solutions-Architect load balancer for high availability. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-M036",
+    "question": "Implement AWS-Solutions-Architect backup strategy for compliance",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Solutions-Architect procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Solutions-Architect M Solution:** Implement AWS-Solutions-Architect backup strategy for compliance. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-M037",
+    "question": "Configure AWS-Solutions-Architect load balancer for high availability",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct AWS-Solutions-Architect procedure"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Solutions-Architect M Solution:** Configure AWS-Solutions-Architect load balancer for high availability. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-M038",
+    "question": "Troubleshoot AWS-Solutions-Architect connectivity issue between VLANs",
+    "options": [
+      "Dangerous method",
+      "Correct AWS-Solutions-Architect procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Solutions-Architect M Solution:** Troubleshoot AWS-Solutions-Architect connectivity issue between VLANs. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-M039",
+    "question": "Set up AWS-Solutions-Architect failover clustering",
+    "options": [
+      "Correct AWS-Solutions-Architect procedure",
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Solutions-Architect M Solution:** Set up AWS-Solutions-Architect failover clustering. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-M040",
+    "question": "Configure AWS-Solutions-Architect load balancer for high availability",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Solutions-Architect procedure"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Solutions-Architect M Solution:** Configure AWS-Solutions-Architect load balancer for high availability. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-M041",
+    "question": "Troubleshoot AWS-Solutions-Architect connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Solutions-Architect procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Solutions-Architect M Solution:** Troubleshoot AWS-Solutions-Architect connectivity issue between VLANs. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-M042",
+    "question": "Set up AWS-Solutions-Architect failover clustering",
+    "options": [
+      "Correct AWS-Solutions-Architect procedure",
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Solutions-Architect M Solution:** Set up AWS-Solutions-Architect failover clustering. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-M043",
+    "question": "Configure AWS-Solutions-Architect load balancer for high availability",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct AWS-Solutions-Architect procedure"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Solutions-Architect M Solution:** Configure AWS-Solutions-Architect load balancer for high availability. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-M044",
+    "question": "Optimize AWS-Solutions-Architect query performance",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Solutions-Architect procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Solutions-Architect M Solution:** Optimize AWS-Solutions-Architect query performance. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-M045",
+    "question": "Configure AWS-Solutions-Architect load balancer for high availability",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Solutions-Architect procedure"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Solutions-Architect M Solution:** Configure AWS-Solutions-Architect load balancer for high availability. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-M046",
+    "question": "Implement AWS-Solutions-Architect backup strategy for compliance",
+    "options": [
+      "Incorrect approach",
+      "Correct AWS-Solutions-Architect procedure",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Solutions-Architect M Solution:** Implement AWS-Solutions-Architect backup strategy for compliance. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-M047",
+    "question": "Set up AWS-Solutions-Architect failover clustering",
+    "options": [
+      "Partially correct",
+      "Correct AWS-Solutions-Architect procedure",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Solutions-Architect M Solution:** Set up AWS-Solutions-Architect failover clustering. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-M048",
+    "question": "Configure AWS-Solutions-Architect load balancer for high availability",
+    "options": [
+      "Correct AWS-Solutions-Architect procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Solutions-Architect M Solution:** Configure AWS-Solutions-Architect load balancer for high availability. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-M049",
+    "question": "Troubleshoot AWS-Solutions-Architect connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Solutions-Architect procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Solutions-Architect M Solution:** Troubleshoot AWS-Solutions-Architect connectivity issue between VLANs. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-M050",
+    "question": "Optimize AWS-Solutions-Architect query performance",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Solutions-Architect procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "m",
+    "explanation": "**AWS-Solutions-Architect M Solution:** Optimize AWS-Solutions-Architect query performance. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-H001",
+    "question": "Migrate legacy AWS-Solutions-Architect systems to cloud-native architecture",
+    "options": [
+      "Dangerous method",
+      "Correct AWS-Solutions-Architect procedure",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Solutions-Architect H Solution:** Migrate legacy AWS-Solutions-Architect systems to cloud-native architecture. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-H002",
+    "question": "Design AWS-Solutions-Architect architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Dangerous method",
+      "Correct AWS-Solutions-Architect procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Solutions-Architect H Solution:** Design AWS-Solutions-Architect architecture for 10k users with 99.99% uptime. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-H003",
+    "question": "Design AWS-Solutions-Architect architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct AWS-Solutions-Architect procedure"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Solutions-Architect H Solution:** Design AWS-Solutions-Architect architecture for 10k users with 99.99% uptime. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-H004",
+    "question": "Design AWS-Solutions-Architect architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct AWS-Solutions-Architect procedure"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Solutions-Architect H Solution:** Design AWS-Solutions-Architect architecture for 10k users with 99.99% uptime. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-H005",
+    "question": "Create disaster recovery plan with RTO < 15min for AWS-Solutions-Architect",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Solutions-Architect procedure"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Solutions-Architect H Solution:** Create disaster recovery plan with RTO < 15min for AWS-Solutions-Architect. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-H006",
+    "question": "Create disaster recovery plan with RTO < 15min for AWS-Solutions-Architect",
+    "options": [
+      "Dangerous method",
+      "Correct AWS-Solutions-Architect procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Solutions-Architect H Solution:** Create disaster recovery plan with RTO < 15min for AWS-Solutions-Architect. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-H007",
+    "question": "Implement zero-trust security model in AWS-Solutions-Architect",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Solutions-Architect procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Solutions-Architect H Solution:** Implement zero-trust security model in AWS-Solutions-Architect. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-H008",
+    "question": "Design AWS-Solutions-Architect architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Partially correct",
+      "Correct AWS-Solutions-Architect procedure",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Solutions-Architect H Solution:** Design AWS-Solutions-Architect architecture for 10k users with 99.99% uptime. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-H009",
+    "question": "Optimize AWS-Solutions-Architect performance under DDoS attack",
+    "options": [
+      "Partially correct",
+      "Correct AWS-Solutions-Architect procedure",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Solutions-Architect H Solution:** Optimize AWS-Solutions-Architect performance under DDoS attack. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-H010",
+    "question": "Optimize AWS-Solutions-Architect performance under DDoS attack",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Solutions-Architect procedure"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Solutions-Architect H Solution:** Optimize AWS-Solutions-Architect performance under DDoS attack. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-H011",
+    "question": "Optimize AWS-Solutions-Architect performance under DDoS attack",
+    "options": [
+      "Correct AWS-Solutions-Architect procedure",
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Solutions-Architect H Solution:** Optimize AWS-Solutions-Architect performance under DDoS attack. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-H012",
+    "question": "Design AWS-Solutions-Architect architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Correct AWS-Solutions-Architect procedure",
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Solutions-Architect H Solution:** Design AWS-Solutions-Architect architecture for 10k users with 99.99% uptime. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-H013",
+    "question": "Optimize AWS-Solutions-Architect performance under DDoS attack",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach",
+      "Correct AWS-Solutions-Architect procedure"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Solutions-Architect H Solution:** Optimize AWS-Solutions-Architect performance under DDoS attack. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-H014",
+    "question": "Create disaster recovery plan with RTO < 15min for AWS-Solutions-Architect",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Solutions-Architect procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Solutions-Architect H Solution:** Create disaster recovery plan with RTO < 15min for AWS-Solutions-Architect. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-H015",
+    "question": "Implement zero-trust security model in AWS-Solutions-Architect",
+    "options": [
+      "Incorrect approach",
+      "Correct AWS-Solutions-Architect procedure",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Solutions-Architect H Solution:** Implement zero-trust security model in AWS-Solutions-Architect. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-H016",
+    "question": "Design AWS-Solutions-Architect architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct AWS-Solutions-Architect procedure"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Solutions-Architect H Solution:** Design AWS-Solutions-Architect architecture for 10k users with 99.99% uptime. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-H017",
+    "question": "Create disaster recovery plan with RTO < 15min for AWS-Solutions-Architect",
+    "options": [
+      "Dangerous method",
+      "Correct AWS-Solutions-Architect procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Solutions-Architect H Solution:** Create disaster recovery plan with RTO < 15min for AWS-Solutions-Architect. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-H018",
+    "question": "Create disaster recovery plan with RTO < 15min for AWS-Solutions-Architect",
+    "options": [
+      "Dangerous method",
+      "Correct AWS-Solutions-Architect procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Solutions-Architect H Solution:** Create disaster recovery plan with RTO < 15min for AWS-Solutions-Architect. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-H019",
+    "question": "Create disaster recovery plan with RTO < 15min for AWS-Solutions-Architect",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach",
+      "Correct AWS-Solutions-Architect procedure"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Solutions-Architect H Solution:** Create disaster recovery plan with RTO < 15min for AWS-Solutions-Architect. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-H020",
+    "question": "Implement zero-trust security model in AWS-Solutions-Architect",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Solutions-Architect procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Solutions-Architect H Solution:** Implement zero-trust security model in AWS-Solutions-Architect. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-H021",
+    "question": "Optimize AWS-Solutions-Architect performance under DDoS attack",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Solutions-Architect procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Solutions-Architect H Solution:** Optimize AWS-Solutions-Architect performance under DDoS attack. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-H022",
+    "question": "Create disaster recovery plan with RTO < 15min for AWS-Solutions-Architect",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Solutions-Architect procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Solutions-Architect H Solution:** Create disaster recovery plan with RTO < 15min for AWS-Solutions-Architect. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-H023",
+    "question": "Implement zero-trust security model in AWS-Solutions-Architect",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Correct AWS-Solutions-Architect procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Solutions-Architect H Solution:** Implement zero-trust security model in AWS-Solutions-Architect. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-H024",
+    "question": "Optimize AWS-Solutions-Architect performance under DDoS attack",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Solutions-Architect procedure"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Solutions-Architect H Solution:** Optimize AWS-Solutions-Architect performance under DDoS attack. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-H025",
+    "question": "Create disaster recovery plan with RTO < 15min for AWS-Solutions-Architect",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Solutions-Architect procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Solutions-Architect H Solution:** Create disaster recovery plan with RTO < 15min for AWS-Solutions-Architect. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-H026",
+    "question": "Migrate legacy AWS-Solutions-Architect systems to cloud-native architecture",
+    "options": [
+      "Dangerous method",
+      "Correct AWS-Solutions-Architect procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Solutions-Architect H Solution:** Migrate legacy AWS-Solutions-Architect systems to cloud-native architecture. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-H027",
+    "question": "Optimize AWS-Solutions-Architect performance under DDoS attack",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct AWS-Solutions-Architect procedure"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Solutions-Architect H Solution:** Optimize AWS-Solutions-Architect performance under DDoS attack. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-H028",
+    "question": "Implement zero-trust security model in AWS-Solutions-Architect",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Solutions-Architect procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Solutions-Architect H Solution:** Implement zero-trust security model in AWS-Solutions-Architect. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-H029",
+    "question": "Optimize AWS-Solutions-Architect performance under DDoS attack",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct AWS-Solutions-Architect procedure"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Solutions-Architect H Solution:** Optimize AWS-Solutions-Architect performance under DDoS attack. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-H030",
+    "question": "Design AWS-Solutions-Architect architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Solutions-Architect procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Solutions-Architect H Solution:** Design AWS-Solutions-Architect architecture for 10k users with 99.99% uptime. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-H031",
+    "question": "Design AWS-Solutions-Architect architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct AWS-Solutions-Architect procedure"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Solutions-Architect H Solution:** Design AWS-Solutions-Architect architecture for 10k users with 99.99% uptime. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-H032",
+    "question": "Migrate legacy AWS-Solutions-Architect systems to cloud-native architecture",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Solutions-Architect procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Solutions-Architect H Solution:** Migrate legacy AWS-Solutions-Architect systems to cloud-native architecture. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-H033",
+    "question": "Design AWS-Solutions-Architect architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct AWS-Solutions-Architect procedure"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Solutions-Architect H Solution:** Design AWS-Solutions-Architect architecture for 10k users with 99.99% uptime. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-H034",
+    "question": "Optimize AWS-Solutions-Architect performance under DDoS attack",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct AWS-Solutions-Architect procedure"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Solutions-Architect H Solution:** Optimize AWS-Solutions-Architect performance under DDoS attack. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-H035",
+    "question": "Design AWS-Solutions-Architect architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Correct AWS-Solutions-Architect procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Solutions-Architect H Solution:** Design AWS-Solutions-Architect architecture for 10k users with 99.99% uptime. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-H036",
+    "question": "Design AWS-Solutions-Architect architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct AWS-Solutions-Architect procedure"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Solutions-Architect H Solution:** Design AWS-Solutions-Architect architecture for 10k users with 99.99% uptime. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-H037",
+    "question": "Create disaster recovery plan with RTO < 15min for AWS-Solutions-Architect",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Solutions-Architect procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Solutions-Architect H Solution:** Create disaster recovery plan with RTO < 15min for AWS-Solutions-Architect. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-H038",
+    "question": "Optimize AWS-Solutions-Architect performance under DDoS attack",
+    "options": [
+      "Correct AWS-Solutions-Architect procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Solutions-Architect H Solution:** Optimize AWS-Solutions-Architect performance under DDoS attack. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-H039",
+    "question": "Optimize AWS-Solutions-Architect performance under DDoS attack",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct AWS-Solutions-Architect procedure"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Solutions-Architect H Solution:** Optimize AWS-Solutions-Architect performance under DDoS attack. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-H040",
+    "question": "Create disaster recovery plan with RTO < 15min for AWS-Solutions-Architect",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach",
+      "Correct AWS-Solutions-Architect procedure"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Solutions-Architect H Solution:** Create disaster recovery plan with RTO < 15min for AWS-Solutions-Architect. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-H041",
+    "question": "Design AWS-Solutions-Architect architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Dangerous method",
+      "Correct AWS-Solutions-Architect procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Solutions-Architect H Solution:** Design AWS-Solutions-Architect architecture for 10k users with 99.99% uptime. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-H042",
+    "question": "Implement zero-trust security model in AWS-Solutions-Architect",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Solutions-Architect procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Solutions-Architect H Solution:** Implement zero-trust security model in AWS-Solutions-Architect. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-H043",
+    "question": "Migrate legacy AWS-Solutions-Architect systems to cloud-native architecture",
+    "options": [
+      "Dangerous method",
+      "Correct AWS-Solutions-Architect procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Solutions-Architect H Solution:** Migrate legacy AWS-Solutions-Architect systems to cloud-native architecture. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-H044",
+    "question": "Optimize AWS-Solutions-Architect performance under DDoS attack",
+    "options": [
+      "Incorrect approach",
+      "Correct AWS-Solutions-Architect procedure",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Solutions-Architect H Solution:** Optimize AWS-Solutions-Architect performance under DDoS attack. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-H045",
+    "question": "Migrate legacy AWS-Solutions-Architect systems to cloud-native architecture",
+    "options": [
+      "Dangerous method",
+      "Correct AWS-Solutions-Architect procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Solutions-Architect H Solution:** Migrate legacy AWS-Solutions-Architect systems to cloud-native architecture. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-H046",
+    "question": "Design AWS-Solutions-Architect architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Correct AWS-Solutions-Architect procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Solutions-Architect H Solution:** Design AWS-Solutions-Architect architecture for 10k users with 99.99% uptime. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-H047",
+    "question": "Optimize AWS-Solutions-Architect performance under DDoS attack",
+    "options": [
+      "Correct AWS-Solutions-Architect procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Solutions-Architect H Solution:** Optimize AWS-Solutions-Architect performance under DDoS attack. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-H048",
+    "question": "Create disaster recovery plan with RTO < 15min for AWS-Solutions-Architect",
+    "options": [
+      "Correct AWS-Solutions-Architect procedure",
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Solutions-Architect H Solution:** Create disaster recovery plan with RTO < 15min for AWS-Solutions-Architect. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-H049",
+    "question": "Optimize AWS-Solutions-Architect performance under DDoS attack",
+    "options": [
+      "Dangerous method",
+      "Correct AWS-Solutions-Architect procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Solutions-Architect H Solution:** Optimize AWS-Solutions-Architect performance under DDoS attack. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-H050",
+    "question": "Design AWS-Solutions-Architect architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct AWS-Solutions-Architect procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct AWS-Solutions-Architect procedure",
+    "difficulty": "h",
+    "explanation": "**AWS-Solutions-Architect H Solution:** Design AWS-Solutions-Architect architecture for 10k users with 99.99% uptime. Always verify AWS-Solutions-Architect documentation and test in lab environment first."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S01-01",
+    "question": "1. Cloud migration failure: rollback strategy in AWS-Solutions-Architect environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S01-02",
+    "question": "1. Cloud migration failure: rollback strategy in AWS-Solutions-Architect environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S01-03",
+    "question": "1. Cloud migration failure: rollback strategy in AWS-Solutions-Architect environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S01-04",
+    "question": "1. Cloud migration failure: rollback strategy in AWS-Solutions-Architect environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S01-05",
+    "question": "1. Cloud migration failure: rollback strategy in AWS-Solutions-Architect environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S02-01",
+    "question": "2. Load balancer health check failing in AWS-Solutions-Architect environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S02-02",
+    "question": "2. Load balancer health check failing in AWS-Solutions-Architect environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S02-03",
+    "question": "2. Load balancer health check failing in AWS-Solutions-Architect environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S02-04",
+    "question": "2. Load balancer health check failing in AWS-Solutions-Architect environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S02-05",
+    "question": "2. Load balancer health check failing in AWS-Solutions-Architect environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S03-01",
+    "question": "3. Security incident response: ransomware attack detected in AWS-Solutions-Architect environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S03-02",
+    "question": "3. Security incident response: ransomware attack detected in AWS-Solutions-Architect environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S03-03",
+    "question": "3. Security incident response: ransomware attack detected in AWS-Solutions-Architect environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S03-04",
+    "question": "3. Security incident response: ransomware attack detected in AWS-Solutions-Architect environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S03-05",
+    "question": "3. Security incident response: ransomware attack detected in AWS-Solutions-Architect environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S04-01",
+    "question": "4. Backup failure during scheduled window in AWS-Solutions-Architect environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S04-02",
+    "question": "4. Backup failure during scheduled window in AWS-Solutions-Architect environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S04-03",
+    "question": "4. Backup failure during scheduled window in AWS-Solutions-Architect environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S04-04",
+    "question": "4. Backup failure during scheduled window in AWS-Solutions-Architect environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S04-05",
+    "question": "4. Backup failure during scheduled window in AWS-Solutions-Architect environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S05-01",
+    "question": "5. Production outage during peak hours: diagnose and resolve in AWS-Solutions-Architect environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S05-02",
+    "question": "5. Production outage during peak hours: diagnose and resolve in AWS-Solutions-Architect environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S05-03",
+    "question": "5. Production outage during peak hours: diagnose and resolve in AWS-Solutions-Architect environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S05-04",
+    "question": "5. Production outage during peak hours: diagnose and resolve in AWS-Solutions-Architect environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S05-05",
+    "question": "5. Production outage during peak hours: diagnose and resolve in AWS-Solutions-Architect environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S06-01",
+    "question": "6. VPN connectivity failure for remote users in AWS-Solutions-Architect environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S06-02",
+    "question": "6. VPN connectivity failure for remote users in AWS-Solutions-Architect environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S06-03",
+    "question": "6. VPN connectivity failure for remote users in AWS-Solutions-Architect environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S06-04",
+    "question": "6. VPN connectivity failure for remote users in AWS-Solutions-Architect environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S06-05",
+    "question": "6. VPN connectivity failure for remote users in AWS-Solutions-Architect environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S07-01",
+    "question": "7. Security incident response: ransomware attack detected in AWS-Solutions-Architect environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S07-02",
+    "question": "7. Security incident response: ransomware attack detected in AWS-Solutions-Architect environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S07-03",
+    "question": "7. Security incident response: ransomware attack detected in AWS-Solutions-Architect environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S07-04",
+    "question": "7. Security incident response: ransomware attack detected in AWS-Solutions-Architect environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S07-05",
+    "question": "7. Security incident response: ransomware attack detected in AWS-Solutions-Architect environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S08-01",
+    "question": "8. Security incident response: ransomware attack detected in AWS-Solutions-Architect environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S08-02",
+    "question": "8. Security incident response: ransomware attack detected in AWS-Solutions-Architect environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S08-03",
+    "question": "8. Security incident response: ransomware attack detected in AWS-Solutions-Architect environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S08-04",
+    "question": "8. Security incident response: ransomware attack detected in AWS-Solutions-Architect environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S08-05",
+    "question": "8. Security incident response: ransomware attack detected in AWS-Solutions-Architect environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S09-01",
+    "question": "9. Server overload during quarterly report generation in AWS-Solutions-Architect environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S09-02",
+    "question": "9. Server overload during quarterly report generation in AWS-Solutions-Architect environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S09-03",
+    "question": "9. Server overload during quarterly report generation in AWS-Solutions-Architect environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S09-04",
+    "question": "9. Server overload during quarterly report generation in AWS-Solutions-Architect environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S09-05",
+    "question": "9. Server overload during quarterly report generation in AWS-Solutions-Architect environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S10-01",
+    "question": "10. Backup failure during scheduled window in AWS-Solutions-Architect environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S10-02",
+    "question": "10. Backup failure during scheduled window in AWS-Solutions-Architect environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S10-03",
+    "question": "10. Backup failure during scheduled window in AWS-Solutions-Architect environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S10-04",
+    "question": "10. Backup failure during scheduled window in AWS-Solutions-Architect environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S10-05",
+    "question": "10. Backup failure during scheduled window in AWS-Solutions-Architect environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S11-01",
+    "question": "11. Security incident response: ransomware attack detected in AWS-Solutions-Architect environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S11-02",
+    "question": "11. Security incident response: ransomware attack detected in AWS-Solutions-Architect environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S11-03",
+    "question": "11. Security incident response: ransomware attack detected in AWS-Solutions-Architect environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S11-04",
+    "question": "11. Security incident response: ransomware attack detected in AWS-Solutions-Architect environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S11-05",
+    "question": "11. Security incident response: ransomware attack detected in AWS-Solutions-Architect environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S12-01",
+    "question": "12. Firewall blocking legitimate traffic in AWS-Solutions-Architect environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S12-02",
+    "question": "12. Firewall blocking legitimate traffic in AWS-Solutions-Architect environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S12-03",
+    "question": "12. Firewall blocking legitimate traffic in AWS-Solutions-Architect environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S12-04",
+    "question": "12. Firewall blocking legitimate traffic in AWS-Solutions-Architect environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S12-05",
+    "question": "12. Firewall blocking legitimate traffic in AWS-Solutions-Architect environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S13-01",
+    "question": "13. Database performance degradation after upgrade in AWS-Solutions-Architect environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S13-02",
+    "question": "13. Database performance degradation after upgrade in AWS-Solutions-Architect environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S13-03",
+    "question": "13. Database performance degradation after upgrade in AWS-Solutions-Architect environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S13-04",
+    "question": "13. Database performance degradation after upgrade in AWS-Solutions-Architect environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S13-05",
+    "question": "13. Database performance degradation after upgrade in AWS-Solutions-Architect environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S14-01",
+    "question": "14. Backup failure during scheduled window in AWS-Solutions-Architect environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S14-02",
+    "question": "14. Backup failure during scheduled window in AWS-Solutions-Architect environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S14-03",
+    "question": "14. Backup failure during scheduled window in AWS-Solutions-Architect environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S14-04",
+    "question": "14. Backup failure during scheduled window in AWS-Solutions-Architect environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S14-05",
+    "question": "14. Backup failure during scheduled window in AWS-Solutions-Architect environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S15-01",
+    "question": "15. Production outage during peak hours: diagnose and resolve in AWS-Solutions-Architect environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S15-02",
+    "question": "15. Production outage during peak hours: diagnose and resolve in AWS-Solutions-Architect environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S15-03",
+    "question": "15. Production outage during peak hours: diagnose and resolve in AWS-Solutions-Architect environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S15-04",
+    "question": "15. Production outage during peak hours: diagnose and resolve in AWS-Solutions-Architect environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S15-05",
+    "question": "15. Production outage during peak hours: diagnose and resolve in AWS-Solutions-Architect environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S16-01",
+    "question": "16. VPN connectivity failure for remote users in AWS-Solutions-Architect environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S16-02",
+    "question": "16. VPN connectivity failure for remote users in AWS-Solutions-Architect environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S16-03",
+    "question": "16. VPN connectivity failure for remote users in AWS-Solutions-Architect environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S16-04",
+    "question": "16. VPN connectivity failure for remote users in AWS-Solutions-Architect environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S16-05",
+    "question": "16. VPN connectivity failure for remote users in AWS-Solutions-Architect environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S17-01",
+    "question": "17. Network latency issue affecting VoIP calls in AWS-Solutions-Architect environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S17-02",
+    "question": "17. Network latency issue affecting VoIP calls in AWS-Solutions-Architect environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S17-03",
+    "question": "17. Network latency issue affecting VoIP calls in AWS-Solutions-Architect environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S17-04",
+    "question": "17. Network latency issue affecting VoIP calls in AWS-Solutions-Architect environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S17-05",
+    "question": "17. Network latency issue affecting VoIP calls in AWS-Solutions-Architect environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S18-01",
+    "question": "18. VPN connectivity failure for remote users in AWS-Solutions-Architect environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S18-02",
+    "question": "18. VPN connectivity failure for remote users in AWS-Solutions-Architect environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S18-03",
+    "question": "18. VPN connectivity failure for remote users in AWS-Solutions-Architect environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S18-04",
+    "question": "18. VPN connectivity failure for remote users in AWS-Solutions-Architect environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S18-05",
+    "question": "18. VPN connectivity failure for remote users in AWS-Solutions-Architect environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S19-01",
+    "question": "19. Security incident response: ransomware attack detected in AWS-Solutions-Architect environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S19-02",
+    "question": "19. Security incident response: ransomware attack detected in AWS-Solutions-Architect environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S19-03",
+    "question": "19. Security incident response: ransomware attack detected in AWS-Solutions-Architect environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S19-04",
+    "question": "19. Security incident response: ransomware attack detected in AWS-Solutions-Architect environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S19-05",
+    "question": "19. Security incident response: ransomware attack detected in AWS-Solutions-Architect environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S20-01",
+    "question": "20. Cloud migration failure: rollback strategy in AWS-Solutions-Architect environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S20-02",
+    "question": "20. Cloud migration failure: rollback strategy in AWS-Solutions-Architect environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S20-03",
+    "question": "20. Cloud migration failure: rollback strategy in AWS-Solutions-Architect environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S20-04",
+    "question": "20. Cloud migration failure: rollback strategy in AWS-Solutions-Architect environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  },
+  {
+    "id": "AWS-Solutions-Architect-S20-05",
+    "question": "20. Cloud migration failure: rollback strategy in AWS-Solutions-Architect environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow AWS-Solutions-Architect troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow AWS-Solutions-Architect troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per AWS-Solutions-Architect best practices. Document all steps for RCA."
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "AZ-001-E1",
+    "question": "What is 'Azure Resource Group' used for?",
+    "options": ["A logical container for grouping related Azure resources", "A way to backup virtual machines", "A tool for monitoring user activity", "An IP address range"],
+    "answer": "A logical container for grouping related Azure resources",
+    "explanation": "Resource Groups are fundamental in Azure to organize, deploy, and manage resources together.",
+    "tag": "Azure",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "DJ-001-E1",
+    "question": "In Django, what is the role of the 'Models' file?",
+    "options": ["Defines the database structure using Python classes", "Handles URL routing", "Writes the HTML templates", "Manages user inputs"],
+    "answer": "Defines the database structure using Python classes",
+    "explanation": "Django Models provide an abstraction layer (ORM) to define and interact with your database using Python code.",
+    "tag": "Django",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "ETH-001-E1",
+    "question": "What is 'Penetration Testing'?",
+    "options": ["Authorized simulated attacks to find security weaknesses", "A type of firewall software", "Manually entering passwords", "Checking for physical office security"],
+    "answer": "Authorized simulated attacks to find security weaknesses",
+    "explanation": "Penetration testing (Pentesting) involves legally and safely testing your own systems to identify and remediate vulnerabilities before attackers find them.",
+    "tag": "Ethical Hacking",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "K8S-001-E1",
+    "question": "What is the 'kube-apiserver' in a Kubernetes cluster?",
+    "options": ["The front end for the Kubernetes control plane", "The tool for managing container images", "A backup solution for cluster data", "A network policy manager"],
+    "answer": "The front end for the Kubernetes control plane",
+    "explanation": "The API server exposes the Kubernetes API and is the primary communication hub for the entire cluster.",
+    "tag": "Kubernetes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "REACT-001-E1",
+    "question": "In React, what are 'Props'?",
+    "options": ["Input data passed from parent to child components", "A way to manage global state", "Local variables within a component", "External CSS styles"],
+    "answer": "Input data passed from parent to child components",
+    "explanation": "Props (properties) are read-only objects used to pass data down the component tree.",
+    "tag": "React Basics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "AZ-001-M1",
+    "question": "What is the difference between 'Azure AD' (now Microsoft Entra ID) and 'Active Directory Domain Services' (AD DS)?",
+    "options": ["Azure AD is cloud-based IDaaS; AD DS is for on-premise local networks", "There is no difference", "Azure AD is faster than AD DS", "AD DS is for Linux only"],
+    "answer": "Azure AD is cloud-based IDaaS; AD DS is for on-premise local networks",
+    "explanation": "While they share name similarities, Entra ID is designed for modern web-based protocols (OAuth, OIDC), while AD DS uses LDAP and Kerberos for local on-prem environments.",
+    "tag": "Azure Identity",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "DJ-001-M1",
+    "question": "What is the function of 'Django Migrations'?",
+    "options": ["Propagating changes in models to the database schema", "Moving your website to a new server", "Backup of the database", "Converting Python files to JavaScript"],
+    "answer": "Propagating changes in models to the database schema",
+    "explanation": "Migrations are Django's way of tracking and applying changes you make to your models to the underlying database tables.",
+    "tag": "Django",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "K8S-001-M1",
+    "question": "What describes a 'Deployment' in Kubernetes?",
+    "options": ["Managing a set of identical pods and their replicas", "Storing sensitive configuration data", "A single instance of a container", "A way to monitor log outputs"],
+    "answer": "Managing a set of identical pods and their replicas",
+    "explanation": "Deployments provide declarative updates for Pods and ReplicaSets, allowing you to scale, update, and rollback your application state easily.",
+    "tag": "Kubernetes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "AZ-001-H1",
+    "question": "You need to securely connect an on-premise network to an Azure VNet. Which service provides a dedicated, private connection via a service provider?",
+    "options": ["Azure ExpressRoute", "Azure VPN Gateway", "Azure Bastion", "Azure Front Door"],
+    "answer": "Azure ExpressRoute",
+    "explanation": "ExpressRoute provides a private, dedicated connection to Azure that bypasses the public internet, offering higher performance and security.",
+    "tag": "Azure Network",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "DJ-001-H1",
+    "question": "What is 'Select Related' vs. 'Prefetch Related' in Django QuerySets?",
+    "options": ["Select Related uses JOINs; Prefetch Related uses a separate query for M2M/Reverse FKs", "Select Related is faster for large sets", "Prefetch Related works only for simple ForeignKeys", "There is no difference"],
+    "answer": "Select Related uses JOINs; Prefetch Related uses a separate query for M2M/Reverse FKs",
+    "explanation": "Select Related is for single-valued relationships (ForeignKey, OneToOne) and uses a JOIN. Prefetch Related is for multi-valued relationships and performs a separate query, which is optimized to avoid N+1 issues.",
+    "tag": "Django/Performance",
+    "difficulty": "Hard"
+  }
+]

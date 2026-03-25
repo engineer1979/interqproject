@@ -1,0 +1,208 @@
+[
+  {
+    "id": "Oracle-DBA-I01",
+    "title": "Oracle-DBA Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Oracle-DBA certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain Oracle-DBA HA design",
+      "Troubleshoot Oracle-DBA outage",
+      "Scale Oracle-DBA for 100k users"
+    ],
+    "expected_skills": [
+      "Production Oracle-DBA experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Oracle-DBA-I02",
+    "title": "Oracle-DBA Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Oracle-DBA certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain Oracle-DBA HA design",
+      "Troubleshoot Oracle-DBA outage",
+      "Scale Oracle-DBA for 100k users"
+    ],
+    "expected_skills": [
+      "Production Oracle-DBA experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Oracle-DBA-I03",
+    "title": "Oracle-DBA Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Oracle-DBA certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain Oracle-DBA HA design",
+      "Troubleshoot Oracle-DBA outage",
+      "Scale Oracle-DBA for 100k users"
+    ],
+    "expected_skills": [
+      "Production Oracle-DBA experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Oracle-DBA-I04",
+    "title": "Oracle-DBA Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Oracle-DBA certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain Oracle-DBA HA design",
+      "Troubleshoot Oracle-DBA outage",
+      "Scale Oracle-DBA for 100k users"
+    ],
+    "expected_skills": [
+      "Production Oracle-DBA experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Oracle-DBA-I05",
+    "title": "Oracle-DBA Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Oracle-DBA certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain Oracle-DBA HA design",
+      "Troubleshoot Oracle-DBA outage",
+      "Scale Oracle-DBA for 100k users"
+    ],
+    "expected_skills": [
+      "Production Oracle-DBA experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Oracle-DBA-I06",
+    "title": "Oracle-DBA Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Oracle-DBA certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain Oracle-DBA HA design",
+      "Troubleshoot Oracle-DBA outage",
+      "Scale Oracle-DBA for 100k users"
+    ],
+    "expected_skills": [
+      "Production Oracle-DBA experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Oracle-DBA-I07",
+    "title": "Oracle-DBA Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Oracle-DBA certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain Oracle-DBA HA design",
+      "Troubleshoot Oracle-DBA outage",
+      "Scale Oracle-DBA for 100k users"
+    ],
+    "expected_skills": [
+      "Production Oracle-DBA experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Oracle-DBA-I08",
+    "title": "Oracle-DBA Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Oracle-DBA certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain Oracle-DBA HA design",
+      "Troubleshoot Oracle-DBA outage",
+      "Scale Oracle-DBA for 100k users"
+    ],
+    "expected_skills": [
+      "Production Oracle-DBA experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Oracle-DBA-I09",
+    "title": "Oracle-DBA Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Oracle-DBA certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain Oracle-DBA HA design",
+      "Troubleshoot Oracle-DBA outage",
+      "Scale Oracle-DBA for 100k users"
+    ],
+    "expected_skills": [
+      "Production Oracle-DBA experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Oracle-DBA-I10",
+    "title": "Oracle-DBA Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Oracle-DBA certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain Oracle-DBA HA design",
+      "Troubleshoot Oracle-DBA outage",
+      "Scale Oracle-DBA for 100k users"
+    ],
+    "expected_skills": [
+      "Production Oracle-DBA experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  }
+]

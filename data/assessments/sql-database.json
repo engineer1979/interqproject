@@ -1,0 +1,3252 @@
+[
+  {
+    "id": "SQL-Database-E001",
+    "question": "Which port does SQL-Database service use by default?",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct SQL-Database procedure"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "e",
+    "explanation": "**SQL-Database E Solution:** Which port does SQL-Database service use by default?. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-E002",
+    "question": "Default subnet mask for Class C network in SQL-Database?",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct SQL-Database procedure"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "e",
+    "explanation": "**SQL-Database E Solution:** Default subnet mask for Class C network in SQL-Database?. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-E003",
+    "question": "What does SQL ACL stand for?",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct SQL-Database procedure"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "e",
+    "explanation": "**SQL-Database E Solution:** What does SQL ACL stand for?. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-E004",
+    "question": "Default subnet mask for Class C network in SQL-Database?",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct SQL-Database procedure",
+      "Partially correct"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "e",
+    "explanation": "**SQL-Database E Solution:** Default subnet mask for Class C network in SQL-Database?. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-E005",
+    "question": "What does SQL ACL stand for?",
+    "options": [
+      "Dangerous method",
+      "Correct SQL-Database procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "e",
+    "explanation": "**SQL-Database E Solution:** What does SQL ACL stand for?. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-E006",
+    "question": "Common protocol for SQL-Database remote access?",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SQL-Database procedure"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "e",
+    "explanation": "**SQL-Database E Solution:** Common protocol for SQL-Database remote access?. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-E007",
+    "question": "Common protocol for SQL-Database remote access?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SQL-Database procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "e",
+    "explanation": "**SQL-Database E Solution:** Common protocol for SQL-Database remote access?. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-E008",
+    "question": "Common protocol for SQL-Database remote access?",
+    "options": [
+      "Correct SQL-Database procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "e",
+    "explanation": "**SQL-Database E Solution:** Common protocol for SQL-Database remote access?. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-E009",
+    "question": "Default subnet mask for Class C network in SQL-Database?",
+    "options": [
+      "Dangerous method",
+      "Correct SQL-Database procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "e",
+    "explanation": "**SQL-Database E Solution:** Default subnet mask for Class C network in SQL-Database?. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-E010",
+    "question": "What is the primary function of SQL DHCP?",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct SQL-Database procedure"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "e",
+    "explanation": "**SQL-Database E Solution:** What is the primary function of SQL DHCP?. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-E011",
+    "question": "Common protocol for SQL-Database remote access?",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct SQL-Database procedure"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "e",
+    "explanation": "**SQL-Database E Solution:** Common protocol for SQL-Database remote access?. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-E012",
+    "question": "What is the primary function of SQL DHCP?",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SQL-Database procedure"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "e",
+    "explanation": "**SQL-Database E Solution:** What is the primary function of SQL DHCP?. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-E013",
+    "question": "What does SQL ACL stand for?",
+    "options": [
+      "Correct SQL-Database procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "e",
+    "explanation": "**SQL-Database E Solution:** What does SQL ACL stand for?. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-E014",
+    "question": "What does SQL ACL stand for?",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct SQL-Database procedure"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "e",
+    "explanation": "**SQL-Database E Solution:** What does SQL ACL stand for?. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-E015",
+    "question": "What is the primary function of SQL DHCP?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SQL-Database procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "e",
+    "explanation": "**SQL-Database E Solution:** What is the primary function of SQL DHCP?. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-E016",
+    "question": "Default subnet mask for Class C network in SQL-Database?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SQL-Database procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "e",
+    "explanation": "**SQL-Database E Solution:** Default subnet mask for Class C network in SQL-Database?. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-E017",
+    "question": "What does SQL ACL stand for?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SQL-Database procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "e",
+    "explanation": "**SQL-Database E Solution:** What does SQL ACL stand for?. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-E018",
+    "question": "What is the primary function of SQL DHCP?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SQL-Database procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "e",
+    "explanation": "**SQL-Database E Solution:** What is the primary function of SQL DHCP?. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-E019",
+    "question": "What does SQL ACL stand for?",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Correct SQL-Database procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "e",
+    "explanation": "**SQL-Database E Solution:** What does SQL ACL stand for?. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-E020",
+    "question": "What does SQL ACL stand for?",
+    "options": [
+      "Correct SQL-Database procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "e",
+    "explanation": "**SQL-Database E Solution:** What does SQL ACL stand for?. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-E021",
+    "question": "Common protocol for SQL-Database remote access?",
+    "options": [
+      "Dangerous method",
+      "Correct SQL-Database procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "e",
+    "explanation": "**SQL-Database E Solution:** Common protocol for SQL-Database remote access?. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-E022",
+    "question": "Which port does SQL-Database service use by default?",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct SQL-Database procedure"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "e",
+    "explanation": "**SQL-Database E Solution:** Which port does SQL-Database service use by default?. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-E023",
+    "question": "Which port does SQL-Database service use by default?",
+    "options": [
+      "Correct SQL-Database procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "e",
+    "explanation": "**SQL-Database E Solution:** Which port does SQL-Database service use by default?. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-E024",
+    "question": "Which port does SQL-Database service use by default?",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct SQL-Database procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "e",
+    "explanation": "**SQL-Database E Solution:** Which port does SQL-Database service use by default?. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-E025",
+    "question": "What does SQL ACL stand for?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct SQL-Database procedure"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "e",
+    "explanation": "**SQL-Database E Solution:** What does SQL ACL stand for?. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-E026",
+    "question": "What is the primary function of SQL DHCP?",
+    "options": [
+      "Correct SQL-Database procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "e",
+    "explanation": "**SQL-Database E Solution:** What is the primary function of SQL DHCP?. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-E027",
+    "question": "Default subnet mask for Class C network in SQL-Database?",
+    "options": [
+      "Dangerous method",
+      "Correct SQL-Database procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "e",
+    "explanation": "**SQL-Database E Solution:** Default subnet mask for Class C network in SQL-Database?. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-E028",
+    "question": "What does SQL ACL stand for?",
+    "options": [
+      "Dangerous method",
+      "Correct SQL-Database procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "e",
+    "explanation": "**SQL-Database E Solution:** What does SQL ACL stand for?. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-E029",
+    "question": "Which port does SQL-Database service use by default?",
+    "options": [
+      "Correct SQL-Database procedure",
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "e",
+    "explanation": "**SQL-Database E Solution:** Which port does SQL-Database service use by default?. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-E030",
+    "question": "Which port does SQL-Database service use by default?",
+    "options": [
+      "Correct SQL-Database procedure",
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "e",
+    "explanation": "**SQL-Database E Solution:** Which port does SQL-Database service use by default?. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-E031",
+    "question": "What is the primary function of SQL DHCP?",
+    "options": [
+      "Incorrect approach",
+      "Correct SQL-Database procedure",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "e",
+    "explanation": "**SQL-Database E Solution:** What is the primary function of SQL DHCP?. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-E032",
+    "question": "What is the primary function of SQL DHCP?",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct SQL-Database procedure"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "e",
+    "explanation": "**SQL-Database E Solution:** What is the primary function of SQL DHCP?. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-E033",
+    "question": "What is the primary function of SQL DHCP?",
+    "options": [
+      "Correct SQL-Database procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "e",
+    "explanation": "**SQL-Database E Solution:** What is the primary function of SQL DHCP?. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-E034",
+    "question": "What does SQL ACL stand for?",
+    "options": [
+      "Correct SQL-Database procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "e",
+    "explanation": "**SQL-Database E Solution:** What does SQL ACL stand for?. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-E035",
+    "question": "Default subnet mask for Class C network in SQL-Database?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SQL-Database procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "e",
+    "explanation": "**SQL-Database E Solution:** Default subnet mask for Class C network in SQL-Database?. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-E036",
+    "question": "What does SQL ACL stand for?",
+    "options": [
+      "Correct SQL-Database procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "e",
+    "explanation": "**SQL-Database E Solution:** What does SQL ACL stand for?. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-E037",
+    "question": "What is the primary function of SQL DHCP?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SQL-Database procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "e",
+    "explanation": "**SQL-Database E Solution:** What is the primary function of SQL DHCP?. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-E038",
+    "question": "Common protocol for SQL-Database remote access?",
+    "options": [
+      "Correct SQL-Database procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "e",
+    "explanation": "**SQL-Database E Solution:** Common protocol for SQL-Database remote access?. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-E039",
+    "question": "Common protocol for SQL-Database remote access?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SQL-Database procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "e",
+    "explanation": "**SQL-Database E Solution:** Common protocol for SQL-Database remote access?. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-E040",
+    "question": "Which port does SQL-Database service use by default?",
+    "options": [
+      "Dangerous method",
+      "Correct SQL-Database procedure",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "e",
+    "explanation": "**SQL-Database E Solution:** Which port does SQL-Database service use by default?. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-E041",
+    "question": "Default subnet mask for Class C network in SQL-Database?",
+    "options": [
+      "Correct SQL-Database procedure",
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "e",
+    "explanation": "**SQL-Database E Solution:** Default subnet mask for Class C network in SQL-Database?. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-E042",
+    "question": "Which port does SQL-Database service use by default?",
+    "options": [
+      "Correct SQL-Database procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "e",
+    "explanation": "**SQL-Database E Solution:** Which port does SQL-Database service use by default?. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-E043",
+    "question": "Which port does SQL-Database service use by default?",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach",
+      "Correct SQL-Database procedure"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "e",
+    "explanation": "**SQL-Database E Solution:** Which port does SQL-Database service use by default?. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-E044",
+    "question": "Default subnet mask for Class C network in SQL-Database?",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct SQL-Database procedure"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "e",
+    "explanation": "**SQL-Database E Solution:** Default subnet mask for Class C network in SQL-Database?. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-E045",
+    "question": "Which port does SQL-Database service use by default?",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct SQL-Database procedure"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "e",
+    "explanation": "**SQL-Database E Solution:** Which port does SQL-Database service use by default?. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-E046",
+    "question": "What does SQL ACL stand for?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SQL-Database procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "e",
+    "explanation": "**SQL-Database E Solution:** What does SQL ACL stand for?. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-E047",
+    "question": "Which port does SQL-Database service use by default?",
+    "options": [
+      "Correct SQL-Database procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "e",
+    "explanation": "**SQL-Database E Solution:** Which port does SQL-Database service use by default?. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-E048",
+    "question": "What is the primary function of SQL DHCP?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct SQL-Database procedure"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "e",
+    "explanation": "**SQL-Database E Solution:** What is the primary function of SQL DHCP?. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-E049",
+    "question": "Default subnet mask for Class C network in SQL-Database?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SQL-Database procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "e",
+    "explanation": "**SQL-Database E Solution:** Default subnet mask for Class C network in SQL-Database?. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-E050",
+    "question": "What does SQL ACL stand for?",
+    "options": [
+      "Dangerous method",
+      "Correct SQL-Database procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "e",
+    "explanation": "**SQL-Database E Solution:** What does SQL ACL stand for?. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-M001",
+    "question": "Troubleshoot SQL-Database connectivity issue between VLANs",
+    "options": [
+      "Correct SQL-Database procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "m",
+    "explanation": "**SQL-Database M Solution:** Troubleshoot SQL-Database connectivity issue between VLANs. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-M002",
+    "question": "Implement SQL-Database backup strategy for compliance",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct SQL-Database procedure"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "m",
+    "explanation": "**SQL-Database M Solution:** Implement SQL-Database backup strategy for compliance. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-M003",
+    "question": "Set up SQL-Database failover clustering",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SQL-Database procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "m",
+    "explanation": "**SQL-Database M Solution:** Set up SQL-Database failover clustering. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-M004",
+    "question": "Optimize SQL-Database query performance",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SQL-Database procedure"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "m",
+    "explanation": "**SQL-Database M Solution:** Optimize SQL-Database query performance. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-M005",
+    "question": "Troubleshoot SQL-Database connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct SQL-Database procedure"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "m",
+    "explanation": "**SQL-Database M Solution:** Troubleshoot SQL-Database connectivity issue between VLANs. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-M006",
+    "question": "Optimize SQL-Database query performance",
+    "options": [
+      "Partially correct",
+      "Correct SQL-Database procedure",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "m",
+    "explanation": "**SQL-Database M Solution:** Optimize SQL-Database query performance. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-M007",
+    "question": "Implement SQL-Database backup strategy for compliance",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct SQL-Database procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "m",
+    "explanation": "**SQL-Database M Solution:** Implement SQL-Database backup strategy for compliance. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-M008",
+    "question": "Troubleshoot SQL-Database connectivity issue between VLANs",
+    "options": [
+      "Dangerous method",
+      "Correct SQL-Database procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "m",
+    "explanation": "**SQL-Database M Solution:** Troubleshoot SQL-Database connectivity issue between VLANs. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-M009",
+    "question": "Set up SQL-Database failover clustering",
+    "options": [
+      "Dangerous method",
+      "Correct SQL-Database procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "m",
+    "explanation": "**SQL-Database M Solution:** Set up SQL-Database failover clustering. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-M010",
+    "question": "Configure SQL-Database load balancer for high availability",
+    "options": [
+      "Correct SQL-Database procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "m",
+    "explanation": "**SQL-Database M Solution:** Configure SQL-Database load balancer for high availability. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-M011",
+    "question": "Set up SQL-Database failover clustering",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SQL-Database procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "m",
+    "explanation": "**SQL-Database M Solution:** Set up SQL-Database failover clustering. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-M012",
+    "question": "Implement SQL-Database backup strategy for compliance",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct SQL-Database procedure"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "m",
+    "explanation": "**SQL-Database M Solution:** Implement SQL-Database backup strategy for compliance. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-M013",
+    "question": "Optimize SQL-Database query performance",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SQL-Database procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "m",
+    "explanation": "**SQL-Database M Solution:** Optimize SQL-Database query performance. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-M014",
+    "question": "Optimize SQL-Database query performance",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct SQL-Database procedure",
+      "Partially correct"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "m",
+    "explanation": "**SQL-Database M Solution:** Optimize SQL-Database query performance. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-M015",
+    "question": "Implement SQL-Database backup strategy for compliance",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SQL-Database procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "m",
+    "explanation": "**SQL-Database M Solution:** Implement SQL-Database backup strategy for compliance. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-M016",
+    "question": "Troubleshoot SQL-Database connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Correct SQL-Database procedure",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "m",
+    "explanation": "**SQL-Database M Solution:** Troubleshoot SQL-Database connectivity issue between VLANs. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-M017",
+    "question": "Troubleshoot SQL-Database connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SQL-Database procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "m",
+    "explanation": "**SQL-Database M Solution:** Troubleshoot SQL-Database connectivity issue between VLANs. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-M018",
+    "question": "Implement SQL-Database backup strategy for compliance",
+    "options": [
+      "Dangerous method",
+      "Correct SQL-Database procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "m",
+    "explanation": "**SQL-Database M Solution:** Implement SQL-Database backup strategy for compliance. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-M019",
+    "question": "Optimize SQL-Database query performance",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct SQL-Database procedure"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "m",
+    "explanation": "**SQL-Database M Solution:** Optimize SQL-Database query performance. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-M020",
+    "question": "Troubleshoot SQL-Database connectivity issue between VLANs",
+    "options": [
+      "Dangerous method",
+      "Correct SQL-Database procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "m",
+    "explanation": "**SQL-Database M Solution:** Troubleshoot SQL-Database connectivity issue between VLANs. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-M021",
+    "question": "Troubleshoot SQL-Database connectivity issue between VLANs",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct SQL-Database procedure"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "m",
+    "explanation": "**SQL-Database M Solution:** Troubleshoot SQL-Database connectivity issue between VLANs. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-M022",
+    "question": "Troubleshoot SQL-Database connectivity issue between VLANs",
+    "options": [
+      "Correct SQL-Database procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "m",
+    "explanation": "**SQL-Database M Solution:** Troubleshoot SQL-Database connectivity issue between VLANs. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-M023",
+    "question": "Configure SQL-Database load balancer for high availability",
+    "options": [
+      "Dangerous method",
+      "Correct SQL-Database procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "m",
+    "explanation": "**SQL-Database M Solution:** Configure SQL-Database load balancer for high availability. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-M024",
+    "question": "Troubleshoot SQL-Database connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SQL-Database procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "m",
+    "explanation": "**SQL-Database M Solution:** Troubleshoot SQL-Database connectivity issue between VLANs. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-M025",
+    "question": "Implement SQL-Database backup strategy for compliance",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct SQL-Database procedure"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "m",
+    "explanation": "**SQL-Database M Solution:** Implement SQL-Database backup strategy for compliance. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-M026",
+    "question": "Configure SQL-Database load balancer for high availability",
+    "options": [
+      "Dangerous method",
+      "Correct SQL-Database procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "m",
+    "explanation": "**SQL-Database M Solution:** Configure SQL-Database load balancer for high availability. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-M027",
+    "question": "Set up SQL-Database failover clustering",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct SQL-Database procedure"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "m",
+    "explanation": "**SQL-Database M Solution:** Set up SQL-Database failover clustering. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-M028",
+    "question": "Implement SQL-Database backup strategy for compliance",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SQL-Database procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "m",
+    "explanation": "**SQL-Database M Solution:** Implement SQL-Database backup strategy for compliance. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-M029",
+    "question": "Configure SQL-Database load balancer for high availability",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SQL-Database procedure"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "m",
+    "explanation": "**SQL-Database M Solution:** Configure SQL-Database load balancer for high availability. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-M030",
+    "question": "Troubleshoot SQL-Database connectivity issue between VLANs",
+    "options": [
+      "Dangerous method",
+      "Correct SQL-Database procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "m",
+    "explanation": "**SQL-Database M Solution:** Troubleshoot SQL-Database connectivity issue between VLANs. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-M031",
+    "question": "Optimize SQL-Database query performance",
+    "options": [
+      "Dangerous method",
+      "Correct SQL-Database procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "m",
+    "explanation": "**SQL-Database M Solution:** Optimize SQL-Database query performance. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-M032",
+    "question": "Troubleshoot SQL-Database connectivity issue between VLANs",
+    "options": [
+      "Correct SQL-Database procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "m",
+    "explanation": "**SQL-Database M Solution:** Troubleshoot SQL-Database connectivity issue between VLANs. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-M033",
+    "question": "Optimize SQL-Database query performance",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SQL-Database procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "m",
+    "explanation": "**SQL-Database M Solution:** Optimize SQL-Database query performance. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-M034",
+    "question": "Configure SQL-Database load balancer for high availability",
+    "options": [
+      "Dangerous method",
+      "Correct SQL-Database procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "m",
+    "explanation": "**SQL-Database M Solution:** Configure SQL-Database load balancer for high availability. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-M035",
+    "question": "Implement SQL-Database backup strategy for compliance",
+    "options": [
+      "Incorrect approach",
+      "Correct SQL-Database procedure",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "m",
+    "explanation": "**SQL-Database M Solution:** Implement SQL-Database backup strategy for compliance. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-M036",
+    "question": "Configure SQL-Database load balancer for high availability",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SQL-Database procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "m",
+    "explanation": "**SQL-Database M Solution:** Configure SQL-Database load balancer for high availability. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-M037",
+    "question": "Troubleshoot SQL-Database connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SQL-Database procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "m",
+    "explanation": "**SQL-Database M Solution:** Troubleshoot SQL-Database connectivity issue between VLANs. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-M038",
+    "question": "Implement SQL-Database backup strategy for compliance",
+    "options": [
+      "Incorrect approach",
+      "Correct SQL-Database procedure",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "m",
+    "explanation": "**SQL-Database M Solution:** Implement SQL-Database backup strategy for compliance. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-M039",
+    "question": "Optimize SQL-Database query performance",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach",
+      "Correct SQL-Database procedure"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "m",
+    "explanation": "**SQL-Database M Solution:** Optimize SQL-Database query performance. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-M040",
+    "question": "Optimize SQL-Database query performance",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct SQL-Database procedure"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "m",
+    "explanation": "**SQL-Database M Solution:** Optimize SQL-Database query performance. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-M041",
+    "question": "Set up SQL-Database failover clustering",
+    "options": [
+      "Incorrect approach",
+      "Correct SQL-Database procedure",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "m",
+    "explanation": "**SQL-Database M Solution:** Set up SQL-Database failover clustering. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-M042",
+    "question": "Troubleshoot SQL-Database connectivity issue between VLANs",
+    "options": [
+      "Correct SQL-Database procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "m",
+    "explanation": "**SQL-Database M Solution:** Troubleshoot SQL-Database connectivity issue between VLANs. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-M043",
+    "question": "Optimize SQL-Database query performance",
+    "options": [
+      "Partially correct",
+      "Correct SQL-Database procedure",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "m",
+    "explanation": "**SQL-Database M Solution:** Optimize SQL-Database query performance. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-M044",
+    "question": "Set up SQL-Database failover clustering",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Correct SQL-Database procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "m",
+    "explanation": "**SQL-Database M Solution:** Set up SQL-Database failover clustering. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-M045",
+    "question": "Configure SQL-Database load balancer for high availability",
+    "options": [
+      "Dangerous method",
+      "Correct SQL-Database procedure",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "m",
+    "explanation": "**SQL-Database M Solution:** Configure SQL-Database load balancer for high availability. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-M046",
+    "question": "Set up SQL-Database failover clustering",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Correct SQL-Database procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "m",
+    "explanation": "**SQL-Database M Solution:** Set up SQL-Database failover clustering. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-M047",
+    "question": "Optimize SQL-Database query performance",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct SQL-Database procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "m",
+    "explanation": "**SQL-Database M Solution:** Optimize SQL-Database query performance. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-M048",
+    "question": "Implement SQL-Database backup strategy for compliance",
+    "options": [
+      "Dangerous method",
+      "Correct SQL-Database procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "m",
+    "explanation": "**SQL-Database M Solution:** Implement SQL-Database backup strategy for compliance. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-M049",
+    "question": "Implement SQL-Database backup strategy for compliance",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct SQL-Database procedure"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "m",
+    "explanation": "**SQL-Database M Solution:** Implement SQL-Database backup strategy for compliance. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-M050",
+    "question": "Set up SQL-Database failover clustering",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach",
+      "Correct SQL-Database procedure"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "m",
+    "explanation": "**SQL-Database M Solution:** Set up SQL-Database failover clustering. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-H001",
+    "question": "Implement zero-trust security model in SQL-Database",
+    "options": [
+      "Correct SQL-Database procedure",
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "h",
+    "explanation": "**SQL-Database H Solution:** Implement zero-trust security model in SQL-Database. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-H002",
+    "question": "Design SQL-Database architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Dangerous method",
+      "Correct SQL-Database procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "h",
+    "explanation": "**SQL-Database H Solution:** Design SQL-Database architecture for 10k users with 99.99% uptime. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-H003",
+    "question": "Optimize SQL-Database performance under DDoS attack",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SQL-Database procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "h",
+    "explanation": "**SQL-Database H Solution:** Optimize SQL-Database performance under DDoS attack. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-H004",
+    "question": "Design SQL-Database architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SQL-Database procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "h",
+    "explanation": "**SQL-Database H Solution:** Design SQL-Database architecture for 10k users with 99.99% uptime. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-H005",
+    "question": "Optimize SQL-Database performance under DDoS attack",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SQL-Database procedure"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "h",
+    "explanation": "**SQL-Database H Solution:** Optimize SQL-Database performance under DDoS attack. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-H006",
+    "question": "Migrate legacy SQL-Database systems to cloud-native architecture",
+    "options": [
+      "Correct SQL-Database procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "h",
+    "explanation": "**SQL-Database H Solution:** Migrate legacy SQL-Database systems to cloud-native architecture. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-H007",
+    "question": "Migrate legacy SQL-Database systems to cloud-native architecture",
+    "options": [
+      "Correct SQL-Database procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "h",
+    "explanation": "**SQL-Database H Solution:** Migrate legacy SQL-Database systems to cloud-native architecture. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-H008",
+    "question": "Create disaster recovery plan with RTO < 15min for SQL-Database",
+    "options": [
+      "Dangerous method",
+      "Correct SQL-Database procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "h",
+    "explanation": "**SQL-Database H Solution:** Create disaster recovery plan with RTO < 15min for SQL-Database. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-H009",
+    "question": "Implement zero-trust security model in SQL-Database",
+    "options": [
+      "Correct SQL-Database procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "h",
+    "explanation": "**SQL-Database H Solution:** Implement zero-trust security model in SQL-Database. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-H010",
+    "question": "Implement zero-trust security model in SQL-Database",
+    "options": [
+      "Dangerous method",
+      "Correct SQL-Database procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "h",
+    "explanation": "**SQL-Database H Solution:** Implement zero-trust security model in SQL-Database. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-H011",
+    "question": "Design SQL-Database architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Dangerous method",
+      "Correct SQL-Database procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "h",
+    "explanation": "**SQL-Database H Solution:** Design SQL-Database architecture for 10k users with 99.99% uptime. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-H012",
+    "question": "Optimize SQL-Database performance under DDoS attack",
+    "options": [
+      "Dangerous method",
+      "Correct SQL-Database procedure",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "h",
+    "explanation": "**SQL-Database H Solution:** Optimize SQL-Database performance under DDoS attack. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-H013",
+    "question": "Optimize SQL-Database performance under DDoS attack",
+    "options": [
+      "Dangerous method",
+      "Correct SQL-Database procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "h",
+    "explanation": "**SQL-Database H Solution:** Optimize SQL-Database performance under DDoS attack. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-H014",
+    "question": "Create disaster recovery plan with RTO < 15min for SQL-Database",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct SQL-Database procedure"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "h",
+    "explanation": "**SQL-Database H Solution:** Create disaster recovery plan with RTO < 15min for SQL-Database. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-H015",
+    "question": "Implement zero-trust security model in SQL-Database",
+    "options": [
+      "Correct SQL-Database procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "h",
+    "explanation": "**SQL-Database H Solution:** Implement zero-trust security model in SQL-Database. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-H016",
+    "question": "Implement zero-trust security model in SQL-Database",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct SQL-Database procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "h",
+    "explanation": "**SQL-Database H Solution:** Implement zero-trust security model in SQL-Database. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-H017",
+    "question": "Implement zero-trust security model in SQL-Database",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct SQL-Database procedure"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "h",
+    "explanation": "**SQL-Database H Solution:** Implement zero-trust security model in SQL-Database. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-H018",
+    "question": "Implement zero-trust security model in SQL-Database",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct SQL-Database procedure"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "h",
+    "explanation": "**SQL-Database H Solution:** Implement zero-trust security model in SQL-Database. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-H019",
+    "question": "Create disaster recovery plan with RTO < 15min for SQL-Database",
+    "options": [
+      "Correct SQL-Database procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "h",
+    "explanation": "**SQL-Database H Solution:** Create disaster recovery plan with RTO < 15min for SQL-Database. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-H020",
+    "question": "Implement zero-trust security model in SQL-Database",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SQL-Database procedure"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "h",
+    "explanation": "**SQL-Database H Solution:** Implement zero-trust security model in SQL-Database. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-H021",
+    "question": "Migrate legacy SQL-Database systems to cloud-native architecture",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct SQL-Database procedure"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "h",
+    "explanation": "**SQL-Database H Solution:** Migrate legacy SQL-Database systems to cloud-native architecture. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-H022",
+    "question": "Migrate legacy SQL-Database systems to cloud-native architecture",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SQL-Database procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "h",
+    "explanation": "**SQL-Database H Solution:** Migrate legacy SQL-Database systems to cloud-native architecture. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-H023",
+    "question": "Optimize SQL-Database performance under DDoS attack",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SQL-Database procedure"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "h",
+    "explanation": "**SQL-Database H Solution:** Optimize SQL-Database performance under DDoS attack. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-H024",
+    "question": "Optimize SQL-Database performance under DDoS attack",
+    "options": [
+      "Correct SQL-Database procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "h",
+    "explanation": "**SQL-Database H Solution:** Optimize SQL-Database performance under DDoS attack. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-H025",
+    "question": "Migrate legacy SQL-Database systems to cloud-native architecture",
+    "options": [
+      "Partially correct",
+      "Correct SQL-Database procedure",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "h",
+    "explanation": "**SQL-Database H Solution:** Migrate legacy SQL-Database systems to cloud-native architecture. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-H026",
+    "question": "Implement zero-trust security model in SQL-Database",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SQL-Database procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "h",
+    "explanation": "**SQL-Database H Solution:** Implement zero-trust security model in SQL-Database. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-H027",
+    "question": "Migrate legacy SQL-Database systems to cloud-native architecture",
+    "options": [
+      "Dangerous method",
+      "Correct SQL-Database procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "h",
+    "explanation": "**SQL-Database H Solution:** Migrate legacy SQL-Database systems to cloud-native architecture. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-H028",
+    "question": "Design SQL-Database architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SQL-Database procedure"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "h",
+    "explanation": "**SQL-Database H Solution:** Design SQL-Database architecture for 10k users with 99.99% uptime. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-H029",
+    "question": "Design SQL-Database architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Dangerous method",
+      "Correct SQL-Database procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "h",
+    "explanation": "**SQL-Database H Solution:** Design SQL-Database architecture for 10k users with 99.99% uptime. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-H030",
+    "question": "Implement zero-trust security model in SQL-Database",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SQL-Database procedure"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "h",
+    "explanation": "**SQL-Database H Solution:** Implement zero-trust security model in SQL-Database. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-H031",
+    "question": "Create disaster recovery plan with RTO < 15min for SQL-Database",
+    "options": [
+      "Correct SQL-Database procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "h",
+    "explanation": "**SQL-Database H Solution:** Create disaster recovery plan with RTO < 15min for SQL-Database. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-H032",
+    "question": "Implement zero-trust security model in SQL-Database",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SQL-Database procedure"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "h",
+    "explanation": "**SQL-Database H Solution:** Implement zero-trust security model in SQL-Database. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-H033",
+    "question": "Migrate legacy SQL-Database systems to cloud-native architecture",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SQL-Database procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "h",
+    "explanation": "**SQL-Database H Solution:** Migrate legacy SQL-Database systems to cloud-native architecture. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-H034",
+    "question": "Optimize SQL-Database performance under DDoS attack",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct SQL-Database procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "h",
+    "explanation": "**SQL-Database H Solution:** Optimize SQL-Database performance under DDoS attack. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-H035",
+    "question": "Optimize SQL-Database performance under DDoS attack",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SQL-Database procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "h",
+    "explanation": "**SQL-Database H Solution:** Optimize SQL-Database performance under DDoS attack. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-H036",
+    "question": "Implement zero-trust security model in SQL-Database",
+    "options": [
+      "Partially correct",
+      "Correct SQL-Database procedure",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "h",
+    "explanation": "**SQL-Database H Solution:** Implement zero-trust security model in SQL-Database. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-H037",
+    "question": "Create disaster recovery plan with RTO < 15min for SQL-Database",
+    "options": [
+      "Correct SQL-Database procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "h",
+    "explanation": "**SQL-Database H Solution:** Create disaster recovery plan with RTO < 15min for SQL-Database. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-H038",
+    "question": "Design SQL-Database architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SQL-Database procedure"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "h",
+    "explanation": "**SQL-Database H Solution:** Design SQL-Database architecture for 10k users with 99.99% uptime. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-H039",
+    "question": "Optimize SQL-Database performance under DDoS attack",
+    "options": [
+      "Correct SQL-Database procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "h",
+    "explanation": "**SQL-Database H Solution:** Optimize SQL-Database performance under DDoS attack. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-H040",
+    "question": "Migrate legacy SQL-Database systems to cloud-native architecture",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct SQL-Database procedure"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "h",
+    "explanation": "**SQL-Database H Solution:** Migrate legacy SQL-Database systems to cloud-native architecture. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-H041",
+    "question": "Design SQL-Database architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct SQL-Database procedure"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "h",
+    "explanation": "**SQL-Database H Solution:** Design SQL-Database architecture for 10k users with 99.99% uptime. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-H042",
+    "question": "Create disaster recovery plan with RTO < 15min for SQL-Database",
+    "options": [
+      "Dangerous method",
+      "Correct SQL-Database procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "h",
+    "explanation": "**SQL-Database H Solution:** Create disaster recovery plan with RTO < 15min for SQL-Database. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-H043",
+    "question": "Implement zero-trust security model in SQL-Database",
+    "options": [
+      "Dangerous method",
+      "Correct SQL-Database procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "h",
+    "explanation": "**SQL-Database H Solution:** Implement zero-trust security model in SQL-Database. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-H044",
+    "question": "Implement zero-trust security model in SQL-Database",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct SQL-Database procedure"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "h",
+    "explanation": "**SQL-Database H Solution:** Implement zero-trust security model in SQL-Database. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-H045",
+    "question": "Migrate legacy SQL-Database systems to cloud-native architecture",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct SQL-Database procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "h",
+    "explanation": "**SQL-Database H Solution:** Migrate legacy SQL-Database systems to cloud-native architecture. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-H046",
+    "question": "Migrate legacy SQL-Database systems to cloud-native architecture",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct SQL-Database procedure"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "h",
+    "explanation": "**SQL-Database H Solution:** Migrate legacy SQL-Database systems to cloud-native architecture. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-H047",
+    "question": "Implement zero-trust security model in SQL-Database",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SQL-Database procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "h",
+    "explanation": "**SQL-Database H Solution:** Implement zero-trust security model in SQL-Database. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-H048",
+    "question": "Design SQL-Database architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct SQL-Database procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "h",
+    "explanation": "**SQL-Database H Solution:** Design SQL-Database architecture for 10k users with 99.99% uptime. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-H049",
+    "question": "Migrate legacy SQL-Database systems to cloud-native architecture",
+    "options": [
+      "Correct SQL-Database procedure",
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "h",
+    "explanation": "**SQL-Database H Solution:** Migrate legacy SQL-Database systems to cloud-native architecture. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-H050",
+    "question": "Migrate legacy SQL-Database systems to cloud-native architecture",
+    "options": [
+      "Correct SQL-Database procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SQL-Database procedure",
+    "difficulty": "h",
+    "explanation": "**SQL-Database H Solution:** Migrate legacy SQL-Database systems to cloud-native architecture. Always verify SQL-Database documentation and test in lab environment first."
+  },
+  {
+    "id": "SQL-Database-S01-01",
+    "question": "1. Load balancer health check failing in SQL-Database environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S01-02",
+    "question": "1. Load balancer health check failing in SQL-Database environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S01-03",
+    "question": "1. Load balancer health check failing in SQL-Database environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S01-04",
+    "question": "1. Load balancer health check failing in SQL-Database environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S01-05",
+    "question": "1. Load balancer health check failing in SQL-Database environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S02-01",
+    "question": "2. Cloud migration failure: rollback strategy in SQL-Database environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S02-02",
+    "question": "2. Cloud migration failure: rollback strategy in SQL-Database environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S02-03",
+    "question": "2. Cloud migration failure: rollback strategy in SQL-Database environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S02-04",
+    "question": "2. Cloud migration failure: rollback strategy in SQL-Database environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S02-05",
+    "question": "2. Cloud migration failure: rollback strategy in SQL-Database environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S03-01",
+    "question": "3. Security incident response: ransomware attack detected in SQL-Database environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S03-02",
+    "question": "3. Security incident response: ransomware attack detected in SQL-Database environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S03-03",
+    "question": "3. Security incident response: ransomware attack detected in SQL-Database environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S03-04",
+    "question": "3. Security incident response: ransomware attack detected in SQL-Database environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S03-05",
+    "question": "3. Security incident response: ransomware attack detected in SQL-Database environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S04-01",
+    "question": "4. Firewall blocking legitimate traffic in SQL-Database environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S04-02",
+    "question": "4. Firewall blocking legitimate traffic in SQL-Database environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S04-03",
+    "question": "4. Firewall blocking legitimate traffic in SQL-Database environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S04-04",
+    "question": "4. Firewall blocking legitimate traffic in SQL-Database environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S04-05",
+    "question": "4. Firewall blocking legitimate traffic in SQL-Database environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S05-01",
+    "question": "5. Security incident response: ransomware attack detected in SQL-Database environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S05-02",
+    "question": "5. Security incident response: ransomware attack detected in SQL-Database environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S05-03",
+    "question": "5. Security incident response: ransomware attack detected in SQL-Database environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S05-04",
+    "question": "5. Security incident response: ransomware attack detected in SQL-Database environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S05-05",
+    "question": "5. Security incident response: ransomware attack detected in SQL-Database environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S06-01",
+    "question": "6. Server overload during quarterly report generation in SQL-Database environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S06-02",
+    "question": "6. Server overload during quarterly report generation in SQL-Database environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S06-03",
+    "question": "6. Server overload during quarterly report generation in SQL-Database environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S06-04",
+    "question": "6. Server overload during quarterly report generation in SQL-Database environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S06-05",
+    "question": "6. Server overload during quarterly report generation in SQL-Database environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S07-01",
+    "question": "7. Network latency issue affecting VoIP calls in SQL-Database environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S07-02",
+    "question": "7. Network latency issue affecting VoIP calls in SQL-Database environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S07-03",
+    "question": "7. Network latency issue affecting VoIP calls in SQL-Database environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S07-04",
+    "question": "7. Network latency issue affecting VoIP calls in SQL-Database environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S07-05",
+    "question": "7. Network latency issue affecting VoIP calls in SQL-Database environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S08-01",
+    "question": "8. Load balancer health check failing in SQL-Database environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S08-02",
+    "question": "8. Load balancer health check failing in SQL-Database environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S08-03",
+    "question": "8. Load balancer health check failing in SQL-Database environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S08-04",
+    "question": "8. Load balancer health check failing in SQL-Database environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S08-05",
+    "question": "8. Load balancer health check failing in SQL-Database environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S09-01",
+    "question": "9. Load balancer health check failing in SQL-Database environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S09-02",
+    "question": "9. Load balancer health check failing in SQL-Database environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S09-03",
+    "question": "9. Load balancer health check failing in SQL-Database environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S09-04",
+    "question": "9. Load balancer health check failing in SQL-Database environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S09-05",
+    "question": "9. Load balancer health check failing in SQL-Database environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S10-01",
+    "question": "10. Database performance degradation after upgrade in SQL-Database environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S10-02",
+    "question": "10. Database performance degradation after upgrade in SQL-Database environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S10-03",
+    "question": "10. Database performance degradation after upgrade in SQL-Database environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S10-04",
+    "question": "10. Database performance degradation after upgrade in SQL-Database environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S10-05",
+    "question": "10. Database performance degradation after upgrade in SQL-Database environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S11-01",
+    "question": "11. Network latency issue affecting VoIP calls in SQL-Database environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S11-02",
+    "question": "11. Network latency issue affecting VoIP calls in SQL-Database environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S11-03",
+    "question": "11. Network latency issue affecting VoIP calls in SQL-Database environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S11-04",
+    "question": "11. Network latency issue affecting VoIP calls in SQL-Database environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S11-05",
+    "question": "11. Network latency issue affecting VoIP calls in SQL-Database environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S12-01",
+    "question": "12. Firewall blocking legitimate traffic in SQL-Database environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S12-02",
+    "question": "12. Firewall blocking legitimate traffic in SQL-Database environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S12-03",
+    "question": "12. Firewall blocking legitimate traffic in SQL-Database environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S12-04",
+    "question": "12. Firewall blocking legitimate traffic in SQL-Database environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S12-05",
+    "question": "12. Firewall blocking legitimate traffic in SQL-Database environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S13-01",
+    "question": "13. Server overload during quarterly report generation in SQL-Database environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S13-02",
+    "question": "13. Server overload during quarterly report generation in SQL-Database environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S13-03",
+    "question": "13. Server overload during quarterly report generation in SQL-Database environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S13-04",
+    "question": "13. Server overload during quarterly report generation in SQL-Database environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S13-05",
+    "question": "13. Server overload during quarterly report generation in SQL-Database environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S14-01",
+    "question": "14. Production outage during peak hours: diagnose and resolve in SQL-Database environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S14-02",
+    "question": "14. Production outage during peak hours: diagnose and resolve in SQL-Database environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S14-03",
+    "question": "14. Production outage during peak hours: diagnose and resolve in SQL-Database environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S14-04",
+    "question": "14. Production outage during peak hours: diagnose and resolve in SQL-Database environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S14-05",
+    "question": "14. Production outage during peak hours: diagnose and resolve in SQL-Database environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S15-01",
+    "question": "15. Backup failure during scheduled window in SQL-Database environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S15-02",
+    "question": "15. Backup failure during scheduled window in SQL-Database environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S15-03",
+    "question": "15. Backup failure during scheduled window in SQL-Database environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S15-04",
+    "question": "15. Backup failure during scheduled window in SQL-Database environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S15-05",
+    "question": "15. Backup failure during scheduled window in SQL-Database environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S16-01",
+    "question": "16. Backup failure during scheduled window in SQL-Database environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S16-02",
+    "question": "16. Backup failure during scheduled window in SQL-Database environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S16-03",
+    "question": "16. Backup failure during scheduled window in SQL-Database environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S16-04",
+    "question": "16. Backup failure during scheduled window in SQL-Database environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S16-05",
+    "question": "16. Backup failure during scheduled window in SQL-Database environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S17-01",
+    "question": "17. Database performance degradation after upgrade in SQL-Database environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S17-02",
+    "question": "17. Database performance degradation after upgrade in SQL-Database environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S17-03",
+    "question": "17. Database performance degradation after upgrade in SQL-Database environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S17-04",
+    "question": "17. Database performance degradation after upgrade in SQL-Database environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S17-05",
+    "question": "17. Database performance degradation after upgrade in SQL-Database environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S18-01",
+    "question": "18. Load balancer health check failing in SQL-Database environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S18-02",
+    "question": "18. Load balancer health check failing in SQL-Database environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S18-03",
+    "question": "18. Load balancer health check failing in SQL-Database environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S18-04",
+    "question": "18. Load balancer health check failing in SQL-Database environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S18-05",
+    "question": "18. Load balancer health check failing in SQL-Database environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S19-01",
+    "question": "19. Cloud migration failure: rollback strategy in SQL-Database environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S19-02",
+    "question": "19. Cloud migration failure: rollback strategy in SQL-Database environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S19-03",
+    "question": "19. Cloud migration failure: rollback strategy in SQL-Database environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S19-04",
+    "question": "19. Cloud migration failure: rollback strategy in SQL-Database environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S19-05",
+    "question": "19. Cloud migration failure: rollback strategy in SQL-Database environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S20-01",
+    "question": "20. Load balancer health check failing in SQL-Database environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S20-02",
+    "question": "20. Load balancer health check failing in SQL-Database environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S20-03",
+    "question": "20. Load balancer health check failing in SQL-Database environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S20-04",
+    "question": "20. Load balancer health check failing in SQL-Database environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SQL-Database-S20-05",
+    "question": "20. Load balancer health check failing in SQL-Database environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SQL-Database troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SQL-Database troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SQL-Database best practices. Document all steps for RCA."
+  }
+]

@@ -1,0 +1,3252 @@
+[
+  {
+    "id": "SDN-Software-Defined-E001",
+    "question": "Common protocol for SDN-Software-Defined remote access?",
+    "options": [
+      "Correct SDN-Software-Defined procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "e",
+    "explanation": "**SDN-Software-Defined E Solution:** Common protocol for SDN-Software-Defined remote access?. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-E002",
+    "question": "Common protocol for SDN-Software-Defined remote access?",
+    "options": [
+      "Incorrect approach",
+      "Correct SDN-Software-Defined procedure",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "e",
+    "explanation": "**SDN-Software-Defined E Solution:** Common protocol for SDN-Software-Defined remote access?. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-E003",
+    "question": "What does SDN ACL stand for?",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SDN-Software-Defined procedure"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "e",
+    "explanation": "**SDN-Software-Defined E Solution:** What does SDN ACL stand for?. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-E004",
+    "question": "Default subnet mask for Class C network in SDN-Software-Defined?",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct SDN-Software-Defined procedure"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "e",
+    "explanation": "**SDN-Software-Defined E Solution:** Default subnet mask for Class C network in SDN-Software-Defined?. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-E005",
+    "question": "Which port does SDN-Software-Defined service use by default?",
+    "options": [
+      "Dangerous method",
+      "Correct SDN-Software-Defined procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "e",
+    "explanation": "**SDN-Software-Defined E Solution:** Which port does SDN-Software-Defined service use by default?. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-E006",
+    "question": "What does SDN ACL stand for?",
+    "options": [
+      "Dangerous method",
+      "Correct SDN-Software-Defined procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "e",
+    "explanation": "**SDN-Software-Defined E Solution:** What does SDN ACL stand for?. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-E007",
+    "question": "What does SDN ACL stand for?",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SDN-Software-Defined procedure"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "e",
+    "explanation": "**SDN-Software-Defined E Solution:** What does SDN ACL stand for?. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-E008",
+    "question": "Default subnet mask for Class C network in SDN-Software-Defined?",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct SDN-Software-Defined procedure"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "e",
+    "explanation": "**SDN-Software-Defined E Solution:** Default subnet mask for Class C network in SDN-Software-Defined?. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-E009",
+    "question": "What is the primary function of SDN DHCP?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct SDN-Software-Defined procedure"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "e",
+    "explanation": "**SDN-Software-Defined E Solution:** What is the primary function of SDN DHCP?. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-E010",
+    "question": "What does SDN ACL stand for?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SDN-Software-Defined procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "e",
+    "explanation": "**SDN-Software-Defined E Solution:** What does SDN ACL stand for?. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-E011",
+    "question": "What does SDN ACL stand for?",
+    "options": [
+      "Incorrect approach",
+      "Correct SDN-Software-Defined procedure",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "e",
+    "explanation": "**SDN-Software-Defined E Solution:** What does SDN ACL stand for?. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-E012",
+    "question": "Which port does SDN-Software-Defined service use by default?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SDN-Software-Defined procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "e",
+    "explanation": "**SDN-Software-Defined E Solution:** Which port does SDN-Software-Defined service use by default?. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-E013",
+    "question": "Which port does SDN-Software-Defined service use by default?",
+    "options": [
+      "Correct SDN-Software-Defined procedure",
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "e",
+    "explanation": "**SDN-Software-Defined E Solution:** Which port does SDN-Software-Defined service use by default?. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-E014",
+    "question": "What does SDN ACL stand for?",
+    "options": [
+      "Correct SDN-Software-Defined procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "e",
+    "explanation": "**SDN-Software-Defined E Solution:** What does SDN ACL stand for?. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-E015",
+    "question": "Common protocol for SDN-Software-Defined remote access?",
+    "options": [
+      "Dangerous method",
+      "Correct SDN-Software-Defined procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "e",
+    "explanation": "**SDN-Software-Defined E Solution:** Common protocol for SDN-Software-Defined remote access?. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-E016",
+    "question": "Default subnet mask for Class C network in SDN-Software-Defined?",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct SDN-Software-Defined procedure"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "e",
+    "explanation": "**SDN-Software-Defined E Solution:** Default subnet mask for Class C network in SDN-Software-Defined?. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-E017",
+    "question": "What does SDN ACL stand for?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SDN-Software-Defined procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "e",
+    "explanation": "**SDN-Software-Defined E Solution:** What does SDN ACL stand for?. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-E018",
+    "question": "Default subnet mask for Class C network in SDN-Software-Defined?",
+    "options": [
+      "Correct SDN-Software-Defined procedure",
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "e",
+    "explanation": "**SDN-Software-Defined E Solution:** Default subnet mask for Class C network in SDN-Software-Defined?. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-E019",
+    "question": "What is the primary function of SDN DHCP?",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct SDN-Software-Defined procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "e",
+    "explanation": "**SDN-Software-Defined E Solution:** What is the primary function of SDN DHCP?. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-E020",
+    "question": "Which port does SDN-Software-Defined service use by default?",
+    "options": [
+      "Correct SDN-Software-Defined procedure",
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "e",
+    "explanation": "**SDN-Software-Defined E Solution:** Which port does SDN-Software-Defined service use by default?. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-E021",
+    "question": "What does SDN ACL stand for?",
+    "options": [
+      "Dangerous method",
+      "Correct SDN-Software-Defined procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "e",
+    "explanation": "**SDN-Software-Defined E Solution:** What does SDN ACL stand for?. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-E022",
+    "question": "Common protocol for SDN-Software-Defined remote access?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SDN-Software-Defined procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "e",
+    "explanation": "**SDN-Software-Defined E Solution:** Common protocol for SDN-Software-Defined remote access?. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-E023",
+    "question": "What does SDN ACL stand for?",
+    "options": [
+      "Dangerous method",
+      "Correct SDN-Software-Defined procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "e",
+    "explanation": "**SDN-Software-Defined E Solution:** What does SDN ACL stand for?. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-E024",
+    "question": "What does SDN ACL stand for?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SDN-Software-Defined procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "e",
+    "explanation": "**SDN-Software-Defined E Solution:** What does SDN ACL stand for?. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-E025",
+    "question": "What is the primary function of SDN DHCP?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct SDN-Software-Defined procedure"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "e",
+    "explanation": "**SDN-Software-Defined E Solution:** What is the primary function of SDN DHCP?. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-E026",
+    "question": "Which port does SDN-Software-Defined service use by default?",
+    "options": [
+      "Partially correct",
+      "Correct SDN-Software-Defined procedure",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "e",
+    "explanation": "**SDN-Software-Defined E Solution:** Which port does SDN-Software-Defined service use by default?. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-E027",
+    "question": "Default subnet mask for Class C network in SDN-Software-Defined?",
+    "options": [
+      "Dangerous method",
+      "Correct SDN-Software-Defined procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "e",
+    "explanation": "**SDN-Software-Defined E Solution:** Default subnet mask for Class C network in SDN-Software-Defined?. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-E028",
+    "question": "What does SDN ACL stand for?",
+    "options": [
+      "Dangerous method",
+      "Correct SDN-Software-Defined procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "e",
+    "explanation": "**SDN-Software-Defined E Solution:** What does SDN ACL stand for?. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-E029",
+    "question": "Which port does SDN-Software-Defined service use by default?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct SDN-Software-Defined procedure"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "e",
+    "explanation": "**SDN-Software-Defined E Solution:** Which port does SDN-Software-Defined service use by default?. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-E030",
+    "question": "Common protocol for SDN-Software-Defined remote access?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SDN-Software-Defined procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "e",
+    "explanation": "**SDN-Software-Defined E Solution:** Common protocol for SDN-Software-Defined remote access?. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-E031",
+    "question": "What does SDN ACL stand for?",
+    "options": [
+      "Correct SDN-Software-Defined procedure",
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "e",
+    "explanation": "**SDN-Software-Defined E Solution:** What does SDN ACL stand for?. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-E032",
+    "question": "Which port does SDN-Software-Defined service use by default?",
+    "options": [
+      "Correct SDN-Software-Defined procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "e",
+    "explanation": "**SDN-Software-Defined E Solution:** Which port does SDN-Software-Defined service use by default?. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-E033",
+    "question": "Default subnet mask for Class C network in SDN-Software-Defined?",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct SDN-Software-Defined procedure",
+      "Partially correct"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "e",
+    "explanation": "**SDN-Software-Defined E Solution:** Default subnet mask for Class C network in SDN-Software-Defined?. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-E034",
+    "question": "Common protocol for SDN-Software-Defined remote access?",
+    "options": [
+      "Incorrect approach",
+      "Correct SDN-Software-Defined procedure",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "e",
+    "explanation": "**SDN-Software-Defined E Solution:** Common protocol for SDN-Software-Defined remote access?. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-E035",
+    "question": "Common protocol for SDN-Software-Defined remote access?",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct SDN-Software-Defined procedure"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "e",
+    "explanation": "**SDN-Software-Defined E Solution:** Common protocol for SDN-Software-Defined remote access?. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-E036",
+    "question": "Default subnet mask for Class C network in SDN-Software-Defined?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SDN-Software-Defined procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "e",
+    "explanation": "**SDN-Software-Defined E Solution:** Default subnet mask for Class C network in SDN-Software-Defined?. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-E037",
+    "question": "What is the primary function of SDN DHCP?",
+    "options": [
+      "Correct SDN-Software-Defined procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "e",
+    "explanation": "**SDN-Software-Defined E Solution:** What is the primary function of SDN DHCP?. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-E038",
+    "question": "What is the primary function of SDN DHCP?",
+    "options": [
+      "Dangerous method",
+      "Correct SDN-Software-Defined procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "e",
+    "explanation": "**SDN-Software-Defined E Solution:** What is the primary function of SDN DHCP?. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-E039",
+    "question": "Which port does SDN-Software-Defined service use by default?",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Correct SDN-Software-Defined procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "e",
+    "explanation": "**SDN-Software-Defined E Solution:** Which port does SDN-Software-Defined service use by default?. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-E040",
+    "question": "Common protocol for SDN-Software-Defined remote access?",
+    "options": [
+      "Dangerous method",
+      "Correct SDN-Software-Defined procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "e",
+    "explanation": "**SDN-Software-Defined E Solution:** Common protocol for SDN-Software-Defined remote access?. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-E041",
+    "question": "Default subnet mask for Class C network in SDN-Software-Defined?",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct SDN-Software-Defined procedure",
+      "Partially correct"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "e",
+    "explanation": "**SDN-Software-Defined E Solution:** Default subnet mask for Class C network in SDN-Software-Defined?. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-E042",
+    "question": "What is the primary function of SDN DHCP?",
+    "options": [
+      "Dangerous method",
+      "Correct SDN-Software-Defined procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "e",
+    "explanation": "**SDN-Software-Defined E Solution:** What is the primary function of SDN DHCP?. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-E043",
+    "question": "What does SDN ACL stand for?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct SDN-Software-Defined procedure"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "e",
+    "explanation": "**SDN-Software-Defined E Solution:** What does SDN ACL stand for?. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-E044",
+    "question": "What is the primary function of SDN DHCP?",
+    "options": [
+      "Dangerous method",
+      "Correct SDN-Software-Defined procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "e",
+    "explanation": "**SDN-Software-Defined E Solution:** What is the primary function of SDN DHCP?. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-E045",
+    "question": "Default subnet mask for Class C network in SDN-Software-Defined?",
+    "options": [
+      "Incorrect approach",
+      "Correct SDN-Software-Defined procedure",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "e",
+    "explanation": "**SDN-Software-Defined E Solution:** Default subnet mask for Class C network in SDN-Software-Defined?. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-E046",
+    "question": "Which port does SDN-Software-Defined service use by default?",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct SDN-Software-Defined procedure",
+      "Partially correct"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "e",
+    "explanation": "**SDN-Software-Defined E Solution:** Which port does SDN-Software-Defined service use by default?. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-E047",
+    "question": "What does SDN ACL stand for?",
+    "options": [
+      "Correct SDN-Software-Defined procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "e",
+    "explanation": "**SDN-Software-Defined E Solution:** What does SDN ACL stand for?. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-E048",
+    "question": "Default subnet mask for Class C network in SDN-Software-Defined?",
+    "options": [
+      "Correct SDN-Software-Defined procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "e",
+    "explanation": "**SDN-Software-Defined E Solution:** Default subnet mask for Class C network in SDN-Software-Defined?. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-E049",
+    "question": "Common protocol for SDN-Software-Defined remote access?",
+    "options": [
+      "Correct SDN-Software-Defined procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "e",
+    "explanation": "**SDN-Software-Defined E Solution:** Common protocol for SDN-Software-Defined remote access?. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-E050",
+    "question": "Which port does SDN-Software-Defined service use by default?",
+    "options": [
+      "Correct SDN-Software-Defined procedure",
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "e",
+    "explanation": "**SDN-Software-Defined E Solution:** Which port does SDN-Software-Defined service use by default?. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-M001",
+    "question": "Optimize SDN-Software-Defined query performance",
+    "options": [
+      "Dangerous method",
+      "Correct SDN-Software-Defined procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "m",
+    "explanation": "**SDN-Software-Defined M Solution:** Optimize SDN-Software-Defined query performance. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-M002",
+    "question": "Configure SDN-Software-Defined load balancer for high availability",
+    "options": [
+      "Correct SDN-Software-Defined procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "m",
+    "explanation": "**SDN-Software-Defined M Solution:** Configure SDN-Software-Defined load balancer for high availability. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-M003",
+    "question": "Set up SDN-Software-Defined failover clustering",
+    "options": [
+      "Correct SDN-Software-Defined procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "m",
+    "explanation": "**SDN-Software-Defined M Solution:** Set up SDN-Software-Defined failover clustering. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-M004",
+    "question": "Optimize SDN-Software-Defined query performance",
+    "options": [
+      "Incorrect approach",
+      "Correct SDN-Software-Defined procedure",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "m",
+    "explanation": "**SDN-Software-Defined M Solution:** Optimize SDN-Software-Defined query performance. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-M005",
+    "question": "Configure SDN-Software-Defined load balancer for high availability",
+    "options": [
+      "Dangerous method",
+      "Correct SDN-Software-Defined procedure",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "m",
+    "explanation": "**SDN-Software-Defined M Solution:** Configure SDN-Software-Defined load balancer for high availability. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-M006",
+    "question": "Optimize SDN-Software-Defined query performance",
+    "options": [
+      "Dangerous method",
+      "Correct SDN-Software-Defined procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "m",
+    "explanation": "**SDN-Software-Defined M Solution:** Optimize SDN-Software-Defined query performance. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-M007",
+    "question": "Optimize SDN-Software-Defined query performance",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct SDN-Software-Defined procedure"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "m",
+    "explanation": "**SDN-Software-Defined M Solution:** Optimize SDN-Software-Defined query performance. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-M008",
+    "question": "Set up SDN-Software-Defined failover clustering",
+    "options": [
+      "Incorrect approach",
+      "Correct SDN-Software-Defined procedure",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "m",
+    "explanation": "**SDN-Software-Defined M Solution:** Set up SDN-Software-Defined failover clustering. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-M009",
+    "question": "Configure SDN-Software-Defined load balancer for high availability",
+    "options": [
+      "Partially correct",
+      "Correct SDN-Software-Defined procedure",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "m",
+    "explanation": "**SDN-Software-Defined M Solution:** Configure SDN-Software-Defined load balancer for high availability. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-M010",
+    "question": "Configure SDN-Software-Defined load balancer for high availability",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct SDN-Software-Defined procedure"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "m",
+    "explanation": "**SDN-Software-Defined M Solution:** Configure SDN-Software-Defined load balancer for high availability. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-M011",
+    "question": "Troubleshoot SDN-Software-Defined connectivity issue between VLANs",
+    "options": [
+      "Dangerous method",
+      "Correct SDN-Software-Defined procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "m",
+    "explanation": "**SDN-Software-Defined M Solution:** Troubleshoot SDN-Software-Defined connectivity issue between VLANs. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-M012",
+    "question": "Configure SDN-Software-Defined load balancer for high availability",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct SDN-Software-Defined procedure"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "m",
+    "explanation": "**SDN-Software-Defined M Solution:** Configure SDN-Software-Defined load balancer for high availability. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-M013",
+    "question": "Optimize SDN-Software-Defined query performance",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct SDN-Software-Defined procedure"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "m",
+    "explanation": "**SDN-Software-Defined M Solution:** Optimize SDN-Software-Defined query performance. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-M014",
+    "question": "Configure SDN-Software-Defined load balancer for high availability",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct SDN-Software-Defined procedure"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "m",
+    "explanation": "**SDN-Software-Defined M Solution:** Configure SDN-Software-Defined load balancer for high availability. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-M015",
+    "question": "Troubleshoot SDN-Software-Defined connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Correct SDN-Software-Defined procedure",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "m",
+    "explanation": "**SDN-Software-Defined M Solution:** Troubleshoot SDN-Software-Defined connectivity issue between VLANs. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-M016",
+    "question": "Set up SDN-Software-Defined failover clustering",
+    "options": [
+      "Dangerous method",
+      "Correct SDN-Software-Defined procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "m",
+    "explanation": "**SDN-Software-Defined M Solution:** Set up SDN-Software-Defined failover clustering. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-M017",
+    "question": "Optimize SDN-Software-Defined query performance",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Correct SDN-Software-Defined procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "m",
+    "explanation": "**SDN-Software-Defined M Solution:** Optimize SDN-Software-Defined query performance. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-M018",
+    "question": "Troubleshoot SDN-Software-Defined connectivity issue between VLANs",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Correct SDN-Software-Defined procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "m",
+    "explanation": "**SDN-Software-Defined M Solution:** Troubleshoot SDN-Software-Defined connectivity issue between VLANs. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-M019",
+    "question": "Configure SDN-Software-Defined load balancer for high availability",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SDN-Software-Defined procedure"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "m",
+    "explanation": "**SDN-Software-Defined M Solution:** Configure SDN-Software-Defined load balancer for high availability. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-M020",
+    "question": "Troubleshoot SDN-Software-Defined connectivity issue between VLANs",
+    "options": [
+      "Dangerous method",
+      "Correct SDN-Software-Defined procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "m",
+    "explanation": "**SDN-Software-Defined M Solution:** Troubleshoot SDN-Software-Defined connectivity issue between VLANs. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-M021",
+    "question": "Optimize SDN-Software-Defined query performance",
+    "options": [
+      "Correct SDN-Software-Defined procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "m",
+    "explanation": "**SDN-Software-Defined M Solution:** Optimize SDN-Software-Defined query performance. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-M022",
+    "question": "Optimize SDN-Software-Defined query performance",
+    "options": [
+      "Dangerous method",
+      "Correct SDN-Software-Defined procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "m",
+    "explanation": "**SDN-Software-Defined M Solution:** Optimize SDN-Software-Defined query performance. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-M023",
+    "question": "Set up SDN-Software-Defined failover clustering",
+    "options": [
+      "Correct SDN-Software-Defined procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "m",
+    "explanation": "**SDN-Software-Defined M Solution:** Set up SDN-Software-Defined failover clustering. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-M024",
+    "question": "Set up SDN-Software-Defined failover clustering",
+    "options": [
+      "Partially correct",
+      "Correct SDN-Software-Defined procedure",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "m",
+    "explanation": "**SDN-Software-Defined M Solution:** Set up SDN-Software-Defined failover clustering. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-M025",
+    "question": "Set up SDN-Software-Defined failover clustering",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SDN-Software-Defined procedure"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "m",
+    "explanation": "**SDN-Software-Defined M Solution:** Set up SDN-Software-Defined failover clustering. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-M026",
+    "question": "Optimize SDN-Software-Defined query performance",
+    "options": [
+      "Dangerous method",
+      "Correct SDN-Software-Defined procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "m",
+    "explanation": "**SDN-Software-Defined M Solution:** Optimize SDN-Software-Defined query performance. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-M027",
+    "question": "Set up SDN-Software-Defined failover clustering",
+    "options": [
+      "Dangerous method",
+      "Correct SDN-Software-Defined procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "m",
+    "explanation": "**SDN-Software-Defined M Solution:** Set up SDN-Software-Defined failover clustering. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-M028",
+    "question": "Implement SDN-Software-Defined backup strategy for compliance",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct SDN-Software-Defined procedure"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "m",
+    "explanation": "**SDN-Software-Defined M Solution:** Implement SDN-Software-Defined backup strategy for compliance. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-M029",
+    "question": "Optimize SDN-Software-Defined query performance",
+    "options": [
+      "Correct SDN-Software-Defined procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "m",
+    "explanation": "**SDN-Software-Defined M Solution:** Optimize SDN-Software-Defined query performance. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-M030",
+    "question": "Implement SDN-Software-Defined backup strategy for compliance",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach",
+      "Correct SDN-Software-Defined procedure"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "m",
+    "explanation": "**SDN-Software-Defined M Solution:** Implement SDN-Software-Defined backup strategy for compliance. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-M031",
+    "question": "Optimize SDN-Software-Defined query performance",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct SDN-Software-Defined procedure"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "m",
+    "explanation": "**SDN-Software-Defined M Solution:** Optimize SDN-Software-Defined query performance. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-M032",
+    "question": "Troubleshoot SDN-Software-Defined connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Correct SDN-Software-Defined procedure",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "m",
+    "explanation": "**SDN-Software-Defined M Solution:** Troubleshoot SDN-Software-Defined connectivity issue between VLANs. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-M033",
+    "question": "Troubleshoot SDN-Software-Defined connectivity issue between VLANs",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SDN-Software-Defined procedure"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "m",
+    "explanation": "**SDN-Software-Defined M Solution:** Troubleshoot SDN-Software-Defined connectivity issue between VLANs. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-M034",
+    "question": "Configure SDN-Software-Defined load balancer for high availability",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct SDN-Software-Defined procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "m",
+    "explanation": "**SDN-Software-Defined M Solution:** Configure SDN-Software-Defined load balancer for high availability. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-M035",
+    "question": "Optimize SDN-Software-Defined query performance",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct SDN-Software-Defined procedure"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "m",
+    "explanation": "**SDN-Software-Defined M Solution:** Optimize SDN-Software-Defined query performance. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-M036",
+    "question": "Optimize SDN-Software-Defined query performance",
+    "options": [
+      "Dangerous method",
+      "Correct SDN-Software-Defined procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "m",
+    "explanation": "**SDN-Software-Defined M Solution:** Optimize SDN-Software-Defined query performance. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-M037",
+    "question": "Set up SDN-Software-Defined failover clustering",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct SDN-Software-Defined procedure"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "m",
+    "explanation": "**SDN-Software-Defined M Solution:** Set up SDN-Software-Defined failover clustering. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-M038",
+    "question": "Set up SDN-Software-Defined failover clustering",
+    "options": [
+      "Dangerous method",
+      "Correct SDN-Software-Defined procedure",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "m",
+    "explanation": "**SDN-Software-Defined M Solution:** Set up SDN-Software-Defined failover clustering. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-M039",
+    "question": "Configure SDN-Software-Defined load balancer for high availability",
+    "options": [
+      "Incorrect approach",
+      "Correct SDN-Software-Defined procedure",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "m",
+    "explanation": "**SDN-Software-Defined M Solution:** Configure SDN-Software-Defined load balancer for high availability. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-M040",
+    "question": "Optimize SDN-Software-Defined query performance",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SDN-Software-Defined procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "m",
+    "explanation": "**SDN-Software-Defined M Solution:** Optimize SDN-Software-Defined query performance. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-M041",
+    "question": "Configure SDN-Software-Defined load balancer for high availability",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SDN-Software-Defined procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "m",
+    "explanation": "**SDN-Software-Defined M Solution:** Configure SDN-Software-Defined load balancer for high availability. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-M042",
+    "question": "Optimize SDN-Software-Defined query performance",
+    "options": [
+      "Partially correct",
+      "Correct SDN-Software-Defined procedure",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "m",
+    "explanation": "**SDN-Software-Defined M Solution:** Optimize SDN-Software-Defined query performance. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-M043",
+    "question": "Troubleshoot SDN-Software-Defined connectivity issue between VLANs",
+    "options": [
+      "Dangerous method",
+      "Correct SDN-Software-Defined procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "m",
+    "explanation": "**SDN-Software-Defined M Solution:** Troubleshoot SDN-Software-Defined connectivity issue between VLANs. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-M044",
+    "question": "Optimize SDN-Software-Defined query performance",
+    "options": [
+      "Dangerous method",
+      "Correct SDN-Software-Defined procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "m",
+    "explanation": "**SDN-Software-Defined M Solution:** Optimize SDN-Software-Defined query performance. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-M045",
+    "question": "Set up SDN-Software-Defined failover clustering",
+    "options": [
+      "Dangerous method",
+      "Correct SDN-Software-Defined procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "m",
+    "explanation": "**SDN-Software-Defined M Solution:** Set up SDN-Software-Defined failover clustering. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-M046",
+    "question": "Configure SDN-Software-Defined load balancer for high availability",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Correct SDN-Software-Defined procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "m",
+    "explanation": "**SDN-Software-Defined M Solution:** Configure SDN-Software-Defined load balancer for high availability. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-M047",
+    "question": "Troubleshoot SDN-Software-Defined connectivity issue between VLANs",
+    "options": [
+      "Dangerous method",
+      "Correct SDN-Software-Defined procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "m",
+    "explanation": "**SDN-Software-Defined M Solution:** Troubleshoot SDN-Software-Defined connectivity issue between VLANs. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-M048",
+    "question": "Optimize SDN-Software-Defined query performance",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SDN-Software-Defined procedure"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "m",
+    "explanation": "**SDN-Software-Defined M Solution:** Optimize SDN-Software-Defined query performance. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-M049",
+    "question": "Troubleshoot SDN-Software-Defined connectivity issue between VLANs",
+    "options": [
+      "Correct SDN-Software-Defined procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "m",
+    "explanation": "**SDN-Software-Defined M Solution:** Troubleshoot SDN-Software-Defined connectivity issue between VLANs. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-M050",
+    "question": "Set up SDN-Software-Defined failover clustering",
+    "options": [
+      "Partially correct",
+      "Correct SDN-Software-Defined procedure",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "m",
+    "explanation": "**SDN-Software-Defined M Solution:** Set up SDN-Software-Defined failover clustering. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-H001",
+    "question": "Migrate legacy SDN-Software-Defined systems to cloud-native architecture",
+    "options": [
+      "Correct SDN-Software-Defined procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "h",
+    "explanation": "**SDN-Software-Defined H Solution:** Migrate legacy SDN-Software-Defined systems to cloud-native architecture. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-H002",
+    "question": "Migrate legacy SDN-Software-Defined systems to cloud-native architecture",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct SDN-Software-Defined procedure"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "h",
+    "explanation": "**SDN-Software-Defined H Solution:** Migrate legacy SDN-Software-Defined systems to cloud-native architecture. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-H003",
+    "question": "Optimize SDN-Software-Defined performance under DDoS attack",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct SDN-Software-Defined procedure"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "h",
+    "explanation": "**SDN-Software-Defined H Solution:** Optimize SDN-Software-Defined performance under DDoS attack. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-H004",
+    "question": "Implement zero-trust security model in SDN-Software-Defined",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SDN-Software-Defined procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "h",
+    "explanation": "**SDN-Software-Defined H Solution:** Implement zero-trust security model in SDN-Software-Defined. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-H005",
+    "question": "Migrate legacy SDN-Software-Defined systems to cloud-native architecture",
+    "options": [
+      "Partially correct",
+      "Correct SDN-Software-Defined procedure",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "h",
+    "explanation": "**SDN-Software-Defined H Solution:** Migrate legacy SDN-Software-Defined systems to cloud-native architecture. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-H006",
+    "question": "Design SDN-Software-Defined architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct SDN-Software-Defined procedure"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "h",
+    "explanation": "**SDN-Software-Defined H Solution:** Design SDN-Software-Defined architecture for 10k users with 99.99% uptime. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-H007",
+    "question": "Migrate legacy SDN-Software-Defined systems to cloud-native architecture",
+    "options": [
+      "Dangerous method",
+      "Correct SDN-Software-Defined procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "h",
+    "explanation": "**SDN-Software-Defined H Solution:** Migrate legacy SDN-Software-Defined systems to cloud-native architecture. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-H008",
+    "question": "Implement zero-trust security model in SDN-Software-Defined",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach",
+      "Correct SDN-Software-Defined procedure"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "h",
+    "explanation": "**SDN-Software-Defined H Solution:** Implement zero-trust security model in SDN-Software-Defined. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-H009",
+    "question": "Design SDN-Software-Defined architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Dangerous method",
+      "Correct SDN-Software-Defined procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "h",
+    "explanation": "**SDN-Software-Defined H Solution:** Design SDN-Software-Defined architecture for 10k users with 99.99% uptime. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-H010",
+    "question": "Implement zero-trust security model in SDN-Software-Defined",
+    "options": [
+      "Correct SDN-Software-Defined procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "h",
+    "explanation": "**SDN-Software-Defined H Solution:** Implement zero-trust security model in SDN-Software-Defined. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-H011",
+    "question": "Implement zero-trust security model in SDN-Software-Defined",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct SDN-Software-Defined procedure"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "h",
+    "explanation": "**SDN-Software-Defined H Solution:** Implement zero-trust security model in SDN-Software-Defined. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-H012",
+    "question": "Migrate legacy SDN-Software-Defined systems to cloud-native architecture",
+    "options": [
+      "Partially correct",
+      "Correct SDN-Software-Defined procedure",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "h",
+    "explanation": "**SDN-Software-Defined H Solution:** Migrate legacy SDN-Software-Defined systems to cloud-native architecture. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-H013",
+    "question": "Create disaster recovery plan with RTO < 15min for SDN-Software-Defined",
+    "options": [
+      "Correct SDN-Software-Defined procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "h",
+    "explanation": "**SDN-Software-Defined H Solution:** Create disaster recovery plan with RTO < 15min for SDN-Software-Defined. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-H014",
+    "question": "Migrate legacy SDN-Software-Defined systems to cloud-native architecture",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SDN-Software-Defined procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "h",
+    "explanation": "**SDN-Software-Defined H Solution:** Migrate legacy SDN-Software-Defined systems to cloud-native architecture. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-H015",
+    "question": "Design SDN-Software-Defined architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct SDN-Software-Defined procedure"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "h",
+    "explanation": "**SDN-Software-Defined H Solution:** Design SDN-Software-Defined architecture for 10k users with 99.99% uptime. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-H016",
+    "question": "Create disaster recovery plan with RTO < 15min for SDN-Software-Defined",
+    "options": [
+      "Correct SDN-Software-Defined procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "h",
+    "explanation": "**SDN-Software-Defined H Solution:** Create disaster recovery plan with RTO < 15min for SDN-Software-Defined. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-H017",
+    "question": "Implement zero-trust security model in SDN-Software-Defined",
+    "options": [
+      "Partially correct",
+      "Correct SDN-Software-Defined procedure",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "h",
+    "explanation": "**SDN-Software-Defined H Solution:** Implement zero-trust security model in SDN-Software-Defined. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-H018",
+    "question": "Implement zero-trust security model in SDN-Software-Defined",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct SDN-Software-Defined procedure",
+      "Partially correct"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "h",
+    "explanation": "**SDN-Software-Defined H Solution:** Implement zero-trust security model in SDN-Software-Defined. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-H019",
+    "question": "Migrate legacy SDN-Software-Defined systems to cloud-native architecture",
+    "options": [
+      "Dangerous method",
+      "Correct SDN-Software-Defined procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "h",
+    "explanation": "**SDN-Software-Defined H Solution:** Migrate legacy SDN-Software-Defined systems to cloud-native architecture. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-H020",
+    "question": "Design SDN-Software-Defined architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct SDN-Software-Defined procedure",
+      "Partially correct"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "h",
+    "explanation": "**SDN-Software-Defined H Solution:** Design SDN-Software-Defined architecture for 10k users with 99.99% uptime. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-H021",
+    "question": "Implement zero-trust security model in SDN-Software-Defined",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct SDN-Software-Defined procedure"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "h",
+    "explanation": "**SDN-Software-Defined H Solution:** Implement zero-trust security model in SDN-Software-Defined. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-H022",
+    "question": "Migrate legacy SDN-Software-Defined systems to cloud-native architecture",
+    "options": [
+      "Dangerous method",
+      "Correct SDN-Software-Defined procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "h",
+    "explanation": "**SDN-Software-Defined H Solution:** Migrate legacy SDN-Software-Defined systems to cloud-native architecture. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-H023",
+    "question": "Design SDN-Software-Defined architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Correct SDN-Software-Defined procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "h",
+    "explanation": "**SDN-Software-Defined H Solution:** Design SDN-Software-Defined architecture for 10k users with 99.99% uptime. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-H024",
+    "question": "Design SDN-Software-Defined architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SDN-Software-Defined procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "h",
+    "explanation": "**SDN-Software-Defined H Solution:** Design SDN-Software-Defined architecture for 10k users with 99.99% uptime. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-H025",
+    "question": "Optimize SDN-Software-Defined performance under DDoS attack",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SDN-Software-Defined procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "h",
+    "explanation": "**SDN-Software-Defined H Solution:** Optimize SDN-Software-Defined performance under DDoS attack. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-H026",
+    "question": "Create disaster recovery plan with RTO < 15min for SDN-Software-Defined",
+    "options": [
+      "Dangerous method",
+      "Correct SDN-Software-Defined procedure",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "h",
+    "explanation": "**SDN-Software-Defined H Solution:** Create disaster recovery plan with RTO < 15min for SDN-Software-Defined. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-H027",
+    "question": "Design SDN-Software-Defined architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct SDN-Software-Defined procedure"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "h",
+    "explanation": "**SDN-Software-Defined H Solution:** Design SDN-Software-Defined architecture for 10k users with 99.99% uptime. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-H028",
+    "question": "Implement zero-trust security model in SDN-Software-Defined",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct SDN-Software-Defined procedure"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "h",
+    "explanation": "**SDN-Software-Defined H Solution:** Implement zero-trust security model in SDN-Software-Defined. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-H029",
+    "question": "Design SDN-Software-Defined architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Correct SDN-Software-Defined procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "h",
+    "explanation": "**SDN-Software-Defined H Solution:** Design SDN-Software-Defined architecture for 10k users with 99.99% uptime. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-H030",
+    "question": "Implement zero-trust security model in SDN-Software-Defined",
+    "options": [
+      "Correct SDN-Software-Defined procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "h",
+    "explanation": "**SDN-Software-Defined H Solution:** Implement zero-trust security model in SDN-Software-Defined. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-H031",
+    "question": "Design SDN-Software-Defined architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SDN-Software-Defined procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "h",
+    "explanation": "**SDN-Software-Defined H Solution:** Design SDN-Software-Defined architecture for 10k users with 99.99% uptime. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-H032",
+    "question": "Create disaster recovery plan with RTO < 15min for SDN-Software-Defined",
+    "options": [
+      "Dangerous method",
+      "Correct SDN-Software-Defined procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "h",
+    "explanation": "**SDN-Software-Defined H Solution:** Create disaster recovery plan with RTO < 15min for SDN-Software-Defined. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-H033",
+    "question": "Migrate legacy SDN-Software-Defined systems to cloud-native architecture",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct SDN-Software-Defined procedure"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "h",
+    "explanation": "**SDN-Software-Defined H Solution:** Migrate legacy SDN-Software-Defined systems to cloud-native architecture. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-H034",
+    "question": "Implement zero-trust security model in SDN-Software-Defined",
+    "options": [
+      "Correct SDN-Software-Defined procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "h",
+    "explanation": "**SDN-Software-Defined H Solution:** Implement zero-trust security model in SDN-Software-Defined. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-H035",
+    "question": "Implement zero-trust security model in SDN-Software-Defined",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SDN-Software-Defined procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "h",
+    "explanation": "**SDN-Software-Defined H Solution:** Implement zero-trust security model in SDN-Software-Defined. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-H036",
+    "question": "Implement zero-trust security model in SDN-Software-Defined",
+    "options": [
+      "Dangerous method",
+      "Correct SDN-Software-Defined procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "h",
+    "explanation": "**SDN-Software-Defined H Solution:** Implement zero-trust security model in SDN-Software-Defined. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-H037",
+    "question": "Implement zero-trust security model in SDN-Software-Defined",
+    "options": [
+      "Dangerous method",
+      "Correct SDN-Software-Defined procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "h",
+    "explanation": "**SDN-Software-Defined H Solution:** Implement zero-trust security model in SDN-Software-Defined. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-H038",
+    "question": "Migrate legacy SDN-Software-Defined systems to cloud-native architecture",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Correct SDN-Software-Defined procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "h",
+    "explanation": "**SDN-Software-Defined H Solution:** Migrate legacy SDN-Software-Defined systems to cloud-native architecture. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-H039",
+    "question": "Migrate legacy SDN-Software-Defined systems to cloud-native architecture",
+    "options": [
+      "Dangerous method",
+      "Correct SDN-Software-Defined procedure",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "h",
+    "explanation": "**SDN-Software-Defined H Solution:** Migrate legacy SDN-Software-Defined systems to cloud-native architecture. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-H040",
+    "question": "Implement zero-trust security model in SDN-Software-Defined",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SDN-Software-Defined procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "h",
+    "explanation": "**SDN-Software-Defined H Solution:** Implement zero-trust security model in SDN-Software-Defined. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-H041",
+    "question": "Implement zero-trust security model in SDN-Software-Defined",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SDN-Software-Defined procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "h",
+    "explanation": "**SDN-Software-Defined H Solution:** Implement zero-trust security model in SDN-Software-Defined. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-H042",
+    "question": "Implement zero-trust security model in SDN-Software-Defined",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SDN-Software-Defined procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "h",
+    "explanation": "**SDN-Software-Defined H Solution:** Implement zero-trust security model in SDN-Software-Defined. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-H043",
+    "question": "Implement zero-trust security model in SDN-Software-Defined",
+    "options": [
+      "Correct SDN-Software-Defined procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "h",
+    "explanation": "**SDN-Software-Defined H Solution:** Implement zero-trust security model in SDN-Software-Defined. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-H044",
+    "question": "Migrate legacy SDN-Software-Defined systems to cloud-native architecture",
+    "options": [
+      "Dangerous method",
+      "Correct SDN-Software-Defined procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "h",
+    "explanation": "**SDN-Software-Defined H Solution:** Migrate legacy SDN-Software-Defined systems to cloud-native architecture. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-H045",
+    "question": "Migrate legacy SDN-Software-Defined systems to cloud-native architecture",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct SDN-Software-Defined procedure"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "h",
+    "explanation": "**SDN-Software-Defined H Solution:** Migrate legacy SDN-Software-Defined systems to cloud-native architecture. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-H046",
+    "question": "Optimize SDN-Software-Defined performance under DDoS attack",
+    "options": [
+      "Partially correct",
+      "Correct SDN-Software-Defined procedure",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "h",
+    "explanation": "**SDN-Software-Defined H Solution:** Optimize SDN-Software-Defined performance under DDoS attack. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-H047",
+    "question": "Migrate legacy SDN-Software-Defined systems to cloud-native architecture",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SDN-Software-Defined procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "h",
+    "explanation": "**SDN-Software-Defined H Solution:** Migrate legacy SDN-Software-Defined systems to cloud-native architecture. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-H048",
+    "question": "Create disaster recovery plan with RTO < 15min for SDN-Software-Defined",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct SDN-Software-Defined procedure"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "h",
+    "explanation": "**SDN-Software-Defined H Solution:** Create disaster recovery plan with RTO < 15min for SDN-Software-Defined. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-H049",
+    "question": "Implement zero-trust security model in SDN-Software-Defined",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct SDN-Software-Defined procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "h",
+    "explanation": "**SDN-Software-Defined H Solution:** Implement zero-trust security model in SDN-Software-Defined. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-H050",
+    "question": "Implement zero-trust security model in SDN-Software-Defined",
+    "options": [
+      "Correct SDN-Software-Defined procedure",
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct SDN-Software-Defined procedure",
+    "difficulty": "h",
+    "explanation": "**SDN-Software-Defined H Solution:** Implement zero-trust security model in SDN-Software-Defined. Always verify SDN-Software-Defined documentation and test in lab environment first."
+  },
+  {
+    "id": "SDN-Software-Defined-S01-01",
+    "question": "1. Production outage during peak hours: diagnose and resolve in SDN-Software-Defined environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S01-02",
+    "question": "1. Production outage during peak hours: diagnose and resolve in SDN-Software-Defined environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S01-03",
+    "question": "1. Production outage during peak hours: diagnose and resolve in SDN-Software-Defined environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S01-04",
+    "question": "1. Production outage during peak hours: diagnose and resolve in SDN-Software-Defined environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S01-05",
+    "question": "1. Production outage during peak hours: diagnose and resolve in SDN-Software-Defined environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S02-01",
+    "question": "2. Cloud migration failure: rollback strategy in SDN-Software-Defined environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S02-02",
+    "question": "2. Cloud migration failure: rollback strategy in SDN-Software-Defined environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S02-03",
+    "question": "2. Cloud migration failure: rollback strategy in SDN-Software-Defined environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S02-04",
+    "question": "2. Cloud migration failure: rollback strategy in SDN-Software-Defined environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S02-05",
+    "question": "2. Cloud migration failure: rollback strategy in SDN-Software-Defined environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S03-01",
+    "question": "3. Backup failure during scheduled window in SDN-Software-Defined environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S03-02",
+    "question": "3. Backup failure during scheduled window in SDN-Software-Defined environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S03-03",
+    "question": "3. Backup failure during scheduled window in SDN-Software-Defined environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S03-04",
+    "question": "3. Backup failure during scheduled window in SDN-Software-Defined environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S03-05",
+    "question": "3. Backup failure during scheduled window in SDN-Software-Defined environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S04-01",
+    "question": "4. Database performance degradation after upgrade in SDN-Software-Defined environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S04-02",
+    "question": "4. Database performance degradation after upgrade in SDN-Software-Defined environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S04-03",
+    "question": "4. Database performance degradation after upgrade in SDN-Software-Defined environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S04-04",
+    "question": "4. Database performance degradation after upgrade in SDN-Software-Defined environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S04-05",
+    "question": "4. Database performance degradation after upgrade in SDN-Software-Defined environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S05-01",
+    "question": "5. Network latency issue affecting VoIP calls in SDN-Software-Defined environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S05-02",
+    "question": "5. Network latency issue affecting VoIP calls in SDN-Software-Defined environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S05-03",
+    "question": "5. Network latency issue affecting VoIP calls in SDN-Software-Defined environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S05-04",
+    "question": "5. Network latency issue affecting VoIP calls in SDN-Software-Defined environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S05-05",
+    "question": "5. Network latency issue affecting VoIP calls in SDN-Software-Defined environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S06-01",
+    "question": "6. Firewall blocking legitimate traffic in SDN-Software-Defined environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S06-02",
+    "question": "6. Firewall blocking legitimate traffic in SDN-Software-Defined environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S06-03",
+    "question": "6. Firewall blocking legitimate traffic in SDN-Software-Defined environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S06-04",
+    "question": "6. Firewall blocking legitimate traffic in SDN-Software-Defined environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S06-05",
+    "question": "6. Firewall blocking legitimate traffic in SDN-Software-Defined environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S07-01",
+    "question": "7. Network latency issue affecting VoIP calls in SDN-Software-Defined environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S07-02",
+    "question": "7. Network latency issue affecting VoIP calls in SDN-Software-Defined environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S07-03",
+    "question": "7. Network latency issue affecting VoIP calls in SDN-Software-Defined environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S07-04",
+    "question": "7. Network latency issue affecting VoIP calls in SDN-Software-Defined environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S07-05",
+    "question": "7. Network latency issue affecting VoIP calls in SDN-Software-Defined environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S08-01",
+    "question": "8. Security incident response: ransomware attack detected in SDN-Software-Defined environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S08-02",
+    "question": "8. Security incident response: ransomware attack detected in SDN-Software-Defined environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S08-03",
+    "question": "8. Security incident response: ransomware attack detected in SDN-Software-Defined environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S08-04",
+    "question": "8. Security incident response: ransomware attack detected in SDN-Software-Defined environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S08-05",
+    "question": "8. Security incident response: ransomware attack detected in SDN-Software-Defined environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S09-01",
+    "question": "9. Production outage during peak hours: diagnose and resolve in SDN-Software-Defined environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S09-02",
+    "question": "9. Production outage during peak hours: diagnose and resolve in SDN-Software-Defined environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S09-03",
+    "question": "9. Production outage during peak hours: diagnose and resolve in SDN-Software-Defined environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S09-04",
+    "question": "9. Production outage during peak hours: diagnose and resolve in SDN-Software-Defined environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S09-05",
+    "question": "9. Production outage during peak hours: diagnose and resolve in SDN-Software-Defined environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S10-01",
+    "question": "10. Backup failure during scheduled window in SDN-Software-Defined environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S10-02",
+    "question": "10. Backup failure during scheduled window in SDN-Software-Defined environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S10-03",
+    "question": "10. Backup failure during scheduled window in SDN-Software-Defined environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S10-04",
+    "question": "10. Backup failure during scheduled window in SDN-Software-Defined environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S10-05",
+    "question": "10. Backup failure during scheduled window in SDN-Software-Defined environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S11-01",
+    "question": "11. VPN connectivity failure for remote users in SDN-Software-Defined environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S11-02",
+    "question": "11. VPN connectivity failure for remote users in SDN-Software-Defined environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S11-03",
+    "question": "11. VPN connectivity failure for remote users in SDN-Software-Defined environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S11-04",
+    "question": "11. VPN connectivity failure for remote users in SDN-Software-Defined environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S11-05",
+    "question": "11. VPN connectivity failure for remote users in SDN-Software-Defined environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S12-01",
+    "question": "12. Database performance degradation after upgrade in SDN-Software-Defined environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S12-02",
+    "question": "12. Database performance degradation after upgrade in SDN-Software-Defined environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S12-03",
+    "question": "12. Database performance degradation after upgrade in SDN-Software-Defined environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S12-04",
+    "question": "12. Database performance degradation after upgrade in SDN-Software-Defined environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S12-05",
+    "question": "12. Database performance degradation after upgrade in SDN-Software-Defined environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S13-01",
+    "question": "13. Production outage during peak hours: diagnose and resolve in SDN-Software-Defined environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S13-02",
+    "question": "13. Production outage during peak hours: diagnose and resolve in SDN-Software-Defined environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S13-03",
+    "question": "13. Production outage during peak hours: diagnose and resolve in SDN-Software-Defined environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S13-04",
+    "question": "13. Production outage during peak hours: diagnose and resolve in SDN-Software-Defined environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S13-05",
+    "question": "13. Production outage during peak hours: diagnose and resolve in SDN-Software-Defined environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S14-01",
+    "question": "14. Database performance degradation after upgrade in SDN-Software-Defined environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S14-02",
+    "question": "14. Database performance degradation after upgrade in SDN-Software-Defined environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S14-03",
+    "question": "14. Database performance degradation after upgrade in SDN-Software-Defined environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S14-04",
+    "question": "14. Database performance degradation after upgrade in SDN-Software-Defined environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S14-05",
+    "question": "14. Database performance degradation after upgrade in SDN-Software-Defined environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S15-01",
+    "question": "15. Database performance degradation after upgrade in SDN-Software-Defined environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S15-02",
+    "question": "15. Database performance degradation after upgrade in SDN-Software-Defined environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S15-03",
+    "question": "15. Database performance degradation after upgrade in SDN-Software-Defined environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S15-04",
+    "question": "15. Database performance degradation after upgrade in SDN-Software-Defined environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S15-05",
+    "question": "15. Database performance degradation after upgrade in SDN-Software-Defined environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S16-01",
+    "question": "16. Cloud migration failure: rollback strategy in SDN-Software-Defined environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S16-02",
+    "question": "16. Cloud migration failure: rollback strategy in SDN-Software-Defined environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S16-03",
+    "question": "16. Cloud migration failure: rollback strategy in SDN-Software-Defined environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S16-04",
+    "question": "16. Cloud migration failure: rollback strategy in SDN-Software-Defined environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S16-05",
+    "question": "16. Cloud migration failure: rollback strategy in SDN-Software-Defined environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S17-01",
+    "question": "17. Security incident response: ransomware attack detected in SDN-Software-Defined environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S17-02",
+    "question": "17. Security incident response: ransomware attack detected in SDN-Software-Defined environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S17-03",
+    "question": "17. Security incident response: ransomware attack detected in SDN-Software-Defined environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S17-04",
+    "question": "17. Security incident response: ransomware attack detected in SDN-Software-Defined environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S17-05",
+    "question": "17. Security incident response: ransomware attack detected in SDN-Software-Defined environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S18-01",
+    "question": "18. Server overload during quarterly report generation in SDN-Software-Defined environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S18-02",
+    "question": "18. Server overload during quarterly report generation in SDN-Software-Defined environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S18-03",
+    "question": "18. Server overload during quarterly report generation in SDN-Software-Defined environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S18-04",
+    "question": "18. Server overload during quarterly report generation in SDN-Software-Defined environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S18-05",
+    "question": "18. Server overload during quarterly report generation in SDN-Software-Defined environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S19-01",
+    "question": "19. Backup failure during scheduled window in SDN-Software-Defined environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S19-02",
+    "question": "19. Backup failure during scheduled window in SDN-Software-Defined environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S19-03",
+    "question": "19. Backup failure during scheduled window in SDN-Software-Defined environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S19-04",
+    "question": "19. Backup failure during scheduled window in SDN-Software-Defined environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S19-05",
+    "question": "19. Backup failure during scheduled window in SDN-Software-Defined environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S20-01",
+    "question": "20. Firewall blocking legitimate traffic in SDN-Software-Defined environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S20-02",
+    "question": "20. Firewall blocking legitimate traffic in SDN-Software-Defined environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S20-03",
+    "question": "20. Firewall blocking legitimate traffic in SDN-Software-Defined environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S20-04",
+    "question": "20. Firewall blocking legitimate traffic in SDN-Software-Defined environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  },
+  {
+    "id": "SDN-Software-Defined-S20-05",
+    "question": "20. Firewall blocking legitimate traffic in SDN-Software-Defined environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow SDN-Software-Defined troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow SDN-Software-Defined troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per SDN-Software-Defined best practices. Document all steps for RCA."
+  }
+]

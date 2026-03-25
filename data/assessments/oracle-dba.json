@@ -1,0 +1,3252 @@
+[
+  {
+    "id": "Oracle-DBA-E001",
+    "question": "Default subnet mask for Class C network in Oracle-DBA?",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Correct Oracle-DBA procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "e",
+    "explanation": "**Oracle-DBA E Solution:** Default subnet mask for Class C network in Oracle-DBA?. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-E002",
+    "question": "What is the primary function of Oracle DHCP?",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct Oracle-DBA procedure"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "e",
+    "explanation": "**Oracle-DBA E Solution:** What is the primary function of Oracle DHCP?. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-E003",
+    "question": "Default subnet mask for Class C network in Oracle-DBA?",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Correct Oracle-DBA procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "e",
+    "explanation": "**Oracle-DBA E Solution:** Default subnet mask for Class C network in Oracle-DBA?. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-E004",
+    "question": "What does Oracle ACL stand for?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Oracle-DBA procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "e",
+    "explanation": "**Oracle-DBA E Solution:** What does Oracle ACL stand for?. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-E005",
+    "question": "Default subnet mask for Class C network in Oracle-DBA?",
+    "options": [
+      "Dangerous method",
+      "Correct Oracle-DBA procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "e",
+    "explanation": "**Oracle-DBA E Solution:** Default subnet mask for Class C network in Oracle-DBA?. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-E006",
+    "question": "Common protocol for Oracle-DBA remote access?",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct Oracle-DBA procedure"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "e",
+    "explanation": "**Oracle-DBA E Solution:** Common protocol for Oracle-DBA remote access?. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-E007",
+    "question": "What is the primary function of Oracle DHCP?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Oracle-DBA procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "e",
+    "explanation": "**Oracle-DBA E Solution:** What is the primary function of Oracle DHCP?. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-E008",
+    "question": "Default subnet mask for Class C network in Oracle-DBA?",
+    "options": [
+      "Correct Oracle-DBA procedure",
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "e",
+    "explanation": "**Oracle-DBA E Solution:** Default subnet mask for Class C network in Oracle-DBA?. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-E009",
+    "question": "Default subnet mask for Class C network in Oracle-DBA?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct Oracle-DBA procedure"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "e",
+    "explanation": "**Oracle-DBA E Solution:** Default subnet mask for Class C network in Oracle-DBA?. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-E010",
+    "question": "Common protocol for Oracle-DBA remote access?",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct Oracle-DBA procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "e",
+    "explanation": "**Oracle-DBA E Solution:** Common protocol for Oracle-DBA remote access?. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-E011",
+    "question": "Which port does Oracle-DBA service use by default?",
+    "options": [
+      "Dangerous method",
+      "Correct Oracle-DBA procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "e",
+    "explanation": "**Oracle-DBA E Solution:** Which port does Oracle-DBA service use by default?. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-E012",
+    "question": "What does Oracle ACL stand for?",
+    "options": [
+      "Dangerous method",
+      "Correct Oracle-DBA procedure",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "e",
+    "explanation": "**Oracle-DBA E Solution:** What does Oracle ACL stand for?. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-E013",
+    "question": "Which port does Oracle-DBA service use by default?",
+    "options": [
+      "Correct Oracle-DBA procedure",
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "e",
+    "explanation": "**Oracle-DBA E Solution:** Which port does Oracle-DBA service use by default?. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-E014",
+    "question": "Common protocol for Oracle-DBA remote access?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct Oracle-DBA procedure"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "e",
+    "explanation": "**Oracle-DBA E Solution:** Common protocol for Oracle-DBA remote access?. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-E015",
+    "question": "Which port does Oracle-DBA service use by default?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Oracle-DBA procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "e",
+    "explanation": "**Oracle-DBA E Solution:** Which port does Oracle-DBA service use by default?. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-E016",
+    "question": "Which port does Oracle-DBA service use by default?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Oracle-DBA procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "e",
+    "explanation": "**Oracle-DBA E Solution:** Which port does Oracle-DBA service use by default?. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-E017",
+    "question": "Which port does Oracle-DBA service use by default?",
+    "options": [
+      "Dangerous method",
+      "Correct Oracle-DBA procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "e",
+    "explanation": "**Oracle-DBA E Solution:** Which port does Oracle-DBA service use by default?. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-E018",
+    "question": "Which port does Oracle-DBA service use by default?",
+    "options": [
+      "Dangerous method",
+      "Correct Oracle-DBA procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "e",
+    "explanation": "**Oracle-DBA E Solution:** Which port does Oracle-DBA service use by default?. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-E019",
+    "question": "Default subnet mask for Class C network in Oracle-DBA?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Oracle-DBA procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "e",
+    "explanation": "**Oracle-DBA E Solution:** Default subnet mask for Class C network in Oracle-DBA?. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-E020",
+    "question": "What is the primary function of Oracle DHCP?",
+    "options": [
+      "Correct Oracle-DBA procedure",
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "e",
+    "explanation": "**Oracle-DBA E Solution:** What is the primary function of Oracle DHCP?. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-E021",
+    "question": "Which port does Oracle-DBA service use by default?",
+    "options": [
+      "Correct Oracle-DBA procedure",
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "e",
+    "explanation": "**Oracle-DBA E Solution:** Which port does Oracle-DBA service use by default?. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-E022",
+    "question": "What is the primary function of Oracle DHCP?",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Oracle-DBA procedure"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "e",
+    "explanation": "**Oracle-DBA E Solution:** What is the primary function of Oracle DHCP?. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-E023",
+    "question": "Default subnet mask for Class C network in Oracle-DBA?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Oracle-DBA procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "e",
+    "explanation": "**Oracle-DBA E Solution:** Default subnet mask for Class C network in Oracle-DBA?. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-E024",
+    "question": "What is the primary function of Oracle DHCP?",
+    "options": [
+      "Correct Oracle-DBA procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "e",
+    "explanation": "**Oracle-DBA E Solution:** What is the primary function of Oracle DHCP?. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-E025",
+    "question": "Default subnet mask for Class C network in Oracle-DBA?",
+    "options": [
+      "Correct Oracle-DBA procedure",
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "e",
+    "explanation": "**Oracle-DBA E Solution:** Default subnet mask for Class C network in Oracle-DBA?. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-E026",
+    "question": "Which port does Oracle-DBA service use by default?",
+    "options": [
+      "Correct Oracle-DBA procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "e",
+    "explanation": "**Oracle-DBA E Solution:** Which port does Oracle-DBA service use by default?. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-E027",
+    "question": "Common protocol for Oracle-DBA remote access?",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct Oracle-DBA procedure"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "e",
+    "explanation": "**Oracle-DBA E Solution:** Common protocol for Oracle-DBA remote access?. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-E028",
+    "question": "Which port does Oracle-DBA service use by default?",
+    "options": [
+      "Dangerous method",
+      "Correct Oracle-DBA procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "e",
+    "explanation": "**Oracle-DBA E Solution:** Which port does Oracle-DBA service use by default?. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-E029",
+    "question": "Default subnet mask for Class C network in Oracle-DBA?",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct Oracle-DBA procedure"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "e",
+    "explanation": "**Oracle-DBA E Solution:** Default subnet mask for Class C network in Oracle-DBA?. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-E030",
+    "question": "What is the primary function of Oracle DHCP?",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct Oracle-DBA procedure"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "e",
+    "explanation": "**Oracle-DBA E Solution:** What is the primary function of Oracle DHCP?. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-E031",
+    "question": "What is the primary function of Oracle DHCP?",
+    "options": [
+      "Dangerous method",
+      "Correct Oracle-DBA procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "e",
+    "explanation": "**Oracle-DBA E Solution:** What is the primary function of Oracle DHCP?. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-E032",
+    "question": "Which port does Oracle-DBA service use by default?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Oracle-DBA procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "e",
+    "explanation": "**Oracle-DBA E Solution:** Which port does Oracle-DBA service use by default?. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-E033",
+    "question": "What does Oracle ACL stand for?",
+    "options": [
+      "Correct Oracle-DBA procedure",
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "e",
+    "explanation": "**Oracle-DBA E Solution:** What does Oracle ACL stand for?. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-E034",
+    "question": "What does Oracle ACL stand for?",
+    "options": [
+      "Correct Oracle-DBA procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "e",
+    "explanation": "**Oracle-DBA E Solution:** What does Oracle ACL stand for?. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-E035",
+    "question": "Common protocol for Oracle-DBA remote access?",
+    "options": [
+      "Dangerous method",
+      "Correct Oracle-DBA procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "e",
+    "explanation": "**Oracle-DBA E Solution:** Common protocol for Oracle-DBA remote access?. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-E036",
+    "question": "What is the primary function of Oracle DHCP?",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach",
+      "Correct Oracle-DBA procedure"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "e",
+    "explanation": "**Oracle-DBA E Solution:** What is the primary function of Oracle DHCP?. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-E037",
+    "question": "What is the primary function of Oracle DHCP?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Oracle-DBA procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "e",
+    "explanation": "**Oracle-DBA E Solution:** What is the primary function of Oracle DHCP?. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-E038",
+    "question": "Default subnet mask for Class C network in Oracle-DBA?",
+    "options": [
+      "Correct Oracle-DBA procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "e",
+    "explanation": "**Oracle-DBA E Solution:** Default subnet mask for Class C network in Oracle-DBA?. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-E039",
+    "question": "What does Oracle ACL stand for?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Oracle-DBA procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "e",
+    "explanation": "**Oracle-DBA E Solution:** What does Oracle ACL stand for?. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-E040",
+    "question": "What is the primary function of Oracle DHCP?",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct Oracle-DBA procedure"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "e",
+    "explanation": "**Oracle-DBA E Solution:** What is the primary function of Oracle DHCP?. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-E041",
+    "question": "Common protocol for Oracle-DBA remote access?",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct Oracle-DBA procedure",
+      "Partially correct"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "e",
+    "explanation": "**Oracle-DBA E Solution:** Common protocol for Oracle-DBA remote access?. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-E042",
+    "question": "Common protocol for Oracle-DBA remote access?",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Oracle-DBA procedure"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "e",
+    "explanation": "**Oracle-DBA E Solution:** Common protocol for Oracle-DBA remote access?. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-E043",
+    "question": "Which port does Oracle-DBA service use by default?",
+    "options": [
+      "Correct Oracle-DBA procedure",
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "e",
+    "explanation": "**Oracle-DBA E Solution:** Which port does Oracle-DBA service use by default?. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-E044",
+    "question": "Default subnet mask for Class C network in Oracle-DBA?",
+    "options": [
+      "Correct Oracle-DBA procedure",
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "e",
+    "explanation": "**Oracle-DBA E Solution:** Default subnet mask for Class C network in Oracle-DBA?. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-E045",
+    "question": "Which port does Oracle-DBA service use by default?",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Oracle-DBA procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "e",
+    "explanation": "**Oracle-DBA E Solution:** Which port does Oracle-DBA service use by default?. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-E046",
+    "question": "What does Oracle ACL stand for?",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Oracle-DBA procedure"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "e",
+    "explanation": "**Oracle-DBA E Solution:** What does Oracle ACL stand for?. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-E047",
+    "question": "Which port does Oracle-DBA service use by default?",
+    "options": [
+      "Dangerous method",
+      "Correct Oracle-DBA procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "e",
+    "explanation": "**Oracle-DBA E Solution:** Which port does Oracle-DBA service use by default?. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-E048",
+    "question": "Common protocol for Oracle-DBA remote access?",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct Oracle-DBA procedure"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "e",
+    "explanation": "**Oracle-DBA E Solution:** Common protocol for Oracle-DBA remote access?. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-E049",
+    "question": "Common protocol for Oracle-DBA remote access?",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct Oracle-DBA procedure"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "e",
+    "explanation": "**Oracle-DBA E Solution:** Common protocol for Oracle-DBA remote access?. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-E050",
+    "question": "Common protocol for Oracle-DBA remote access?",
+    "options": [
+      "Incorrect approach",
+      "Correct Oracle-DBA procedure",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "e",
+    "explanation": "**Oracle-DBA E Solution:** Common protocol for Oracle-DBA remote access?. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-M001",
+    "question": "Configure Oracle-DBA load balancer for high availability",
+    "options": [
+      "Dangerous method",
+      "Correct Oracle-DBA procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "m",
+    "explanation": "**Oracle-DBA M Solution:** Configure Oracle-DBA load balancer for high availability. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-M002",
+    "question": "Troubleshoot Oracle-DBA connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct Oracle-DBA procedure"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "m",
+    "explanation": "**Oracle-DBA M Solution:** Troubleshoot Oracle-DBA connectivity issue between VLANs. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-M003",
+    "question": "Set up Oracle-DBA failover clustering",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct Oracle-DBA procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "m",
+    "explanation": "**Oracle-DBA M Solution:** Set up Oracle-DBA failover clustering. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-M004",
+    "question": "Optimize Oracle-DBA query performance",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct Oracle-DBA procedure",
+      "Partially correct"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "m",
+    "explanation": "**Oracle-DBA M Solution:** Optimize Oracle-DBA query performance. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-M005",
+    "question": "Implement Oracle-DBA backup strategy for compliance",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct Oracle-DBA procedure"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "m",
+    "explanation": "**Oracle-DBA M Solution:** Implement Oracle-DBA backup strategy for compliance. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-M006",
+    "question": "Set up Oracle-DBA failover clustering",
+    "options": [
+      "Dangerous method",
+      "Correct Oracle-DBA procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "m",
+    "explanation": "**Oracle-DBA M Solution:** Set up Oracle-DBA failover clustering. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-M007",
+    "question": "Set up Oracle-DBA failover clustering",
+    "options": [
+      "Correct Oracle-DBA procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "m",
+    "explanation": "**Oracle-DBA M Solution:** Set up Oracle-DBA failover clustering. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-M008",
+    "question": "Set up Oracle-DBA failover clustering",
+    "options": [
+      "Dangerous method",
+      "Correct Oracle-DBA procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "m",
+    "explanation": "**Oracle-DBA M Solution:** Set up Oracle-DBA failover clustering. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-M009",
+    "question": "Optimize Oracle-DBA query performance",
+    "options": [
+      "Dangerous method",
+      "Correct Oracle-DBA procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "m",
+    "explanation": "**Oracle-DBA M Solution:** Optimize Oracle-DBA query performance. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-M010",
+    "question": "Troubleshoot Oracle-DBA connectivity issue between VLANs",
+    "options": [
+      "Dangerous method",
+      "Correct Oracle-DBA procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "m",
+    "explanation": "**Oracle-DBA M Solution:** Troubleshoot Oracle-DBA connectivity issue between VLANs. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-M011",
+    "question": "Implement Oracle-DBA backup strategy for compliance",
+    "options": [
+      "Dangerous method",
+      "Correct Oracle-DBA procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "m",
+    "explanation": "**Oracle-DBA M Solution:** Implement Oracle-DBA backup strategy for compliance. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-M012",
+    "question": "Optimize Oracle-DBA query performance",
+    "options": [
+      "Dangerous method",
+      "Correct Oracle-DBA procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "m",
+    "explanation": "**Oracle-DBA M Solution:** Optimize Oracle-DBA query performance. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-M013",
+    "question": "Configure Oracle-DBA load balancer for high availability",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct Oracle-DBA procedure",
+      "Partially correct"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "m",
+    "explanation": "**Oracle-DBA M Solution:** Configure Oracle-DBA load balancer for high availability. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-M014",
+    "question": "Set up Oracle-DBA failover clustering",
+    "options": [
+      "Correct Oracle-DBA procedure",
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "m",
+    "explanation": "**Oracle-DBA M Solution:** Set up Oracle-DBA failover clustering. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-M015",
+    "question": "Set up Oracle-DBA failover clustering",
+    "options": [
+      "Dangerous method",
+      "Correct Oracle-DBA procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "m",
+    "explanation": "**Oracle-DBA M Solution:** Set up Oracle-DBA failover clustering. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-M016",
+    "question": "Optimize Oracle-DBA query performance",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct Oracle-DBA procedure"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "m",
+    "explanation": "**Oracle-DBA M Solution:** Optimize Oracle-DBA query performance. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-M017",
+    "question": "Configure Oracle-DBA load balancer for high availability",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct Oracle-DBA procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "m",
+    "explanation": "**Oracle-DBA M Solution:** Configure Oracle-DBA load balancer for high availability. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-M018",
+    "question": "Optimize Oracle-DBA query performance",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Oracle-DBA procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "m",
+    "explanation": "**Oracle-DBA M Solution:** Optimize Oracle-DBA query performance. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-M019",
+    "question": "Troubleshoot Oracle-DBA connectivity issue between VLANs",
+    "options": [
+      "Dangerous method",
+      "Correct Oracle-DBA procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "m",
+    "explanation": "**Oracle-DBA M Solution:** Troubleshoot Oracle-DBA connectivity issue between VLANs. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-M020",
+    "question": "Optimize Oracle-DBA query performance",
+    "options": [
+      "Dangerous method",
+      "Correct Oracle-DBA procedure",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "m",
+    "explanation": "**Oracle-DBA M Solution:** Optimize Oracle-DBA query performance. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-M021",
+    "question": "Implement Oracle-DBA backup strategy for compliance",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Oracle-DBA procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "m",
+    "explanation": "**Oracle-DBA M Solution:** Implement Oracle-DBA backup strategy for compliance. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-M022",
+    "question": "Configure Oracle-DBA load balancer for high availability",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct Oracle-DBA procedure"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "m",
+    "explanation": "**Oracle-DBA M Solution:** Configure Oracle-DBA load balancer for high availability. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-M023",
+    "question": "Configure Oracle-DBA load balancer for high availability",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Oracle-DBA procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "m",
+    "explanation": "**Oracle-DBA M Solution:** Configure Oracle-DBA load balancer for high availability. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-M024",
+    "question": "Implement Oracle-DBA backup strategy for compliance",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Oracle-DBA procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "m",
+    "explanation": "**Oracle-DBA M Solution:** Implement Oracle-DBA backup strategy for compliance. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-M025",
+    "question": "Implement Oracle-DBA backup strategy for compliance",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Correct Oracle-DBA procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "m",
+    "explanation": "**Oracle-DBA M Solution:** Implement Oracle-DBA backup strategy for compliance. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-M026",
+    "question": "Implement Oracle-DBA backup strategy for compliance",
+    "options": [
+      "Dangerous method",
+      "Correct Oracle-DBA procedure",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "m",
+    "explanation": "**Oracle-DBA M Solution:** Implement Oracle-DBA backup strategy for compliance. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-M027",
+    "question": "Set up Oracle-DBA failover clustering",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Oracle-DBA procedure"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "m",
+    "explanation": "**Oracle-DBA M Solution:** Set up Oracle-DBA failover clustering. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-M028",
+    "question": "Set up Oracle-DBA failover clustering",
+    "options": [
+      "Partially correct",
+      "Correct Oracle-DBA procedure",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "m",
+    "explanation": "**Oracle-DBA M Solution:** Set up Oracle-DBA failover clustering. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-M029",
+    "question": "Troubleshoot Oracle-DBA connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Oracle-DBA procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "m",
+    "explanation": "**Oracle-DBA M Solution:** Troubleshoot Oracle-DBA connectivity issue between VLANs. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-M030",
+    "question": "Optimize Oracle-DBA query performance",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct Oracle-DBA procedure"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "m",
+    "explanation": "**Oracle-DBA M Solution:** Optimize Oracle-DBA query performance. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-M031",
+    "question": "Optimize Oracle-DBA query performance",
+    "options": [
+      "Dangerous method",
+      "Correct Oracle-DBA procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "m",
+    "explanation": "**Oracle-DBA M Solution:** Optimize Oracle-DBA query performance. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-M032",
+    "question": "Troubleshoot Oracle-DBA connectivity issue between VLANs",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct Oracle-DBA procedure"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "m",
+    "explanation": "**Oracle-DBA M Solution:** Troubleshoot Oracle-DBA connectivity issue between VLANs. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-M033",
+    "question": "Implement Oracle-DBA backup strategy for compliance",
+    "options": [
+      "Partially correct",
+      "Correct Oracle-DBA procedure",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "m",
+    "explanation": "**Oracle-DBA M Solution:** Implement Oracle-DBA backup strategy for compliance. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-M034",
+    "question": "Troubleshoot Oracle-DBA connectivity issue between VLANs",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct Oracle-DBA procedure"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "m",
+    "explanation": "**Oracle-DBA M Solution:** Troubleshoot Oracle-DBA connectivity issue between VLANs. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-M035",
+    "question": "Implement Oracle-DBA backup strategy for compliance",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Oracle-DBA procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "m",
+    "explanation": "**Oracle-DBA M Solution:** Implement Oracle-DBA backup strategy for compliance. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-M036",
+    "question": "Optimize Oracle-DBA query performance",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Oracle-DBA procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "m",
+    "explanation": "**Oracle-DBA M Solution:** Optimize Oracle-DBA query performance. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-M037",
+    "question": "Troubleshoot Oracle-DBA connectivity issue between VLANs",
+    "options": [
+      "Correct Oracle-DBA procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "m",
+    "explanation": "**Oracle-DBA M Solution:** Troubleshoot Oracle-DBA connectivity issue between VLANs. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-M038",
+    "question": "Troubleshoot Oracle-DBA connectivity issue between VLANs",
+    "options": [
+      "Dangerous method",
+      "Correct Oracle-DBA procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "m",
+    "explanation": "**Oracle-DBA M Solution:** Troubleshoot Oracle-DBA connectivity issue between VLANs. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-M039",
+    "question": "Implement Oracle-DBA backup strategy for compliance",
+    "options": [
+      "Dangerous method",
+      "Correct Oracle-DBA procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "m",
+    "explanation": "**Oracle-DBA M Solution:** Implement Oracle-DBA backup strategy for compliance. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-M040",
+    "question": "Configure Oracle-DBA load balancer for high availability",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Oracle-DBA procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "m",
+    "explanation": "**Oracle-DBA M Solution:** Configure Oracle-DBA load balancer for high availability. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-M041",
+    "question": "Set up Oracle-DBA failover clustering",
+    "options": [
+      "Correct Oracle-DBA procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "m",
+    "explanation": "**Oracle-DBA M Solution:** Set up Oracle-DBA failover clustering. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-M042",
+    "question": "Troubleshoot Oracle-DBA connectivity issue between VLANs",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct Oracle-DBA procedure"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "m",
+    "explanation": "**Oracle-DBA M Solution:** Troubleshoot Oracle-DBA connectivity issue between VLANs. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-M043",
+    "question": "Optimize Oracle-DBA query performance",
+    "options": [
+      "Dangerous method",
+      "Correct Oracle-DBA procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "m",
+    "explanation": "**Oracle-DBA M Solution:** Optimize Oracle-DBA query performance. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-M044",
+    "question": "Configure Oracle-DBA load balancer for high availability",
+    "options": [
+      "Correct Oracle-DBA procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "m",
+    "explanation": "**Oracle-DBA M Solution:** Configure Oracle-DBA load balancer for high availability. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-M045",
+    "question": "Implement Oracle-DBA backup strategy for compliance",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Oracle-DBA procedure"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "m",
+    "explanation": "**Oracle-DBA M Solution:** Implement Oracle-DBA backup strategy for compliance. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-M046",
+    "question": "Set up Oracle-DBA failover clustering",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Oracle-DBA procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "m",
+    "explanation": "**Oracle-DBA M Solution:** Set up Oracle-DBA failover clustering. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-M047",
+    "question": "Implement Oracle-DBA backup strategy for compliance",
+    "options": [
+      "Partially correct",
+      "Correct Oracle-DBA procedure",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "m",
+    "explanation": "**Oracle-DBA M Solution:** Implement Oracle-DBA backup strategy for compliance. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-M048",
+    "question": "Troubleshoot Oracle-DBA connectivity issue between VLANs",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct Oracle-DBA procedure"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "m",
+    "explanation": "**Oracle-DBA M Solution:** Troubleshoot Oracle-DBA connectivity issue between VLANs. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-M049",
+    "question": "Implement Oracle-DBA backup strategy for compliance",
+    "options": [
+      "Incorrect approach",
+      "Correct Oracle-DBA procedure",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "m",
+    "explanation": "**Oracle-DBA M Solution:** Implement Oracle-DBA backup strategy for compliance. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-M050",
+    "question": "Optimize Oracle-DBA query performance",
+    "options": [
+      "Correct Oracle-DBA procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "m",
+    "explanation": "**Oracle-DBA M Solution:** Optimize Oracle-DBA query performance. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-H001",
+    "question": "Optimize Oracle-DBA performance under DDoS attack",
+    "options": [
+      "Partially correct",
+      "Correct Oracle-DBA procedure",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "h",
+    "explanation": "**Oracle-DBA H Solution:** Optimize Oracle-DBA performance under DDoS attack. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-H002",
+    "question": "Implement zero-trust security model in Oracle-DBA",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Oracle-DBA procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "h",
+    "explanation": "**Oracle-DBA H Solution:** Implement zero-trust security model in Oracle-DBA. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-H003",
+    "question": "Design Oracle-DBA architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Dangerous method",
+      "Correct Oracle-DBA procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "h",
+    "explanation": "**Oracle-DBA H Solution:** Design Oracle-DBA architecture for 10k users with 99.99% uptime. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-H004",
+    "question": "Implement zero-trust security model in Oracle-DBA",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Oracle-DBA procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "h",
+    "explanation": "**Oracle-DBA H Solution:** Implement zero-trust security model in Oracle-DBA. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-H005",
+    "question": "Design Oracle-DBA architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Dangerous method",
+      "Correct Oracle-DBA procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "h",
+    "explanation": "**Oracle-DBA H Solution:** Design Oracle-DBA architecture for 10k users with 99.99% uptime. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-H006",
+    "question": "Implement zero-trust security model in Oracle-DBA",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct Oracle-DBA procedure"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "h",
+    "explanation": "**Oracle-DBA H Solution:** Implement zero-trust security model in Oracle-DBA. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-H007",
+    "question": "Design Oracle-DBA architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach",
+      "Correct Oracle-DBA procedure"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "h",
+    "explanation": "**Oracle-DBA H Solution:** Design Oracle-DBA architecture for 10k users with 99.99% uptime. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-H008",
+    "question": "Migrate legacy Oracle-DBA systems to cloud-native architecture",
+    "options": [
+      "Incorrect approach",
+      "Correct Oracle-DBA procedure",
+      "Dangerous method",
+      "Partially correct"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "h",
+    "explanation": "**Oracle-DBA H Solution:** Migrate legacy Oracle-DBA systems to cloud-native architecture. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-H009",
+    "question": "Design Oracle-DBA architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct Oracle-DBA procedure"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "h",
+    "explanation": "**Oracle-DBA H Solution:** Design Oracle-DBA architecture for 10k users with 99.99% uptime. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-H010",
+    "question": "Implement zero-trust security model in Oracle-DBA",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct Oracle-DBA procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "h",
+    "explanation": "**Oracle-DBA H Solution:** Implement zero-trust security model in Oracle-DBA. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-H011",
+    "question": "Design Oracle-DBA architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Oracle-DBA procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "h",
+    "explanation": "**Oracle-DBA H Solution:** Design Oracle-DBA architecture for 10k users with 99.99% uptime. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-H012",
+    "question": "Design Oracle-DBA architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct Oracle-DBA procedure"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "h",
+    "explanation": "**Oracle-DBA H Solution:** Design Oracle-DBA architecture for 10k users with 99.99% uptime. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-H013",
+    "question": "Design Oracle-DBA architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct Oracle-DBA procedure"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "h",
+    "explanation": "**Oracle-DBA H Solution:** Design Oracle-DBA architecture for 10k users with 99.99% uptime. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-H014",
+    "question": "Create disaster recovery plan with RTO < 15min for Oracle-DBA",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Oracle-DBA procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "h",
+    "explanation": "**Oracle-DBA H Solution:** Create disaster recovery plan with RTO < 15min for Oracle-DBA. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-H015",
+    "question": "Optimize Oracle-DBA performance under DDoS attack",
+    "options": [
+      "Dangerous method",
+      "Correct Oracle-DBA procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "h",
+    "explanation": "**Oracle-DBA H Solution:** Optimize Oracle-DBA performance under DDoS attack. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-H016",
+    "question": "Migrate legacy Oracle-DBA systems to cloud-native architecture",
+    "options": [
+      "Correct Oracle-DBA procedure",
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "h",
+    "explanation": "**Oracle-DBA H Solution:** Migrate legacy Oracle-DBA systems to cloud-native architecture. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-H017",
+    "question": "Optimize Oracle-DBA performance under DDoS attack",
+    "options": [
+      "Partially correct",
+      "Correct Oracle-DBA procedure",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "h",
+    "explanation": "**Oracle-DBA H Solution:** Optimize Oracle-DBA performance under DDoS attack. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-H018",
+    "question": "Implement zero-trust security model in Oracle-DBA",
+    "options": [
+      "Dangerous method",
+      "Correct Oracle-DBA procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "h",
+    "explanation": "**Oracle-DBA H Solution:** Implement zero-trust security model in Oracle-DBA. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-H019",
+    "question": "Implement zero-trust security model in Oracle-DBA",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Correct Oracle-DBA procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "h",
+    "explanation": "**Oracle-DBA H Solution:** Implement zero-trust security model in Oracle-DBA. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-H020",
+    "question": "Migrate legacy Oracle-DBA systems to cloud-native architecture",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct Oracle-DBA procedure"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "h",
+    "explanation": "**Oracle-DBA H Solution:** Migrate legacy Oracle-DBA systems to cloud-native architecture. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-H021",
+    "question": "Migrate legacy Oracle-DBA systems to cloud-native architecture",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct Oracle-DBA procedure"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "h",
+    "explanation": "**Oracle-DBA H Solution:** Migrate legacy Oracle-DBA systems to cloud-native architecture. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-H022",
+    "question": "Implement zero-trust security model in Oracle-DBA",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Oracle-DBA procedure"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "h",
+    "explanation": "**Oracle-DBA H Solution:** Implement zero-trust security model in Oracle-DBA. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-H023",
+    "question": "Optimize Oracle-DBA performance under DDoS attack",
+    "options": [
+      "Correct Oracle-DBA procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "h",
+    "explanation": "**Oracle-DBA H Solution:** Optimize Oracle-DBA performance under DDoS attack. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-H024",
+    "question": "Migrate legacy Oracle-DBA systems to cloud-native architecture",
+    "options": [
+      "Correct Oracle-DBA procedure",
+      "Dangerous method",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "h",
+    "explanation": "**Oracle-DBA H Solution:** Migrate legacy Oracle-DBA systems to cloud-native architecture. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-H025",
+    "question": "Design Oracle-DBA architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct Oracle-DBA procedure"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "h",
+    "explanation": "**Oracle-DBA H Solution:** Design Oracle-DBA architecture for 10k users with 99.99% uptime. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-H026",
+    "question": "Design Oracle-DBA architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Dangerous method",
+      "Correct Oracle-DBA procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "h",
+    "explanation": "**Oracle-DBA H Solution:** Design Oracle-DBA architecture for 10k users with 99.99% uptime. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-H027",
+    "question": "Design Oracle-DBA architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Dangerous method",
+      "Correct Oracle-DBA procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "h",
+    "explanation": "**Oracle-DBA H Solution:** Design Oracle-DBA architecture for 10k users with 99.99% uptime. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-H028",
+    "question": "Optimize Oracle-DBA performance under DDoS attack",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method",
+      "Correct Oracle-DBA procedure"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "h",
+    "explanation": "**Oracle-DBA H Solution:** Optimize Oracle-DBA performance under DDoS attack. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-H029",
+    "question": "Migrate legacy Oracle-DBA systems to cloud-native architecture",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct Oracle-DBA procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "h",
+    "explanation": "**Oracle-DBA H Solution:** Migrate legacy Oracle-DBA systems to cloud-native architecture. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-H030",
+    "question": "Create disaster recovery plan with RTO < 15min for Oracle-DBA",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct Oracle-DBA procedure"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "h",
+    "explanation": "**Oracle-DBA H Solution:** Create disaster recovery plan with RTO < 15min for Oracle-DBA. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-H031",
+    "question": "Create disaster recovery plan with RTO < 15min for Oracle-DBA",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct Oracle-DBA procedure",
+      "Partially correct"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "h",
+    "explanation": "**Oracle-DBA H Solution:** Create disaster recovery plan with RTO < 15min for Oracle-DBA. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-H032",
+    "question": "Create disaster recovery plan with RTO < 15min for Oracle-DBA",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Oracle-DBA procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "h",
+    "explanation": "**Oracle-DBA H Solution:** Create disaster recovery plan with RTO < 15min for Oracle-DBA. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-H033",
+    "question": "Create disaster recovery plan with RTO < 15min for Oracle-DBA",
+    "options": [
+      "Partially correct",
+      "Incorrect approach",
+      "Correct Oracle-DBA procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "h",
+    "explanation": "**Oracle-DBA H Solution:** Create disaster recovery plan with RTO < 15min for Oracle-DBA. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-H034",
+    "question": "Design Oracle-DBA architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Oracle-DBA procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "h",
+    "explanation": "**Oracle-DBA H Solution:** Design Oracle-DBA architecture for 10k users with 99.99% uptime. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-H035",
+    "question": "Migrate legacy Oracle-DBA systems to cloud-native architecture",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method",
+      "Correct Oracle-DBA procedure"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "h",
+    "explanation": "**Oracle-DBA H Solution:** Migrate legacy Oracle-DBA systems to cloud-native architecture. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-H036",
+    "question": "Create disaster recovery plan with RTO < 15min for Oracle-DBA",
+    "options": [
+      "Correct Oracle-DBA procedure",
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "h",
+    "explanation": "**Oracle-DBA H Solution:** Create disaster recovery plan with RTO < 15min for Oracle-DBA. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-H037",
+    "question": "Optimize Oracle-DBA performance under DDoS attack",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Oracle-DBA procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "h",
+    "explanation": "**Oracle-DBA H Solution:** Optimize Oracle-DBA performance under DDoS attack. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-H038",
+    "question": "Optimize Oracle-DBA performance under DDoS attack",
+    "options": [
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach",
+      "Correct Oracle-DBA procedure"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "h",
+    "explanation": "**Oracle-DBA H Solution:** Optimize Oracle-DBA performance under DDoS attack. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-H039",
+    "question": "Design Oracle-DBA architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Dangerous method",
+      "Correct Oracle-DBA procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "h",
+    "explanation": "**Oracle-DBA H Solution:** Design Oracle-DBA architecture for 10k users with 99.99% uptime. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-H040",
+    "question": "Design Oracle-DBA architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Correct Oracle-DBA procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "h",
+    "explanation": "**Oracle-DBA H Solution:** Design Oracle-DBA architecture for 10k users with 99.99% uptime. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-H041",
+    "question": "Migrate legacy Oracle-DBA systems to cloud-native architecture",
+    "options": [
+      "Dangerous method",
+      "Correct Oracle-DBA procedure",
+      "Partially correct",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "h",
+    "explanation": "**Oracle-DBA H Solution:** Migrate legacy Oracle-DBA systems to cloud-native architecture. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-H042",
+    "question": "Migrate legacy Oracle-DBA systems to cloud-native architecture",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Oracle-DBA procedure"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "h",
+    "explanation": "**Oracle-DBA H Solution:** Migrate legacy Oracle-DBA systems to cloud-native architecture. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-H043",
+    "question": "Implement zero-trust security model in Oracle-DBA",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Oracle-DBA procedure"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "h",
+    "explanation": "**Oracle-DBA H Solution:** Implement zero-trust security model in Oracle-DBA. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-H044",
+    "question": "Design Oracle-DBA architecture for 10k users with 99.99% uptime",
+    "options": [
+      "Correct Oracle-DBA procedure",
+      "Partially correct",
+      "Dangerous method",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "h",
+    "explanation": "**Oracle-DBA H Solution:** Design Oracle-DBA architecture for 10k users with 99.99% uptime. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-H045",
+    "question": "Implement zero-trust security model in Oracle-DBA",
+    "options": [
+      "Dangerous method",
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Oracle-DBA procedure"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "h",
+    "explanation": "**Oracle-DBA H Solution:** Implement zero-trust security model in Oracle-DBA. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-H046",
+    "question": "Migrate legacy Oracle-DBA systems to cloud-native architecture",
+    "options": [
+      "Dangerous method",
+      "Partially correct",
+      "Correct Oracle-DBA procedure",
+      "Incorrect approach"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "h",
+    "explanation": "**Oracle-DBA H Solution:** Migrate legacy Oracle-DBA systems to cloud-native architecture. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-H047",
+    "question": "Optimize Oracle-DBA performance under DDoS attack",
+    "options": [
+      "Correct Oracle-DBA procedure",
+      "Partially correct",
+      "Incorrect approach",
+      "Dangerous method"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "h",
+    "explanation": "**Oracle-DBA H Solution:** Optimize Oracle-DBA performance under DDoS attack. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-H048",
+    "question": "Migrate legacy Oracle-DBA systems to cloud-native architecture",
+    "options": [
+      "Incorrect approach",
+      "Partially correct",
+      "Correct Oracle-DBA procedure",
+      "Dangerous method"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "h",
+    "explanation": "**Oracle-DBA H Solution:** Migrate legacy Oracle-DBA systems to cloud-native architecture. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-H049",
+    "question": "Implement zero-trust security model in Oracle-DBA",
+    "options": [
+      "Correct Oracle-DBA procedure",
+      "Incorrect approach",
+      "Partially correct",
+      "Dangerous method"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "h",
+    "explanation": "**Oracle-DBA H Solution:** Implement zero-trust security model in Oracle-DBA. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-H050",
+    "question": "Optimize Oracle-DBA performance under DDoS attack",
+    "options": [
+      "Incorrect approach",
+      "Dangerous method",
+      "Partially correct",
+      "Correct Oracle-DBA procedure"
+    ],
+    "answer": "Correct Oracle-DBA procedure",
+    "difficulty": "h",
+    "explanation": "**Oracle-DBA H Solution:** Optimize Oracle-DBA performance under DDoS attack. Always verify Oracle-DBA documentation and test in lab environment first."
+  },
+  {
+    "id": "Oracle-DBA-S01-01",
+    "question": "1. Server overload during quarterly report generation in Oracle-DBA environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S01-02",
+    "question": "1. Server overload during quarterly report generation in Oracle-DBA environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S01-03",
+    "question": "1. Server overload during quarterly report generation in Oracle-DBA environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S01-04",
+    "question": "1. Server overload during quarterly report generation in Oracle-DBA environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S01-05",
+    "question": "1. Server overload during quarterly report generation in Oracle-DBA environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S02-01",
+    "question": "2. Security incident response: ransomware attack detected in Oracle-DBA environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S02-02",
+    "question": "2. Security incident response: ransomware attack detected in Oracle-DBA environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S02-03",
+    "question": "2. Security incident response: ransomware attack detected in Oracle-DBA environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S02-04",
+    "question": "2. Security incident response: ransomware attack detected in Oracle-DBA environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S02-05",
+    "question": "2. Security incident response: ransomware attack detected in Oracle-DBA environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S03-01",
+    "question": "3. Load balancer health check failing in Oracle-DBA environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S03-02",
+    "question": "3. Load balancer health check failing in Oracle-DBA environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S03-03",
+    "question": "3. Load balancer health check failing in Oracle-DBA environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S03-04",
+    "question": "3. Load balancer health check failing in Oracle-DBA environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S03-05",
+    "question": "3. Load balancer health check failing in Oracle-DBA environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S04-01",
+    "question": "4. Firewall blocking legitimate traffic in Oracle-DBA environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S04-02",
+    "question": "4. Firewall blocking legitimate traffic in Oracle-DBA environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S04-03",
+    "question": "4. Firewall blocking legitimate traffic in Oracle-DBA environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S04-04",
+    "question": "4. Firewall blocking legitimate traffic in Oracle-DBA environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S04-05",
+    "question": "4. Firewall blocking legitimate traffic in Oracle-DBA environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S05-01",
+    "question": "5. Backup failure during scheduled window in Oracle-DBA environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S05-02",
+    "question": "5. Backup failure during scheduled window in Oracle-DBA environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S05-03",
+    "question": "5. Backup failure during scheduled window in Oracle-DBA environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S05-04",
+    "question": "5. Backup failure during scheduled window in Oracle-DBA environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S05-05",
+    "question": "5. Backup failure during scheduled window in Oracle-DBA environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S06-01",
+    "question": "6. Security incident response: ransomware attack detected in Oracle-DBA environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S06-02",
+    "question": "6. Security incident response: ransomware attack detected in Oracle-DBA environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S06-03",
+    "question": "6. Security incident response: ransomware attack detected in Oracle-DBA environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S06-04",
+    "question": "6. Security incident response: ransomware attack detected in Oracle-DBA environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S06-05",
+    "question": "6. Security incident response: ransomware attack detected in Oracle-DBA environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S07-01",
+    "question": "7. Production outage during peak hours: diagnose and resolve in Oracle-DBA environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S07-02",
+    "question": "7. Production outage during peak hours: diagnose and resolve in Oracle-DBA environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S07-03",
+    "question": "7. Production outage during peak hours: diagnose and resolve in Oracle-DBA environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S07-04",
+    "question": "7. Production outage during peak hours: diagnose and resolve in Oracle-DBA environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S07-05",
+    "question": "7. Production outage during peak hours: diagnose and resolve in Oracle-DBA environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S08-01",
+    "question": "8. Production outage during peak hours: diagnose and resolve in Oracle-DBA environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S08-02",
+    "question": "8. Production outage during peak hours: diagnose and resolve in Oracle-DBA environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S08-03",
+    "question": "8. Production outage during peak hours: diagnose and resolve in Oracle-DBA environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S08-04",
+    "question": "8. Production outage during peak hours: diagnose and resolve in Oracle-DBA environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S08-05",
+    "question": "8. Production outage during peak hours: diagnose and resolve in Oracle-DBA environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S09-01",
+    "question": "9. Cloud migration failure: rollback strategy in Oracle-DBA environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S09-02",
+    "question": "9. Cloud migration failure: rollback strategy in Oracle-DBA environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S09-03",
+    "question": "9. Cloud migration failure: rollback strategy in Oracle-DBA environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S09-04",
+    "question": "9. Cloud migration failure: rollback strategy in Oracle-DBA environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S09-05",
+    "question": "9. Cloud migration failure: rollback strategy in Oracle-DBA environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S10-01",
+    "question": "10. Firewall blocking legitimate traffic in Oracle-DBA environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S10-02",
+    "question": "10. Firewall blocking legitimate traffic in Oracle-DBA environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S10-03",
+    "question": "10. Firewall blocking legitimate traffic in Oracle-DBA environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S10-04",
+    "question": "10. Firewall blocking legitimate traffic in Oracle-DBA environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S10-05",
+    "question": "10. Firewall blocking legitimate traffic in Oracle-DBA environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S11-01",
+    "question": "11. Load balancer health check failing in Oracle-DBA environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S11-02",
+    "question": "11. Load balancer health check failing in Oracle-DBA environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S11-03",
+    "question": "11. Load balancer health check failing in Oracle-DBA environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S11-04",
+    "question": "11. Load balancer health check failing in Oracle-DBA environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S11-05",
+    "question": "11. Load balancer health check failing in Oracle-DBA environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S12-01",
+    "question": "12. Server overload during quarterly report generation in Oracle-DBA environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S12-02",
+    "question": "12. Server overload during quarterly report generation in Oracle-DBA environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S12-03",
+    "question": "12. Server overload during quarterly report generation in Oracle-DBA environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S12-04",
+    "question": "12. Server overload during quarterly report generation in Oracle-DBA environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S12-05",
+    "question": "12. Server overload during quarterly report generation in Oracle-DBA environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S13-01",
+    "question": "13. Database performance degradation after upgrade in Oracle-DBA environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S13-02",
+    "question": "13. Database performance degradation after upgrade in Oracle-DBA environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S13-03",
+    "question": "13. Database performance degradation after upgrade in Oracle-DBA environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S13-04",
+    "question": "13. Database performance degradation after upgrade in Oracle-DBA environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S13-05",
+    "question": "13. Database performance degradation after upgrade in Oracle-DBA environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S14-01",
+    "question": "14. VPN connectivity failure for remote users in Oracle-DBA environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S14-02",
+    "question": "14. VPN connectivity failure for remote users in Oracle-DBA environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S14-03",
+    "question": "14. VPN connectivity failure for remote users in Oracle-DBA environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S14-04",
+    "question": "14. VPN connectivity failure for remote users in Oracle-DBA environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S14-05",
+    "question": "14. VPN connectivity failure for remote users in Oracle-DBA environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S15-01",
+    "question": "15. Cloud migration failure: rollback strategy in Oracle-DBA environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S15-02",
+    "question": "15. Cloud migration failure: rollback strategy in Oracle-DBA environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S15-03",
+    "question": "15. Cloud migration failure: rollback strategy in Oracle-DBA environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S15-04",
+    "question": "15. Cloud migration failure: rollback strategy in Oracle-DBA environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S15-05",
+    "question": "15. Cloud migration failure: rollback strategy in Oracle-DBA environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S16-01",
+    "question": "16. Network latency issue affecting VoIP calls in Oracle-DBA environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S16-02",
+    "question": "16. Network latency issue affecting VoIP calls in Oracle-DBA environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S16-03",
+    "question": "16. Network latency issue affecting VoIP calls in Oracle-DBA environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S16-04",
+    "question": "16. Network latency issue affecting VoIP calls in Oracle-DBA environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S16-05",
+    "question": "16. Network latency issue affecting VoIP calls in Oracle-DBA environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S17-01",
+    "question": "17. Cloud migration failure: rollback strategy in Oracle-DBA environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S17-02",
+    "question": "17. Cloud migration failure: rollback strategy in Oracle-DBA environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S17-03",
+    "question": "17. Cloud migration failure: rollback strategy in Oracle-DBA environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S17-04",
+    "question": "17. Cloud migration failure: rollback strategy in Oracle-DBA environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S17-05",
+    "question": "17. Cloud migration failure: rollback strategy in Oracle-DBA environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S18-01",
+    "question": "18. VPN connectivity failure for remote users in Oracle-DBA environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S18-02",
+    "question": "18. VPN connectivity failure for remote users in Oracle-DBA environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S18-03",
+    "question": "18. VPN connectivity failure for remote users in Oracle-DBA environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S18-04",
+    "question": "18. VPN connectivity failure for remote users in Oracle-DBA environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S18-05",
+    "question": "18. VPN connectivity failure for remote users in Oracle-DBA environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S19-01",
+    "question": "19. VPN connectivity failure for remote users in Oracle-DBA environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S19-02",
+    "question": "19. VPN connectivity failure for remote users in Oracle-DBA environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S19-03",
+    "question": "19. VPN connectivity failure for remote users in Oracle-DBA environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S19-04",
+    "question": "19. VPN connectivity failure for remote users in Oracle-DBA environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S19-05",
+    "question": "19. VPN connectivity failure for remote users in Oracle-DBA environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S20-01",
+    "question": "20. Load balancer health check failing in Oracle-DBA environment. **Step 1:** First diagnostic command/logs to check?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S20-02",
+    "question": "20. Load balancer health check failing in Oracle-DBA environment. **Step 2:** Most likely root cause?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S20-03",
+    "question": "20. Load balancer health check failing in Oracle-DBA environment. **Step 3:** Immediate mitigation action?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S20-04",
+    "question": "20. Load balancer health check failing in Oracle-DBA environment. **Step 4:** Verification test post-fix?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  },
+  {
+    "id": "Oracle-DBA-S20-05",
+    "question": "20. Load balancer health check failing in Oracle-DBA environment. **Step 5:** Prevention measure?",
+    "options": [
+      "Skip diagnostics",
+      "Restart services",
+      "Follow Oracle-DBA troubleshooting methodology",
+      "Ignore alerts"
+    ],
+    "answer": "Follow Oracle-DBA troubleshooting methodology",
+    "difficulty": "medium",
+    "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Oracle-DBA best practices. Document all steps for RCA."
+  }
+]

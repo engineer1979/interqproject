@@ -1,0 +1,3260 @@
+{
+  "easy": [
+    {
+      "id": "ITIL-Foundation-E001",
+      "question": "What is the primary function of ITIL DHCP?",
+      "options": [
+        "Correct ITIL-Foundation procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "e",
+      "explanation": "**ITIL-Foundation E Solution:** What is the primary function of ITIL DHCP?. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-E002",
+      "question": "Common protocol for ITIL-Foundation remote access?",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct ITIL-Foundation procedure"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "e",
+      "explanation": "**ITIL-Foundation E Solution:** Common protocol for ITIL-Foundation remote access?. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-E003",
+      "question": "Default subnet mask for Class C network in ITIL-Foundation?",
+      "options": [
+        "Dangerous method",
+        "Correct ITIL-Foundation procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "e",
+      "explanation": "**ITIL-Foundation E Solution:** Default subnet mask for Class C network in ITIL-Foundation?. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-E004",
+      "question": "What does ITIL ACL stand for?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct ITIL-Foundation procedure"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "e",
+      "explanation": "**ITIL-Foundation E Solution:** What does ITIL ACL stand for?. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-E005",
+      "question": "Default subnet mask for Class C network in ITIL-Foundation?",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Correct ITIL-Foundation procedure",
+        "Incorrect approach"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "e",
+      "explanation": "**ITIL-Foundation E Solution:** Default subnet mask for Class C network in ITIL-Foundation?. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-E006",
+      "question": "Default subnet mask for Class C network in ITIL-Foundation?",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct ITIL-Foundation procedure"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "e",
+      "explanation": "**ITIL-Foundation E Solution:** Default subnet mask for Class C network in ITIL-Foundation?. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-E007",
+      "question": "What does ITIL ACL stand for?",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct ITIL-Foundation procedure"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "e",
+      "explanation": "**ITIL-Foundation E Solution:** What does ITIL ACL stand for?. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-E008",
+      "question": "Default subnet mask for Class C network in ITIL-Foundation?",
+      "options": [
+        "Correct ITIL-Foundation procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "e",
+      "explanation": "**ITIL-Foundation E Solution:** Default subnet mask for Class C network in ITIL-Foundation?. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-E009",
+      "question": "Which port does ITIL-Foundation service use by default?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct ITIL-Foundation procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "e",
+      "explanation": "**ITIL-Foundation E Solution:** Which port does ITIL-Foundation service use by default?. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-E010",
+      "question": "What is the primary function of ITIL DHCP?",
+      "options": [
+        "Dangerous method",
+        "Correct ITIL-Foundation procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "e",
+      "explanation": "**ITIL-Foundation E Solution:** What is the primary function of ITIL DHCP?. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-E011",
+      "question": "What is the primary function of ITIL DHCP?",
+      "options": [
+        "Partially correct",
+        "Correct ITIL-Foundation procedure",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "e",
+      "explanation": "**ITIL-Foundation E Solution:** What is the primary function of ITIL DHCP?. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-E012",
+      "question": "Default subnet mask for Class C network in ITIL-Foundation?",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct ITIL-Foundation procedure"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "e",
+      "explanation": "**ITIL-Foundation E Solution:** Default subnet mask for Class C network in ITIL-Foundation?. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-E013",
+      "question": "Common protocol for ITIL-Foundation remote access?",
+      "options": [
+        "Dangerous method",
+        "Correct ITIL-Foundation procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "e",
+      "explanation": "**ITIL-Foundation E Solution:** Common protocol for ITIL-Foundation remote access?. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-E014",
+      "question": "Common protocol for ITIL-Foundation remote access?",
+      "options": [
+        "Dangerous method",
+        "Correct ITIL-Foundation procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "e",
+      "explanation": "**ITIL-Foundation E Solution:** Common protocol for ITIL-Foundation remote access?. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-E015",
+      "question": "What does ITIL ACL stand for?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct ITIL-Foundation procedure"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "e",
+      "explanation": "**ITIL-Foundation E Solution:** What does ITIL ACL stand for?. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-E016",
+      "question": "What does ITIL ACL stand for?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct ITIL-Foundation procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "e",
+      "explanation": "**ITIL-Foundation E Solution:** What does ITIL ACL stand for?. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-E017",
+      "question": "What does ITIL ACL stand for?",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Correct ITIL-Foundation procedure",
+        "Incorrect approach"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "e",
+      "explanation": "**ITIL-Foundation E Solution:** What does ITIL ACL stand for?. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-E018",
+      "question": "Common protocol for ITIL-Foundation remote access?",
+      "options": [
+        "Dangerous method",
+        "Correct ITIL-Foundation procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "e",
+      "explanation": "**ITIL-Foundation E Solution:** Common protocol for ITIL-Foundation remote access?. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-E019",
+      "question": "Which port does ITIL-Foundation service use by default?",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Correct ITIL-Foundation procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "e",
+      "explanation": "**ITIL-Foundation E Solution:** Which port does ITIL-Foundation service use by default?. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-E020",
+      "question": "Which port does ITIL-Foundation service use by default?",
+      "options": [
+        "Dangerous method",
+        "Correct ITIL-Foundation procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "e",
+      "explanation": "**ITIL-Foundation E Solution:** Which port does ITIL-Foundation service use by default?. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-E021",
+      "question": "Common protocol for ITIL-Foundation remote access?",
+      "options": [
+        "Dangerous method",
+        "Correct ITIL-Foundation procedure",
+        "Incorrect approach",
+        "Partially correct"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "e",
+      "explanation": "**ITIL-Foundation E Solution:** Common protocol for ITIL-Foundation remote access?. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-E022",
+      "question": "Default subnet mask for Class C network in ITIL-Foundation?",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Correct ITIL-Foundation procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "e",
+      "explanation": "**ITIL-Foundation E Solution:** Default subnet mask for Class C network in ITIL-Foundation?. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-E023",
+      "question": "Default subnet mask for Class C network in ITIL-Foundation?",
+      "options": [
+        "Correct ITIL-Foundation procedure",
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "e",
+      "explanation": "**ITIL-Foundation E Solution:** Default subnet mask for Class C network in ITIL-Foundation?. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-E024",
+      "question": "What is the primary function of ITIL DHCP?",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct ITIL-Foundation procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "e",
+      "explanation": "**ITIL-Foundation E Solution:** What is the primary function of ITIL DHCP?. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-E025",
+      "question": "What is the primary function of ITIL DHCP?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct ITIL-Foundation procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "e",
+      "explanation": "**ITIL-Foundation E Solution:** What is the primary function of ITIL DHCP?. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-E026",
+      "question": "What does ITIL ACL stand for?",
+      "options": [
+        "Correct ITIL-Foundation procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "e",
+      "explanation": "**ITIL-Foundation E Solution:** What does ITIL ACL stand for?. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-E027",
+      "question": "What does ITIL ACL stand for?",
+      "options": [
+        "Correct ITIL-Foundation procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "e",
+      "explanation": "**ITIL-Foundation E Solution:** What does ITIL ACL stand for?. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-E028",
+      "question": "Default subnet mask for Class C network in ITIL-Foundation?",
+      "options": [
+        "Correct ITIL-Foundation procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "e",
+      "explanation": "**ITIL-Foundation E Solution:** Default subnet mask for Class C network in ITIL-Foundation?. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-E029",
+      "question": "Common protocol for ITIL-Foundation remote access?",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct ITIL-Foundation procedure"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "e",
+      "explanation": "**ITIL-Foundation E Solution:** Common protocol for ITIL-Foundation remote access?. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-E030",
+      "question": "Default subnet mask for Class C network in ITIL-Foundation?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct ITIL-Foundation procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "e",
+      "explanation": "**ITIL-Foundation E Solution:** Default subnet mask for Class C network in ITIL-Foundation?. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-E031",
+      "question": "What is the primary function of ITIL DHCP?",
+      "options": [
+        "Dangerous method",
+        "Correct ITIL-Foundation procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "e",
+      "explanation": "**ITIL-Foundation E Solution:** What is the primary function of ITIL DHCP?. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-E032",
+      "question": "Common protocol for ITIL-Foundation remote access?",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct ITIL-Foundation procedure"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "e",
+      "explanation": "**ITIL-Foundation E Solution:** Common protocol for ITIL-Foundation remote access?. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-E033",
+      "question": "What does ITIL ACL stand for?",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct ITIL-Foundation procedure"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "e",
+      "explanation": "**ITIL-Foundation E Solution:** What does ITIL ACL stand for?. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-E034",
+      "question": "What does ITIL ACL stand for?",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct ITIL-Foundation procedure"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "e",
+      "explanation": "**ITIL-Foundation E Solution:** What does ITIL ACL stand for?. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-E035",
+      "question": "Common protocol for ITIL-Foundation remote access?",
+      "options": [
+        "Dangerous method",
+        "Correct ITIL-Foundation procedure",
+        "Incorrect approach",
+        "Partially correct"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "e",
+      "explanation": "**ITIL-Foundation E Solution:** Common protocol for ITIL-Foundation remote access?. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-E036",
+      "question": "Default subnet mask for Class C network in ITIL-Foundation?",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Correct ITIL-Foundation procedure",
+        "Incorrect approach"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "e",
+      "explanation": "**ITIL-Foundation E Solution:** Default subnet mask for Class C network in ITIL-Foundation?. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-E037",
+      "question": "Default subnet mask for Class C network in ITIL-Foundation?",
+      "options": [
+        "Partially correct",
+        "Correct ITIL-Foundation procedure",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "e",
+      "explanation": "**ITIL-Foundation E Solution:** Default subnet mask for Class C network in ITIL-Foundation?. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-E038",
+      "question": "Default subnet mask for Class C network in ITIL-Foundation?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct ITIL-Foundation procedure"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "e",
+      "explanation": "**ITIL-Foundation E Solution:** Default subnet mask for Class C network in ITIL-Foundation?. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-E039",
+      "question": "Default subnet mask for Class C network in ITIL-Foundation?",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct ITIL-Foundation procedure"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "e",
+      "explanation": "**ITIL-Foundation E Solution:** Default subnet mask for Class C network in ITIL-Foundation?. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-E040",
+      "question": "Common protocol for ITIL-Foundation remote access?",
+      "options": [
+        "Correct ITIL-Foundation procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "e",
+      "explanation": "**ITIL-Foundation E Solution:** Common protocol for ITIL-Foundation remote access?. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-E041",
+      "question": "Which port does ITIL-Foundation service use by default?",
+      "options": [
+        "Dangerous method",
+        "Correct ITIL-Foundation procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "e",
+      "explanation": "**ITIL-Foundation E Solution:** Which port does ITIL-Foundation service use by default?. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-E042",
+      "question": "Common protocol for ITIL-Foundation remote access?",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct ITIL-Foundation procedure"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "e",
+      "explanation": "**ITIL-Foundation E Solution:** Common protocol for ITIL-Foundation remote access?. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-E043",
+      "question": "Default subnet mask for Class C network in ITIL-Foundation?",
+      "options": [
+        "Dangerous method",
+        "Correct ITIL-Foundation procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "e",
+      "explanation": "**ITIL-Foundation E Solution:** Default subnet mask for Class C network in ITIL-Foundation?. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-E044",
+      "question": "Common protocol for ITIL-Foundation remote access?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct ITIL-Foundation procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "e",
+      "explanation": "**ITIL-Foundation E Solution:** Common protocol for ITIL-Foundation remote access?. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-E045",
+      "question": "What is the primary function of ITIL DHCP?",
+      "options": [
+        "Correct ITIL-Foundation procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "e",
+      "explanation": "**ITIL-Foundation E Solution:** What is the primary function of ITIL DHCP?. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-E046",
+      "question": "Default subnet mask for Class C network in ITIL-Foundation?",
+      "options": [
+        "Incorrect approach",
+        "Correct ITIL-Foundation procedure",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "e",
+      "explanation": "**ITIL-Foundation E Solution:** Default subnet mask for Class C network in ITIL-Foundation?. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-E047",
+      "question": "Which port does ITIL-Foundation service use by default?",
+      "options": [
+        "Dangerous method",
+        "Correct ITIL-Foundation procedure",
+        "Incorrect approach",
+        "Partially correct"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "e",
+      "explanation": "**ITIL-Foundation E Solution:** Which port does ITIL-Foundation service use by default?. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-E048",
+      "question": "Common protocol for ITIL-Foundation remote access?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct ITIL-Foundation procedure"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "e",
+      "explanation": "**ITIL-Foundation E Solution:** Common protocol for ITIL-Foundation remote access?. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-E049",
+      "question": "Common protocol for ITIL-Foundation remote access?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct ITIL-Foundation procedure"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "e",
+      "explanation": "**ITIL-Foundation E Solution:** Common protocol for ITIL-Foundation remote access?. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-E050",
+      "question": "Which port does ITIL-Foundation service use by default?",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct ITIL-Foundation procedure"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "e",
+      "explanation": "**ITIL-Foundation E Solution:** Which port does ITIL-Foundation service use by default?. Always verify ITIL-Foundation documentation and test in lab environment first."
+    }
+  ],
+  "medium": [
+    {
+      "id": "ITIL-Foundation-M001",
+      "question": "Set up ITIL-Foundation failover clustering",
+      "options": [
+        "Dangerous method",
+        "Correct ITIL-Foundation procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "m",
+      "explanation": "**ITIL-Foundation M Solution:** Set up ITIL-Foundation failover clustering. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-M002",
+      "question": "Implement ITIL-Foundation backup strategy for compliance",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct ITIL-Foundation procedure"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "m",
+      "explanation": "**ITIL-Foundation M Solution:** Implement ITIL-Foundation backup strategy for compliance. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-M003",
+      "question": "Implement ITIL-Foundation backup strategy for compliance",
+      "options": [
+        "Correct ITIL-Foundation procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "m",
+      "explanation": "**ITIL-Foundation M Solution:** Implement ITIL-Foundation backup strategy for compliance. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-M004",
+      "question": "Optimize ITIL-Foundation query performance",
+      "options": [
+        "Dangerous method",
+        "Correct ITIL-Foundation procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "m",
+      "explanation": "**ITIL-Foundation M Solution:** Optimize ITIL-Foundation query performance. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-M005",
+      "question": "Set up ITIL-Foundation failover clustering",
+      "options": [
+        "Correct ITIL-Foundation procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "m",
+      "explanation": "**ITIL-Foundation M Solution:** Set up ITIL-Foundation failover clustering. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-M006",
+      "question": "Configure ITIL-Foundation load balancer for high availability",
+      "options": [
+        "Dangerous method",
+        "Correct ITIL-Foundation procedure",
+        "Incorrect approach",
+        "Partially correct"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "m",
+      "explanation": "**ITIL-Foundation M Solution:** Configure ITIL-Foundation load balancer for high availability. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-M007",
+      "question": "Optimize ITIL-Foundation query performance",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Correct ITIL-Foundation procedure",
+        "Incorrect approach"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "m",
+      "explanation": "**ITIL-Foundation M Solution:** Optimize ITIL-Foundation query performance. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-M008",
+      "question": "Configure ITIL-Foundation load balancer for high availability",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct ITIL-Foundation procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "m",
+      "explanation": "**ITIL-Foundation M Solution:** Configure ITIL-Foundation load balancer for high availability. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-M009",
+      "question": "Set up ITIL-Foundation failover clustering",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct ITIL-Foundation procedure"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "m",
+      "explanation": "**ITIL-Foundation M Solution:** Set up ITIL-Foundation failover clustering. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-M010",
+      "question": "Troubleshoot ITIL-Foundation connectivity issue between VLANs",
+      "options": [
+        "Incorrect approach",
+        "Correct ITIL-Foundation procedure",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "m",
+      "explanation": "**ITIL-Foundation M Solution:** Troubleshoot ITIL-Foundation connectivity issue between VLANs. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-M011",
+      "question": "Implement ITIL-Foundation backup strategy for compliance",
+      "options": [
+        "Dangerous method",
+        "Correct ITIL-Foundation procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "m",
+      "explanation": "**ITIL-Foundation M Solution:** Implement ITIL-Foundation backup strategy for compliance. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-M012",
+      "question": "Set up ITIL-Foundation failover clustering",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct ITIL-Foundation procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "m",
+      "explanation": "**ITIL-Foundation M Solution:** Set up ITIL-Foundation failover clustering. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-M013",
+      "question": "Configure ITIL-Foundation load balancer for high availability",
+      "options": [
+        "Correct ITIL-Foundation procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "m",
+      "explanation": "**ITIL-Foundation M Solution:** Configure ITIL-Foundation load balancer for high availability. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-M014",
+      "question": "Troubleshoot ITIL-Foundation connectivity issue between VLANs",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct ITIL-Foundation procedure"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "m",
+      "explanation": "**ITIL-Foundation M Solution:** Troubleshoot ITIL-Foundation connectivity issue between VLANs. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-M015",
+      "question": "Troubleshoot ITIL-Foundation connectivity issue between VLANs",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct ITIL-Foundation procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "m",
+      "explanation": "**ITIL-Foundation M Solution:** Troubleshoot ITIL-Foundation connectivity issue between VLANs. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-M016",
+      "question": "Set up ITIL-Foundation failover clustering",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct ITIL-Foundation procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "m",
+      "explanation": "**ITIL-Foundation M Solution:** Set up ITIL-Foundation failover clustering. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-M017",
+      "question": "Implement ITIL-Foundation backup strategy for compliance",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct ITIL-Foundation procedure"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "m",
+      "explanation": "**ITIL-Foundation M Solution:** Implement ITIL-Foundation backup strategy for compliance. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-M018",
+      "question": "Optimize ITIL-Foundation query performance",
+      "options": [
+        "Dangerous method",
+        "Correct ITIL-Foundation procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "m",
+      "explanation": "**ITIL-Foundation M Solution:** Optimize ITIL-Foundation query performance. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-M019",
+      "question": "Implement ITIL-Foundation backup strategy for compliance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct ITIL-Foundation procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "m",
+      "explanation": "**ITIL-Foundation M Solution:** Implement ITIL-Foundation backup strategy for compliance. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-M020",
+      "question": "Troubleshoot ITIL-Foundation connectivity issue between VLANs",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct ITIL-Foundation procedure"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "m",
+      "explanation": "**ITIL-Foundation M Solution:** Troubleshoot ITIL-Foundation connectivity issue between VLANs. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-M021",
+      "question": "Configure ITIL-Foundation load balancer for high availability",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct ITIL-Foundation procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "m",
+      "explanation": "**ITIL-Foundation M Solution:** Configure ITIL-Foundation load balancer for high availability. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-M022",
+      "question": "Set up ITIL-Foundation failover clustering",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Correct ITIL-Foundation procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "m",
+      "explanation": "**ITIL-Foundation M Solution:** Set up ITIL-Foundation failover clustering. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-M023",
+      "question": "Troubleshoot ITIL-Foundation connectivity issue between VLANs",
+      "options": [
+        "Correct ITIL-Foundation procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "m",
+      "explanation": "**ITIL-Foundation M Solution:** Troubleshoot ITIL-Foundation connectivity issue between VLANs. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-M024",
+      "question": "Optimize ITIL-Foundation query performance",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct ITIL-Foundation procedure"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "m",
+      "explanation": "**ITIL-Foundation M Solution:** Optimize ITIL-Foundation query performance. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-M025",
+      "question": "Troubleshoot ITIL-Foundation connectivity issue between VLANs",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct ITIL-Foundation procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "m",
+      "explanation": "**ITIL-Foundation M Solution:** Troubleshoot ITIL-Foundation connectivity issue between VLANs. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-M026",
+      "question": "Troubleshoot ITIL-Foundation connectivity issue between VLANs",
+      "options": [
+        "Correct ITIL-Foundation procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "m",
+      "explanation": "**ITIL-Foundation M Solution:** Troubleshoot ITIL-Foundation connectivity issue between VLANs. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-M027",
+      "question": "Configure ITIL-Foundation load balancer for high availability",
+      "options": [
+        "Dangerous method",
+        "Correct ITIL-Foundation procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "m",
+      "explanation": "**ITIL-Foundation M Solution:** Configure ITIL-Foundation load balancer for high availability. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-M028",
+      "question": "Troubleshoot ITIL-Foundation connectivity issue between VLANs",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct ITIL-Foundation procedure"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "m",
+      "explanation": "**ITIL-Foundation M Solution:** Troubleshoot ITIL-Foundation connectivity issue between VLANs. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-M029",
+      "question": "Implement ITIL-Foundation backup strategy for compliance",
+      "options": [
+        "Correct ITIL-Foundation procedure",
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "m",
+      "explanation": "**ITIL-Foundation M Solution:** Implement ITIL-Foundation backup strategy for compliance. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-M030",
+      "question": "Troubleshoot ITIL-Foundation connectivity issue between VLANs",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct ITIL-Foundation procedure"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "m",
+      "explanation": "**ITIL-Foundation M Solution:** Troubleshoot ITIL-Foundation connectivity issue between VLANs. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-M031",
+      "question": "Set up ITIL-Foundation failover clustering",
+      "options": [
+        "Dangerous method",
+        "Correct ITIL-Foundation procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "m",
+      "explanation": "**ITIL-Foundation M Solution:** Set up ITIL-Foundation failover clustering. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-M032",
+      "question": "Set up ITIL-Foundation failover clustering",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct ITIL-Foundation procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "m",
+      "explanation": "**ITIL-Foundation M Solution:** Set up ITIL-Foundation failover clustering. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-M033",
+      "question": "Set up ITIL-Foundation failover clustering",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct ITIL-Foundation procedure"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "m",
+      "explanation": "**ITIL-Foundation M Solution:** Set up ITIL-Foundation failover clustering. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-M034",
+      "question": "Set up ITIL-Foundation failover clustering",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct ITIL-Foundation procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "m",
+      "explanation": "**ITIL-Foundation M Solution:** Set up ITIL-Foundation failover clustering. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-M035",
+      "question": "Troubleshoot ITIL-Foundation connectivity issue between VLANs",
+      "options": [
+        "Correct ITIL-Foundation procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "m",
+      "explanation": "**ITIL-Foundation M Solution:** Troubleshoot ITIL-Foundation connectivity issue between VLANs. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-M036",
+      "question": "Optimize ITIL-Foundation query performance",
+      "options": [
+        "Dangerous method",
+        "Correct ITIL-Foundation procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "m",
+      "explanation": "**ITIL-Foundation M Solution:** Optimize ITIL-Foundation query performance. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-M037",
+      "question": "Set up ITIL-Foundation failover clustering",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct ITIL-Foundation procedure"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "m",
+      "explanation": "**ITIL-Foundation M Solution:** Set up ITIL-Foundation failover clustering. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-M038",
+      "question": "Configure ITIL-Foundation load balancer for high availability",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct ITIL-Foundation procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "m",
+      "explanation": "**ITIL-Foundation M Solution:** Configure ITIL-Foundation load balancer for high availability. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-M039",
+      "question": "Optimize ITIL-Foundation query performance",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct ITIL-Foundation procedure"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "m",
+      "explanation": "**ITIL-Foundation M Solution:** Optimize ITIL-Foundation query performance. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-M040",
+      "question": "Configure ITIL-Foundation load balancer for high availability",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct ITIL-Foundation procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "m",
+      "explanation": "**ITIL-Foundation M Solution:** Configure ITIL-Foundation load balancer for high availability. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-M041",
+      "question": "Configure ITIL-Foundation load balancer for high availability",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct ITIL-Foundation procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "m",
+      "explanation": "**ITIL-Foundation M Solution:** Configure ITIL-Foundation load balancer for high availability. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-M042",
+      "question": "Configure ITIL-Foundation load balancer for high availability",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct ITIL-Foundation procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "m",
+      "explanation": "**ITIL-Foundation M Solution:** Configure ITIL-Foundation load balancer for high availability. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-M043",
+      "question": "Troubleshoot ITIL-Foundation connectivity issue between VLANs",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct ITIL-Foundation procedure"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "m",
+      "explanation": "**ITIL-Foundation M Solution:** Troubleshoot ITIL-Foundation connectivity issue between VLANs. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-M044",
+      "question": "Optimize ITIL-Foundation query performance",
+      "options": [
+        "Dangerous method",
+        "Correct ITIL-Foundation procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "m",
+      "explanation": "**ITIL-Foundation M Solution:** Optimize ITIL-Foundation query performance. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-M045",
+      "question": "Optimize ITIL-Foundation query performance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct ITIL-Foundation procedure"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "m",
+      "explanation": "**ITIL-Foundation M Solution:** Optimize ITIL-Foundation query performance. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-M046",
+      "question": "Implement ITIL-Foundation backup strategy for compliance",
+      "options": [
+        "Dangerous method",
+        "Correct ITIL-Foundation procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "m",
+      "explanation": "**ITIL-Foundation M Solution:** Implement ITIL-Foundation backup strategy for compliance. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-M047",
+      "question": "Implement ITIL-Foundation backup strategy for compliance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct ITIL-Foundation procedure"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "m",
+      "explanation": "**ITIL-Foundation M Solution:** Implement ITIL-Foundation backup strategy for compliance. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-M048",
+      "question": "Troubleshoot ITIL-Foundation connectivity issue between VLANs",
+      "options": [
+        "Dangerous method",
+        "Correct ITIL-Foundation procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "m",
+      "explanation": "**ITIL-Foundation M Solution:** Troubleshoot ITIL-Foundation connectivity issue between VLANs. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-M049",
+      "question": "Troubleshoot ITIL-Foundation connectivity issue between VLANs",
+      "options": [
+        "Dangerous method",
+        "Correct ITIL-Foundation procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "m",
+      "explanation": "**ITIL-Foundation M Solution:** Troubleshoot ITIL-Foundation connectivity issue between VLANs. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-M050",
+      "question": "Set up ITIL-Foundation failover clustering",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct ITIL-Foundation procedure"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "m",
+      "explanation": "**ITIL-Foundation M Solution:** Set up ITIL-Foundation failover clustering. Always verify ITIL-Foundation documentation and test in lab environment first."
+    }
+  ],
+  "hard": [
+    {
+      "id": "ITIL-Foundation-H001",
+      "question": "Implement zero-trust security model in ITIL-Foundation",
+      "options": [
+        "Correct ITIL-Foundation procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "h",
+      "explanation": "**ITIL-Foundation H Solution:** Implement zero-trust security model in ITIL-Foundation. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-H002",
+      "question": "Optimize ITIL-Foundation performance under DDoS attack",
+      "options": [
+        "Dangerous method",
+        "Correct ITIL-Foundation procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "h",
+      "explanation": "**ITIL-Foundation H Solution:** Optimize ITIL-Foundation performance under DDoS attack. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-H003",
+      "question": "Design ITIL-Foundation architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct ITIL-Foundation procedure"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "h",
+      "explanation": "**ITIL-Foundation H Solution:** Design ITIL-Foundation architecture for 10k users with 99.99% uptime. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-H004",
+      "question": "Design ITIL-Foundation architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Correct ITIL-Foundation procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "h",
+      "explanation": "**ITIL-Foundation H Solution:** Design ITIL-Foundation architecture for 10k users with 99.99% uptime. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-H005",
+      "question": "Create disaster recovery plan with RTO < 15min for ITIL-Foundation",
+      "options": [
+        "Dangerous method",
+        "Correct ITIL-Foundation procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "h",
+      "explanation": "**ITIL-Foundation H Solution:** Create disaster recovery plan with RTO < 15min for ITIL-Foundation. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-H006",
+      "question": "Implement zero-trust security model in ITIL-Foundation",
+      "options": [
+        "Partially correct",
+        "Correct ITIL-Foundation procedure",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "h",
+      "explanation": "**ITIL-Foundation H Solution:** Implement zero-trust security model in ITIL-Foundation. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-H007",
+      "question": "Implement zero-trust security model in ITIL-Foundation",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct ITIL-Foundation procedure"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "h",
+      "explanation": "**ITIL-Foundation H Solution:** Implement zero-trust security model in ITIL-Foundation. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-H008",
+      "question": "Create disaster recovery plan with RTO < 15min for ITIL-Foundation",
+      "options": [
+        "Dangerous method",
+        "Correct ITIL-Foundation procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "h",
+      "explanation": "**ITIL-Foundation H Solution:** Create disaster recovery plan with RTO < 15min for ITIL-Foundation. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-H009",
+      "question": "Design ITIL-Foundation architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Correct ITIL-Foundation procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "h",
+      "explanation": "**ITIL-Foundation H Solution:** Design ITIL-Foundation architecture for 10k users with 99.99% uptime. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-H010",
+      "question": "Implement zero-trust security model in ITIL-Foundation",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct ITIL-Foundation procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "h",
+      "explanation": "**ITIL-Foundation H Solution:** Implement zero-trust security model in ITIL-Foundation. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-H011",
+      "question": "Optimize ITIL-Foundation performance under DDoS attack",
+      "options": [
+        "Dangerous method",
+        "Correct ITIL-Foundation procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "h",
+      "explanation": "**ITIL-Foundation H Solution:** Optimize ITIL-Foundation performance under DDoS attack. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-H012",
+      "question": "Implement zero-trust security model in ITIL-Foundation",
+      "options": [
+        "Dangerous method",
+        "Correct ITIL-Foundation procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "h",
+      "explanation": "**ITIL-Foundation H Solution:** Implement zero-trust security model in ITIL-Foundation. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-H013",
+      "question": "Migrate legacy ITIL-Foundation systems to cloud-native architecture",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct ITIL-Foundation procedure"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "h",
+      "explanation": "**ITIL-Foundation H Solution:** Migrate legacy ITIL-Foundation systems to cloud-native architecture. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-H014",
+      "question": "Design ITIL-Foundation architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct ITIL-Foundation procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "h",
+      "explanation": "**ITIL-Foundation H Solution:** Design ITIL-Foundation architecture for 10k users with 99.99% uptime. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-H015",
+      "question": "Optimize ITIL-Foundation performance under DDoS attack",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct ITIL-Foundation procedure"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "h",
+      "explanation": "**ITIL-Foundation H Solution:** Optimize ITIL-Foundation performance under DDoS attack. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-H016",
+      "question": "Implement zero-trust security model in ITIL-Foundation",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct ITIL-Foundation procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "h",
+      "explanation": "**ITIL-Foundation H Solution:** Implement zero-trust security model in ITIL-Foundation. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-H017",
+      "question": "Create disaster recovery plan with RTO < 15min for ITIL-Foundation",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct ITIL-Foundation procedure"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "h",
+      "explanation": "**ITIL-Foundation H Solution:** Create disaster recovery plan with RTO < 15min for ITIL-Foundation. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-H018",
+      "question": "Optimize ITIL-Foundation performance under DDoS attack",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct ITIL-Foundation procedure"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "h",
+      "explanation": "**ITIL-Foundation H Solution:** Optimize ITIL-Foundation performance under DDoS attack. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-H019",
+      "question": "Migrate legacy ITIL-Foundation systems to cloud-native architecture",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct ITIL-Foundation procedure"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "h",
+      "explanation": "**ITIL-Foundation H Solution:** Migrate legacy ITIL-Foundation systems to cloud-native architecture. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-H020",
+      "question": "Design ITIL-Foundation architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Dangerous method",
+        "Correct ITIL-Foundation procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "h",
+      "explanation": "**ITIL-Foundation H Solution:** Design ITIL-Foundation architecture for 10k users with 99.99% uptime. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-H021",
+      "question": "Implement zero-trust security model in ITIL-Foundation",
+      "options": [
+        "Correct ITIL-Foundation procedure",
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "h",
+      "explanation": "**ITIL-Foundation H Solution:** Implement zero-trust security model in ITIL-Foundation. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-H022",
+      "question": "Design ITIL-Foundation architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct ITIL-Foundation procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "h",
+      "explanation": "**ITIL-Foundation H Solution:** Design ITIL-Foundation architecture for 10k users with 99.99% uptime. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-H023",
+      "question": "Create disaster recovery plan with RTO < 15min for ITIL-Foundation",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct ITIL-Foundation procedure"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "h",
+      "explanation": "**ITIL-Foundation H Solution:** Create disaster recovery plan with RTO < 15min for ITIL-Foundation. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-H024",
+      "question": "Implement zero-trust security model in ITIL-Foundation",
+      "options": [
+        "Correct ITIL-Foundation procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "h",
+      "explanation": "**ITIL-Foundation H Solution:** Implement zero-trust security model in ITIL-Foundation. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-H025",
+      "question": "Create disaster recovery plan with RTO < 15min for ITIL-Foundation",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct ITIL-Foundation procedure"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "h",
+      "explanation": "**ITIL-Foundation H Solution:** Create disaster recovery plan with RTO < 15min for ITIL-Foundation. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-H026",
+      "question": "Optimize ITIL-Foundation performance under DDoS attack",
+      "options": [
+        "Correct ITIL-Foundation procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "h",
+      "explanation": "**ITIL-Foundation H Solution:** Optimize ITIL-Foundation performance under DDoS attack. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-H027",
+      "question": "Optimize ITIL-Foundation performance under DDoS attack",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct ITIL-Foundation procedure"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "h",
+      "explanation": "**ITIL-Foundation H Solution:** Optimize ITIL-Foundation performance under DDoS attack. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-H028",
+      "question": "Implement zero-trust security model in ITIL-Foundation",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct ITIL-Foundation procedure"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "h",
+      "explanation": "**ITIL-Foundation H Solution:** Implement zero-trust security model in ITIL-Foundation. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-H029",
+      "question": "Optimize ITIL-Foundation performance under DDoS attack",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct ITIL-Foundation procedure"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "h",
+      "explanation": "**ITIL-Foundation H Solution:** Optimize ITIL-Foundation performance under DDoS attack. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-H030",
+      "question": "Design ITIL-Foundation architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct ITIL-Foundation procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "h",
+      "explanation": "**ITIL-Foundation H Solution:** Design ITIL-Foundation architecture for 10k users with 99.99% uptime. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-H031",
+      "question": "Optimize ITIL-Foundation performance under DDoS attack",
+      "options": [
+        "Correct ITIL-Foundation procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "h",
+      "explanation": "**ITIL-Foundation H Solution:** Optimize ITIL-Foundation performance under DDoS attack. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-H032",
+      "question": "Create disaster recovery plan with RTO < 15min for ITIL-Foundation",
+      "options": [
+        "Correct ITIL-Foundation procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "h",
+      "explanation": "**ITIL-Foundation H Solution:** Create disaster recovery plan with RTO < 15min for ITIL-Foundation. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-H033",
+      "question": "Optimize ITIL-Foundation performance under DDoS attack",
+      "options": [
+        "Dangerous method",
+        "Correct ITIL-Foundation procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "h",
+      "explanation": "**ITIL-Foundation H Solution:** Optimize ITIL-Foundation performance under DDoS attack. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-H034",
+      "question": "Optimize ITIL-Foundation performance under DDoS attack",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Correct ITIL-Foundation procedure",
+        "Incorrect approach"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "h",
+      "explanation": "**ITIL-Foundation H Solution:** Optimize ITIL-Foundation performance under DDoS attack. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-H035",
+      "question": "Migrate legacy ITIL-Foundation systems to cloud-native architecture",
+      "options": [
+        "Correct ITIL-Foundation procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "h",
+      "explanation": "**ITIL-Foundation H Solution:** Migrate legacy ITIL-Foundation systems to cloud-native architecture. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-H036",
+      "question": "Design ITIL-Foundation architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Dangerous method",
+        "Correct ITIL-Foundation procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "h",
+      "explanation": "**ITIL-Foundation H Solution:** Design ITIL-Foundation architecture for 10k users with 99.99% uptime. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-H037",
+      "question": "Design ITIL-Foundation architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct ITIL-Foundation procedure"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "h",
+      "explanation": "**ITIL-Foundation H Solution:** Design ITIL-Foundation architecture for 10k users with 99.99% uptime. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-H038",
+      "question": "Implement zero-trust security model in ITIL-Foundation",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct ITIL-Foundation procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "h",
+      "explanation": "**ITIL-Foundation H Solution:** Implement zero-trust security model in ITIL-Foundation. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-H039",
+      "question": "Migrate legacy ITIL-Foundation systems to cloud-native architecture",
+      "options": [
+        "Correct ITIL-Foundation procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "h",
+      "explanation": "**ITIL-Foundation H Solution:** Migrate legacy ITIL-Foundation systems to cloud-native architecture. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-H040",
+      "question": "Create disaster recovery plan with RTO < 15min for ITIL-Foundation",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct ITIL-Foundation procedure"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "h",
+      "explanation": "**ITIL-Foundation H Solution:** Create disaster recovery plan with RTO < 15min for ITIL-Foundation. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-H041",
+      "question": "Migrate legacy ITIL-Foundation systems to cloud-native architecture",
+      "options": [
+        "Dangerous method",
+        "Correct ITIL-Foundation procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "h",
+      "explanation": "**ITIL-Foundation H Solution:** Migrate legacy ITIL-Foundation systems to cloud-native architecture. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-H042",
+      "question": "Create disaster recovery plan with RTO < 15min for ITIL-Foundation",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct ITIL-Foundation procedure"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "h",
+      "explanation": "**ITIL-Foundation H Solution:** Create disaster recovery plan with RTO < 15min for ITIL-Foundation. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-H043",
+      "question": "Implement zero-trust security model in ITIL-Foundation",
+      "options": [
+        "Correct ITIL-Foundation procedure",
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "h",
+      "explanation": "**ITIL-Foundation H Solution:** Implement zero-trust security model in ITIL-Foundation. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-H044",
+      "question": "Implement zero-trust security model in ITIL-Foundation",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct ITIL-Foundation procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "h",
+      "explanation": "**ITIL-Foundation H Solution:** Implement zero-trust security model in ITIL-Foundation. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-H045",
+      "question": "Migrate legacy ITIL-Foundation systems to cloud-native architecture",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct ITIL-Foundation procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "h",
+      "explanation": "**ITIL-Foundation H Solution:** Migrate legacy ITIL-Foundation systems to cloud-native architecture. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-H046",
+      "question": "Migrate legacy ITIL-Foundation systems to cloud-native architecture",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct ITIL-Foundation procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "h",
+      "explanation": "**ITIL-Foundation H Solution:** Migrate legacy ITIL-Foundation systems to cloud-native architecture. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-H047",
+      "question": "Migrate legacy ITIL-Foundation systems to cloud-native architecture",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct ITIL-Foundation procedure"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "h",
+      "explanation": "**ITIL-Foundation H Solution:** Migrate legacy ITIL-Foundation systems to cloud-native architecture. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-H048",
+      "question": "Design ITIL-Foundation architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Correct ITIL-Foundation procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "h",
+      "explanation": "**ITIL-Foundation H Solution:** Design ITIL-Foundation architecture for 10k users with 99.99% uptime. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-H049",
+      "question": "Implement zero-trust security model in ITIL-Foundation",
+      "options": [
+        "Correct ITIL-Foundation procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "h",
+      "explanation": "**ITIL-Foundation H Solution:** Implement zero-trust security model in ITIL-Foundation. Always verify ITIL-Foundation documentation and test in lab environment first."
+    },
+    {
+      "id": "ITIL-Foundation-H050",
+      "question": "Optimize ITIL-Foundation performance under DDoS attack",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Correct ITIL-Foundation procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct ITIL-Foundation procedure",
+      "difficulty": "h",
+      "explanation": "**ITIL-Foundation H Solution:** Optimize ITIL-Foundation performance under DDoS attack. Always verify ITIL-Foundation documentation and test in lab environment first."
+    }
+  ],
+  "scenarios": [
+    {
+      "id": "ITIL-Foundation-S01-01",
+      "question": "1. Load balancer health check failing in ITIL-Foundation environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S01-02",
+      "question": "1. Load balancer health check failing in ITIL-Foundation environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S01-03",
+      "question": "1. Load balancer health check failing in ITIL-Foundation environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S01-04",
+      "question": "1. Load balancer health check failing in ITIL-Foundation environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S01-05",
+      "question": "1. Load balancer health check failing in ITIL-Foundation environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S02-01",
+      "question": "2. Firewall blocking legitimate traffic in ITIL-Foundation environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S02-02",
+      "question": "2. Firewall blocking legitimate traffic in ITIL-Foundation environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S02-03",
+      "question": "2. Firewall blocking legitimate traffic in ITIL-Foundation environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S02-04",
+      "question": "2. Firewall blocking legitimate traffic in ITIL-Foundation environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S02-05",
+      "question": "2. Firewall blocking legitimate traffic in ITIL-Foundation environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S03-01",
+      "question": "3. Production outage during peak hours: diagnose and resolve in ITIL-Foundation environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S03-02",
+      "question": "3. Production outage during peak hours: diagnose and resolve in ITIL-Foundation environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S03-03",
+      "question": "3. Production outage during peak hours: diagnose and resolve in ITIL-Foundation environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S03-04",
+      "question": "3. Production outage during peak hours: diagnose and resolve in ITIL-Foundation environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S03-05",
+      "question": "3. Production outage during peak hours: diagnose and resolve in ITIL-Foundation environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S04-01",
+      "question": "4. Database performance degradation after upgrade in ITIL-Foundation environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S04-02",
+      "question": "4. Database performance degradation after upgrade in ITIL-Foundation environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S04-03",
+      "question": "4. Database performance degradation after upgrade in ITIL-Foundation environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S04-04",
+      "question": "4. Database performance degradation after upgrade in ITIL-Foundation environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S04-05",
+      "question": "4. Database performance degradation after upgrade in ITIL-Foundation environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S05-01",
+      "question": "5. Firewall blocking legitimate traffic in ITIL-Foundation environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S05-02",
+      "question": "5. Firewall blocking legitimate traffic in ITIL-Foundation environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S05-03",
+      "question": "5. Firewall blocking legitimate traffic in ITIL-Foundation environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S05-04",
+      "question": "5. Firewall blocking legitimate traffic in ITIL-Foundation environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S05-05",
+      "question": "5. Firewall blocking legitimate traffic in ITIL-Foundation environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S06-01",
+      "question": "6. VPN connectivity failure for remote users in ITIL-Foundation environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S06-02",
+      "question": "6. VPN connectivity failure for remote users in ITIL-Foundation environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S06-03",
+      "question": "6. VPN connectivity failure for remote users in ITIL-Foundation environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S06-04",
+      "question": "6. VPN connectivity failure for remote users in ITIL-Foundation environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S06-05",
+      "question": "6. VPN connectivity failure for remote users in ITIL-Foundation environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S07-01",
+      "question": "7. Cloud migration failure: rollback strategy in ITIL-Foundation environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S07-02",
+      "question": "7. Cloud migration failure: rollback strategy in ITIL-Foundation environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S07-03",
+      "question": "7. Cloud migration failure: rollback strategy in ITIL-Foundation environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S07-04",
+      "question": "7. Cloud migration failure: rollback strategy in ITIL-Foundation environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S07-05",
+      "question": "7. Cloud migration failure: rollback strategy in ITIL-Foundation environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S08-01",
+      "question": "8. Server overload during quarterly report generation in ITIL-Foundation environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S08-02",
+      "question": "8. Server overload during quarterly report generation in ITIL-Foundation environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S08-03",
+      "question": "8. Server overload during quarterly report generation in ITIL-Foundation environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S08-04",
+      "question": "8. Server overload during quarterly report generation in ITIL-Foundation environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S08-05",
+      "question": "8. Server overload during quarterly report generation in ITIL-Foundation environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S09-01",
+      "question": "9. Production outage during peak hours: diagnose and resolve in ITIL-Foundation environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S09-02",
+      "question": "9. Production outage during peak hours: diagnose and resolve in ITIL-Foundation environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S09-03",
+      "question": "9. Production outage during peak hours: diagnose and resolve in ITIL-Foundation environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S09-04",
+      "question": "9. Production outage during peak hours: diagnose and resolve in ITIL-Foundation environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S09-05",
+      "question": "9. Production outage during peak hours: diagnose and resolve in ITIL-Foundation environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S10-01",
+      "question": "10. VPN connectivity failure for remote users in ITIL-Foundation environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S10-02",
+      "question": "10. VPN connectivity failure for remote users in ITIL-Foundation environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S10-03",
+      "question": "10. VPN connectivity failure for remote users in ITIL-Foundation environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S10-04",
+      "question": "10. VPN connectivity failure for remote users in ITIL-Foundation environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S10-05",
+      "question": "10. VPN connectivity failure for remote users in ITIL-Foundation environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S11-01",
+      "question": "11. Firewall blocking legitimate traffic in ITIL-Foundation environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S11-02",
+      "question": "11. Firewall blocking legitimate traffic in ITIL-Foundation environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S11-03",
+      "question": "11. Firewall blocking legitimate traffic in ITIL-Foundation environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S11-04",
+      "question": "11. Firewall blocking legitimate traffic in ITIL-Foundation environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S11-05",
+      "question": "11. Firewall blocking legitimate traffic in ITIL-Foundation environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S12-01",
+      "question": "12. Cloud migration failure: rollback strategy in ITIL-Foundation environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S12-02",
+      "question": "12. Cloud migration failure: rollback strategy in ITIL-Foundation environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S12-03",
+      "question": "12. Cloud migration failure: rollback strategy in ITIL-Foundation environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S12-04",
+      "question": "12. Cloud migration failure: rollback strategy in ITIL-Foundation environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S12-05",
+      "question": "12. Cloud migration failure: rollback strategy in ITIL-Foundation environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S13-01",
+      "question": "13. Server overload during quarterly report generation in ITIL-Foundation environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S13-02",
+      "question": "13. Server overload during quarterly report generation in ITIL-Foundation environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S13-03",
+      "question": "13. Server overload during quarterly report generation in ITIL-Foundation environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S13-04",
+      "question": "13. Server overload during quarterly report generation in ITIL-Foundation environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S13-05",
+      "question": "13. Server overload during quarterly report generation in ITIL-Foundation environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S14-01",
+      "question": "14. Production outage during peak hours: diagnose and resolve in ITIL-Foundation environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S14-02",
+      "question": "14. Production outage during peak hours: diagnose and resolve in ITIL-Foundation environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S14-03",
+      "question": "14. Production outage during peak hours: diagnose and resolve in ITIL-Foundation environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S14-04",
+      "question": "14. Production outage during peak hours: diagnose and resolve in ITIL-Foundation environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S14-05",
+      "question": "14. Production outage during peak hours: diagnose and resolve in ITIL-Foundation environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S15-01",
+      "question": "15. Cloud migration failure: rollback strategy in ITIL-Foundation environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S15-02",
+      "question": "15. Cloud migration failure: rollback strategy in ITIL-Foundation environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S15-03",
+      "question": "15. Cloud migration failure: rollback strategy in ITIL-Foundation environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S15-04",
+      "question": "15. Cloud migration failure: rollback strategy in ITIL-Foundation environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S15-05",
+      "question": "15. Cloud migration failure: rollback strategy in ITIL-Foundation environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S16-01",
+      "question": "16. Security incident response: ransomware attack detected in ITIL-Foundation environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S16-02",
+      "question": "16. Security incident response: ransomware attack detected in ITIL-Foundation environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S16-03",
+      "question": "16. Security incident response: ransomware attack detected in ITIL-Foundation environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S16-04",
+      "question": "16. Security incident response: ransomware attack detected in ITIL-Foundation environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S16-05",
+      "question": "16. Security incident response: ransomware attack detected in ITIL-Foundation environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S17-01",
+      "question": "17. VPN connectivity failure for remote users in ITIL-Foundation environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S17-02",
+      "question": "17. VPN connectivity failure for remote users in ITIL-Foundation environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S17-03",
+      "question": "17. VPN connectivity failure for remote users in ITIL-Foundation environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S17-04",
+      "question": "17. VPN connectivity failure for remote users in ITIL-Foundation environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S17-05",
+      "question": "17. VPN connectivity failure for remote users in ITIL-Foundation environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S18-01",
+      "question": "18. Database performance degradation after upgrade in ITIL-Foundation environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S18-02",
+      "question": "18. Database performance degradation after upgrade in ITIL-Foundation environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S18-03",
+      "question": "18. Database performance degradation after upgrade in ITIL-Foundation environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S18-04",
+      "question": "18. Database performance degradation after upgrade in ITIL-Foundation environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S18-05",
+      "question": "18. Database performance degradation after upgrade in ITIL-Foundation environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S19-01",
+      "question": "19. Database performance degradation after upgrade in ITIL-Foundation environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S19-02",
+      "question": "19. Database performance degradation after upgrade in ITIL-Foundation environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S19-03",
+      "question": "19. Database performance degradation after upgrade in ITIL-Foundation environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S19-04",
+      "question": "19. Database performance degradation after upgrade in ITIL-Foundation environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S19-05",
+      "question": "19. Database performance degradation after upgrade in ITIL-Foundation environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S20-01",
+      "question": "20. Security incident response: ransomware attack detected in ITIL-Foundation environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S20-02",
+      "question": "20. Security incident response: ransomware attack detected in ITIL-Foundation environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S20-03",
+      "question": "20. Security incident response: ransomware attack detected in ITIL-Foundation environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S20-04",
+      "question": "20. Security incident response: ransomware attack detected in ITIL-Foundation environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    },
+    {
+      "id": "ITIL-Foundation-S20-05",
+      "question": "20. Security incident response: ransomware attack detected in ITIL-Foundation environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow ITIL-Foundation troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow ITIL-Foundation troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per ITIL-Foundation best practices. Document all steps for RCA."
+    }
+  ]
+}

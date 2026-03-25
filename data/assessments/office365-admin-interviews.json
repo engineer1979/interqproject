@@ -1,0 +1,215 @@
+[
+  {
+    "id": "Office365-Admin-I01",
+    "title": "Office365-Admin Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Office365-Admin certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain Office365-Admin HA design",
+      "Troubleshoot Office365-Admin outage",
+      "Scale Office365-Admin for 100k users"
+    ],
+    "expected_skills": [
+      "Production Office365-Admin experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Office365-Admin-I02",
+    "title": "Office365-Admin Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Office365-Admin certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain Office365-Admin HA design",
+      "Troubleshoot Office365-Admin outage",
+      "Scale Office365-Admin for 100k users"
+    ],
+    "expected_skills": [
+      "Production Office365-Admin experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Office365-Admin-I03",
+    "title": "Office365-Admin Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Office365-Admin certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain Office365-Admin HA design",
+      "Troubleshoot Office365-Admin outage",
+      "Scale Office365-Admin for 100k users"
+    ],
+    "expected_skills": [
+      "Production Office365-Admin experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Office365-Admin-I04",
+    "title": "Office365-Admin Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Office365-Admin certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain Office365-Admin HA design",
+      "Troubleshoot Office365-Admin outage",
+      "Scale Office365-Admin for 100k users"
+    ],
+    "expected_skills": [
+      "Production Office365-Admin experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Office365-Admin-I05",
+    "title": "Office365-Admin Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Office365-Admin certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain Office365-Admin HA design",
+      "Troubleshoot Office365-Admin outage",
+      "Scale Office365-Admin for 100k users"
+    ],
+    "expected_skills": [
+      "Production Office365-Admin experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Office365-Admin-I06",
+    "title": "Office365-Admin Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Office365-Admin certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain Office365-Admin HA design",
+      "Troubleshoot Office365-Admin outage",
+      "Scale Office365-Admin for 100k users"
+    ],
+    "expected_skills": [
+      "Production Office365-Admin experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Office365-Admin-I07",
+    "title": "Office365-Admin Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Office365-Admin certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain Office365-Admin HA design",
+      "Troubleshoot Office365-Admin outage",
+      "Scale Office365-Admin for 100k users"
+    ],
+    "expected_skills": [
+      "Production Office365-Admin experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Office365-Admin-I08",
+    "title": "Office365-Admin Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Office365-Admin certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain Office365-Admin HA design",
+      "Troubleshoot Office365-Admin outage",
+      "Scale Office365-Admin for 100k users"
+    ],
+    "expected_skills": [
+      "Production Office365-Admin experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Office365-Admin-I09",
+    "title": "Office365-Admin Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Office365-Admin certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain Office365-Admin HA design",
+      "Troubleshoot Office365-Admin outage",
+      "Scale Office365-Admin for 100k users"
+    ],
+    "expected_skills": [
+      "Production Office365-Admin experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Office365-Admin-I10",
+    "title": "Office365-Admin Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Office365-Admin certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain Office365-Admin HA design",
+      "Troubleshoot Office365-Admin outage",
+      "Scale Office365-Admin for 100k users"
+    ],
+    "expected_skills": [
+      "Production Office365-Admin experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  }
+]

@@ -1,0 +1,208 @@
+[
+  {
+    "id": "SQL-Database-I01",
+    "title": "SQL-Database Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level SQL-Database certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain SQL-Database HA design",
+      "Troubleshoot SQL-Database outage",
+      "Scale SQL-Database for 100k users"
+    ],
+    "expected_skills": [
+      "Production SQL-Database experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "SQL-Database-I02",
+    "title": "SQL-Database Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level SQL-Database certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain SQL-Database HA design",
+      "Troubleshoot SQL-Database outage",
+      "Scale SQL-Database for 100k users"
+    ],
+    "expected_skills": [
+      "Production SQL-Database experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "SQL-Database-I03",
+    "title": "SQL-Database Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level SQL-Database certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain SQL-Database HA design",
+      "Troubleshoot SQL-Database outage",
+      "Scale SQL-Database for 100k users"
+    ],
+    "expected_skills": [
+      "Production SQL-Database experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "SQL-Database-I04",
+    "title": "SQL-Database Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level SQL-Database certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain SQL-Database HA design",
+      "Troubleshoot SQL-Database outage",
+      "Scale SQL-Database for 100k users"
+    ],
+    "expected_skills": [
+      "Production SQL-Database experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "SQL-Database-I05",
+    "title": "SQL-Database Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level SQL-Database certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain SQL-Database HA design",
+      "Troubleshoot SQL-Database outage",
+      "Scale SQL-Database for 100k users"
+    ],
+    "expected_skills": [
+      "Production SQL-Database experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "SQL-Database-I06",
+    "title": "SQL-Database Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level SQL-Database certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain SQL-Database HA design",
+      "Troubleshoot SQL-Database outage",
+      "Scale SQL-Database for 100k users"
+    ],
+    "expected_skills": [
+      "Production SQL-Database experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "SQL-Database-I07",
+    "title": "SQL-Database Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level SQL-Database certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain SQL-Database HA design",
+      "Troubleshoot SQL-Database outage",
+      "Scale SQL-Database for 100k users"
+    ],
+    "expected_skills": [
+      "Production SQL-Database experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "SQL-Database-I08",
+    "title": "SQL-Database Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level SQL-Database certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain SQL-Database HA design",
+      "Troubleshoot SQL-Database outage",
+      "Scale SQL-Database for 100k users"
+    ],
+    "expected_skills": [
+      "Production SQL-Database experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "SQL-Database-I09",
+    "title": "SQL-Database Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level SQL-Database certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain SQL-Database HA design",
+      "Troubleshoot SQL-Database outage",
+      "Scale SQL-Database for 100k users"
+    ],
+    "expected_skills": [
+      "Production SQL-Database experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "SQL-Database-I10",
+    "title": "SQL-Database Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level SQL-Database certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain SQL-Database HA design",
+      "Troubleshoot SQL-Database outage",
+      "Scale SQL-Database for 100k users"
+    ],
+    "expected_skills": [
+      "Production SQL-Database experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  }
+]

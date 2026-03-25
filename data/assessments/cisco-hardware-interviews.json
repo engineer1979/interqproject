@@ -1,0 +1,209 @@
+[
+  {
+    "id": "Cisco-Hardware-I01",
+    "title": "Cisco-Hardware Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Cisco-Hardware certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain Cisco-Hardware HA design",
+      "Troubleshoot Cisco-Hardware outage",
+      "Scale Cisco-Hardware for 100k users"
+    ],
+    "expected_skills": [
+      "Production Cisco-Hardware experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Cisco-Hardware-I02",
+    "title": "Cisco-Hardware Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Cisco-Hardware certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain Cisco-Hardware HA design",
+      "Troubleshoot Cisco-Hardware outage",
+      "Scale Cisco-Hardware for 100k users"
+    ],
+    "expected_skills": [
+      "Production Cisco-Hardware experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Cisco-Hardware-I03",
+    "title": "Cisco-Hardware Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Cisco-Hardware certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain Cisco-Hardware HA design",
+      "Troubleshoot Cisco-Hardware outage",
+      "Scale Cisco-Hardware for 100k users"
+    ],
+    "expected_skills": [
+      "Production Cisco-Hardware experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Cisco-Hardware-I04",
+    "title": "Cisco-Hardware Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Cisco-Hardware certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain Cisco-Hardware HA design",
+      "Troubleshoot Cisco-Hardware outage",
+      "Scale Cisco-Hardware for 100k users"
+    ],
+    "expected_skills": [
+      "Production Cisco-Hardware experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Cisco-Hardware-I05",
+    "title": "Cisco-Hardware Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Cisco-Hardware certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain Cisco-Hardware HA design",
+      "Troubleshoot Cisco-Hardware outage",
+      "Scale Cisco-Hardware for 100k users"
+    ],
+    "expected_skills": [
+      "Production Cisco-Hardware experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Cisco-Hardware-I06",
+    "title": "Cisco-Hardware Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Cisco-Hardware certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain Cisco-Hardware HA design",
+      "Troubleshoot Cisco-Hardware outage",
+      "Scale Cisco-Hardware for 100k users"
+    ],
+    "expected_skills": [
+      "Production Cisco-Hardware experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Cisco-Hardware-I07",
+    "title": "Cisco-Hardware Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Cisco-Hardware certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain Cisco-Hardware HA design",
+      "Troubleshoot Cisco-Hardware outage",
+      "Scale Cisco-Hardware for 100k users"
+    ],
+    "expected_skills": [
+      "Production Cisco-Hardware experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Cisco-Hardware-I08",
+    "title": "Cisco-Hardware Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Cisco-Hardware certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain Cisco-Hardware HA design",
+      "Troubleshoot Cisco-Hardware outage",
+      "Scale Cisco-Hardware for 100k users"
+    ],
+    "expected_skills": [
+      "Production Cisco-Hardware experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Cisco-Hardware-I09",
+    "title": "Cisco-Hardware Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Cisco-Hardware certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain Cisco-Hardware HA design",
+      "Troubleshoot Cisco-Hardware outage",
+      "Scale Cisco-Hardware for 100k users"
+    ],
+    "expected_skills": [
+      "Production Cisco-Hardware experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Cisco-Hardware-I10",
+    "title": "Cisco-Hardware Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Cisco-Hardware certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain Cisco-Hardware HA design",
+      "Troubleshoot Cisco-Hardware outage",
+      "Scale Cisco-Hardware for 100k users"
+    ],
+    "expected_skills": [
+      "Production Cisco-Hardware experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  }
+]

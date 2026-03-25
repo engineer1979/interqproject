@@ -1,0 +1,208 @@
+[
+  {
+    "id": "AWS-Solutions-Architect-I01",
+    "title": "AWS-Solutions-Architect Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level AWS-Solutions-Architect certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain AWS-Solutions-Architect HA design",
+      "Troubleshoot AWS-Solutions-Architect outage",
+      "Scale AWS-Solutions-Architect for 100k users"
+    ],
+    "expected_skills": [
+      "Production AWS-Solutions-Architect experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "AWS-Solutions-Architect-I02",
+    "title": "AWS-Solutions-Architect Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level AWS-Solutions-Architect certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain AWS-Solutions-Architect HA design",
+      "Troubleshoot AWS-Solutions-Architect outage",
+      "Scale AWS-Solutions-Architect for 100k users"
+    ],
+    "expected_skills": [
+      "Production AWS-Solutions-Architect experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "AWS-Solutions-Architect-I03",
+    "title": "AWS-Solutions-Architect Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level AWS-Solutions-Architect certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain AWS-Solutions-Architect HA design",
+      "Troubleshoot AWS-Solutions-Architect outage",
+      "Scale AWS-Solutions-Architect for 100k users"
+    ],
+    "expected_skills": [
+      "Production AWS-Solutions-Architect experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "AWS-Solutions-Architect-I04",
+    "title": "AWS-Solutions-Architect Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level AWS-Solutions-Architect certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain AWS-Solutions-Architect HA design",
+      "Troubleshoot AWS-Solutions-Architect outage",
+      "Scale AWS-Solutions-Architect for 100k users"
+    ],
+    "expected_skills": [
+      "Production AWS-Solutions-Architect experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "AWS-Solutions-Architect-I05",
+    "title": "AWS-Solutions-Architect Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level AWS-Solutions-Architect certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain AWS-Solutions-Architect HA design",
+      "Troubleshoot AWS-Solutions-Architect outage",
+      "Scale AWS-Solutions-Architect for 100k users"
+    ],
+    "expected_skills": [
+      "Production AWS-Solutions-Architect experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "AWS-Solutions-Architect-I06",
+    "title": "AWS-Solutions-Architect Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level AWS-Solutions-Architect certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain AWS-Solutions-Architect HA design",
+      "Troubleshoot AWS-Solutions-Architect outage",
+      "Scale AWS-Solutions-Architect for 100k users"
+    ],
+    "expected_skills": [
+      "Production AWS-Solutions-Architect experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "AWS-Solutions-Architect-I07",
+    "title": "AWS-Solutions-Architect Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level AWS-Solutions-Architect certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain AWS-Solutions-Architect HA design",
+      "Troubleshoot AWS-Solutions-Architect outage",
+      "Scale AWS-Solutions-Architect for 100k users"
+    ],
+    "expected_skills": [
+      "Production AWS-Solutions-Architect experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "AWS-Solutions-Architect-I08",
+    "title": "AWS-Solutions-Architect Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level AWS-Solutions-Architect certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain AWS-Solutions-Architect HA design",
+      "Troubleshoot AWS-Solutions-Architect outage",
+      "Scale AWS-Solutions-Architect for 100k users"
+    ],
+    "expected_skills": [
+      "Production AWS-Solutions-Architect experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "AWS-Solutions-Architect-I09",
+    "title": "AWS-Solutions-Architect Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level AWS-Solutions-Architect certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain AWS-Solutions-Architect HA design",
+      "Troubleshoot AWS-Solutions-Architect outage",
+      "Scale AWS-Solutions-Architect for 100k users"
+    ],
+    "expected_skills": [
+      "Production AWS-Solutions-Architect experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "AWS-Solutions-Architect-I10",
+    "title": "AWS-Solutions-Architect Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level AWS-Solutions-Architect certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain AWS-Solutions-Architect HA design",
+      "Troubleshoot AWS-Solutions-Architect outage",
+      "Scale AWS-Solutions-Architect for 100k users"
+    ],
+    "expected_skills": [
+      "Production AWS-Solutions-Architect experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  }
+]

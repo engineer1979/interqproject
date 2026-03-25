@@ -1,0 +1,213 @@
+[
+  {
+    "id": "Wireless-Networking-I01",
+    "title": "Wireless-Networking Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Wireless-Networking certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain Wireless-Networking HA design",
+      "Troubleshoot Wireless-Networking outage",
+      "Scale Wireless-Networking for 100k users"
+    ],
+    "expected_skills": [
+      "Production Wireless-Networking experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Wireless-Networking-I02",
+    "title": "Wireless-Networking Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Wireless-Networking certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain Wireless-Networking HA design",
+      "Troubleshoot Wireless-Networking outage",
+      "Scale Wireless-Networking for 100k users"
+    ],
+    "expected_skills": [
+      "Production Wireless-Networking experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Wireless-Networking-I03",
+    "title": "Wireless-Networking Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Wireless-Networking certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain Wireless-Networking HA design",
+      "Troubleshoot Wireless-Networking outage",
+      "Scale Wireless-Networking for 100k users"
+    ],
+    "expected_skills": [
+      "Production Wireless-Networking experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Wireless-Networking-I04",
+    "title": "Wireless-Networking Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Wireless-Networking certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain Wireless-Networking HA design",
+      "Troubleshoot Wireless-Networking outage",
+      "Scale Wireless-Networking for 100k users"
+    ],
+    "expected_skills": [
+      "Production Wireless-Networking experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Wireless-Networking-I05",
+    "title": "Wireless-Networking Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Wireless-Networking certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain Wireless-Networking HA design",
+      "Troubleshoot Wireless-Networking outage",
+      "Scale Wireless-Networking for 100k users"
+    ],
+    "expected_skills": [
+      "Production Wireless-Networking experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Wireless-Networking-I06",
+    "title": "Wireless-Networking Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Wireless-Networking certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain Wireless-Networking HA design",
+      "Troubleshoot Wireless-Networking outage",
+      "Scale Wireless-Networking for 100k users"
+    ],
+    "expected_skills": [
+      "Production Wireless-Networking experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Wireless-Networking-I07",
+    "title": "Wireless-Networking Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Wireless-Networking certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain Wireless-Networking HA design",
+      "Troubleshoot Wireless-Networking outage",
+      "Scale Wireless-Networking for 100k users"
+    ],
+    "expected_skills": [
+      "Production Wireless-Networking experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Wireless-Networking-I08",
+    "title": "Wireless-Networking Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Wireless-Networking certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain Wireless-Networking HA design",
+      "Troubleshoot Wireless-Networking outage",
+      "Scale Wireless-Networking for 100k users"
+    ],
+    "expected_skills": [
+      "Production Wireless-Networking experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Wireless-Networking-I09",
+    "title": "Wireless-Networking Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Wireless-Networking certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain Wireless-Networking HA design",
+      "Troubleshoot Wireless-Networking outage",
+      "Scale Wireless-Networking for 100k users"
+    ],
+    "expected_skills": [
+      "Production Wireless-Networking experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Wireless-Networking-I10",
+    "title": "Wireless-Networking Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Wireless-Networking certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain Wireless-Networking HA design",
+      "Troubleshoot Wireless-Networking outage",
+      "Scale Wireless-Networking for 100k users"
+    ],
+    "expected_skills": [
+      "Production Wireless-Networking experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  }
+]

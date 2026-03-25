@@ -1,0 +1,3260 @@
+{
+  "easy": [
+    {
+      "id": "Office365-Admin-E001",
+      "question": "What does Office365 ACL stand for?",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Office365-Admin procedure"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "e",
+      "explanation": "**Office365-Admin E Solution:** What does Office365 ACL stand for?. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-E002",
+      "question": "Default subnet mask for Class C network in Office365-Admin?",
+      "options": [
+        "Correct Office365-Admin procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "e",
+      "explanation": "**Office365-Admin E Solution:** Default subnet mask for Class C network in Office365-Admin?. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-E003",
+      "question": "Common protocol for Office365-Admin remote access?",
+      "options": [
+        "Correct Office365-Admin procedure",
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "e",
+      "explanation": "**Office365-Admin E Solution:** Common protocol for Office365-Admin remote access?. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-E004",
+      "question": "What does Office365 ACL stand for?",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Office365-Admin procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "e",
+      "explanation": "**Office365-Admin E Solution:** What does Office365 ACL stand for?. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-E005",
+      "question": "Common protocol for Office365-Admin remote access?",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Office365-Admin procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "e",
+      "explanation": "**Office365-Admin E Solution:** Common protocol for Office365-Admin remote access?. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-E006",
+      "question": "What does Office365 ACL stand for?",
+      "options": [
+        "Correct Office365-Admin procedure",
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "e",
+      "explanation": "**Office365-Admin E Solution:** What does Office365 ACL stand for?. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-E007",
+      "question": "What is the primary function of Office365 DHCP?",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Office365-Admin procedure"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "e",
+      "explanation": "**Office365-Admin E Solution:** What is the primary function of Office365 DHCP?. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-E008",
+      "question": "Common protocol for Office365-Admin remote access?",
+      "options": [
+        "Partially correct",
+        "Correct Office365-Admin procedure",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "e",
+      "explanation": "**Office365-Admin E Solution:** Common protocol for Office365-Admin remote access?. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-E009",
+      "question": "What does Office365 ACL stand for?",
+      "options": [
+        "Correct Office365-Admin procedure",
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "e",
+      "explanation": "**Office365-Admin E Solution:** What does Office365 ACL stand for?. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-E010",
+      "question": "What does Office365 ACL stand for?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Office365-Admin procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "e",
+      "explanation": "**Office365-Admin E Solution:** What does Office365 ACL stand for?. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-E011",
+      "question": "What does Office365 ACL stand for?",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Office365-Admin procedure"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "e",
+      "explanation": "**Office365-Admin E Solution:** What does Office365 ACL stand for?. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-E012",
+      "question": "What does Office365 ACL stand for?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Office365-Admin procedure"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "e",
+      "explanation": "**Office365-Admin E Solution:** What does Office365 ACL stand for?. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-E013",
+      "question": "Common protocol for Office365-Admin remote access?",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Office365-Admin procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "e",
+      "explanation": "**Office365-Admin E Solution:** Common protocol for Office365-Admin remote access?. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-E014",
+      "question": "What does Office365 ACL stand for?",
+      "options": [
+        "Partially correct",
+        "Correct Office365-Admin procedure",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "e",
+      "explanation": "**Office365-Admin E Solution:** What does Office365 ACL stand for?. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-E015",
+      "question": "Default subnet mask for Class C network in Office365-Admin?",
+      "options": [
+        "Partially correct",
+        "Correct Office365-Admin procedure",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "e",
+      "explanation": "**Office365-Admin E Solution:** Default subnet mask for Class C network in Office365-Admin?. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-E016",
+      "question": "What is the primary function of Office365 DHCP?",
+      "options": [
+        "Correct Office365-Admin procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "e",
+      "explanation": "**Office365-Admin E Solution:** What is the primary function of Office365 DHCP?. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-E017",
+      "question": "What does Office365 ACL stand for?",
+      "options": [
+        "Correct Office365-Admin procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "e",
+      "explanation": "**Office365-Admin E Solution:** What does Office365 ACL stand for?. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-E018",
+      "question": "Default subnet mask for Class C network in Office365-Admin?",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Office365-Admin procedure"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "e",
+      "explanation": "**Office365-Admin E Solution:** Default subnet mask for Class C network in Office365-Admin?. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-E019",
+      "question": "Common protocol for Office365-Admin remote access?",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Correct Office365-Admin procedure",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "e",
+      "explanation": "**Office365-Admin E Solution:** Common protocol for Office365-Admin remote access?. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-E020",
+      "question": "What does Office365 ACL stand for?",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Office365-Admin procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "e",
+      "explanation": "**Office365-Admin E Solution:** What does Office365 ACL stand for?. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-E021",
+      "question": "What does Office365 ACL stand for?",
+      "options": [
+        "Correct Office365-Admin procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "e",
+      "explanation": "**Office365-Admin E Solution:** What does Office365 ACL stand for?. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-E022",
+      "question": "What does Office365 ACL stand for?",
+      "options": [
+        "Correct Office365-Admin procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "e",
+      "explanation": "**Office365-Admin E Solution:** What does Office365 ACL stand for?. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-E023",
+      "question": "Common protocol for Office365-Admin remote access?",
+      "options": [
+        "Correct Office365-Admin procedure",
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "e",
+      "explanation": "**Office365-Admin E Solution:** Common protocol for Office365-Admin remote access?. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-E024",
+      "question": "Common protocol for Office365-Admin remote access?",
+      "options": [
+        "Correct Office365-Admin procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "e",
+      "explanation": "**Office365-Admin E Solution:** Common protocol for Office365-Admin remote access?. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-E025",
+      "question": "What is the primary function of Office365 DHCP?",
+      "options": [
+        "Correct Office365-Admin procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "e",
+      "explanation": "**Office365-Admin E Solution:** What is the primary function of Office365 DHCP?. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-E026",
+      "question": "Common protocol for Office365-Admin remote access?",
+      "options": [
+        "Correct Office365-Admin procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "e",
+      "explanation": "**Office365-Admin E Solution:** Common protocol for Office365-Admin remote access?. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-E027",
+      "question": "Default subnet mask for Class C network in Office365-Admin?",
+      "options": [
+        "Dangerous method",
+        "Correct Office365-Admin procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "e",
+      "explanation": "**Office365-Admin E Solution:** Default subnet mask for Class C network in Office365-Admin?. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-E028",
+      "question": "Common protocol for Office365-Admin remote access?",
+      "options": [
+        "Dangerous method",
+        "Correct Office365-Admin procedure",
+        "Incorrect approach",
+        "Partially correct"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "e",
+      "explanation": "**Office365-Admin E Solution:** Common protocol for Office365-Admin remote access?. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-E029",
+      "question": "Common protocol for Office365-Admin remote access?",
+      "options": [
+        "Dangerous method",
+        "Correct Office365-Admin procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "e",
+      "explanation": "**Office365-Admin E Solution:** Common protocol for Office365-Admin remote access?. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-E030",
+      "question": "Default subnet mask for Class C network in Office365-Admin?",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Office365-Admin procedure"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "e",
+      "explanation": "**Office365-Admin E Solution:** Default subnet mask for Class C network in Office365-Admin?. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-E031",
+      "question": "What is the primary function of Office365 DHCP?",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Office365-Admin procedure"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "e",
+      "explanation": "**Office365-Admin E Solution:** What is the primary function of Office365 DHCP?. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-E032",
+      "question": "What does Office365 ACL stand for?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Office365-Admin procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "e",
+      "explanation": "**Office365-Admin E Solution:** What does Office365 ACL stand for?. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-E033",
+      "question": "Common protocol for Office365-Admin remote access?",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Office365-Admin procedure"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "e",
+      "explanation": "**Office365-Admin E Solution:** Common protocol for Office365-Admin remote access?. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-E034",
+      "question": "What does Office365 ACL stand for?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Office365-Admin procedure"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "e",
+      "explanation": "**Office365-Admin E Solution:** What does Office365 ACL stand for?. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-E035",
+      "question": "What is the primary function of Office365 DHCP?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Office365-Admin procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "e",
+      "explanation": "**Office365-Admin E Solution:** What is the primary function of Office365 DHCP?. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-E036",
+      "question": "Common protocol for Office365-Admin remote access?",
+      "options": [
+        "Correct Office365-Admin procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "e",
+      "explanation": "**Office365-Admin E Solution:** Common protocol for Office365-Admin remote access?. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-E037",
+      "question": "Common protocol for Office365-Admin remote access?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Office365-Admin procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "e",
+      "explanation": "**Office365-Admin E Solution:** Common protocol for Office365-Admin remote access?. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-E038",
+      "question": "What does Office365 ACL stand for?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Office365-Admin procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "e",
+      "explanation": "**Office365-Admin E Solution:** What does Office365 ACL stand for?. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-E039",
+      "question": "Common protocol for Office365-Admin remote access?",
+      "options": [
+        "Dangerous method",
+        "Correct Office365-Admin procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "e",
+      "explanation": "**Office365-Admin E Solution:** Common protocol for Office365-Admin remote access?. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-E040",
+      "question": "Which port does Office365-Admin service use by default?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Office365-Admin procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "e",
+      "explanation": "**Office365-Admin E Solution:** Which port does Office365-Admin service use by default?. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-E041",
+      "question": "Default subnet mask for Class C network in Office365-Admin?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Office365-Admin procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "e",
+      "explanation": "**Office365-Admin E Solution:** Default subnet mask for Class C network in Office365-Admin?. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-E042",
+      "question": "Default subnet mask for Class C network in Office365-Admin?",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Office365-Admin procedure"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "e",
+      "explanation": "**Office365-Admin E Solution:** Default subnet mask for Class C network in Office365-Admin?. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-E043",
+      "question": "What does Office365 ACL stand for?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Office365-Admin procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "e",
+      "explanation": "**Office365-Admin E Solution:** What does Office365 ACL stand for?. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-E044",
+      "question": "What is the primary function of Office365 DHCP?",
+      "options": [
+        "Partially correct",
+        "Correct Office365-Admin procedure",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "e",
+      "explanation": "**Office365-Admin E Solution:** What is the primary function of Office365 DHCP?. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-E045",
+      "question": "Common protocol for Office365-Admin remote access?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Office365-Admin procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "e",
+      "explanation": "**Office365-Admin E Solution:** Common protocol for Office365-Admin remote access?. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-E046",
+      "question": "Default subnet mask for Class C network in Office365-Admin?",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Office365-Admin procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "e",
+      "explanation": "**Office365-Admin E Solution:** Default subnet mask for Class C network in Office365-Admin?. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-E047",
+      "question": "What does Office365 ACL stand for?",
+      "options": [
+        "Dangerous method",
+        "Correct Office365-Admin procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "e",
+      "explanation": "**Office365-Admin E Solution:** What does Office365 ACL stand for?. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-E048",
+      "question": "What is the primary function of Office365 DHCP?",
+      "options": [
+        "Correct Office365-Admin procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "e",
+      "explanation": "**Office365-Admin E Solution:** What is the primary function of Office365 DHCP?. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-E049",
+      "question": "What is the primary function of Office365 DHCP?",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Office365-Admin procedure"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "e",
+      "explanation": "**Office365-Admin E Solution:** What is the primary function of Office365 DHCP?. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-E050",
+      "question": "What does Office365 ACL stand for?",
+      "options": [
+        "Correct Office365-Admin procedure",
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "e",
+      "explanation": "**Office365-Admin E Solution:** What does Office365 ACL stand for?. Always verify Office365-Admin documentation and test in lab environment first."
+    }
+  ],
+  "medium": [
+    {
+      "id": "Office365-Admin-M001",
+      "question": "Optimize Office365-Admin query performance",
+      "options": [
+        "Dangerous method",
+        "Correct Office365-Admin procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "m",
+      "explanation": "**Office365-Admin M Solution:** Optimize Office365-Admin query performance. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-M002",
+      "question": "Optimize Office365-Admin query performance",
+      "options": [
+        "Dangerous method",
+        "Correct Office365-Admin procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "m",
+      "explanation": "**Office365-Admin M Solution:** Optimize Office365-Admin query performance. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-M003",
+      "question": "Configure Office365-Admin load balancer for high availability",
+      "options": [
+        "Correct Office365-Admin procedure",
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "m",
+      "explanation": "**Office365-Admin M Solution:** Configure Office365-Admin load balancer for high availability. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-M004",
+      "question": "Configure Office365-Admin load balancer for high availability",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Office365-Admin procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "m",
+      "explanation": "**Office365-Admin M Solution:** Configure Office365-Admin load balancer for high availability. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-M005",
+      "question": "Optimize Office365-Admin query performance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Office365-Admin procedure"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "m",
+      "explanation": "**Office365-Admin M Solution:** Optimize Office365-Admin query performance. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-M006",
+      "question": "Configure Office365-Admin load balancer for high availability",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Correct Office365-Admin procedure",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "m",
+      "explanation": "**Office365-Admin M Solution:** Configure Office365-Admin load balancer for high availability. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-M007",
+      "question": "Set up Office365-Admin failover clustering",
+      "options": [
+        "Correct Office365-Admin procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "m",
+      "explanation": "**Office365-Admin M Solution:** Set up Office365-Admin failover clustering. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-M008",
+      "question": "Optimize Office365-Admin query performance",
+      "options": [
+        "Correct Office365-Admin procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "m",
+      "explanation": "**Office365-Admin M Solution:** Optimize Office365-Admin query performance. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-M009",
+      "question": "Troubleshoot Office365-Admin connectivity issue between VLANs",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Office365-Admin procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "m",
+      "explanation": "**Office365-Admin M Solution:** Troubleshoot Office365-Admin connectivity issue between VLANs. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-M010",
+      "question": "Configure Office365-Admin load balancer for high availability",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Office365-Admin procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "m",
+      "explanation": "**Office365-Admin M Solution:** Configure Office365-Admin load balancer for high availability. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-M011",
+      "question": "Set up Office365-Admin failover clustering",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Office365-Admin procedure"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "m",
+      "explanation": "**Office365-Admin M Solution:** Set up Office365-Admin failover clustering. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-M012",
+      "question": "Troubleshoot Office365-Admin connectivity issue between VLANs",
+      "options": [
+        "Correct Office365-Admin procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "m",
+      "explanation": "**Office365-Admin M Solution:** Troubleshoot Office365-Admin connectivity issue between VLANs. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-M013",
+      "question": "Troubleshoot Office365-Admin connectivity issue between VLANs",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Office365-Admin procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "m",
+      "explanation": "**Office365-Admin M Solution:** Troubleshoot Office365-Admin connectivity issue between VLANs. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-M014",
+      "question": "Implement Office365-Admin backup strategy for compliance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Office365-Admin procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "m",
+      "explanation": "**Office365-Admin M Solution:** Implement Office365-Admin backup strategy for compliance. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-M015",
+      "question": "Optimize Office365-Admin query performance",
+      "options": [
+        "Dangerous method",
+        "Correct Office365-Admin procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "m",
+      "explanation": "**Office365-Admin M Solution:** Optimize Office365-Admin query performance. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-M016",
+      "question": "Implement Office365-Admin backup strategy for compliance",
+      "options": [
+        "Partially correct",
+        "Correct Office365-Admin procedure",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "m",
+      "explanation": "**Office365-Admin M Solution:** Implement Office365-Admin backup strategy for compliance. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-M017",
+      "question": "Troubleshoot Office365-Admin connectivity issue between VLANs",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Office365-Admin procedure"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "m",
+      "explanation": "**Office365-Admin M Solution:** Troubleshoot Office365-Admin connectivity issue between VLANs. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-M018",
+      "question": "Configure Office365-Admin load balancer for high availability",
+      "options": [
+        "Dangerous method",
+        "Correct Office365-Admin procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "m",
+      "explanation": "**Office365-Admin M Solution:** Configure Office365-Admin load balancer for high availability. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-M019",
+      "question": "Configure Office365-Admin load balancer for high availability",
+      "options": [
+        "Dangerous method",
+        "Correct Office365-Admin procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "m",
+      "explanation": "**Office365-Admin M Solution:** Configure Office365-Admin load balancer for high availability. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-M020",
+      "question": "Troubleshoot Office365-Admin connectivity issue between VLANs",
+      "options": [
+        "Dangerous method",
+        "Correct Office365-Admin procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "m",
+      "explanation": "**Office365-Admin M Solution:** Troubleshoot Office365-Admin connectivity issue between VLANs. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-M021",
+      "question": "Troubleshoot Office365-Admin connectivity issue between VLANs",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Office365-Admin procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "m",
+      "explanation": "**Office365-Admin M Solution:** Troubleshoot Office365-Admin connectivity issue between VLANs. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-M022",
+      "question": "Optimize Office365-Admin query performance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Office365-Admin procedure"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "m",
+      "explanation": "**Office365-Admin M Solution:** Optimize Office365-Admin query performance. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-M023",
+      "question": "Set up Office365-Admin failover clustering",
+      "options": [
+        "Correct Office365-Admin procedure",
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "m",
+      "explanation": "**Office365-Admin M Solution:** Set up Office365-Admin failover clustering. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-M024",
+      "question": "Configure Office365-Admin load balancer for high availability",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Office365-Admin procedure"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "m",
+      "explanation": "**Office365-Admin M Solution:** Configure Office365-Admin load balancer for high availability. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-M025",
+      "question": "Implement Office365-Admin backup strategy for compliance",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Office365-Admin procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "m",
+      "explanation": "**Office365-Admin M Solution:** Implement Office365-Admin backup strategy for compliance. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-M026",
+      "question": "Optimize Office365-Admin query performance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Office365-Admin procedure"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "m",
+      "explanation": "**Office365-Admin M Solution:** Optimize Office365-Admin query performance. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-M027",
+      "question": "Set up Office365-Admin failover clustering",
+      "options": [
+        "Correct Office365-Admin procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "m",
+      "explanation": "**Office365-Admin M Solution:** Set up Office365-Admin failover clustering. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-M028",
+      "question": "Implement Office365-Admin backup strategy for compliance",
+      "options": [
+        "Dangerous method",
+        "Correct Office365-Admin procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "m",
+      "explanation": "**Office365-Admin M Solution:** Implement Office365-Admin backup strategy for compliance. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-M029",
+      "question": "Optimize Office365-Admin query performance",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Office365-Admin procedure"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "m",
+      "explanation": "**Office365-Admin M Solution:** Optimize Office365-Admin query performance. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-M030",
+      "question": "Optimize Office365-Admin query performance",
+      "options": [
+        "Correct Office365-Admin procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "m",
+      "explanation": "**Office365-Admin M Solution:** Optimize Office365-Admin query performance. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-M031",
+      "question": "Optimize Office365-Admin query performance",
+      "options": [
+        "Correct Office365-Admin procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "m",
+      "explanation": "**Office365-Admin M Solution:** Optimize Office365-Admin query performance. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-M032",
+      "question": "Configure Office365-Admin load balancer for high availability",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Correct Office365-Admin procedure",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "m",
+      "explanation": "**Office365-Admin M Solution:** Configure Office365-Admin load balancer for high availability. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-M033",
+      "question": "Troubleshoot Office365-Admin connectivity issue between VLANs",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Office365-Admin procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "m",
+      "explanation": "**Office365-Admin M Solution:** Troubleshoot Office365-Admin connectivity issue between VLANs. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-M034",
+      "question": "Configure Office365-Admin load balancer for high availability",
+      "options": [
+        "Correct Office365-Admin procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "m",
+      "explanation": "**Office365-Admin M Solution:** Configure Office365-Admin load balancer for high availability. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-M035",
+      "question": "Optimize Office365-Admin query performance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Office365-Admin procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "m",
+      "explanation": "**Office365-Admin M Solution:** Optimize Office365-Admin query performance. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-M036",
+      "question": "Troubleshoot Office365-Admin connectivity issue between VLANs",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Office365-Admin procedure"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "m",
+      "explanation": "**Office365-Admin M Solution:** Troubleshoot Office365-Admin connectivity issue between VLANs. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-M037",
+      "question": "Implement Office365-Admin backup strategy for compliance",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Office365-Admin procedure"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "m",
+      "explanation": "**Office365-Admin M Solution:** Implement Office365-Admin backup strategy for compliance. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-M038",
+      "question": "Set up Office365-Admin failover clustering",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Office365-Admin procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "m",
+      "explanation": "**Office365-Admin M Solution:** Set up Office365-Admin failover clustering. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-M039",
+      "question": "Set up Office365-Admin failover clustering",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Office365-Admin procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "m",
+      "explanation": "**Office365-Admin M Solution:** Set up Office365-Admin failover clustering. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-M040",
+      "question": "Set up Office365-Admin failover clustering",
+      "options": [
+        "Correct Office365-Admin procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "m",
+      "explanation": "**Office365-Admin M Solution:** Set up Office365-Admin failover clustering. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-M041",
+      "question": "Optimize Office365-Admin query performance",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Office365-Admin procedure"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "m",
+      "explanation": "**Office365-Admin M Solution:** Optimize Office365-Admin query performance. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-M042",
+      "question": "Optimize Office365-Admin query performance",
+      "options": [
+        "Dangerous method",
+        "Correct Office365-Admin procedure",
+        "Incorrect approach",
+        "Partially correct"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "m",
+      "explanation": "**Office365-Admin M Solution:** Optimize Office365-Admin query performance. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-M043",
+      "question": "Set up Office365-Admin failover clustering",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Office365-Admin procedure"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "m",
+      "explanation": "**Office365-Admin M Solution:** Set up Office365-Admin failover clustering. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-M044",
+      "question": "Configure Office365-Admin load balancer for high availability",
+      "options": [
+        "Correct Office365-Admin procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "m",
+      "explanation": "**Office365-Admin M Solution:** Configure Office365-Admin load balancer for high availability. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-M045",
+      "question": "Optimize Office365-Admin query performance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Office365-Admin procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "m",
+      "explanation": "**Office365-Admin M Solution:** Optimize Office365-Admin query performance. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-M046",
+      "question": "Set up Office365-Admin failover clustering",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Office365-Admin procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "m",
+      "explanation": "**Office365-Admin M Solution:** Set up Office365-Admin failover clustering. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-M047",
+      "question": "Implement Office365-Admin backup strategy for compliance",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Correct Office365-Admin procedure",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "m",
+      "explanation": "**Office365-Admin M Solution:** Implement Office365-Admin backup strategy for compliance. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-M048",
+      "question": "Implement Office365-Admin backup strategy for compliance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Office365-Admin procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "m",
+      "explanation": "**Office365-Admin M Solution:** Implement Office365-Admin backup strategy for compliance. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-M049",
+      "question": "Optimize Office365-Admin query performance",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Office365-Admin procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "m",
+      "explanation": "**Office365-Admin M Solution:** Optimize Office365-Admin query performance. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-M050",
+      "question": "Configure Office365-Admin load balancer for high availability",
+      "options": [
+        "Correct Office365-Admin procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "m",
+      "explanation": "**Office365-Admin M Solution:** Configure Office365-Admin load balancer for high availability. Always verify Office365-Admin documentation and test in lab environment first."
+    }
+  ],
+  "hard": [
+    {
+      "id": "Office365-Admin-H001",
+      "question": "Optimize Office365-Admin performance under DDoS attack",
+      "options": [
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method",
+        "Correct Office365-Admin procedure"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "h",
+      "explanation": "**Office365-Admin H Solution:** Optimize Office365-Admin performance under DDoS attack. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-H002",
+      "question": "Create disaster recovery plan with RTO < 15min for Office365-Admin",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Office365-Admin procedure"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "h",
+      "explanation": "**Office365-Admin H Solution:** Create disaster recovery plan with RTO < 15min for Office365-Admin. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-H003",
+      "question": "Design Office365-Admin architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Dangerous method",
+        "Correct Office365-Admin procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "h",
+      "explanation": "**Office365-Admin H Solution:** Design Office365-Admin architecture for 10k users with 99.99% uptime. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-H004",
+      "question": "Migrate legacy Office365-Admin systems to cloud-native architecture",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Office365-Admin procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "h",
+      "explanation": "**Office365-Admin H Solution:** Migrate legacy Office365-Admin systems to cloud-native architecture. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-H005",
+      "question": "Design Office365-Admin architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Office365-Admin procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "h",
+      "explanation": "**Office365-Admin H Solution:** Design Office365-Admin architecture for 10k users with 99.99% uptime. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-H006",
+      "question": "Design Office365-Admin architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Office365-Admin procedure"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "h",
+      "explanation": "**Office365-Admin H Solution:** Design Office365-Admin architecture for 10k users with 99.99% uptime. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-H007",
+      "question": "Create disaster recovery plan with RTO < 15min for Office365-Admin",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Office365-Admin procedure"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "h",
+      "explanation": "**Office365-Admin H Solution:** Create disaster recovery plan with RTO < 15min for Office365-Admin. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-H008",
+      "question": "Migrate legacy Office365-Admin systems to cloud-native architecture",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Office365-Admin procedure"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "h",
+      "explanation": "**Office365-Admin H Solution:** Migrate legacy Office365-Admin systems to cloud-native architecture. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-H009",
+      "question": "Create disaster recovery plan with RTO < 15min for Office365-Admin",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Office365-Admin procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "h",
+      "explanation": "**Office365-Admin H Solution:** Create disaster recovery plan with RTO < 15min for Office365-Admin. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-H010",
+      "question": "Create disaster recovery plan with RTO < 15min for Office365-Admin",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Office365-Admin procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "h",
+      "explanation": "**Office365-Admin H Solution:** Create disaster recovery plan with RTO < 15min for Office365-Admin. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-H011",
+      "question": "Migrate legacy Office365-Admin systems to cloud-native architecture",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Office365-Admin procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "h",
+      "explanation": "**Office365-Admin H Solution:** Migrate legacy Office365-Admin systems to cloud-native architecture. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-H012",
+      "question": "Optimize Office365-Admin performance under DDoS attack",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Office365-Admin procedure"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "h",
+      "explanation": "**Office365-Admin H Solution:** Optimize Office365-Admin performance under DDoS attack. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-H013",
+      "question": "Implement zero-trust security model in Office365-Admin",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Office365-Admin procedure"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "h",
+      "explanation": "**Office365-Admin H Solution:** Implement zero-trust security model in Office365-Admin. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-H014",
+      "question": "Migrate legacy Office365-Admin systems to cloud-native architecture",
+      "options": [
+        "Dangerous method",
+        "Correct Office365-Admin procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "h",
+      "explanation": "**Office365-Admin H Solution:** Migrate legacy Office365-Admin systems to cloud-native architecture. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-H015",
+      "question": "Design Office365-Admin architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Dangerous method",
+        "Correct Office365-Admin procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "h",
+      "explanation": "**Office365-Admin H Solution:** Design Office365-Admin architecture for 10k users with 99.99% uptime. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-H016",
+      "question": "Migrate legacy Office365-Admin systems to cloud-native architecture",
+      "options": [
+        "Incorrect approach",
+        "Correct Office365-Admin procedure",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "h",
+      "explanation": "**Office365-Admin H Solution:** Migrate legacy Office365-Admin systems to cloud-native architecture. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-H017",
+      "question": "Migrate legacy Office365-Admin systems to cloud-native architecture",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Correct Office365-Admin procedure",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "h",
+      "explanation": "**Office365-Admin H Solution:** Migrate legacy Office365-Admin systems to cloud-native architecture. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-H018",
+      "question": "Design Office365-Admin architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Correct Office365-Admin procedure",
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "h",
+      "explanation": "**Office365-Admin H Solution:** Design Office365-Admin architecture for 10k users with 99.99% uptime. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-H019",
+      "question": "Design Office365-Admin architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Office365-Admin procedure"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "h",
+      "explanation": "**Office365-Admin H Solution:** Design Office365-Admin architecture for 10k users with 99.99% uptime. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-H020",
+      "question": "Migrate legacy Office365-Admin systems to cloud-native architecture",
+      "options": [
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Office365-Admin procedure"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "h",
+      "explanation": "**Office365-Admin H Solution:** Migrate legacy Office365-Admin systems to cloud-native architecture. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-H021",
+      "question": "Design Office365-Admin architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Partially correct",
+        "Correct Office365-Admin procedure",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "h",
+      "explanation": "**Office365-Admin H Solution:** Design Office365-Admin architecture for 10k users with 99.99% uptime. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-H022",
+      "question": "Create disaster recovery plan with RTO < 15min for Office365-Admin",
+      "options": [
+        "Correct Office365-Admin procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "h",
+      "explanation": "**Office365-Admin H Solution:** Create disaster recovery plan with RTO < 15min for Office365-Admin. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-H023",
+      "question": "Migrate legacy Office365-Admin systems to cloud-native architecture",
+      "options": [
+        "Correct Office365-Admin procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "h",
+      "explanation": "**Office365-Admin H Solution:** Migrate legacy Office365-Admin systems to cloud-native architecture. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-H024",
+      "question": "Design Office365-Admin architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Correct Office365-Admin procedure",
+        "Partially correct",
+        "Dangerous method",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "h",
+      "explanation": "**Office365-Admin H Solution:** Design Office365-Admin architecture for 10k users with 99.99% uptime. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-H025",
+      "question": "Optimize Office365-Admin performance under DDoS attack",
+      "options": [
+        "Correct Office365-Admin procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "h",
+      "explanation": "**Office365-Admin H Solution:** Optimize Office365-Admin performance under DDoS attack. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-H026",
+      "question": "Design Office365-Admin architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Dangerous method",
+        "Correct Office365-Admin procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "h",
+      "explanation": "**Office365-Admin H Solution:** Design Office365-Admin architecture for 10k users with 99.99% uptime. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-H027",
+      "question": "Design Office365-Admin architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Office365-Admin procedure"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "h",
+      "explanation": "**Office365-Admin H Solution:** Design Office365-Admin architecture for 10k users with 99.99% uptime. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-H028",
+      "question": "Design Office365-Admin architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Dangerous method",
+        "Correct Office365-Admin procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "h",
+      "explanation": "**Office365-Admin H Solution:** Design Office365-Admin architecture for 10k users with 99.99% uptime. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-H029",
+      "question": "Design Office365-Admin architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Office365-Admin procedure"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "h",
+      "explanation": "**Office365-Admin H Solution:** Design Office365-Admin architecture for 10k users with 99.99% uptime. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-H030",
+      "question": "Design Office365-Admin architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Correct Office365-Admin procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "h",
+      "explanation": "**Office365-Admin H Solution:** Design Office365-Admin architecture for 10k users with 99.99% uptime. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-H031",
+      "question": "Optimize Office365-Admin performance under DDoS attack",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Office365-Admin procedure"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "h",
+      "explanation": "**Office365-Admin H Solution:** Optimize Office365-Admin performance under DDoS attack. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-H032",
+      "question": "Design Office365-Admin architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Dangerous method",
+        "Correct Office365-Admin procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "h",
+      "explanation": "**Office365-Admin H Solution:** Design Office365-Admin architecture for 10k users with 99.99% uptime. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-H033",
+      "question": "Migrate legacy Office365-Admin systems to cloud-native architecture",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Office365-Admin procedure"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "h",
+      "explanation": "**Office365-Admin H Solution:** Migrate legacy Office365-Admin systems to cloud-native architecture. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-H034",
+      "question": "Migrate legacy Office365-Admin systems to cloud-native architecture",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Office365-Admin procedure"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "h",
+      "explanation": "**Office365-Admin H Solution:** Migrate legacy Office365-Admin systems to cloud-native architecture. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-H035",
+      "question": "Optimize Office365-Admin performance under DDoS attack",
+      "options": [
+        "Correct Office365-Admin procedure",
+        "Partially correct",
+        "Incorrect approach",
+        "Dangerous method"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "h",
+      "explanation": "**Office365-Admin H Solution:** Optimize Office365-Admin performance under DDoS attack. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-H036",
+      "question": "Create disaster recovery plan with RTO < 15min for Office365-Admin",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Office365-Admin procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "h",
+      "explanation": "**Office365-Admin H Solution:** Create disaster recovery plan with RTO < 15min for Office365-Admin. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-H037",
+      "question": "Design Office365-Admin architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Dangerous method",
+        "Incorrect approach",
+        "Correct Office365-Admin procedure",
+        "Partially correct"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "h",
+      "explanation": "**Office365-Admin H Solution:** Design Office365-Admin architecture for 10k users with 99.99% uptime. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-H038",
+      "question": "Implement zero-trust security model in Office365-Admin",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Office365-Admin procedure"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "h",
+      "explanation": "**Office365-Admin H Solution:** Implement zero-trust security model in Office365-Admin. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-H039",
+      "question": "Optimize Office365-Admin performance under DDoS attack",
+      "options": [
+        "Incorrect approach",
+        "Dangerous method",
+        "Partially correct",
+        "Correct Office365-Admin procedure"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "h",
+      "explanation": "**Office365-Admin H Solution:** Optimize Office365-Admin performance under DDoS attack. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-H040",
+      "question": "Implement zero-trust security model in Office365-Admin",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Office365-Admin procedure"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "h",
+      "explanation": "**Office365-Admin H Solution:** Implement zero-trust security model in Office365-Admin. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-H041",
+      "question": "Implement zero-trust security model in Office365-Admin",
+      "options": [
+        "Dangerous method",
+        "Correct Office365-Admin procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "h",
+      "explanation": "**Office365-Admin H Solution:** Implement zero-trust security model in Office365-Admin. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-H042",
+      "question": "Implement zero-trust security model in Office365-Admin",
+      "options": [
+        "Dangerous method",
+        "Correct Office365-Admin procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "h",
+      "explanation": "**Office365-Admin H Solution:** Implement zero-trust security model in Office365-Admin. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-H043",
+      "question": "Optimize Office365-Admin performance under DDoS attack",
+      "options": [
+        "Incorrect approach",
+        "Correct Office365-Admin procedure",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "h",
+      "explanation": "**Office365-Admin H Solution:** Optimize Office365-Admin performance under DDoS attack. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-H044",
+      "question": "Design Office365-Admin architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Correct Office365-Admin procedure",
+        "Dangerous method"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "h",
+      "explanation": "**Office365-Admin H Solution:** Design Office365-Admin architecture for 10k users with 99.99% uptime. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-H045",
+      "question": "Create disaster recovery plan with RTO < 15min for Office365-Admin",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Office365-Admin procedure"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "h",
+      "explanation": "**Office365-Admin H Solution:** Create disaster recovery plan with RTO < 15min for Office365-Admin. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-H046",
+      "question": "Design Office365-Admin architecture for 10k users with 99.99% uptime",
+      "options": [
+        "Dangerous method",
+        "Correct Office365-Admin procedure",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "h",
+      "explanation": "**Office365-Admin H Solution:** Design Office365-Admin architecture for 10k users with 99.99% uptime. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-H047",
+      "question": "Optimize Office365-Admin performance under DDoS attack",
+      "options": [
+        "Correct Office365-Admin procedure",
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "h",
+      "explanation": "**Office365-Admin H Solution:** Optimize Office365-Admin performance under DDoS attack. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-H048",
+      "question": "Create disaster recovery plan with RTO < 15min for Office365-Admin",
+      "options": [
+        "Correct Office365-Admin procedure",
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "h",
+      "explanation": "**Office365-Admin H Solution:** Create disaster recovery plan with RTO < 15min for Office365-Admin. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-H049",
+      "question": "Create disaster recovery plan with RTO < 15min for Office365-Admin",
+      "options": [
+        "Incorrect approach",
+        "Partially correct",
+        "Dangerous method",
+        "Correct Office365-Admin procedure"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "h",
+      "explanation": "**Office365-Admin H Solution:** Create disaster recovery plan with RTO < 15min for Office365-Admin. Always verify Office365-Admin documentation and test in lab environment first."
+    },
+    {
+      "id": "Office365-Admin-H050",
+      "question": "Create disaster recovery plan with RTO < 15min for Office365-Admin",
+      "options": [
+        "Dangerous method",
+        "Partially correct",
+        "Incorrect approach",
+        "Correct Office365-Admin procedure"
+      ],
+      "answer": "Correct Office365-Admin procedure",
+      "difficulty": "h",
+      "explanation": "**Office365-Admin H Solution:** Create disaster recovery plan with RTO < 15min for Office365-Admin. Always verify Office365-Admin documentation and test in lab environment first."
+    }
+  ],
+  "scenarios": [
+    {
+      "id": "Office365-Admin-S01-01",
+      "question": "1. Backup failure during scheduled window in Office365-Admin environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S01-02",
+      "question": "1. Backup failure during scheduled window in Office365-Admin environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S01-03",
+      "question": "1. Backup failure during scheduled window in Office365-Admin environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S01-04",
+      "question": "1. Backup failure during scheduled window in Office365-Admin environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S01-05",
+      "question": "1. Backup failure during scheduled window in Office365-Admin environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S02-01",
+      "question": "2. Backup failure during scheduled window in Office365-Admin environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S02-02",
+      "question": "2. Backup failure during scheduled window in Office365-Admin environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S02-03",
+      "question": "2. Backup failure during scheduled window in Office365-Admin environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S02-04",
+      "question": "2. Backup failure during scheduled window in Office365-Admin environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S02-05",
+      "question": "2. Backup failure during scheduled window in Office365-Admin environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S03-01",
+      "question": "3. Cloud migration failure: rollback strategy in Office365-Admin environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S03-02",
+      "question": "3. Cloud migration failure: rollback strategy in Office365-Admin environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S03-03",
+      "question": "3. Cloud migration failure: rollback strategy in Office365-Admin environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S03-04",
+      "question": "3. Cloud migration failure: rollback strategy in Office365-Admin environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S03-05",
+      "question": "3. Cloud migration failure: rollback strategy in Office365-Admin environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S04-01",
+      "question": "4. VPN connectivity failure for remote users in Office365-Admin environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S04-02",
+      "question": "4. VPN connectivity failure for remote users in Office365-Admin environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S04-03",
+      "question": "4. VPN connectivity failure for remote users in Office365-Admin environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S04-04",
+      "question": "4. VPN connectivity failure for remote users in Office365-Admin environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S04-05",
+      "question": "4. VPN connectivity failure for remote users in Office365-Admin environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S05-01",
+      "question": "5. Security incident response: ransomware attack detected in Office365-Admin environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S05-02",
+      "question": "5. Security incident response: ransomware attack detected in Office365-Admin environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S05-03",
+      "question": "5. Security incident response: ransomware attack detected in Office365-Admin environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S05-04",
+      "question": "5. Security incident response: ransomware attack detected in Office365-Admin environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S05-05",
+      "question": "5. Security incident response: ransomware attack detected in Office365-Admin environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S06-01",
+      "question": "6. Security incident response: ransomware attack detected in Office365-Admin environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S06-02",
+      "question": "6. Security incident response: ransomware attack detected in Office365-Admin environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S06-03",
+      "question": "6. Security incident response: ransomware attack detected in Office365-Admin environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S06-04",
+      "question": "6. Security incident response: ransomware attack detected in Office365-Admin environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S06-05",
+      "question": "6. Security incident response: ransomware attack detected in Office365-Admin environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S07-01",
+      "question": "7. Production outage during peak hours: diagnose and resolve in Office365-Admin environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S07-02",
+      "question": "7. Production outage during peak hours: diagnose and resolve in Office365-Admin environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S07-03",
+      "question": "7. Production outage during peak hours: diagnose and resolve in Office365-Admin environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S07-04",
+      "question": "7. Production outage during peak hours: diagnose and resolve in Office365-Admin environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S07-05",
+      "question": "7. Production outage during peak hours: diagnose and resolve in Office365-Admin environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S08-01",
+      "question": "8. Load balancer health check failing in Office365-Admin environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S08-02",
+      "question": "8. Load balancer health check failing in Office365-Admin environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S08-03",
+      "question": "8. Load balancer health check failing in Office365-Admin environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S08-04",
+      "question": "8. Load balancer health check failing in Office365-Admin environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S08-05",
+      "question": "8. Load balancer health check failing in Office365-Admin environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S09-01",
+      "question": "9. Database performance degradation after upgrade in Office365-Admin environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S09-02",
+      "question": "9. Database performance degradation after upgrade in Office365-Admin environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S09-03",
+      "question": "9. Database performance degradation after upgrade in Office365-Admin environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S09-04",
+      "question": "9. Database performance degradation after upgrade in Office365-Admin environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S09-05",
+      "question": "9. Database performance degradation after upgrade in Office365-Admin environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S10-01",
+      "question": "10. Security incident response: ransomware attack detected in Office365-Admin environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S10-02",
+      "question": "10. Security incident response: ransomware attack detected in Office365-Admin environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S10-03",
+      "question": "10. Security incident response: ransomware attack detected in Office365-Admin environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S10-04",
+      "question": "10. Security incident response: ransomware attack detected in Office365-Admin environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S10-05",
+      "question": "10. Security incident response: ransomware attack detected in Office365-Admin environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S11-01",
+      "question": "11. Security incident response: ransomware attack detected in Office365-Admin environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S11-02",
+      "question": "11. Security incident response: ransomware attack detected in Office365-Admin environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S11-03",
+      "question": "11. Security incident response: ransomware attack detected in Office365-Admin environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S11-04",
+      "question": "11. Security incident response: ransomware attack detected in Office365-Admin environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S11-05",
+      "question": "11. Security incident response: ransomware attack detected in Office365-Admin environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S12-01",
+      "question": "12. VPN connectivity failure for remote users in Office365-Admin environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S12-02",
+      "question": "12. VPN connectivity failure for remote users in Office365-Admin environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S12-03",
+      "question": "12. VPN connectivity failure for remote users in Office365-Admin environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S12-04",
+      "question": "12. VPN connectivity failure for remote users in Office365-Admin environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S12-05",
+      "question": "12. VPN connectivity failure for remote users in Office365-Admin environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S13-01",
+      "question": "13. VPN connectivity failure for remote users in Office365-Admin environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S13-02",
+      "question": "13. VPN connectivity failure for remote users in Office365-Admin environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S13-03",
+      "question": "13. VPN connectivity failure for remote users in Office365-Admin environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S13-04",
+      "question": "13. VPN connectivity failure for remote users in Office365-Admin environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S13-05",
+      "question": "13. VPN connectivity failure for remote users in Office365-Admin environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S14-01",
+      "question": "14. VPN connectivity failure for remote users in Office365-Admin environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S14-02",
+      "question": "14. VPN connectivity failure for remote users in Office365-Admin environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S14-03",
+      "question": "14. VPN connectivity failure for remote users in Office365-Admin environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S14-04",
+      "question": "14. VPN connectivity failure for remote users in Office365-Admin environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S14-05",
+      "question": "14. VPN connectivity failure for remote users in Office365-Admin environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S15-01",
+      "question": "15. Database performance degradation after upgrade in Office365-Admin environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S15-02",
+      "question": "15. Database performance degradation after upgrade in Office365-Admin environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S15-03",
+      "question": "15. Database performance degradation after upgrade in Office365-Admin environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S15-04",
+      "question": "15. Database performance degradation after upgrade in Office365-Admin environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S15-05",
+      "question": "15. Database performance degradation after upgrade in Office365-Admin environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S16-01",
+      "question": "16. Cloud migration failure: rollback strategy in Office365-Admin environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S16-02",
+      "question": "16. Cloud migration failure: rollback strategy in Office365-Admin environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S16-03",
+      "question": "16. Cloud migration failure: rollback strategy in Office365-Admin environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S16-04",
+      "question": "16. Cloud migration failure: rollback strategy in Office365-Admin environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S16-05",
+      "question": "16. Cloud migration failure: rollback strategy in Office365-Admin environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S17-01",
+      "question": "17. Firewall blocking legitimate traffic in Office365-Admin environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S17-02",
+      "question": "17. Firewall blocking legitimate traffic in Office365-Admin environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S17-03",
+      "question": "17. Firewall blocking legitimate traffic in Office365-Admin environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S17-04",
+      "question": "17. Firewall blocking legitimate traffic in Office365-Admin environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S17-05",
+      "question": "17. Firewall blocking legitimate traffic in Office365-Admin environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S18-01",
+      "question": "18. Cloud migration failure: rollback strategy in Office365-Admin environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S18-02",
+      "question": "18. Cloud migration failure: rollback strategy in Office365-Admin environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S18-03",
+      "question": "18. Cloud migration failure: rollback strategy in Office365-Admin environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S18-04",
+      "question": "18. Cloud migration failure: rollback strategy in Office365-Admin environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S18-05",
+      "question": "18. Cloud migration failure: rollback strategy in Office365-Admin environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S19-01",
+      "question": "19. Security incident response: ransomware attack detected in Office365-Admin environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S19-02",
+      "question": "19. Security incident response: ransomware attack detected in Office365-Admin environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S19-03",
+      "question": "19. Security incident response: ransomware attack detected in Office365-Admin environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S19-04",
+      "question": "19. Security incident response: ransomware attack detected in Office365-Admin environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S19-05",
+      "question": "19. Security incident response: ransomware attack detected in Office365-Admin environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S20-01",
+      "question": "20. Backup failure during scheduled window in Office365-Admin environment. **Step 1:** First diagnostic command/logs to check?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S20-02",
+      "question": "20. Backup failure during scheduled window in Office365-Admin environment. **Step 2:** Most likely root cause?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S20-03",
+      "question": "20. Backup failure during scheduled window in Office365-Admin environment. **Step 3:** Immediate mitigation action?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S20-04",
+      "question": "20. Backup failure during scheduled window in Office365-Admin environment. **Step 4:** Verification test post-fix?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    },
+    {
+      "id": "Office365-Admin-S20-05",
+      "question": "20. Backup failure during scheduled window in Office365-Admin environment. **Step 5:** Prevention measure?",
+      "options": [
+        "Skip diagnostics",
+        "Restart services",
+        "Follow Office365-Admin troubleshooting methodology",
+        "Ignore alerts"
+      ],
+      "answer": "Follow Office365-Admin troubleshooting methodology",
+      "difficulty": "medium",
+      "explanation": "**Production Scenario Solution:** Systematic troubleshooting per Office365-Admin best practices. Document all steps for RCA."
+    }
+  ]
+}

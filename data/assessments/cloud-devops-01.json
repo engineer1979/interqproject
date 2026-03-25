@@ -1,0 +1,83 @@
+[
+  {
+    "id": "CLD-001-E1",
+    "question": "Which of the following is a managed relational database service in AWS?",
+    "options": ["RDS", "S3", "EC2", "Lambda"],
+    "answer": "RDS",
+    "explanation": "Amazon RDS (Relational Database Service) is a distributed relational database service by AWS that simplifies setup, operation, and scaling of databases like MySQL, PostgreSQL, etc.",
+    "tag": "AWS",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "CLD-001-E2",
+    "question": "What is the primary purpose of 'Docker'?",
+    "options": ["Creating and managing software containers", "Managing virtual machines", "Automating code compilation", "Backing up server data"],
+    "answer": "Creating and managing software containers",
+    "explanation": "Docker is a platform for developing, shipping, and running applications in containers, which are lightweight and portable.",
+    "tag": "Docker",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "CLD-001-E3",
+    "question": "Which of these is a popular CI/CD tool?",
+    "options": ["Jenkins", "Excel", "Photoshop", "Outlook"],
+    "answer": "Jenkins",
+    "explanation": "Jenkins is an open-source automation server commonly used for building, testing, and deploying code in a CI/CD pipeline.",
+    "tag": "CI/CD",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "CLD-001-M1",
+    "question": "What is 'Infrastructure as Code' (IaC)?",
+    "options": ["Managing infrastructure through machine-readable definition files", "Writing code to fix server hardware", "Using a GUI to configure servers", "Storing code in the cloud"],
+    "answer": "Managing infrastructure through machine-readable definition files",
+    "explanation": "IaC allows you to automate the provisioning and management of your infrastructure (servers, networks, etc.) using code, ensuring consistency and version control (e.g., Terraform, CloudFormation).",
+    "tag": "DevOps",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CLD-001-M2",
+    "question": "In Kubernetes, what is a 'Pod'?",
+    "options": ["The smallest deployable unit that can contain one or more containers", "A specialized network router", "A tool for monitoring logs", "A type of persistent storage"],
+    "answer": "The smallest deployable unit that can contain one or more containers",
+    "explanation": "A Pod is the basic execution unit of a Kubernetes application—the smallest and simplest unit in the Kubernetes object model that you create or deploy.",
+    "tag": "Kubernetes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CLD-001-M3",
+    "question": "What is the function of the 'Terraform State File'?",
+    "options": ["Keeping track of the current status of managed resources", "Storing user passwords", "Defining the desired infrastructure", "Generating reports for stakeholders"],
+    "answer": "Keeping track of the current status of managed resources",
+    "explanation": "The state file (terraform.tfstate) is used by Terraform to map real-world resources to your configuration, allowing it to determine which changes need to be applied.",
+    "tag": "IaC",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CLD-001-H1",
+    "question": "What is the primary difference between 'Blue-Green Deployment' and 'Canary Deployment'?",
+    "options": ["Blue-Green switches all traffic at once; Canary rolls out to a small subset first", "Blue-Green is for frontend only; Canary for backend", "Canary is faster than Blue-Green", "There is no difference"],
+    "answer": "Blue-Green switches all traffic at once; Canary rolls out to a small subset first",
+    "explanation": "Blue-Green maintains two identical environments and switches traffic between them. Canary gradually routes traffic to a new version of the code for a subset of users to test in production.",
+    "tag": "Deployment",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CLD-001-H2",
+    "question": "Which of the following is most effective for scaling an application that experiences sudden, unpredictable load spikes?",
+    "options": ["Serverless (e.g., AWS Lambda)", "Manual scaling", "Static server farm", "A larger single instance"],
+    "answer": "Serverless (e.g., AWS Lambda)",
+    "explanation": "Serverless computing automatically handles the scaling process, allowing you to run code in response to events without managing the underlying servers or their capacity.",
+    "tag": "Advanced Cloud",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CLD-001-H3",
+    "question": "What is 'Prometheus' primarily used for in a DevOps environment?",
+    "options": ["Monitoring and alerting for cloud-native applications", "Managing container images", "Encrypting sensitive data", "Provisioning network resources"],
+    "answer": "Monitoring and alerting for cloud-native applications",
+    "explanation": "Prometheus is a popular open-source monitoring system and time-series database optimized for modern, containerized environments.",
+    "tag": "Monitoring",
+    "difficulty": "Hard"
+  }
+]

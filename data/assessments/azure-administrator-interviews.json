@@ -1,0 +1,210 @@
+[
+  {
+    "id": "Azure-Administrator-I01",
+    "title": "Azure-Administrator Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Azure-Administrator certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain Azure-Administrator HA design",
+      "Troubleshoot Azure-Administrator outage",
+      "Scale Azure-Administrator for 100k users"
+    ],
+    "expected_skills": [
+      "Production Azure-Administrator experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Azure-Administrator-I02",
+    "title": "Azure-Administrator Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Azure-Administrator certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain Azure-Administrator HA design",
+      "Troubleshoot Azure-Administrator outage",
+      "Scale Azure-Administrator for 100k users"
+    ],
+    "expected_skills": [
+      "Production Azure-Administrator experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Azure-Administrator-I03",
+    "title": "Azure-Administrator Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Azure-Administrator certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain Azure-Administrator HA design",
+      "Troubleshoot Azure-Administrator outage",
+      "Scale Azure-Administrator for 100k users"
+    ],
+    "expected_skills": [
+      "Production Azure-Administrator experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Azure-Administrator-I04",
+    "title": "Azure-Administrator Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Azure-Administrator certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain Azure-Administrator HA design",
+      "Troubleshoot Azure-Administrator outage",
+      "Scale Azure-Administrator for 100k users"
+    ],
+    "expected_skills": [
+      "Production Azure-Administrator experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Azure-Administrator-I05",
+    "title": "Azure-Administrator Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Azure-Administrator certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain Azure-Administrator HA design",
+      "Troubleshoot Azure-Administrator outage",
+      "Scale Azure-Administrator for 100k users"
+    ],
+    "expected_skills": [
+      "Production Azure-Administrator experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Azure-Administrator-I06",
+    "title": "Azure-Administrator Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Azure-Administrator certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain Azure-Administrator HA design",
+      "Troubleshoot Azure-Administrator outage",
+      "Scale Azure-Administrator for 100k users"
+    ],
+    "expected_skills": [
+      "Production Azure-Administrator experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Azure-Administrator-I07",
+    "title": "Azure-Administrator Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Azure-Administrator certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain Azure-Administrator HA design",
+      "Troubleshoot Azure-Administrator outage",
+      "Scale Azure-Administrator for 100k users"
+    ],
+    "expected_skills": [
+      "Production Azure-Administrator experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Azure-Administrator-I08",
+    "title": "Azure-Administrator Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Azure-Administrator certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain Azure-Administrator HA design",
+      "Troubleshoot Azure-Administrator outage",
+      "Scale Azure-Administrator for 100k users"
+    ],
+    "expected_skills": [
+      "Production Azure-Administrator experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Azure-Administrator-I09",
+    "title": "Azure-Administrator Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Azure-Administrator certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain Azure-Administrator HA design",
+      "Troubleshoot Azure-Administrator outage",
+      "Scale Azure-Administrator for 100k users"
+    ],
+    "expected_skills": [
+      "Production Azure-Administrator experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Azure-Administrator-I10",
+    "title": "Azure-Administrator Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Azure-Administrator certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain Azure-Administrator HA design",
+      "Troubleshoot Azure-Administrator outage",
+      "Scale Azure-Administrator for 100k users"
+    ],
+    "expected_skills": [
+      "Production Azure-Administrator experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  }
+]

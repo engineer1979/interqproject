@@ -1,0 +1,212 @@
+[
+  {
+    "id": "Google-Cloud-Associate-I01",
+    "title": "Google-Cloud-Associate Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Google-Cloud-Associate certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain Google-Cloud-Associate HA design",
+      "Troubleshoot Google-Cloud-Associate outage",
+      "Scale Google-Cloud-Associate for 100k users"
+    ],
+    "expected_skills": [
+      "Production Google-Cloud-Associate experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Google-Cloud-Associate-I02",
+    "title": "Google-Cloud-Associate Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Google-Cloud-Associate certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain Google-Cloud-Associate HA design",
+      "Troubleshoot Google-Cloud-Associate outage",
+      "Scale Google-Cloud-Associate for 100k users"
+    ],
+    "expected_skills": [
+      "Production Google-Cloud-Associate experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Google-Cloud-Associate-I03",
+    "title": "Google-Cloud-Associate Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Google-Cloud-Associate certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain Google-Cloud-Associate HA design",
+      "Troubleshoot Google-Cloud-Associate outage",
+      "Scale Google-Cloud-Associate for 100k users"
+    ],
+    "expected_skills": [
+      "Production Google-Cloud-Associate experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Google-Cloud-Associate-I04",
+    "title": "Google-Cloud-Associate Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Google-Cloud-Associate certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain Google-Cloud-Associate HA design",
+      "Troubleshoot Google-Cloud-Associate outage",
+      "Scale Google-Cloud-Associate for 100k users"
+    ],
+    "expected_skills": [
+      "Production Google-Cloud-Associate experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Google-Cloud-Associate-I05",
+    "title": "Google-Cloud-Associate Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Google-Cloud-Associate certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain Google-Cloud-Associate HA design",
+      "Troubleshoot Google-Cloud-Associate outage",
+      "Scale Google-Cloud-Associate for 100k users"
+    ],
+    "expected_skills": [
+      "Production Google-Cloud-Associate experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Google-Cloud-Associate-I06",
+    "title": "Google-Cloud-Associate Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Google-Cloud-Associate certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain Google-Cloud-Associate HA design",
+      "Troubleshoot Google-Cloud-Associate outage",
+      "Scale Google-Cloud-Associate for 100k users"
+    ],
+    "expected_skills": [
+      "Production Google-Cloud-Associate experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Google-Cloud-Associate-I07",
+    "title": "Google-Cloud-Associate Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Google-Cloud-Associate certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain Google-Cloud-Associate HA design",
+      "Troubleshoot Google-Cloud-Associate outage",
+      "Scale Google-Cloud-Associate for 100k users"
+    ],
+    "expected_skills": [
+      "Production Google-Cloud-Associate experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Google-Cloud-Associate-I08",
+    "title": "Google-Cloud-Associate Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Google-Cloud-Associate certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain Google-Cloud-Associate HA design",
+      "Troubleshoot Google-Cloud-Associate outage",
+      "Scale Google-Cloud-Associate for 100k users"
+    ],
+    "expected_skills": [
+      "Production Google-Cloud-Associate experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Google-Cloud-Associate-I09",
+    "title": "Google-Cloud-Associate Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Google-Cloud-Associate certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain Google-Cloud-Associate HA design",
+      "Troubleshoot Google-Cloud-Associate outage",
+      "Scale Google-Cloud-Associate for 100k users"
+    ],
+    "expected_skills": [
+      "Production Google-Cloud-Associate experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Google-Cloud-Associate-I10",
+    "title": "Google-Cloud-Associate Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Google-Cloud-Associate certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain Google-Cloud-Associate HA design",
+      "Troubleshoot Google-Cloud-Associate outage",
+      "Scale Google-Cloud-Associate for 100k users"
+    ],
+    "expected_skills": [
+      "Production Google-Cloud-Associate experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  }
+]

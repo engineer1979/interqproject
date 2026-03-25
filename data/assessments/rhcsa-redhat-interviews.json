@@ -1,0 +1,211 @@
+[
+  {
+    "id": "RHCSA-RedHat-I01",
+    "title": "RHCSA-RedHat Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level RHCSA-RedHat certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain RHCSA-RedHat HA design",
+      "Troubleshoot RHCSA-RedHat outage",
+      "Scale RHCSA-RedHat for 100k users"
+    ],
+    "expected_skills": [
+      "Production RHCSA-RedHat experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "RHCSA-RedHat-I02",
+    "title": "RHCSA-RedHat Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level RHCSA-RedHat certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain RHCSA-RedHat HA design",
+      "Troubleshoot RHCSA-RedHat outage",
+      "Scale RHCSA-RedHat for 100k users"
+    ],
+    "expected_skills": [
+      "Production RHCSA-RedHat experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "RHCSA-RedHat-I03",
+    "title": "RHCSA-RedHat Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level RHCSA-RedHat certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain RHCSA-RedHat HA design",
+      "Troubleshoot RHCSA-RedHat outage",
+      "Scale RHCSA-RedHat for 100k users"
+    ],
+    "expected_skills": [
+      "Production RHCSA-RedHat experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "RHCSA-RedHat-I04",
+    "title": "RHCSA-RedHat Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level RHCSA-RedHat certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain RHCSA-RedHat HA design",
+      "Troubleshoot RHCSA-RedHat outage",
+      "Scale RHCSA-RedHat for 100k users"
+    ],
+    "expected_skills": [
+      "Production RHCSA-RedHat experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "RHCSA-RedHat-I05",
+    "title": "RHCSA-RedHat Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level RHCSA-RedHat certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain RHCSA-RedHat HA design",
+      "Troubleshoot RHCSA-RedHat outage",
+      "Scale RHCSA-RedHat for 100k users"
+    ],
+    "expected_skills": [
+      "Production RHCSA-RedHat experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "RHCSA-RedHat-I06",
+    "title": "RHCSA-RedHat Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level RHCSA-RedHat certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain RHCSA-RedHat HA design",
+      "Troubleshoot RHCSA-RedHat outage",
+      "Scale RHCSA-RedHat for 100k users"
+    ],
+    "expected_skills": [
+      "Production RHCSA-RedHat experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "RHCSA-RedHat-I07",
+    "title": "RHCSA-RedHat Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level RHCSA-RedHat certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain RHCSA-RedHat HA design",
+      "Troubleshoot RHCSA-RedHat outage",
+      "Scale RHCSA-RedHat for 100k users"
+    ],
+    "expected_skills": [
+      "Production RHCSA-RedHat experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "RHCSA-RedHat-I08",
+    "title": "RHCSA-RedHat Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level RHCSA-RedHat certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain RHCSA-RedHat HA design",
+      "Troubleshoot RHCSA-RedHat outage",
+      "Scale RHCSA-RedHat for 100k users"
+    ],
+    "expected_skills": [
+      "Production RHCSA-RedHat experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "RHCSA-RedHat-I09",
+    "title": "RHCSA-RedHat Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level RHCSA-RedHat certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain RHCSA-RedHat HA design",
+      "Troubleshoot RHCSA-RedHat outage",
+      "Scale RHCSA-RedHat for 100k users"
+    ],
+    "expected_skills": [
+      "Production RHCSA-RedHat experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "RHCSA-RedHat-I10",
+    "title": "RHCSA-RedHat Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level RHCSA-RedHat certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain RHCSA-RedHat HA design",
+      "Troubleshoot RHCSA-RedHat outage",
+      "Scale RHCSA-RedHat for 100k users"
+    ],
+    "expected_skills": [
+      "Production RHCSA-RedHat experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  }
+]

@@ -1,0 +1,214 @@
+[
+  {
+    "id": "PMP-Project-Management-I01",
+    "title": "PMP-Project-Management Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level PMP-Project-Management certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain PMP-Project-Management HA design",
+      "Troubleshoot PMP-Project-Management outage",
+      "Scale PMP-Project-Management for 100k users"
+    ],
+    "expected_skills": [
+      "Production PMP-Project-Management experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "PMP-Project-Management-I02",
+    "title": "PMP-Project-Management Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level PMP-Project-Management certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain PMP-Project-Management HA design",
+      "Troubleshoot PMP-Project-Management outage",
+      "Scale PMP-Project-Management for 100k users"
+    ],
+    "expected_skills": [
+      "Production PMP-Project-Management experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "PMP-Project-Management-I03",
+    "title": "PMP-Project-Management Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level PMP-Project-Management certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain PMP-Project-Management HA design",
+      "Troubleshoot PMP-Project-Management outage",
+      "Scale PMP-Project-Management for 100k users"
+    ],
+    "expected_skills": [
+      "Production PMP-Project-Management experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "PMP-Project-Management-I04",
+    "title": "PMP-Project-Management Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level PMP-Project-Management certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain PMP-Project-Management HA design",
+      "Troubleshoot PMP-Project-Management outage",
+      "Scale PMP-Project-Management for 100k users"
+    ],
+    "expected_skills": [
+      "Production PMP-Project-Management experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "PMP-Project-Management-I05",
+    "title": "PMP-Project-Management Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level PMP-Project-Management certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain PMP-Project-Management HA design",
+      "Troubleshoot PMP-Project-Management outage",
+      "Scale PMP-Project-Management for 100k users"
+    ],
+    "expected_skills": [
+      "Production PMP-Project-Management experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "PMP-Project-Management-I06",
+    "title": "PMP-Project-Management Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level PMP-Project-Management certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain PMP-Project-Management HA design",
+      "Troubleshoot PMP-Project-Management outage",
+      "Scale PMP-Project-Management for 100k users"
+    ],
+    "expected_skills": [
+      "Production PMP-Project-Management experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "PMP-Project-Management-I07",
+    "title": "PMP-Project-Management Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level PMP-Project-Management certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain PMP-Project-Management HA design",
+      "Troubleshoot PMP-Project-Management outage",
+      "Scale PMP-Project-Management for 100k users"
+    ],
+    "expected_skills": [
+      "Production PMP-Project-Management experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "PMP-Project-Management-I08",
+    "title": "PMP-Project-Management Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level PMP-Project-Management certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain PMP-Project-Management HA design",
+      "Troubleshoot PMP-Project-Management outage",
+      "Scale PMP-Project-Management for 100k users"
+    ],
+    "expected_skills": [
+      "Production PMP-Project-Management experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "PMP-Project-Management-I09",
+    "title": "PMP-Project-Management Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level PMP-Project-Management certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain PMP-Project-Management HA design",
+      "Troubleshoot PMP-Project-Management outage",
+      "Scale PMP-Project-Management for 100k users"
+    ],
+    "expected_skills": [
+      "Production PMP-Project-Management experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "PMP-Project-Management-I10",
+    "title": "PMP-Project-Management Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level PMP-Project-Management certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain PMP-Project-Management HA design",
+      "Troubleshoot PMP-Project-Management outage",
+      "Scale PMP-Project-Management for 100k users"
+    ],
+    "expected_skills": [
+      "Production PMP-Project-Management experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  }
+]

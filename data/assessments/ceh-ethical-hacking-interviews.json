@@ -1,0 +1,213 @@
+[
+  {
+    "id": "CEH-Ethical-Hacking-I01",
+    "title": "CEH-Ethical-Hacking Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level CEH-Ethical-Hacking certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain CEH-Ethical-Hacking HA design",
+      "Troubleshoot CEH-Ethical-Hacking outage",
+      "Scale CEH-Ethical-Hacking for 100k users"
+    ],
+    "expected_skills": [
+      "Production CEH-Ethical-Hacking experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "CEH-Ethical-Hacking-I02",
+    "title": "CEH-Ethical-Hacking Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level CEH-Ethical-Hacking certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain CEH-Ethical-Hacking HA design",
+      "Troubleshoot CEH-Ethical-Hacking outage",
+      "Scale CEH-Ethical-Hacking for 100k users"
+    ],
+    "expected_skills": [
+      "Production CEH-Ethical-Hacking experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "CEH-Ethical-Hacking-I03",
+    "title": "CEH-Ethical-Hacking Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level CEH-Ethical-Hacking certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain CEH-Ethical-Hacking HA design",
+      "Troubleshoot CEH-Ethical-Hacking outage",
+      "Scale CEH-Ethical-Hacking for 100k users"
+    ],
+    "expected_skills": [
+      "Production CEH-Ethical-Hacking experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "CEH-Ethical-Hacking-I04",
+    "title": "CEH-Ethical-Hacking Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level CEH-Ethical-Hacking certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain CEH-Ethical-Hacking HA design",
+      "Troubleshoot CEH-Ethical-Hacking outage",
+      "Scale CEH-Ethical-Hacking for 100k users"
+    ],
+    "expected_skills": [
+      "Production CEH-Ethical-Hacking experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "CEH-Ethical-Hacking-I05",
+    "title": "CEH-Ethical-Hacking Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level CEH-Ethical-Hacking certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain CEH-Ethical-Hacking HA design",
+      "Troubleshoot CEH-Ethical-Hacking outage",
+      "Scale CEH-Ethical-Hacking for 100k users"
+    ],
+    "expected_skills": [
+      "Production CEH-Ethical-Hacking experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "CEH-Ethical-Hacking-I06",
+    "title": "CEH-Ethical-Hacking Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level CEH-Ethical-Hacking certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain CEH-Ethical-Hacking HA design",
+      "Troubleshoot CEH-Ethical-Hacking outage",
+      "Scale CEH-Ethical-Hacking for 100k users"
+    ],
+    "expected_skills": [
+      "Production CEH-Ethical-Hacking experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "CEH-Ethical-Hacking-I07",
+    "title": "CEH-Ethical-Hacking Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level CEH-Ethical-Hacking certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain CEH-Ethical-Hacking HA design",
+      "Troubleshoot CEH-Ethical-Hacking outage",
+      "Scale CEH-Ethical-Hacking for 100k users"
+    ],
+    "expected_skills": [
+      "Production CEH-Ethical-Hacking experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "CEH-Ethical-Hacking-I08",
+    "title": "CEH-Ethical-Hacking Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level CEH-Ethical-Hacking certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain CEH-Ethical-Hacking HA design",
+      "Troubleshoot CEH-Ethical-Hacking outage",
+      "Scale CEH-Ethical-Hacking for 100k users"
+    ],
+    "expected_skills": [
+      "Production CEH-Ethical-Hacking experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "CEH-Ethical-Hacking-I09",
+    "title": "CEH-Ethical-Hacking Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level CEH-Ethical-Hacking certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain CEH-Ethical-Hacking HA design",
+      "Troubleshoot CEH-Ethical-Hacking outage",
+      "Scale CEH-Ethical-Hacking for 100k users"
+    ],
+    "expected_skills": [
+      "Production CEH-Ethical-Hacking experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "CEH-Ethical-Hacking-I10",
+    "title": "CEH-Ethical-Hacking Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level CEH-Ethical-Hacking certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain CEH-Ethical-Hacking HA design",
+      "Troubleshoot CEH-Ethical-Hacking outage",
+      "Scale CEH-Ethical-Hacking for 100k users"
+    ],
+    "expected_skills": [
+      "Production CEH-Ethical-Hacking experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  }
+]

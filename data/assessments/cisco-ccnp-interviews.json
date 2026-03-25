@@ -1,0 +1,212 @@
+[
+  {
+    "id": "Cisco-CCNP-I01",
+    "title": "Cisco-CCNP Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Cisco-CCNP certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain Cisco-CCNP HA design",
+      "Troubleshoot Cisco-CCNP outage",
+      "Scale Cisco-CCNP for 100k users"
+    ],
+    "expected_skills": [
+      "Production Cisco-CCNP experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Cisco-CCNP-I02",
+    "title": "Cisco-CCNP Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Cisco-CCNP certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain Cisco-CCNP HA design",
+      "Troubleshoot Cisco-CCNP outage",
+      "Scale Cisco-CCNP for 100k users"
+    ],
+    "expected_skills": [
+      "Production Cisco-CCNP experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Cisco-CCNP-I03",
+    "title": "Cisco-CCNP Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Cisco-CCNP certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain Cisco-CCNP HA design",
+      "Troubleshoot Cisco-CCNP outage",
+      "Scale Cisco-CCNP for 100k users"
+    ],
+    "expected_skills": [
+      "Production Cisco-CCNP experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Cisco-CCNP-I04",
+    "title": "Cisco-CCNP Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Cisco-CCNP certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain Cisco-CCNP HA design",
+      "Troubleshoot Cisco-CCNP outage",
+      "Scale Cisco-CCNP for 100k users"
+    ],
+    "expected_skills": [
+      "Production Cisco-CCNP experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Cisco-CCNP-I05",
+    "title": "Cisco-CCNP Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Cisco-CCNP certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain Cisco-CCNP HA design",
+      "Troubleshoot Cisco-CCNP outage",
+      "Scale Cisco-CCNP for 100k users"
+    ],
+    "expected_skills": [
+      "Production Cisco-CCNP experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Cisco-CCNP-I06",
+    "title": "Cisco-CCNP Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Cisco-CCNP certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain Cisco-CCNP HA design",
+      "Troubleshoot Cisco-CCNP outage",
+      "Scale Cisco-CCNP for 100k users"
+    ],
+    "expected_skills": [
+      "Production Cisco-CCNP experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Cisco-CCNP-I07",
+    "title": "Cisco-CCNP Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Cisco-CCNP certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain Cisco-CCNP HA design",
+      "Troubleshoot Cisco-CCNP outage",
+      "Scale Cisco-CCNP for 100k users"
+    ],
+    "expected_skills": [
+      "Production Cisco-CCNP experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Cisco-CCNP-I08",
+    "title": "Cisco-CCNP Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Cisco-CCNP certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain Cisco-CCNP HA design",
+      "Troubleshoot Cisco-CCNP outage",
+      "Scale Cisco-CCNP for 100k users"
+    ],
+    "expected_skills": [
+      "Production Cisco-CCNP experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Cisco-CCNP-I09",
+    "title": "Cisco-CCNP Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Cisco-CCNP certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain Cisco-CCNP HA design",
+      "Troubleshoot Cisco-CCNP outage",
+      "Scale Cisco-CCNP for 100k users"
+    ],
+    "expected_skills": [
+      "Production Cisco-CCNP experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Cisco-CCNP-I10",
+    "title": "Cisco-CCNP Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Cisco-CCNP certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain Cisco-CCNP HA design",
+      "Troubleshoot Cisco-CCNP outage",
+      "Scale Cisco-CCNP for 100k users"
+    ],
+    "expected_skills": [
+      "Production Cisco-CCNP experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  }
+]

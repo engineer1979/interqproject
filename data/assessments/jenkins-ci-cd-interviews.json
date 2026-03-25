@@ -1,0 +1,213 @@
+[
+  {
+    "id": "Jenkins-CI-CD-I01",
+    "title": "Jenkins-CI-CD Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Jenkins-CI-CD certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain Jenkins-CI-CD HA design",
+      "Troubleshoot Jenkins-CI-CD outage",
+      "Scale Jenkins-CI-CD for 100k users"
+    ],
+    "expected_skills": [
+      "Production Jenkins-CI-CD experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Jenkins-CI-CD-I02",
+    "title": "Jenkins-CI-CD Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Jenkins-CI-CD certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain Jenkins-CI-CD HA design",
+      "Troubleshoot Jenkins-CI-CD outage",
+      "Scale Jenkins-CI-CD for 100k users"
+    ],
+    "expected_skills": [
+      "Production Jenkins-CI-CD experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Jenkins-CI-CD-I03",
+    "title": "Jenkins-CI-CD Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Jenkins-CI-CD certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain Jenkins-CI-CD HA design",
+      "Troubleshoot Jenkins-CI-CD outage",
+      "Scale Jenkins-CI-CD for 100k users"
+    ],
+    "expected_skills": [
+      "Production Jenkins-CI-CD experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Jenkins-CI-CD-I04",
+    "title": "Jenkins-CI-CD Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Jenkins-CI-CD certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain Jenkins-CI-CD HA design",
+      "Troubleshoot Jenkins-CI-CD outage",
+      "Scale Jenkins-CI-CD for 100k users"
+    ],
+    "expected_skills": [
+      "Production Jenkins-CI-CD experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Jenkins-CI-CD-I05",
+    "title": "Jenkins-CI-CD Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Jenkins-CI-CD certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain Jenkins-CI-CD HA design",
+      "Troubleshoot Jenkins-CI-CD outage",
+      "Scale Jenkins-CI-CD for 100k users"
+    ],
+    "expected_skills": [
+      "Production Jenkins-CI-CD experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Jenkins-CI-CD-I06",
+    "title": "Jenkins-CI-CD Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Jenkins-CI-CD certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain Jenkins-CI-CD HA design",
+      "Troubleshoot Jenkins-CI-CD outage",
+      "Scale Jenkins-CI-CD for 100k users"
+    ],
+    "expected_skills": [
+      "Production Jenkins-CI-CD experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Jenkins-CI-CD-I07",
+    "title": "Jenkins-CI-CD Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Jenkins-CI-CD certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain Jenkins-CI-CD HA design",
+      "Troubleshoot Jenkins-CI-CD outage",
+      "Scale Jenkins-CI-CD for 100k users"
+    ],
+    "expected_skills": [
+      "Production Jenkins-CI-CD experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Jenkins-CI-CD-I08",
+    "title": "Jenkins-CI-CD Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Jenkins-CI-CD certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain Jenkins-CI-CD HA design",
+      "Troubleshoot Jenkins-CI-CD outage",
+      "Scale Jenkins-CI-CD for 100k users"
+    ],
+    "expected_skills": [
+      "Production Jenkins-CI-CD experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Jenkins-CI-CD-I09",
+    "title": "Jenkins-CI-CD Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Jenkins-CI-CD certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain Jenkins-CI-CD HA design",
+      "Troubleshoot Jenkins-CI-CD outage",
+      "Scale Jenkins-CI-CD for 100k users"
+    ],
+    "expected_skills": [
+      "Production Jenkins-CI-CD experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Jenkins-CI-CD-I10",
+    "title": "Jenkins-CI-CD Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Jenkins-CI-CD certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain Jenkins-CI-CD HA design",
+      "Troubleshoot Jenkins-CI-CD outage",
+      "Scale Jenkins-CI-CD for 100k users"
+    ],
+    "expected_skills": [
+      "Production Jenkins-CI-CD experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  }
+]

@@ -1,0 +1,209 @@
+[
+  {
+    "id": "Python-Programming-I01",
+    "title": "Python-Programming Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Python-Programming certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain Python-Programming HA design",
+      "Troubleshoot Python-Programming outage",
+      "Scale Python-Programming for 100k users"
+    ],
+    "expected_skills": [
+      "Production Python-Programming experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Python-Programming-I02",
+    "title": "Python-Programming Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Python-Programming certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain Python-Programming HA design",
+      "Troubleshoot Python-Programming outage",
+      "Scale Python-Programming for 100k users"
+    ],
+    "expected_skills": [
+      "Production Python-Programming experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Python-Programming-I03",
+    "title": "Python-Programming Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Python-Programming certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain Python-Programming HA design",
+      "Troubleshoot Python-Programming outage",
+      "Scale Python-Programming for 100k users"
+    ],
+    "expected_skills": [
+      "Production Python-Programming experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Python-Programming-I04",
+    "title": "Python-Programming Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Python-Programming certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain Python-Programming HA design",
+      "Troubleshoot Python-Programming outage",
+      "Scale Python-Programming for 100k users"
+    ],
+    "expected_skills": [
+      "Production Python-Programming experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Python-Programming-I05",
+    "title": "Python-Programming Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Python-Programming certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain Python-Programming HA design",
+      "Troubleshoot Python-Programming outage",
+      "Scale Python-Programming for 100k users"
+    ],
+    "expected_skills": [
+      "Production Python-Programming experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Python-Programming-I06",
+    "title": "Python-Programming Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Python-Programming certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain Python-Programming HA design",
+      "Troubleshoot Python-Programming outage",
+      "Scale Python-Programming for 100k users"
+    ],
+    "expected_skills": [
+      "Production Python-Programming experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Python-Programming-I07",
+    "title": "Python-Programming Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Python-Programming certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain Python-Programming HA design",
+      "Troubleshoot Python-Programming outage",
+      "Scale Python-Programming for 100k users"
+    ],
+    "expected_skills": [
+      "Production Python-Programming experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Python-Programming-I08",
+    "title": "Python-Programming Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Python-Programming certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture"
+    ],
+    "technical_starters": [
+      "Explain Python-Programming HA design",
+      "Troubleshoot Python-Programming outage",
+      "Scale Python-Programming for 100k users"
+    ],
+    "expected_skills": [
+      "Production Python-Programming experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Python-Programming-I09",
+    "title": "Python-Programming Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Python-Programming certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led",
+      "How do you handle conflicting priorities during outage?"
+    ],
+    "technical_starters": [
+      "Explain Python-Programming HA design",
+      "Troubleshoot Python-Programming outage",
+      "Scale Python-Programming for 100k users"
+    ],
+    "expected_skills": [
+      "Production Python-Programming experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  },
+  {
+    "id": "Python-Programming-I10",
+    "title": "Python-Programming Certification Interview",
+    "duration_minutes": 15,
+    "prompt": "Conduct enterprise-level Python-Programming certification interview. Focus on production scenarios, troubleshooting methodology, and architectural decisions.",
+    "behavioral_questions": [
+      "Tell me about production incident you resolved under pressure",
+      "Describe time you designed high-availability architecture",
+      "Walk through major migration project you led"
+    ],
+    "technical_starters": [
+      "Explain Python-Programming HA design",
+      "Troubleshoot Python-Programming outage",
+      "Scale Python-Programming for 100k users"
+    ],
+    "expected_skills": [
+      "Production Python-Programming experience",
+      "Incident management",
+      "Capacity planning"
+    ]
+  }
+]
