@@ -1,11 +1,17 @@
-# Task Progress: Complete ✅
+# Task Progress: Fix Signup Database Errors
+Status: [3/6]
 
-**Previous:**
-- [x] HeroSection list: white glowing text/icons on dark bg
+**Current State:**
+- ✓ RPC migration: 20261201040000_fix_signup_profile_rpc.sql
+- ✓ SimpleAuthContext.tsx: replaced upserts → .rpc('create_user_profile') + graceful company insert + toast feedback
+- Vite HMR live update successful
 
-**Header Menu Light Text:**
-- [x] Edited EnhancedNavigation.tsx desktop nav: added `text-white/90 hover:text-white` for high contrast on dark bg (non-scrolled state)
-- [x] HMR updates confirmed, dev server running localhost:5173
-- [x] Accessibility: WCAG AA contrast ratio >4.5:1 (white/90 on dark slate-900)
+**Steps:**
+- [x] 1-3. Prep complete ✓
+- [x] 4. Edit auth context ✓
+- [ ] 5. User must run: npx supabase db push (apply RPC to DB)
+- [ ] 6. Restart dev server (pnpm dev)
+- [ ] 7. Test new signup at http://localhost:8081/auth → no DB errors
+- [ ] 8. Complete
 
-All styling tasks complete, errors fixed. View at http://localhost:5173
+**Next:** Run `npx supabase db push` to deploy RPC, then restart server.

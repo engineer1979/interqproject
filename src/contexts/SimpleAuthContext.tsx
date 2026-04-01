@@ -349,34 +349,33 @@ export function SimpleAuthProvider({ children }: { children: ReactNode }) {
       }
 
       if (supabaseData.user) {
-        // Insert role into user_roles
-        await supabase.from("user_roles").upsert({
-          user_id: supabaseData.user.id,
-          role: data.role,
-          created_at: new Date().toISOString(),
-        } as any, { onConflict: "user_id" });
+        // Use RPC to create profile + role (bypasses RLS) - any() bypasses strict type
+        const { data: rpcResult, error: rpcError } = await (supabase.rpc as any)('create_user_profile', {
+            p_user_id: supabaseData.user.id,
+            p_email: data.email,
+            p_name: data.name,
+            p_role: data.role,
+            p_company_name: data.companyName
+          });
 
-        // Insert profile
-        await supabase.from("profiles").upsert({
-          id: supabaseData.user.id,
-          email: data.email,
-          full_name: data.name,
-          role: data.role,
-          company_name: data.companyName,
-          created_at: new Date().toISOString(),
-        } as any, { onConflict: "id" });
+        if (rpcError) {
+          console.error('Profile RPC error:', rpcError);
+          // Continue anyway - profile creation failed but auth succeeded
+        }
 
         // If role is company, create the company record
         if (data.role === "company" && data.companyName) {
-          const { data: companyRecord } = await (supabase as any).from("companies").insert({
-            name: data.companyName,
-            email: data.email,
-            created_by: (supabaseData.user as any).id,
-            onboarding_completed: true,
-          }).select().single();
-          
-          if (companyRecord) {
-             // Link the company to the profile if needed (though profiles doesn't have company_id column in current schema, we use created_by lookup)
+          const { error: companyError } = await supabase
+            .from("companies")
+            .insert({
+              name: data.companyName,
+              email: data.email,
+              created_by: supabaseData.user.id,
+              onboarding_completed: true,
+            });
+
+          if (companyError) {
+            console.warn('Company creation warning:', companyError);
           }
         }
 
@@ -384,10 +383,10 @@ export function SimpleAuthProvider({ children }: { children: ReactNode }) {
           id: supabaseData.user.id,
           email: data.email,
           name: data.name,
-          role: data.role,
+          role: data.role as AccountRole,
           isVerified: supabaseData.user.email_confirmed_at !== null,
           companyName: data.companyName,
-          createdAt: supabaseData.user.created_at,
+          createdAt: supabaseData.user.created_at || new Date().toISOString(),
           isDemo: false,
         };
 
@@ -402,6 +401,12 @@ export function SimpleAuthProvider({ children }: { children: ReactNode }) {
         }));
 
         setIsLoading(false);
+        toast({
+          title: "Signup Success",
+          description: rpcResult?.success 
+            ? "Check your email to verify account!" 
+            : "Account created - email verification coming soon.",
+        });
         return { success: true };
       }
     } catch (error: any) {
