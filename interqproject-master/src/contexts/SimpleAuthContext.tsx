@@ -348,22 +348,19 @@ export function SimpleAuthProvider({ children }: { children: ReactNode }) {
       }
 
       if (supabaseData.user) {
-        // Insert role into user_roles
-        await supabase.from("user_roles").upsert({
-          user_id: supabaseData.user.id,
-          role: data.role,
-          created_at: new Date().toISOString(),
-        } as any, { onConflict: "user_id" });
+// Call RPC for profile + roles
+        const { data: rpcResult, error: rpcError } = await supabase.rpc("create_user_profile", {
+          p_user_id: supabaseData.user.id,
+          p_email: data.email,
+          p_name: data.name,
+          p_role: data.role,
+          p_company_name: data.companyName,
+        });
 
-        // Insert profile
-        await supabase.from("profiles").upsert({
-          id: supabaseData.user.id,
-          email: data.email,
-          full_name: data.name,
-          role: data.role,
-          company_name: data.companyName,
-          created_at: new Date().toISOString(),
-        } as any, { onConflict: "id" });
+        if (rpcError) {
+          console.error("RPC error:", rpcError);
+          // Continue anyway - profile may exist
+        }
 
         const newUser: User = {
           id: supabaseData.user.id,

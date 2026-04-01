@@ -7,8 +7,7 @@ import { Input } from "@/components/ui/input";
 import { FileText, Search, Clock, ChevronRight, Filter } from "lucide-react";
 import { useNavigate } from "react-router-dom";
 import { useAuth } from "@/contexts/SimpleAuthContext";
-import { supabase } from "@/integrations/supabase/client";
-import { useQuery } from "@tanstack/react-query";
+import { useAssessments } from "@/hooks/useAssessments";
 import { cn } from "@/lib/utils";
 
 const categories = ["All", "CCNA", "AWS", "Azure", "CISSP", "Security", "Kubernetes", "Python", "SQL", "Linux", "Windows", "ITIL"];
@@ -20,31 +19,9 @@ const JobSeekerAssessments = () => {
   const [difficulty, setDifficulty] = useState("All");
   const navigate = useNavigate();
   const { user } = useAuth();
+  const { data: assessments = [], isLoading } = useAssessments();
 
-  const { data: assessments = [], isLoading, isError, error } = useQuery({
-    queryKey: ["js-available-assessments"],
-    queryFn: async () => {
-      const { data, error: fetchError } = await supabase.from("assessments").select("*").order("created_at", { ascending: false });
-      if (fetchError) throw fetchError;
-      if (!data || data.length === 0) {
-        console.warn('No assessments found - showing fallback');
-        return []; // Graceful empty
-      }
-      return data;
-    },
-    retry: 3,
-    staleTime: 5 * 60 * 1000, // 5min
-  });
-
-  const { data: completedIds = [] } = useQuery({
-    queryKey: ["js-completed-ids", user?.id],
-    queryFn: async () => {
-      if (!user?.id) return [];
-      const { data } = await supabase.from("assessment_results").select("assessment_id").eq("user_id", user.id);
-      return (data || []).map((r) => r.assessment_id);
-    },
-    enabled: !!user?.id,
-  });
+  const completedIds = []; // Offline mode - no DB tracking
 
   const filtered = assessments.filter((a: any) => {
     const matchSearch = !search || a.title.toLowerCase().includes(search.toLowerCase()) || a.domain?.toLowerCase().includes(search.toLowerCase());
@@ -110,16 +87,9 @@ const JobSeekerAssessments = () => {
       </div>
 
       {/* Assessment Cards */}
-{isLoading ? (
+      {isLoading ? (
         <div className="flex items-center justify-center py-12">
           <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-primary" />
-        </div>
-      ) : isError ? (
-        <div className="text-center py-12">
-          <div className="text-destructive mb-4">
-            Failed to load assessments: {error?.message || 'Unknown error'}
-          </div>
-          <Button onClick={() => window.location.reload()}>Retry</Button>
         </div>
       ) : filtered.length === 0 ? (
         <div className="text-center py-12">
@@ -146,7 +116,7 @@ const JobSeekerAssessments = () => {
                     {isCompleted && <Badge variant="default" className="ml-2 text-[10px]">Completed</Badge>}
                   </div>
                   <div className="flex items-center gap-2 mb-4 flex-wrap">
-    <Badge variant="secondary" className="text-[10px]">{a.domain || a.category}</Badge>
+                    <Badge variant="secondary" className="text-[10px]">{a.domain || a.category}</Badge>
                     <span className={cn("px-2 py-0.5 rounded-full text-[10px] font-medium capitalize", getDifficultyColor(a.difficulty))}>
                       {a.difficulty}
                     </span>
@@ -173,3 +143,4 @@ const JobSeekerAssessments = () => {
 };
 
 export default JobSeekerAssessments;
+

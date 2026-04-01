@@ -36,7 +36,7 @@ async function importAssessments() {
 
     for (const file of files) {
         const filePath = path.join(assessmentsDir, file);
-        let questions = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+        const questions = JSON.parse(fs.readFileSync(filePath, 'utf8'));
         if (!Array.isArray(questions)) {
           console.log(`Skipping ${file} - not an array`);
           continue;

@@ -21,7 +21,24 @@ export function useAssessments() {
       const duration = Date.now() - start;
       console.log(`📡 Supabase query complete: ${duration}ms, data: ${data?.length || 0}, error:`, error);
 
-if (error) {\n        console.warn('⚠️ Supabase error - using fallback:', error.message || error);\n        // Use mock data instead of throwing\n        return globalITAssessmentSystem.domains.map(domain => ({\n          id: domain.id,\n          title: domain.name,\n          description: `Professional ${domain.name} assessment`,\n          duration_minutes: 60,\n          passing_score: 70,\n          total_questions: domain.questionCount,\n          difficulty: domain.difficulty,\n          category: domain.category,\n          domain: domain.category,\n          tags: domain.tags,\n          is_active: true,\n          created_at: new Date().toISOString(),\n        }));\n      }
+      if (error) {
+        console.warn('⚠️ Supabase error - using fallback:', error.message || error);
+        // Use mock data instead of throwing
+        return globalITAssessmentSystem.domains.map(domain => ({
+          id: domain.id,
+          title: domain.name,
+          description: `Professional ${domain.name} assessment`,
+          duration_minutes: 60,
+          passing_score: 70,
+          total_questions: domain.questionCount,
+          difficulty: domain.difficulty,
+          category: domain.category,
+          domain: domain.category,
+          tags: domain.tags,
+          is_active: true,
+          created_at: new Date().toISOString(),
+        }));
+      }
 
       // Map count
       const assessments: Assessment[] = (data || []).map((row: any) => ({

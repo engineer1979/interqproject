@@ -1,6 +1,5 @@
 import { createContext, useContext, useState, useEffect, ReactNode, useCallback } from "react";
 import { useNavigate, useLocation } from "react-router-dom";
-import { supabase } from "@/integrations/supabase/client";
 import { useToast } from "@/hooks/use-toast";
 
 export type AccountRole = "admin" | "company" | "recruiter" | "jobseeker";
@@ -27,7 +26,6 @@ export interface DemoUser {
 }
 
 // Demo users - only accessible via specific demo login mechanism
-// These are NEVER shown in any user lists or dashboards
 export const DEMO_USERS: DemoUser[] = [
   { 
     email: "admin.demo@interq.com", 
@@ -180,113 +178,52 @@ export function SimpleAuthProvider({ children }: { children: ReactNode }) {
     setIsDemo(false);
   };
 
-  // Login handler - checks against real users in Supabase OR demo users
+  // Login handler - demo users only (Supabase removed)
   const login = useCallback(async (email: string, password: string): Promise<{ success: boolean; error?: string; needsVerification?: boolean }> => {
     setIsLoading(true);
     
     try {
-      // First, try Supabase authentication
-      const { data: supabaseData, error: supabaseError } = await supabase.auth.signInWithPassword({
-        email,
-        password,
-      });
-
-      if (supabaseError) {
-        // If Supabase fails, check if it's a demo user
-        const demoUser = DEMO_USERS.find(u => u.email.toLowerCase() === email.toLowerCase());
-        
-        if (demoUser && demoUser.password === password) {
-          // Demo login - create local session
-          const newUser: User = {
-            id: generateUserId(),
-            email: demoUser.email,
-            name: demoUser.name,
-            role: demoUser.role,
-            isVerified: true,
-            companyId: demoUser.role === "company" ? "comp_demo_001" : undefined,
-            companyName: demoUser.role === "company" ? "TechCorp Solutions" : undefined,
-            createdAt: new Date().toISOString(),
-            isDemo: true,
-          };
-          
-          setUser(newUser);
-          setIsDemo(true);
-          
-          // Store in localStorage with demo session
-          localStorage.setItem(STORAGE_KEY, JSON.stringify(newUser));
-          localStorage.setItem(DEMO_SESSION_KEY, JSON.stringify({
-            timestamp: Date.now(),
-            role: demoUser.role,
-          }));
-          
-          setIsLoading(false);
-          return { success: true };
-        }
-        
-        setIsLoading(false);
-        return { success: false, error: "Invalid email or password" };
-      }
-
-      // Real Supabase user login
-      if (supabaseData.user) {
-        // Fetch user role from Supabase
-        const { data: roleData } = await supabase
-          .from("user_roles")
-          .select("role")
-          .eq("user_id", supabaseData.user.id)
-          .single();
-
-        const userRole: AccountRole = (roleData?.role as AccountRole) || "jobseeker";
-
-        // Get user profile
-        const { data: profileData } = await supabase
-          .from("profiles")
-          .select("*")
-          .eq("id", supabaseData.user.id)
-          .single();
-
+      // Check if it's a demo user
+      const demoUser = DEMO_USERS.find(u => u.email.toLowerCase() === email.toLowerCase());
+      
+      if (demoUser && demoUser.password === password) {
+        // Demo login - create local session
         const newUser: User = {
-          id: supabaseData.user.id,
-          email: supabaseData.user.email || email,
-          name: profileData?.full_name || email.split("@")[0],
-          role: userRole,
-          isVerified: supabaseData.user.email_confirmed_at !== null,
-          avatar: profileData?.avatar_url || undefined,
-          companyId: (profileData as any)?.company_id,
-          companyName: (profileData as any)?.company_name,
-          createdAt: supabaseData.user.created_at,
-          isDemo: false,
+          id: generateUserId(),
+          email: demoUser.email,
+          name: demoUser.name,
+          role: demoUser.role,
+          isVerified: true,
+          companyId: demoUser.role === "company" ? "comp_demo_001" : undefined,
+          companyName: demoUser.role === "company" ? "TechCorp Solutions" : undefined,
+          createdAt: new Date().toISOString(),
+          isDemo: true,
         };
-
+        
         setUser(newUser);
-        setIsDemo(false);
-
-        // Store session
+        setIsDemo(true);
+        
+        // Store in localStorage with demo session
         localStorage.setItem(STORAGE_KEY, JSON.stringify(newUser));
-        localStorage.setItem(SESSION_KEY, JSON.stringify({
+        localStorage.setItem(DEMO_SESSION_KEY, JSON.stringify({
           timestamp: Date.now(),
-          userId: newUser.id,
-          role: newUser.role,
+          role: demoUser.role,
         }));
-
+        
         setIsLoading(false);
-        
-        // Check if email needs verification
-        if (!newUser.isVerified) {
-          return { success: true, needsVerification: true };
-        }
-        
         return { success: true };
       }
+      
+      setIsLoading(false);
+      return { success: false, error: "Invalid email or password. Use demo accounts or signup for real accounts." };
     } catch (error) {
       console.error("Login error:", error);
+      setIsLoading(false);
+      return { success: false, error: "An unexpected error occurred" };
     }
-
-    setIsLoading(false);
-    return { success: false, error: "An unexpected error occurred" };
   }, []);
 
-  // Demo login - only accessible via demo button, never via manual credentials
+  // Demo login - only accessible via demo button
   const loginWithDemo = useCallback(async (role: AccountRole): Promise<{ success: boolean; error?: string }> => {
     setIsLoading(true);
     await new Promise(resolve => setTimeout(resolve, 600));
@@ -327,108 +264,48 @@ export function SimpleAuthProvider({ children }: { children: ReactNode }) {
     return { success: false, error: "Demo account not found" };
   }, [toast]);
 
-  // Signup handler
+  // Signup handler - pure localStorage (no Supabase)
   const signup = useCallback(async (data: SignupData): Promise<{ success: boolean; error?: string }> => {
     setIsLoading(true);
 
     try {
-      // Create Supabase auth user
-      const { data: supabaseData, error: supabaseError } = await supabase.auth.signUp({
+      // Generate user ID and create local user
+      const newUser: User = {
+        id: generateUserId(),
         email: data.email,
-        password: data.password,
-        options: {
-          data: {
-            full_name: data.name,
-          },
-        },
+        name: data.name,
+        role: data.role,
+        isVerified: false, // Always needs verification in demo mode
+        companyName: data.companyName,
+        createdAt: new Date().toISOString(),
+        isDemo: false,
+      };
+
+      setUser(newUser);
+      setIsDemo(false);
+
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(newUser));
+      localStorage.setItem(SESSION_KEY, JSON.stringify({
+        timestamp: Date.now(),
+        userId: newUser.id,
+        role: newUser.role,
+      }));
+
+      setIsLoading(false);
+      toast({
+        title: "Account Created",
+        description: "Check your email to verify account! (Demo mode)",
       });
-
-      if (supabaseError) {
-        setIsLoading(false);
-        return { success: false, error: supabaseError.message };
-      }
-
-      if (supabaseData.user) {
-        // Use RPC to create profile + role (bypasses RLS) - any() bypasses strict type
-        const { data: rpcResult, error: rpcError } = await (supabase.rpc as any)('create_user_profile', {
-            p_user_id: supabaseData.user.id,
-            p_email: data.email,
-            p_name: data.name,
-            p_role: data.role,
-            p_company_name: data.companyName
-          });
-
-        if (rpcError) {
-          console.error('Profile RPC error:', rpcError);
-          // Continue anyway - profile creation failed but auth succeeded
-        }
-
-        // If role is company, create the company record
-        if (data.role === "company" && data.companyName) {
-          const { error: companyError } = await supabase
-            .from("companies")
-            .insert({
-              name: data.companyName,
-              email: data.email,
-              created_by: supabaseData.user.id,
-              onboarding_completed: true,
-            });
-
-          if (companyError) {
-            console.warn('Company creation warning:', companyError);
-          }
-        }
-
-        const newUser: User = {
-          id: supabaseData.user.id,
-          email: data.email,
-          name: data.name,
-          role: data.role as AccountRole,
-          isVerified: supabaseData.user.email_confirmed_at !== null,
-          companyName: data.companyName,
-          createdAt: supabaseData.user.created_at || new Date().toISOString(),
-          isDemo: false,
-        };
-
-        setUser(newUser);
-        setIsDemo(false);
-
-        localStorage.setItem(STORAGE_KEY, JSON.stringify(newUser));
-        localStorage.setItem(SESSION_KEY, JSON.stringify({
-          timestamp: Date.now(),
-          userId: newUser.id,
-          role: newUser.role,
-        }));
-
-        setIsLoading(false);
-        toast({
-          title: "Signup Success",
-          description: rpcResult?.success 
-            ? "Check your email to verify account!" 
-            : "Account created - email verification coming soon.",
-        });
-        return { success: true };
-      }
+      return { success: true };
     } catch (error: any) {
       console.error("Signup error:", error);
       setIsLoading(false);
       return { success: false, error: error.message };
     }
-
-    setIsLoading(false);
-    return { success: false, error: "Signup failed" };
-  }, []);
+  }, [toast]);
 
   // Logout handler - clears everything
   const logout = useCallback(async () => {
-    try {
-      // Sign out from Supabase (will fail silently if no session)
-      await supabase.auth.signOut();
-    } catch (error) {
-      console.error("Supabase signout error:", error);
-    }
-    
-    // Clear all local storage
     clearAllStorage();
     
     // Clear any legacy keys
@@ -449,7 +326,7 @@ export function SimpleAuthProvider({ children }: { children: ReactNode }) {
   // Alias for signOut
   const signOut = logout;
 
-  // Verify email
+  // Verify email - demo
   const verifyEmail = useCallback(async (token: string): Promise<{ success: boolean; error?: string }> => {
     setIsLoading(true);
     await new Promise(resolve => setTimeout(resolve, 1500));
@@ -464,30 +341,21 @@ export function SimpleAuthProvider({ children }: { children: ReactNode }) {
     return { success: true };
   }, [user]);
 
-  // Request verification email
+  // Request verification email - demo
   const requestVerification = useCallback(async (email: string): Promise<{ success: boolean; error?: string }> => {
     setIsLoading(true);
-    try {
-      const { error } = await supabase.auth.resend({
-        type: "signup",
-        email,
-      });
-      setIsLoading(false);
-      if (error) return { success: false, error: error.message };
-      return { success: true };
-    } catch (error: any) {
-      setIsLoading(false);
-      return { success: false, error: error.message };
-    }
+    await new Promise(resolve => setTimeout(resolve, 1000));
+    setIsLoading(false);
+    return { success: true };
   }, []);
 
-  // Verify OTP
+  // Verify OTP - demo
   const verifyOTP = useCallback(async (email: string, otp: string): Promise<{ success: boolean; error?: string }> => {
     setIsLoading(true);
     await new Promise(resolve => setTimeout(resolve, 1000));
 
-    // For demo, accept any 6-digit code
-    if (otp === "123456" || otp.length === 6) {
+    // Accept any 6-digit code for demo
+    if (otp.length === 6) {
       if (user) {
         const updatedUser = { ...user, isVerified: true };
         setUser(updatedUser);
@@ -501,30 +369,9 @@ export function SimpleAuthProvider({ children }: { children: ReactNode }) {
     return { success: false, error: "Invalid OTP code" };
   }, [user]);
 
-  // Check session validity
+  // Check session validity - local only
   const checkSession = useCallback(async (): Promise<boolean> => {
-    try {
-      const { data: { session } } = await supabase.auth.getSession();
-      
-      if (session?.user && user && !user.isDemo) {
-        // Refresh user data from Supabase
-        const { data: roleData } = await supabase
-          .from("user_roles")
-          .select("role")
-          .eq("user_id", session.user.id)
-          .single();
-        
-        if (roleData) {
-          const updatedUser = { ...user, role: roleData.role as AccountRole };
-          setUser(updatedUser);
-          localStorage.setItem(STORAGE_KEY, JSON.stringify(updatedUser));
-        }
-        return true;
-      }
-    } catch (error) {
-      console.error("Session check error:", error);
-    }
-    return false;
+    return !!user;
   }, [user]);
 
   // Navigate to dashboard on login
