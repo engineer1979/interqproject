@@ -228,7 +228,10 @@ export default function JobSeekerInterviews() {
                       </DropdownMenuItem>
                       {interview.status === "scheduled" && (
                         <>
-                          <DropdownMenuItem>Reschedule" onClick={() => toast({ title: "Reschedule Request Sent", description: "The interviewer has been notified." }}</DropdownMenuItem>
+                          <DropdownMenuItem onClick={() => toast({ title: "Reschedule Request Sent", description: "The interviewer has been notified." })}>
+                            <Calendar className="w-4 h-4 mr-2" />
+                            Reschedule
+                          </DropdownMenuItem>
                           <DropdownMenuItem>
                             <XCircle className="w-4 h-4 mr-2" />
                             Cancel

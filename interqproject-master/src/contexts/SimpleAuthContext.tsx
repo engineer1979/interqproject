@@ -367,7 +367,7 @@ export function SimpleAuthProvider({ children }: { children: ReactNode }) {
           email: data.email,
           name: data.name,
           role: data.role,
-          isVerified: supabaseData.user.email_confirmed_at !== null,
+          isVerified: true, // No email verification required
           companyName: data.companyName,
           createdAt: supabaseData.user.created_at,
           isDemo: false,

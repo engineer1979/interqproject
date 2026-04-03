@@ -22,7 +22,7 @@ const roleConfig = {
 };
 
 const Auth = () => {
-  const { login, loginWithDemo, isLoading } = useAuth();
+const { login, signup, loginWithDemo, isLoading } = useAuth();
   const navigate = useNavigate();
   const location = useLocation();
   
@@ -64,10 +64,8 @@ const Auth = () => {
     const result = await login(email, password);
     
     if (result.success) {
-      if (result.needsVerification) {
-        navigate("/verify-email");
-      }
-      // Navigation is handled by useEffect in SimpleAuthProvider
+      // Instant login - no verification step
+      // Navigation handled by SimpleAuthProvider
     } else {
       setError(result.error || "Login failed");
     }
@@ -93,10 +91,16 @@ const Auth = () => {
     setError("");
     setIsSubmitting(true);
     
-    const result = await login(email, password);
+    const result = await signup({
+      email,
+      password,
+      name,
+      role: selectedRole,
+      companyName: selectedRole === "company" ? companyName : undefined,
+    });
     
     if (result.success) {
-      navigate("/verify-email");
+      // Instant login, no email verify
     } else {
       setError(result.error || "Signup failed");
     }

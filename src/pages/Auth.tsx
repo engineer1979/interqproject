@@ -316,7 +316,12 @@ const Auth = () => {
                           <div className="space-y-2">
                             <div className="flex items-center justify-between">
                               <Label htmlFor="password">Password</Label>
-                              <Button variant="ghost" size="sm" className="h-auto p-0 text-xs text-blue-600 hover:text-blue-700">
+                              <Button
+                                variant="ghost"
+                                size="sm"
+                                className="h-auto p-0 text-xs text-blue-600 hover:text-blue-700"
+                                onClick={() => navigate("/reset-password")}
+                              >
                                 Forgot password?
                               </Button>
                             </div>

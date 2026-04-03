@@ -5,6 +5,7 @@ import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { Suspense, lazy } from "react";
 import { SimpleAuthProvider } from "@/contexts/SimpleAuthContext";
+import { JobSeekerDashboardProvider } from "@/contexts/JobSeekerDashboardContext";
 import { ChatbotWidget } from "@/components/chatbot/ChatbotWidget";
 import UnifiedLayout from "@/components/layouts/UnifiedLayout";
 import UnifiedDashboard from "@/pages/UnifiedDashboard";
@@ -61,6 +62,7 @@ const AdminResults = lazy(() => import("./pages/admin/AdminResults"));
 const AdminResultDetail = lazy(() => import("./pages/admin/AdminResultDetail"));
 const AdminSettings = lazy(() => import("./pages/admin/AdminSettings"));
 const AdminReports = lazy(() => import("./pages/admin/Reports"));
+const AssessmentPromptGenerator = lazy(() => import("./pages/admin/AssessmentPromptGenerator"));
 const CreateAssessment = lazy(() => import("./pages/CreateAssessment"));
 const AssessmentWorkflowPage = lazy(() => import("./pages/AssessmentWorkflowPage"));
 const ATSScreening = lazy(() => import("./pages/admin/ATSScreening"));
@@ -132,7 +134,8 @@ const App = () => (
       <Sonner />
       <BrowserRouter>
         <SimpleAuthProvider>
-          <Suspense fallback={<div className="p-8 text-center">Loading...</div>}>
+          <JobSeekerDashboardProvider>
+            <Suspense fallback={<div className="p-8 text-center">Loading...</div>}>
 
 
             <Routes>
@@ -237,6 +240,7 @@ const App = () => (
                 <Route index element={<AdminDashboard />} />
                 <Route path="tests" element={<TestManagement />} />
                 <Route path="question-bank" element={<QuestionBank />} />
+                <Route path="prompt-generator" element={<AssessmentPromptGenerator />} />
                 <Route path="results" element={<AdminResults />} />
                 <Route path="results/:id" element={<AdminResultDetail />} />
                 <Route path="interviews" element={<InterviewManagement />} />
@@ -269,6 +273,7 @@ const App = () => (
             </Routes>
             <ChatbotWidget />
           </Suspense>
+          </JobSeekerDashboardProvider>
         </SimpleAuthProvider>
       </BrowserRouter>
     </TooltipProvider>

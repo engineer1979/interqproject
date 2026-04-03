@@ -17,6 +17,18 @@ export interface User {
   isDemo?: boolean;
 }
 
+interface LocalUser {
+  id: string;
+  email: string;
+  name: string;
+  role: AccountRole;
+  password: string;
+  companyId?: string;
+  companyName?: string;
+  createdAt: string;
+  isVerified?: boolean;
+}
+
 export interface DemoUser {
   email: string;
   password: string;
@@ -61,6 +73,7 @@ export const DEMO_USERS: DemoUser[] = [
 const STORAGE_KEY = "interq_user";
 const SESSION_KEY = "interq_session";
 const DEMO_SESSION_KEY = "interq_demo_session";
+const LOCAL_USERS_KEY = "interq_local_users";
 
 interface AuthContextType {
   user: User | null;
@@ -105,6 +118,20 @@ const getDashboardPath = (role: AccountRole): string => {
     case "jobseeker": return "/jobseeker";
     default: return "/dashboard";
   }
+};
+
+const getLocalUsers = (): LocalUser[] => {
+  try {
+    const stored = localStorage.getItem(LOCAL_USERS_KEY);
+    if (!stored) return [];
+    return JSON.parse(stored) as LocalUser[];
+  } catch {
+    return [];
+  }
+};
+
+const setLocalUsers = (users: LocalUser[]) => {
+  localStorage.setItem(LOCAL_USERS_KEY, JSON.stringify(users));
 };
 
 export function SimpleAuthProvider({ children }: { children: ReactNode }) {
@@ -214,6 +241,36 @@ export function SimpleAuthProvider({ children }: { children: ReactNode }) {
         return { success: true };
       }
       
+      // Check local created accounts
+      const localUsers = getLocalUsers();
+      const localUser = localUsers.find((u: LocalUser) => u.email.toLowerCase() === email.toLowerCase() && u.password === password);
+      if (localUser) {
+        const newUser: User = {
+          id: localUser.id,
+          email: localUser.email,
+          name: localUser.name,
+          role: localUser.role,
+          isVerified: localUser.isVerified ?? true,
+          companyId: localUser.companyId,
+          companyName: localUser.companyName,
+          createdAt: localUser.createdAt,
+          isDemo: false,
+        };
+
+        setUser(newUser);
+        setIsDemo(false);
+
+        localStorage.setItem(STORAGE_KEY, JSON.stringify(newUser));
+        localStorage.setItem(SESSION_KEY, JSON.stringify({
+          timestamp: Date.now(),
+          userId: newUser.id,
+          role: newUser.role,
+        }));
+
+        setIsLoading(false);
+        return { success: true };
+      }
+
       setIsLoading(false);
       return { success: false, error: "Invalid email or password. Use demo accounts or signup for real accounts." };
     } catch (error) {
@@ -275,7 +332,7 @@ export function SimpleAuthProvider({ children }: { children: ReactNode }) {
         email: data.email,
         name: data.name,
         role: data.role,
-        isVerified: false, // Always needs verification in demo mode
+        isVerified: true, // Auto-verified on signup
         companyName: data.companyName,
         createdAt: new Date().toISOString(),
         isDemo: false,
@@ -283,6 +340,28 @@ export function SimpleAuthProvider({ children }: { children: ReactNode }) {
 
       setUser(newUser);
       setIsDemo(false);
+
+      // Persist user details and password for local login/session support
+      const localUsers = getLocalUsers();
+      const existing = localUsers.find((u: LocalUser) => u.email.toLowerCase() === data.email.toLowerCase());
+      if (existing) {
+        existing.password = data.password;
+        existing.name = data.name;
+        existing.role = data.role;
+        existing.companyName = data.companyName;
+      } else {
+        localUsers.push({
+          id: newUser.id,
+          email: data.email,
+          name: data.name,
+          role: data.role,
+          password: data.password,
+          companyName: data.companyName,
+          createdAt: newUser.createdAt,
+          isVerified: true,
+        });
+      }
+      setLocalUsers(localUsers);
 
       localStorage.setItem(STORAGE_KEY, JSON.stringify(newUser));
       localStorage.setItem(SESSION_KEY, JSON.stringify({
@@ -293,14 +372,15 @@ export function SimpleAuthProvider({ children }: { children: ReactNode }) {
 
       setIsLoading(false);
       toast({
-        title: "Account Created",
-        description: "Check your email to verify account! (Demo mode)",
+        title: "Welcome!",
+        description: "Account created successfully!",
       });
       return { success: true };
-    } catch (error: any) {
+    } catch (error: unknown) {
+      const message = error instanceof Error ? error.message : "An unexpected sign up error occurred";
       console.error("Signup error:", error);
       setIsLoading(false);
-      return { success: false, error: error.message };
+      return { success: false, error: message };
     }
   }, [toast]);
 
