@@ -58,12 +58,15 @@ export default function RecruiterDashboard() {
           <h1 className="text-3xl font-bold tracking-tight">Recruiter Dashboard</h1>
           <p className="text-muted-foreground mt-1">Manage your hiring pipeline and candidates</p>
         </div>
-        <div className="flex gap-3 flex-wrap">
+      <div className="flex gap-3 flex-wrap">
           <Button onClick={() => navigate("/recruiter/jobs")} className="gap-2">
             <Plus className="h-4 w-4" /> New Job
           </Button>
           <Button variant="outline" onClick={() => navigate("/recruiter/pipeline")} className="gap-2">
             View Pipeline <ArrowRight className="h-4 w-4" />
+          </Button>
+          <Button variant="outline" onClick={() => navigate("/recruiter/reports")}>
+            Evaluation Reports
           </Button>
         </div>
       </div>

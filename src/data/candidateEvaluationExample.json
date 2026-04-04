@@ -1,0 +1,21 @@
+{
+  "candidate_id": "CAND-7X9Q2",
+  "role_title": "Frontend Developer",
+  "assessment_scores": {
+    "technical_proficiency": 87,
+    "communication": 92,
+    "problem_solving": 76,
+    "logical_consistency": 81
+  },
+  "interview_transcript": "Transcript text here...",
+  "video_sentiment": {
+    "confidence_score": 8.2,
+    "clarity_score": 7.5,
+    "engagement_score": 6.8
+  },
+  "role_benchmarks": {
+    "technical_avg": 72,
+    "communication_avg": 85,
+    "problem_solving_avg": 68
+  }
+}
