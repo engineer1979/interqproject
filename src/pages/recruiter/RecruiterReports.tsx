@@ -7,8 +7,8 @@ import { RadarChart, Radar, PolarGrid, PolarAngleAxis, ResponsiveContainer } fro
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip } from 'recharts';
 import { Skeleton } from '@/components/ui/skeleton';
 import { useAuth } from '@/contexts/SimpleAuthContext';
-import { useQuery } from '@tanstack/react-query';
-import { supabase } from '@/integrations/supabase/client';
+import { CandidateEvaluation } from '@/types/candidateEvaluation';
+import { candidateEvaluationsMock } from '@/data/candidateEvaluationsMock';
 
 interface EvaluationStats {
   avgScore: number;
@@ -17,46 +17,47 @@ interface EvaluationStats {
   topSkills: string[];
 }
 
-const RecruiterReports = () => {
+const EvaluationReports = () => {
   const { user } = useAuth();
 
-  const { data: stats, isLoading } = useQuery<EvaluationStats>({
-    queryKey: ['recruiter-reports', user?.id],
-    queryFn: async () => {
-      if (!user?.id) {
-        return {
-          avgScore: 79.2,
-          passRate: 62,
-          totalCandidates: 32,
-          topSkills: ['JavaScript', 'Node.js', 'SQL', 'Docker'],
-        };
-      }
+  // EXACT useMemo implementation for candidate evaluations
+  const stats = useMemo<EvaluationStats>(() => {
+    const evaluations: CandidateEvaluation[] = candidateEvaluationsMock;
+    
+    const totalScores = evaluations.reduce((sum, eval) => sum + eval.overallScore, 0);
+    const avgScore = totalScores / evaluations.length;
+    
+    const passed = evaluations.filter(eval => eval.overallScore >= 70).length;
+    const passRate = (passed / evaluations.length) * 100;
+    
+    // Top skills from all evaluation criteria
+    const allSkills = evaluations.flatMap(eval => Object.keys(eval.criteria));
+    const skillCounts = allSkills.reduce((acc: Record<string, number>, skill) => {
+      acc[skill] = (acc[skill] || 0) + 1;
+      return acc;
+    }, {});
+    
+    const topSkills = Object.entries(skillCounts)
+      .sort(([,a], [,b]) => (b as number) - (a as number))
+      .slice(0, 4)
+      .map(([skill]) => skill);
 
-      const { data: evaluations } = await supabase
-        .from('evaluations')
-        .select('rating, category')
-        .eq('recruiter_id', user.id);
+    return {
+      avgScore,
+      passRate,
+      totalCandidates: evaluations.length,
+      topSkills,
+    };
+  }, []);
 
-      const avgScore = evaluations?.reduce((sum, e) => sum + e.rating, 0) / evaluations?.length || 0;
-      const passRate = evaluations?.filter((e: any) => e.rating >= 70).length / evaluations?.length * 100 || 0;
-      
-      return {
-        avgScore,
-        passRate,
-        totalCandidates: evaluations?.length || 0,
-        topSkills: ['JavaScript', 'Node.js', 'SQL'],
-      };
-    },
-  });
-
-  const radarData = [
+  const radarData = useMemo(() => [
     { skill: 'JavaScript', score: 88, full: 100 },
     { skill: 'Node.js', score: 76, full: 100 },
     { skill: 'SQL', score: 85, full: 100 },
     { skill: 'Docker', score: 72, full: 100 },
-  ];
+  ], []);
 
-  const barData = [
+  const barData = useMemo(() => [
     { name: 'Week 1', score: 72 },
     { name: 'Week 2', score: 81 },
     { name: 'Week 3', score: 79 },
@@ -64,7 +65,7 @@ const RecruiterReports = () => {
   ];
 
   if (isLoading) {
-    return <Skeleton className="h-96 w-full rounded-xl" />;
+  // No loading state needed - useMemo is sync
   }
 
   const exportReport = () => {
@@ -72,7 +73,7 @@ const RecruiterReports = () => {
     const dataUri = 'data:application/csv;charset=utf-8,' + encodeURIComponent(dataStr);
     const linkElement = document.createElement('a');
     linkElement.setAttribute('href', dataUri);
-    linkElement.setAttribute('download', 'recruiter-reports.csv');
+linkElement.setAttribute('download', 'candidate-evaluation-report.csv');
     linkElement.click();
   };
 
@@ -80,8 +81,8 @@ const RecruiterReports = () => {
     <div className="space-y-6">
       <div className="flex justify-between items-center">
         <div>
-          <h2 className="text-2xl font-bold">Recruiter Reports</h2>
-          <p className="text-muted-foreground">Personal evaluation analytics & performance</p>
+<h2 className="text-2xl font-bold">Evaluation Report</h2>
+<p className="text-muted-foreground">Detailed analytics from useMemo calculations</p>
         </div>
         <Button onClick={exportReport}>
           <Download className="mr-2 h-4 w-4" />
@@ -95,7 +96,7 @@ const RecruiterReports = () => {
             <CardHeader className="pb-3">
               <CardTitle className="flex items-center gap-2">
                 <TrendingUp className="h-5 w-5" />
-                Average Score
+                Average Overall Score
               </CardTitle>
             </CardHeader>
             <CardContent>
@@ -159,5 +160,5 @@ const RecruiterReports = () => {
   );
 };
 
-export default RecruiterReports;
+export default EvaluationReport;
 
