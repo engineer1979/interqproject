@@ -1,0 +1,112 @@
+[
+  {
+    "id": "report-1",
+    "title": "John Doe - Senior Developer",
+    "candidate_name": "John Doe",
+    "score": 92,
+    "status": "Complete",
+    "assessment_status": true,
+    "interview_status": true,
+    "created_at": "2024-12-10T10:30:00Z",
+    "summary": "Excellent candidate with strong technical skills and leadership potential."
+  },
+  {
+    "id": "report-2",
+    "title": "Sarah Wilson - Product Manager",
+    "candidate_name": "Sarah Wilson",
+    "score": 87,
+    "status": "Partial",
+    "assessment_status": true,
+    "interview_status": false,
+    "created_at": "2024-12-09T14:20:00Z",
+    "summary": "Good assessment performance, interview pending due to scheduling."
+  },
+  {
+    "id": "report-3",
+    "title": "Mike Johnson - DevOps Engineer",
+    "candidate_name": "Mike Johnson",
+    "score": 78,
+    "status": "Pending",
+    "assessment_status": false,
+    "interview_status": false,
+    "created_at": "2024-12-08T09:15:00Z",
+    "summary": "Assessment not started - reschedule required."
+  },
+  {
+    "id": "report-4",
+    "title": "Lisa Chen - Frontend Developer",
+    "candidate_name": "Lisa Chen",
+    "score": 95,
+    "status": "Complete",
+    "assessment_status": true,
+    "interview_status": true,
+    "created_at": "2024-12-07T16:45:00Z",
+    "summary": "Outstanding performance across all metrics. Top candidate."
+  },
+  {
+    "id": "report-5",
+    "title": "David Kim - Data Scientist",
+    "candidate_name": "David Kim",
+    "score": 84,
+    "status": "Complete",
+    "assessment_status": true,
+    "interview_status": true,
+    "created_at": "2024-12-06T11:10:00Z",
+    "summary": "Strong technical foundation with excellent communication skills."
+  },
+  {
+    "id": "report-6",
+    "title": "Emma Taylor - QA Engineer",
+    "candidate_name": "Emma Taylor",
+    "score": 89,
+    "status": "Partial",
+    "assessment_status": true,
+    "interview_status": false,
+    "created_at": "2024-12-05T13:00:00Z",
+    "summary": "Passed assessment, interview next week."
+  },
+  {
+    "id": "report-7",
+    "title": "Robert Brown - DevOps Engineer",
+    "candidate_name": "Robert Brown",
+    "score": 81,
+    "status": "Pending",
+    "assessment_status": false,
+    "interview_status": false,
+    "created_at": "2024-12-04T15:30:00Z",
+    "summary": "Awaiting assessment completion."
+  },
+  {
+    "id": "report-8",
+    "title": "Jennifer Lee - UI/UX Designer",
+    "candidate_name": "Jennifer Lee",
+    "score": 91,
+    "status": "Complete",
+    "assessment_status": true,
+    "interview_status": true,
+    "created_at": "2024-12-03T10:00:00Z",
+    "summary": "Creative and technical skills perfectly balanced."
+  },
+  {
+    "id": "report-9",
+    "title": "Alex Thompson - Fullstack Developer",
+    "candidate_name": "Alex Thompson",
+    "score": 88,
+    "status": "Complete",
+    "assessment_status": true,
+    "interview_status": true,
+    "created_at": "2024-12-02T12:45:00Z",
+    "summary": "Versatile developer with strong fullstack capabilities."
+  },
+  {
+    "id": "report-10",
+    "title": "Maria Garcia - Product Manager",
+    "candidate_name": "Maria Garcia",
+    "score": 79,
+    "status": "Partial",
+    "assessment_status": true,
+    "interview_status": false,
+    "created_at": "2024-12-01T09:20:00Z",
+    "summary": "Assessment complete, behavioral interview pending."
+  }
+]

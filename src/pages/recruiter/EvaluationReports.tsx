@@ -16,27 +16,20 @@ const EvaluationReports = () => {
   const { data: reports = [], isLoading } = useQuery({
     queryKey: ['recruiter-evaluation-reports'],
     queryFn: async () => {
-      const { data } = await supabase
-        .from('evaluation_reports')
-        .select('*')
-        .order('created_at', { ascending: false })
-        .limit(20);
+      try {
+        const { data } = await supabase
+          .from('evaluation_reports')
+          .select('*')
+          .order('created_at', { ascending: false })
+          .limit(20);
+        if (data && data.length > 0) return data;
+      } catch (e) {
+        console.log('DB not ready, using demo');
+      }
       
-      if (data && data.length > 0) return data;
-      
-      // Fallback demo
-      return [
-        {id: '1', title: 'John Doe - DevOps', score: 92, status: 'Complete', created_at: '2024-12-10'},
-        {id: '2', title: 'Sarah Wilson - PM', score: 87, status: 'Partial', created_at: '2024-12-09'},
-        {id: '3', title: 'Mike Johnson - Frontend', score: 78, status: 'Pending', created_at: '2024-12-08'},
-        {id: '4', title: 'Lisa Chen - Backend', score: 95, status: 'Complete', created_at: '2024-12-07'},
-        {id: '5', title: 'David Kim - Data Science', score: 84, status: 'Complete', created_at: '2024-12-06'},
-        {id: '6', title: 'Emma Taylor - QA', score: 89, status: 'Partial', created_at: '2024-12-05'},
-        {id: '7', title: 'Robert Brown - DevOps', score: 81, status: 'Pending', created_at: '2024-12-04'},
-        {id: '8', title: 'Jennifer Lee - UI/UX', score: 91, status: 'Complete', created_at: '2024-12-03'},
-        {id: '9', title: 'Alex Thompson - Fullstack', score: 88, status: 'Complete', created_at: '2024-12-02'},
-        {id: '10', title: 'Maria Garcia - Product', score: 79, status: 'Partial', created_at: '2024-12-01'}
-      ];
+      // Always fallback to demo data
+      const demoData = await fetch('/data/evaluationReports.json').then(r => r.json());
+      return demoData;
     },
   });
 
