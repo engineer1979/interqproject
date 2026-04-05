@@ -1,136 +1,87 @@
-import React, { useState } from 'react';
-import { useNavigate } from "react-router-dom";
-import { Button } from "@/components/ui/button";
-import { Input } from "@/components/ui/input";
-import { Label } from "@/components/ui/label";
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
-import { Lock, Mail, Loader2, AlertCircle, CheckCircle2 } from "lucide-react";
-import { supabase } from '@/lib/supabase';
+import { useState } from 'react';
+import { Link } from 'react-router-dom';
+import { Button } from '@/components/ui/button';
+import { Input } from '@/components/ui/input';
+import { Label } from '@/components/ui/label';
+import { Card, CardContent, CardHeader, CardTitle, CardDescription } from '@/components/ui/card';
+import { Lock, Mail, Loader2 } from "lucide-react";
 
-const ForgetPassword = () => {
+export default function ForgotPassword() {
   const [email, setEmail] = useState("");
-  const [message, setMessage] = useState("");
-  const [error, setError] = useState("");
   const [loading, setLoading] = useState(false);
-  const navigate = useNavigate();
+  const [sent, setSent] = useState(false);
 
-  const handleSubmit = async (e: React.FormEvent) => {
+  const handleSubmit = async (e) => {
     e.preventDefault();
-    setError("");
-    setMessage("");
-
-    if (!email) {
-      setError("Please enter your email address");
-      return;
-    }
-
-    // Email validation
-    const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-    if (!emailRegex.test(email)) {
-      setError("Please enter a valid email address");
-      return;
-    }
-
     setLoading(true);
 
     try {
-      // Using Supabase's built-in password reset
-      const { error: supabaseError } = await supabase.auth.resetPasswordForEmail(email, {
-        redirectTo: `${window.location.origin}/auth/reset-password`,
+      await fetch('https://lenltzlsnlbzwlizmijc.supabase.co/auth/v1/recover', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'apikey': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imxlbmx0emxzbmxiendsaXptaWpjIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjQzMzQxNDgsImV4cCI6MjA3OTkxMDE0OH0.O0y6JNNuUo9WOdd-Yq12M9sTwTc8YduaY1p_AG3NpCE'
+        },
+        body: JSON.stringify({ email })
       });
-
-      if (supabaseError) {
-        setError(supabaseError.message);
-      } else {
-        setMessage("Password reset link sent! Check your email inbox (including spam).");
-        setEmail("");
-      }
-    } catch (err) {
-      setError("An unexpected error occurred. Please try again.");
-    } finally {
-      setLoading(false);
+    } catch (error) {
+      console.error('Error:', error);
     }
+
+    setSent(true);
+    setLoading(false);
   };
 
+  if (sent) {
+    return (
+      <div className="min-h-screen flex items-center justify-center bg-gray-50">
+        <Card className="w-96">
+          <CardHeader>
+            <CardTitle className="text-center text-green-600">Check Email</CardTitle>
+            <CardDescription className="text-center">Reset link sent to your email</CardDescription>
+          </CardHeader>
+          <CardContent>
+            <Link to="/auth">
+              <Button className="w-full">Back to Login</Button>
+            </Link>
+          </CardContent>
+        </Card>
+      </div>
+    );
+  }
+
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-blue-50 to-indigo-100 p-4">
-      <Card className="w-full max-w-md">
+    <div className="min-h-screen flex items-center justify-center bg-gray-50">
+      <Card className="w-96">
         <CardHeader className="text-center">
-          <div className="w-16 h-16 mx-auto mb-4 bg-blue-100 rounded-2xl flex items-center justify-center">
-            <Lock className="w-8 h-8 text-blue-600" />
+          <div className="mx-auto mb-4 bg-blue-100 p-3 rounded-full">
+            <Lock className="w-6 h-6 text-blue-600" />
           </div>
-          <CardTitle className="text-2xl">Forgot Password?</CardTitle>
-          <CardDescription>
-            Enter your email address and we'll send you a link to reset your password.
-          </CardDescription>
+          <CardTitle>Forgot Password</CardTitle>
+          <CardDescription>Enter your email</CardDescription>
         </CardHeader>
         <CardContent>
           <form onSubmit={handleSubmit} className="space-y-4">
-            <div className="space-y-2">
-              <Label htmlFor="email">Email address</Label>
-              <div className="relative">
-                <Mail className="absolute left-3 top-1/2 transform -translate-y-1/2 text-muted-foreground w-4 h-4" />
-                <Input
-                  id="email"
-                  type="email"
-                  placeholder="you@example.com"
-                  value={email}
-                  onChange={(e) => {
-                    setEmail(e.target.value);
-                    if (error) setError("");
-                  }}
-                  className="pl-10"
-                  required
-                  disabled={loading}
-                />
-              </div>
+            <div>
+              <Label>Email</Label>
+              <Input 
+                type="email" 
+                value={email} 
+                onChange={(e) => setEmail(e.target.value)} 
+                required 
+              />
             </div>
-
-            {error && (
-              <div className="text-sm text-red-600 bg-red-50 border border-red-200 rounded-lg p-3 flex items-center gap-2">
-                <AlertCircle className="w-4 h-4 flex-shrink-0" />
-                {error}
-              </div>
-            )}
-
-            {message && (
-              <div className="text-sm text-green-600 bg-green-50 border border-green-200 rounded-lg p-3 flex items-center gap-2">
-                <CheckCircle2 className="w-4 h-4 flex-shrink-0" />
-                {message}
-              </div>
-            )}
-
-            <Button 
-              type="submit" 
-              className="w-full" 
-              disabled={loading}
-            >
-              {loading ? (
-                <>
-                  <Loader2 className="mr-2 h-4 w-4 animate-spin" />
-                  Sending...
-                </>
-              ) : (
-                'Send Reset Link'
-              )}
+            <Button type="submit" className="w-full" disabled={loading}>
+              {loading && <Loader2 className="w-4 h-4 mr-2 animate-spin" />}
+              Send Reset Link
             </Button>
           </form>
-
-          <div className="mt-6 text-center">
-            <Button 
-              variant="link" 
-              onClick={() => navigate('/auth')} 
-              className="p-0 h-auto"
-              disabled={loading}
-            >
-              ← Back to Sign In
-            </Button>
+          <div className="mt-4 text-center">
+            <Link to="/auth" className="text-sm text-gray-600">← Back</Link>
           </div>
         </CardContent>
       </Card>
     </div>
   );
-};
-
-export default ForgetPassword;
+}
 

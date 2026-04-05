@@ -70,7 +70,7 @@ export const DEMO_USERS: DemoUser[] = [
 ];
 
 // Storage keys
-const STORAGE_KEY = "interq_user";
+export const STORAGE_KEY = "interq_user";
 const SESSION_KEY = "interq_session";
 const DEMO_SESSION_KEY = "interq_demo_session";
 const LOCAL_USERS_KEY = "interq_local_users";
