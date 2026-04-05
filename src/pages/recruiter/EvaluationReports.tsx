@@ -16,7 +16,15 @@ const EvaluationReports = () => {
   const { data: reports = [], isLoading } = useQuery({
     queryKey: ['recruiter-evaluation-reports'],
     queryFn: async () => {
-// Demo data - 10 complete reports
+      const { data } = await supabase
+        .from('evaluation_reports')
+        .select('*')
+        .order('created_at', { ascending: false })
+        .limit(20);
+      
+      if (data && data.length > 0) return data;
+      
+      // Fallback demo
       return [
         {id: '1', title: 'John Doe - DevOps', score: 92, status: 'Complete', created_at: '2024-12-10'},
         {id: '2', title: 'Sarah Wilson - PM', score: 87, status: 'Partial', created_at: '2024-12-09'},
