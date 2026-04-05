@@ -5,8 +5,8 @@ import { useAuth } from "./SimpleAuthContext";
 
 export interface JobSeekerProfile {
   id?: string;
-  email?: string;
   full_name?: string;
+  resume_url?: string;
   skills?: string[];
   headline?: string;
   avatar_url?: string;
@@ -87,7 +87,7 @@ export function JobSeekerDashboardProvider({ children }: { children: ReactNode }
       if (!user?.id) return null;
       const supabaseClient = getSupabaseClient();
       const { data, error } = await supabaseClient
-        .from("profiles")
+        .from<JobSeekerProfile>("profiles")
         .select("*")
         .eq("id", user.id)
         .single();
@@ -103,7 +103,7 @@ export function JobSeekerDashboardProvider({ children }: { children: ReactNode }
       if (!user?.id) return [];
       const supabaseClient = getSupabaseClient();
       const { data, error } = await supabaseClient
-        .from("assessments")
+        .from<JobSeekerAssessment>("assessments")
         .select("*")
         .eq("status", "active")
         .limit(20);
@@ -119,7 +119,7 @@ export function JobSeekerDashboardProvider({ children }: { children: ReactNode }
       if (!user?.id) return [];
       const supabaseClient = getSupabaseClient();
       const { data, error } = await supabaseClient
-        .from("assessment_results")
+        .from<JobSeekerResult>("assessment_results")
         .select("*, assessments(title, category, difficulty)")
         .eq("user_id", user.id)
         .order("completed_at", { ascending: false });
@@ -135,7 +135,7 @@ export function JobSeekerDashboardProvider({ children }: { children: ReactNode }
       if (!user?.id) return [];
       const supabaseClient = getSupabaseClient();
       const { data, error } = await supabaseClient
-        .from("ai_interviews")
+        .from<JobSeekerInterview>("ai_interviews")
         .select("*")
         .eq("user_id", user.id)
         .order("created_at", { ascending: false });
@@ -151,7 +151,7 @@ export function JobSeekerDashboardProvider({ children }: { children: ReactNode }
       if (!user?.id) return [];
       const supabaseClient = getSupabaseClient();
       const { data, error } = await supabaseClient
-        .from("certificates")
+        .from<JobSeekerCertificate>("certificates")
         .select("*")
         .eq("user_id", user.id)
         .eq("status", "issued");
@@ -167,7 +167,7 @@ export function JobSeekerDashboardProvider({ children }: { children: ReactNode }
       if (!user?.id) return [];
       const supabaseClient = getSupabaseClient();
       const { data, error } = await supabaseClient
-        .from("job_applications")
+        .from<JobSeekerApplication>("job_applications")
         .select("*, jobs(title, company_id)")
         .eq("user_id", user.id)
         .order("created_at", { ascending: false });
@@ -183,7 +183,7 @@ export function JobSeekerDashboardProvider({ children }: { children: ReactNode }
       if (!user?.id) return [];
       const supabaseClient = getSupabaseClient();
       const { data, error } = await supabaseClient
-        .from("job_seeker_notifications")
+        .from<JobSeekerNotification>("job_seeker_notifications")
         .select("*")
         .eq("user_id", user.id)
         .order("created_at", { ascending: false });

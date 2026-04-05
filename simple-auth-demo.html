@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Simple Signup/Reset Demo</title>
+  <style>
+    body { font-family: Arial; max-width: 400px; margin: 50px auto; padding: 20px; }
+    input, button { width: 100%; padding: 10px; margin: 10px 0; box-sizing: border-box; }
+    button { background: #007bff; color: white; border: none; cursor: pointer; }
+    button:disabled { background: #ccc; }
+    .message { padding: 10px; margin: 10px 0; border-radius: 4px; }
+    .success { background: #d4edda; color: #155724; }
+    .error { background: #f8d7da; color: #721c24; }
+  </style>
+</head>
+<body>
+  <div id="app"></div>
+
+  <script type="module">
+    const { createRoot } = ReactDOM;
+    const root = createRoot(document.getElementById('app'));
+
+    function App() {
+      const [view, setView] = React.useState('signup');
+      const [username, setUsername] = useState('');
+      const [password, setPassword] = useState('');
+      const [message, setMessage] = useState('');
+
+      const handleSignup = async (e) => {
+        e.preventDefault();
+        setMessage('');
+        try {
+          const res = await fetch('http://localhost:8084/api/signup', { // Backend endpoint
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ username, password })
+          });
+          const data = await res.json();
+          setMessage(data.message || 'Success!');
+          if (res.ok) setView('login');
+        } catch (err) {
+          setMessage('Error: ' + err.message);
+        }
+      };
+
+      const handleForgotPassword = async (e) => {
+        e.preventDefault();
+        setMessage('');
+        try {
+          const res = await fetch('http://localhost:8084/api/forgot-password', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ username, password })
+          });
+          const data = await res.json();
+          setMessage(data.message);
+        } catch (err) {
+          setMessage('Error: ' + err.message);
+        }
+      };
+
+      return React.createElement('div', null,
+        React.createElement('h2', null, view === 'signup' ? 'Sign Up' : 'Reset Password'),
+        message && React.createElement('p', { className: message.includes('Error') ? 'error' : 'success' }, message),
+        view === 'signup' ? 
+          React.createElement('form', { onSubmit: handleSignup },
+            React.createElement('input', {
+              type: 'text',
+              placeholder: 'Username/email',
+              value: username,
+              onChange: (e) => setUsername(e.target.value),
+              required: true
+            }),
+            React.createElement('br'), React.createElement('br'),
+            React.createElement('input', {
+              type: 'password',
+              placeholder: 'Password',
+              value: password,
+              onChange: (e) => setPassword(e.target.value),
+              required: true
+            }),
+            React.createElement('br'), React.createElement('br'),
+            React.createElement('button', { type: 'submit' }, 'Sign Up')
+          ) :
+          React.createElement('form', { onSubmit: handleForgotPassword },
+            React.createElement('input', {
+              type: 'text',
+              placeholder: 'Username/email',
+              value: username,
+              onChange: (e) => setUsername(e.target.value),
+              required: true
+            }),
+            React.createElement('br'), React.createElement('br'),
+            React.createElement('input', {
+              type: 'password',
+              placeholder: 'New Password',
+              value: password,
+              onChange: (e) => setPassword(e.target.value),
+              required: true
+            }),
+            React.createElement('br'), React.createElement('br'),
+            React.createElement('button', { type: 'submit' }, 'Reset Password')
+          ),
+        React.createElement('br'),
+        view === 'signup' ?
+          React.createElement('button', { onClick: () => setView('forgot'), style: { background: '#6c757d' } }, 'Forgot Password?') :
+          React.createElement('button', { onClick: () => setView('signup'), style: { background: '#6c757d' } }, 'Back to Sign Up')
+      );
+    }
+
+    root.render(React.createElement(App));
+  </script>
+  <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
+  <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+</html>
+

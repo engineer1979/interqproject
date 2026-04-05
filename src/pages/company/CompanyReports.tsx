@@ -85,7 +85,8 @@ const CompanyReports = () => {
     <div className="space-y-6">
       <div className="flex justify-between items-center">
         <div>
-          <h2 className="text-2xl font-bold">Evaluation Reports</h2>
+<h2 className="text-2xl font-bold">Candidate Evaluation Reports</h2>
+            <p className="text-sm text-muted-foreground mt-1 mb-6">Company-wide analytics | <Button variant="link" onClick={() => navigate('/company/evaluation-reports')} className="h-auto p-0 text-primary hover:text-primary/80">View Individual Reports →</Button></p>
           <p className="text-muted-foreground">Comprehensive candidate assessment analytics</p>
         </div>
         <Button onClick={exportReport}>

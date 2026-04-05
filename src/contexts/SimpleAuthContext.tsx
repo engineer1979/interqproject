@@ -70,7 +70,7 @@ export const DEMO_USERS: DemoUser[] = [
 ];
 
 // Storage keys
-export const STORAGE_KEY = "interq_user";
+const STORAGE_KEY = "interq_user";
 const SESSION_KEY = "interq_session";
 const DEMO_SESSION_KEY = "interq_demo_session";
 const LOCAL_USERS_KEY = "interq_local_users";
@@ -142,7 +142,7 @@ export function SimpleAuthProvider({ children }: { children: ReactNode }) {
   const location = useLocation();
   const { toast } = useToast();
 
-  // Check for existing session on mount - EXTENDED DEMO SESSION TO 48 HOURS
+  // Check for existing session on mount
   useEffect(() => {
     const checkSession = async () => {
       try {
@@ -154,9 +154,9 @@ export function SimpleAuthProvider({ children }: { children: ReactNode }) {
           const parsedUser = JSON.parse(storedUser);
           const sessionData = JSON.parse(storedSession);
           
-          // Verify session hasn't expired (48 hours for all - extended from 24h)
+          // Verify session hasn't expired (24 hours)
           const sessionAge = Date.now() - sessionData.timestamp;
-          const sessionExpiry = 48 * 60 * 60 * 1000; // 48 hours
+          const sessionExpiry = 24 * 60 * 60 * 1000; // 24 hours
           
           if (sessionAge < sessionExpiry) {
             setUser(parsedUser);
@@ -169,12 +169,12 @@ export function SimpleAuthProvider({ children }: { children: ReactNode }) {
           // Has user but no session - check if demo
           const parsedUser = JSON.parse(storedUser);
           if (parsedUser.isDemo) {
-            // Demo users - extended to 48 hours
+            // Demo users have longer session (1 hour)
             const demoSession = localStorage.getItem(DEMO_SESSION_KEY);
             if (demoSession) {
               const demoData = JSON.parse(demoSession);
               const sessionAge = Date.now() - demoData.timestamp;
-              const demoExpiry = 48 * 60 * 60 * 1000; // 48 hours (was 1h)
+              const demoExpiry = 60 * 60 * 1000; // 1 hour
               
               if (sessionAge < demoExpiry) {
                 setUser(parsedUser);
@@ -230,7 +230,7 @@ export function SimpleAuthProvider({ children }: { children: ReactNode }) {
         setUser(newUser);
         setIsDemo(true);
         
-        // Store in localStorage with demo session - 48h
+        // Store in localStorage with demo session
         localStorage.setItem(STORAGE_KEY, JSON.stringify(newUser));
         localStorage.setItem(DEMO_SESSION_KEY, JSON.stringify({
           timestamp: Date.now(),
@@ -302,7 +302,7 @@ export function SimpleAuthProvider({ children }: { children: ReactNode }) {
       setUser(newUser);
       setIsDemo(true);
       
-      // Store with demo session - 48h
+      // Store with demo session
       localStorage.setItem(STORAGE_KEY, JSON.stringify(newUser));
       localStorage.setItem(DEMO_SESSION_KEY, JSON.stringify({
         timestamp: Date.now(),
@@ -312,7 +312,7 @@ export function SimpleAuthProvider({ children }: { children: ReactNode }) {
       setIsLoading(false);
       toast({
         title: "Demo Mode",
-        description: `Logged in as ${demoUser.name}. Session extended to 48 hours.`,
+        description: `Logged in as ${demoUser.name}. This is a demo account.`,
       });
       return { success: true };
     }
@@ -373,7 +373,7 @@ export function SimpleAuthProvider({ children }: { children: ReactNode }) {
       setIsLoading(false);
       toast({
         title: "Welcome!",
-        description: "Account created successfully! Session valid for 48 hours.",
+        description: "Account created successfully!",
       });
       return { success: true };
     } catch (error: unknown) {
@@ -514,4 +514,3 @@ export const canAccessAdmin = (user: User | null): boolean => {
 export const canSeeRealUsers = (user: User | null): boolean => {
   return user?.role === "admin" && !user?.isDemo;
 };
-

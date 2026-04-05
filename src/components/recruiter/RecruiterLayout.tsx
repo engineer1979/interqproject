@@ -42,6 +42,7 @@ const navSections = [
       { to: "/recruiter", icon: LayoutDashboard, label: "Dashboard" },
       { to: "/recruiter/jobs", icon: Briefcase, label: "Job Openings" },
       { to: "/recruiter/candidates", icon: Users, label: "Candidates" },
+      { to: "/recruiter/evaluation-reports", icon: FileText, label: "Evaluation Reports" },
       { to: "/recruiter/interviews", icon: Calendar, label: "Interviews" },
       { to: "/recruiter/offers", icon: FileText, label: "Offers" },
     ],
@@ -1399,8 +1400,8 @@ export function RecruiterLayout() {
           ) : (
             <div className="flex items-center justify-center h-[60vh]">
               <div className="text-center">
-                <h2 className="text-2xl font-bold">Coming Soon</h2>
-                <p className="text-muted-foreground mt-2">This section is under development</p>
+                <h2 className="text-2xl font-bold">Evaluation Reports</h2>
+                <p className="text-muted-foreground mt-2">Comprehensive candidate evaluations from assessments and interviews</p>
               </div>
             </div>
           )}

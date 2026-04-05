@@ -58,15 +58,12 @@ export default function RecruiterDashboard() {
           <h1 className="text-3xl font-bold tracking-tight">Recruiter Dashboard</h1>
           <p className="text-muted-foreground mt-1">Manage your hiring pipeline and candidates</p>
         </div>
-      <div className="flex gap-3 flex-wrap">
+        <div className="flex gap-3 flex-wrap">
           <Button onClick={() => navigate("/recruiter/jobs")} className="gap-2">
             <Plus className="h-4 w-4" /> New Job
           </Button>
           <Button variant="outline" onClick={() => navigate("/recruiter/pipeline")} className="gap-2">
             View Pipeline <ArrowRight className="h-4 w-4" />
-          </Button>
-          <Button variant="outline" onClick={() => navigate("/recruiter/reports")}>
-            Evaluation Reports
           </Button>
         </div>
       </div>
@@ -107,9 +104,9 @@ export default function RecruiterDashboard() {
         {/* Top Candidates */}
         <Card>
           <CardHeader>
-            <CardTitle className="flex items-center gap-2">
+<CardTitle className="flex items-center gap-2">
               <Users className="h-5 w-5" />
-              Top Candidates
+              Evaluation Reports
             </CardTitle>
           </CardHeader>
           <CardContent className="space-y-3">
@@ -119,7 +116,7 @@ export default function RecruiterDashboard() {
                 <p className="font-medium text-sm">John Doe</p>
                 <p className="text-xs text-muted-foreground">Final Score: 92</p>
               </div>
-              <Button variant="ghost" size="sm" className="h-8 px-3 text-xs">Interview</Button>
+<Button variant="ghost" size="sm" className="h-8 px-3 text-xs" onClick={() => navigate('/recruiter/evaluation-reports')}>View Reports</Button>
             </div>
             <div className="flex items-center gap-3 p-3 bg-muted/50 rounded-lg">
               <div className="w-10 h-10 bg-gradient-to-r from-green-500 to-emerald-500 rounded-full flex items-center justify-center text-white font-bold text-sm">SW</div>

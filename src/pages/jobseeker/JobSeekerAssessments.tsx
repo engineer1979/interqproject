@@ -1,16 +1,21 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { motion } from "framer-motion";
 import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { Input } from "@/components/ui/input";
-import { FileText, Search, Clock, ChevronRight, Filter } from "lucide-react";
+import { 
+  FileText, Search, Clock, ChevronRight, Filter, 
+  CheckCircle, Award, BookOpen, BarChart, User, 
+  FileCheck, Star
+} from "lucide-react";
 import { useNavigate } from "react-router-dom";
 import { useAuth } from "@/contexts/SimpleAuthContext";
 import { useAssessments } from "@/hooks/useAssessments";
+import { useCertificate } from "@/hooks/useCertificate";
 import { cn } from "@/lib/utils";
 
-const categories = ["All", "Development", "Security", "Infrastructure", "Data & AI", "CCNA", "AWS", "Azure", "CISSP", "Python", "Linux", "Windows", "ITIL"];
+const categories = ["All", "CCNA", "AWS", "Azure", "CISSP", "Security", "Kubernetes", "Python", "SQL", "Linux", "Windows", "ITIL"];
 const difficulties = ["All", "easy", "medium", "hard"];
 
 const JobSeekerAssessments = () => {
@@ -19,22 +24,31 @@ const JobSeekerAssessments = () => {
   const [difficulty, setDifficulty] = useState("All");
   const navigate = useNavigate();
   const { user } = useAuth();
-  const { data: assessments = [], isLoading } = useAssessments();
+  const { data: assessments = [], isLoading, error } = useAssessments();
+  const { generateCertificate } = useCertificate();
+  const [completedAssessments, setCompletedAssessments] = useState<string[]>([]);
+  const [certificateData, setCertificateData] = useState<Record<string, any>>({});
 
-  console.log('🔍 Debug - raw assessments:', assessments.length, assessments.slice(0,2));
-  const completedIds = []; // Offline mode - no DB tracking
+
 
   const filtered = assessments.filter((a: any) => {
-    const matchSearch = !search || a.title.toLowerCase().includes(search.toLowerCase()) || (a.domain || a.category || '').toLowerCase().includes(search.toLowerCase());
-    const matchCategory = category === "All" || (a.domain || a.category || '').toLowerCase() === category.toLowerCase();
-    const matchDifficulty = difficulty === "All" || (a.difficulty || '').toLowerCase() === difficulty.toLowerCase();
+    const matchSearch = !search || 
+      a.title.toLowerCase().includes(search.toLowerCase()) || 
+      (a.domain && a.domain.toLowerCase().includes(search.toLowerCase())) ||
+      (a.category && a.category.toLowerCase().includes(search.toLowerCase()));
+    
+    const matchCategory = category === "All" || 
+      (a.domain && a.domain.toLowerCase().includes(category.toLowerCase())) ||
+      (a.category && a.category.toLowerCase().includes(category.toLowerCase()));
+    
+    const matchDifficulty = difficulty === "All" || 
+      (a.difficulty && a.difficulty.toLowerCase() === difficulty.toLowerCase());
+    
     return matchSearch && matchCategory && matchDifficulty;
   });
 
-  console.log('🔍 Debug - filtered:', filtered.length, 'search:', search, 'category:', category, 'difficulty:', difficulty);
-
   const getDifficultyColor = (d: string) => {
-    switch (d) {
+    switch (d?.toLowerCase()) {
       case "easy": return "bg-green-500/10 text-green-700";
       case "medium": return "bg-amber-500/10 text-amber-700";
       case "hard": return "bg-destructive/10 text-destructive";
@@ -42,9 +56,94 @@ const JobSeekerAssessments = () => {
     }
   };
 
+  const getButtonVariant = (isCompleted: boolean, hasCertificate: boolean) => {
+    if (isCompleted && hasCertificate) return "outline";
+    if (isCompleted) return "secondary";
+    return "default";
+  };
+
+  const getButtonLabel = (isCompleted: boolean, hasCertificate: boolean) => {
+    if (isCompleted && hasCertificate) return "View Certificate";
+    if (isCompleted) return "View Results";
+    return "Start Assessment";
+  };
+
+  // Load completed assessments from API
+  useEffect(() => {
+    const fetchCompletedAssessments = async () => {
+      if (!user) return;
+      try {
+        const { data: results } = await supabase.from('assessment_results')
+          .from('assessment_results')
+          .select('assessment_id')
+          .eq('user_id', user.id);
+        
+        const completedIds = results?.map(r => r.assessment_id) || [];
+        setCompletedAssessments(completedIds);
+        
+        // Load cert data
+        const certData: Record<string, any> = {};
+        for (const id of completedIds) {
+          const { data: cert } = await supabase
+            .from('certificates')
+            .select('*')
+            .eq('assessment_id', id)
+            .eq('user_id', user.id)
+            .single();
+          if (cert) certData[id] = cert;
+        }
+        setCertificateData(certData);
+      } catch (err) {
+        console.error("Failed to load completed assessments:", err);
+      }
+    };
+    
+    fetchCompletedAssessments();
+  }, [user]);
+
+  const handleGenerateCertificate = async (assessment: any) => {
+    try {
+      const certificate = await generateCertificate(assessment.id);
+      if (certificate) {
+        setCertificateData(prev => ({
+          ...prev,
+          [assessment.id]: certificate
+        }));
+      }
+    } catch (err) {
+      console.error("Failed to generate certificate:", err);
+    }
+  };
+
+  const handleAction = (assessment: any) => {
+    const isCompleted = completedAssessments.includes(assessment.id);
+    const hasCertificate = certificateData[assessment.id];
+    
+    if (isCompleted && hasCertificate) {
+      navigate(`/certificates/${certificateData[assessment.id].id}`);
+    } else if (isCompleted) {
+      navigate(`/results/${assessment.id}`);
+    } else {
+      navigate(`/assessment/${assessment.id}`);
+    }
+  };
+
   return (
     <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="space-y-6">
+      {error && (
+        <div className="p-4 bg-destructive/10 border border-destructive rounded-lg text-destructive">
+          <p>Failed to load assessments: {error.message}</p>
+          <Button 
+            variant="outline" 
+            className="mt-2"
+            onClick={() => window.location.reload()}
+          >
+            Try Again
+          </Button>
+        </div>
+      )}
       <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4">
+
         <div>
           <h2 className="text-2xl font-bold">Assessment Library</h2>
           <p className="text-sm text-muted-foreground">{filtered.length} assessments available</p>
@@ -99,41 +198,69 @@ const JobSeekerAssessments = () => {
           <FileText className="w-12 h-12 mx-auto mb-3 opacity-30 text-muted-foreground" />
           <p className="text-muted-foreground mb-4">No assessments match current filters</p>
           <div className="space-y-2 text-sm text-muted-foreground">
-            <p>• Try clearing filters or search</p>
-            <p>• Default fallback data: Software Development, Cybersecurity, DevOps</p>
-            <p>• <Button variant="ghost" size="sm" onClick={() => { setSearch(''); setCategory('All'); setDifficulty('All'); }}>Clear All Filters</Button></p>
+            <p>• Try "CCNA", "AWS", "Python" domains</p>
+            <p>• Reset difficulty to "All"</p>
+            <p>• <Button variant="ghost" size="sm" onClick={() => { setSearch(''); setCategory('All'); setDifficulty('All'); }}>Clear Filters</Button></p>
           </div>
         </div>
       ) : (
         <div className="grid md:grid-cols-2 gap-4">
           {filtered.map((a: any) => {
-            const isCompleted = completedIds.includes(a.id);
+            const isCompleted = completedAssessments.includes(a.id);
+            const hasCertificate = certificateData[a.id];
             return (
-              <Card key={a.id} className="shadow-soft hover:shadow-elegant transition-all cursor-pointer" onClick={() => navigate(`/assessment/${a.id}`)}>
+              <Card key={a.id} className="shadow-soft hover:shadow-elegant transition-all">
                 <CardContent className="p-5">
                   <div className="flex items-start justify-between mb-3">
                     <div className="flex-1 min-w-0">
                       <h3 className="font-semibold truncate">{a.title}</h3>
-                      <p className="text-xs text-muted-foreground mt-1 line-clamp-2">{a.description || "Professional skill assessment"}</p>
+                      <p className="text-xs text-muted-foreground mt-1 line-clamp-2">{a.description || "Skill assessment test"}</p>
                     </div>
-                    {isCompleted && <Badge variant="default" className="ml-2 text-[10px]">Completed</Badge>}
+                    <div className="flex flex-col items-end">
+                      {isCompleted && (
+                        <Badge variant="default" className="mb-1 text-[10px] flex items-center">
+                          <CheckCircle className="w-3 h-3 mr-1" />
+                          Completed
+                        </Badge>
+                      )}
+                      {hasCertificate && (
+                        <Badge variant="outline" className="text-[10px] bg-blue-50 text-blue-700">
+                          <Award className="w-3 h-3 mr-1" />
+                          Certified
+                        </Badge>
+                      )}
+                    </div>
                   </div>
                   <div className="flex items-center gap-2 mb-4 flex-wrap">
-                    <Badge variant="secondary" className="text-[10px]">{a.domain || a.category || 'IT'}</Badge>
-                    <span className={cn("px-2 py-0.5 rounded-full text-[10px] font-medium capitalize", getDifficultyColor(a.difficulty || ''))}>
-                      {a.difficulty || 'mixed'}
+                    <Badge variant="secondary" className="text-[10px]">{a.domain || a.category}</Badge>
+                    <span className={cn("px-2 py-0.5 rounded-full text-[10px] font-medium capitalize", getDifficultyColor(a.difficulty))}>
+                      {a.difficulty}
                     </span>
                     <span className="flex items-center gap-1 text-xs text-muted-foreground">
-                      <Clock className="w-3 h-3" /> {a.duration_minutes || 60} min
+                      <Clock className="w-3 h-3" /> {a.duration_minutes} min
                     </span>
                   </div>
-                  <Button
-                    className="w-full"
-                    variant={isCompleted ? "outline" : "default"}
-                  >
-                    {isCompleted ? "Retake" : "Start Assessment"}
-                    <ChevronRight className="w-4 h-4 ml-1" />
-                  </Button>
+                    <div className="space-y-2">
+                      <Button
+                        className="w-full"
+                        variant={getButtonVariant(isCompleted, hasCertificate)}
+                        onClick={() => handleAction(a)}
+                      >
+                        {getButtonLabel(isCompleted, hasCertificate)}
+                        <ChevronRight className="w-4 h-4 ml-1" />
+                      </Button>
+                      
+                      {isCompleted && !hasCertificate && (
+                        <Button
+                          className="w-full"
+                          variant="outline"
+                          onClick={() => handleGenerateCertificate(a)}
+                        >
+                          <Award className="w-4 h-4 mr-2" />
+                          Generate Certificate
+                        </Button>
+                      )}
+                    </div>
                 </CardContent>
               </Card>
             );

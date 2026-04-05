@@ -222,7 +222,7 @@ const Integrations = () => {
                           {tool.status === 'coming-soon' && (
                             <div className="flex items-center gap-1 text-yellow-600">
                               <div className="h-2 w-2 bg-yellow-600 rounded-full animate-pulse" />
-                              <span className="text-xs font-medium">Coming Soon</span>
+                              <span className="text-xs font-medium">Live</span>
                             </div>
                           )}
                         </div>

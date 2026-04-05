@@ -1,26 +1,17 @@
-## Development Progress Tracker
+# Task Progress: Fix Signup Database Errors
+Status: [3/6]
 
-### ✅ COMPLETED
-- [x] Recruiter Portal Layout (sidebar navigation)
-- [x] Job Openings CRUD module
-- [x] Candidates table (static/mock)
-- [x] Interviews/Offers/Settings modules
-- [x] Dashboard metrics
-- [x] Reports/Evaluation Engine (useMemo stats/charts/tables/export)
-- [x] DB Schema (job_openings/candidates/interviews/offers/users)
-- [x] Seed data
-- [x] Local persistence (localStorage)
-- [x] Responsive shadcn/ui design
+**Current State:**
+- ✓ RPC migration: 20261201040000_fix_signup_profile_rpc.sql
+- ✓ SimpleAuthContext.tsx: replaced upserts → .rpc('create_user_profile') + graceful company insert + toast feedback
+- Vite HMR live update successful
 
-### 🔄 IN PROGRESS
-1. ~~Run project~~
-2. ~~Recruiter modules~~
-3. ~~Reports implementation~~
-4. ~~Schema/seeds~~
+**Steps:**
+- [x] 1-3. Prep complete ✓
+- [x] 4. Edit auth context ✓
+- [ ] 5. User must run: npx supabase db push (apply RPC to DB)
+- [ ] 6. Restart dev server (pnpm dev)
+- [ ] 7. Test new signup at http://localhost:8081/auth → no DB errors
+- [ ] 8. Complete
 
-### ⏳ NEXT STEPS
-- Backend Supabase integration (server.js)
-- RLS policies
-- Deploy (Vercel frontend, Supabase backend)
-
-**Status: Production Ready!** 🚀
+**Next:** Run `npx supabase db push` to deploy RPC, then restart server.

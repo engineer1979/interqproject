@@ -99,6 +99,7 @@ const RecruiterDashboard = lazy(() => import("./pages/recruiter/RecruiterDashboa
 const RecruiterPipeline = lazy(() => import("./pages/recruiter/Pipeline"));
 const RecruiterAssessments = lazy(() => import("./pages/recruiter/Assessments"));
 const RecruiterInterviews = lazy(() => import("./pages/recruiter/Interviews"));
+const EvaluationReports = lazy(() => import("./pages/recruiter/EvaluationReports"));
 const JobSeekerLayout = lazy(() => import("./components/jobseeker/JobSeekerLayout").then(m => ({ default: m.JobSeekerLayout })));
 const JobSeekerDashboard = lazy(() => import("./pages/jobseeker/JobSeekerDashboard"));
 const JobSeekerAssessments = lazy(() => import("./pages/jobseeker/JobSeekerAssessments"));
@@ -238,36 +239,32 @@ const App = () => (
               <Route path="/newsletter" element={<LegalPage title="Newsletter" content="Subscribe to the InterQ newsletter for hiring trends, platform updates, and best practices. We send 2-4 emails per month. Email newsletter@interq.com with 'Subscribe' in the subject line, or unsubscribe at any time using the link in any email." />} />
               <Route path="/admin" element={<AdminLayout />}>
                 <Route index element={<AdminDashboard />} />
-                <Route path="dashboard" element={<AdminDashboard />} />
-                <Route path="companies" element={<CompanyManagement />} />
-                <Route path="users" element={<UsersPage />} />
-                <Route path="roles" element={<RoleManagement />} />
-                <Route path="jobs" element={<AdminJobs />} />
-                <Route path="candidates" element={<CandidatesPage />} />
-                <Route path="interviews" element={<InterviewManagement />} />
-                <Route path="offers" element={<OffersManagement />} />
-                <Route path="reports" element={<AdminReports />} />
-                <Route path="activity" element={<ActivityLogs />} />
-                <Route path="billing" element={<BillingPage />} />
-                <Route path="integrations" element={<IntegrationsPageUnified />} />
-                <Route path="security" element={<SecurityPage />} />
-                <Route path="audit" element={<AuditLogsPage />} />
-                <Route path="settings" element={<AdminSettings />} />
                 <Route path="tests" element={<TestManagement />} />
                 <Route path="question-bank" element={<QuestionBank />} />
                 <Route path="prompt-generator" element={<AssessmentPromptGenerator />} />
                 <Route path="results" element={<AdminResults />} />
                 <Route path="results/:id" element={<AdminResultDetail />} />
+                <Route path="interviews" element={<InterviewManagement />} />
+                <Route path="certificates" element={<CertificateManagement />} />
+                <Route path="companies" element={<CompanyManagement />} />
+                <Route path="job-seekers" element={<JobSeekerManagement />} />
+                <Route path="logs" element={<ActivityLogs />} />
+                <Route path="role-management" element={<RoleManagement />} />
                 <Route path="pipeline" element={<PipelineDashboard />} />
+                <Route path="jobs" element={<AdminJobs />} />
                 <Route path="ats-screening" element={<ATSScreening />} />
                 <Route path="scoring" element={<CollaborativeScoring />} />
+                <Route path="reports" element={<AdminReports />} />
+                <Route path="settings" element={<AdminSettings />} />
               </Route>
               <Route path="/recruiter" element={<RecruiterLayout />}>
                 <Route index element={<RecruiterDashboard />} />
                 <Route path="jobs" element={<JobsPage />} />
                 <Route path="pipeline" element={<RecruiterPipeline />} />
                 <Route path="candidates" element={<CandidatesPage />} />
+                <Route path="evaluation-reports" element={<EvaluationReports />} />
                 <Route path="assessments" element={<RecruiterAssessments />} />
+
                 <Route path="interviews" element={<RecruiterInterviews />} />
                 <Route path="offers" element={<OffersManagement />} />
                 <Route path="reports" element={<ReportsPage />} />
