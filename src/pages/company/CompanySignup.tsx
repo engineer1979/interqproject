@@ -54,6 +54,7 @@ interface FormData {
 interface FormErrors {
   companyName?: string;
   companyEmail?: string;
+  website?: string;
   industry?: string;
   companySize?: string;
   adminName?: string;
@@ -185,6 +186,10 @@ export default function CompanySignup() {
       newErrors.companySize = "Please select company size";
     }
 
+    if (form.website && !/^https?:\/\/.+/.test(form.website)) {
+      newErrors.website = "Please enter a valid URL (starting with http:// or https://)";
+    }
+
     if (!form.termsAccepted) {
       newErrors.termsAccepted = "You must accept the terms and privacy policy";
     }
@@ -248,12 +253,31 @@ export default function CompanySignup() {
         .insert({
           name: form.companyName.trim(),
           email: form.companyEmail.trim(),
+          website: form.website || null,
+          industry: form.industry || null,
+          company_size: form.companySize || null,
+          location: form.location || null,
+          description: form.description || null,
           created_by: userId,
         })
         .select("id")
         .single();
 
       if (companyError) {
+        console.error("Company creation error:", companyError);
+        
+        // Check if it's a table not found error
+        if (companyError.message.includes("companies") || 
+            companyError.code === "42P01" ||
+            companyError.details?.includes("companies")) {
+          toast({
+            title: "Database setup required",
+            description: "The companies table doesn't exist. Please run the database migration first.",
+            variant: "destructive",
+          });
+          return;
+        }
+        
         if (companyError.message.includes("duplicate")) {
           toast({
             title: "Company exists",
@@ -262,6 +286,16 @@ export default function CompanySignup() {
           });
           return;
         }
+        
+        if (companyError.message.includes("foreign key")) {
+          toast({
+            title: "Setup incomplete",
+            description: "Please complete your profile setup before creating a company.",
+            variant: "destructive",
+          });
+          return;
+        }
+        
         throw companyError;
       }
 

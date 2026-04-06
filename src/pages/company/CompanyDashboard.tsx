@@ -1,488 +1,390 @@
-import { useState, useEffect, useMemo } from "react";
-import { useNavigate } from "react-router-dom";
-import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui/card";
-import { Badge } from "@/components/ui/badge";
-import { Button } from "@/components/ui/button";
-import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
-import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table";
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
-import { Dialog, DialogContent, DialogDescription, DialogFooter, DialogHeader, DialogTitle } from "@/components/ui/dialog";
-import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from "@/components/ui/dropdown-menu";
-import { Label } from "@/components/ui/label";
-import { Input } from "@/components/ui/input";
-import { Textarea } from "@/components/ui/textarea";
-import { Switch } from "@/components/ui/switch";
-import { Progress } from "@/components/ui/progress";
-import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
-import { useAuth } from "@/contexts/SimpleAuthContext";
-import { supabase } from "@/integrations/supabase/client";
-import { useToast } from "@/hooks/use-toast";
+import React, { useState, useEffect } from 'react';
+import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
+import { Button } from '@/components/ui/button';
+import { Badge } from '@/components/ui/badge';
+import { Input } from '@/components/ui/input';
+import { Label } from '@/components/ui/label';
+import { Textarea } from '@/components/ui/textarea';
+import { Progress } from '@/components/ui/progress';
+import { Checkbox } from '@/components/ui/checkbox';
+import { Avatar, AvatarFallback, AvatarImage } from '@/components/ui/avatar';
+import { Separator } from '@/components/ui/separator';
 import {
-  Building2, Users, Briefcase, UserCheck, Calendar, FileText,
-  CheckCircle, Eye, Download, Plus, ArrowUpRight, ArrowDownRight,
-  Activity, Star, MessageSquare, Settings, Bell, Search,
-  MoreHorizontal, Filter, X, UserPlus, Edit, Trash2, AlertCircle,
-  Clock, DollarSign, TrendingUp, PieChart, BarChart3, LineChart,
-  UsersRound, BriefcaseBusiness, ClipboardCheck, Send, RefreshCw,
-  Mail, Phone, MapPin, Globe, Loader2, Check, AlertTriangle,
-  ChevronRight, Zap, Target, Award, UserCog, Shield, Crown, User
-} from "lucide-react";
+  Dialog,
+  DialogContent,
+  DialogDescription,
+  DialogHeader,
+  DialogTitle,
+  DialogTrigger,
+  DialogFooter,
+} from '@/components/ui/dialog';
 import {
-  LineChart as RechartsLine, Line, XAxis, YAxis, CartesianGrid, Tooltip,
-  ResponsiveContainer, BarChart, Bar, PieChart as RechartsPie, Pie, Cell,
-  AreaChart, Area, Legend
+  Select,
+  SelectContent,
+  SelectItem,
+  SelectTrigger,
+  SelectValue,
+} from '@/components/ui/select';
+import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
+import {
+  Building2,
+  Users,
+  Briefcase,
+  TrendingUp,
+  TrendingDown,
+  Download,
+  Plus,
+  Search,
+  Filter,
+  MoreHorizontal,
+  MapPin,
+  Globe,
+  Calendar,
+  Mail,
+  Phone,
+  Edit,
+  Trash2,
+  Eye,
+  CheckCircle,
+  Clock,
+  XCircle,
+  UserPlus,
+  FileText,
+  BarChart3,
+  PieChart,
+  LineChart,
+  Settings,
+  Loader2,
+  X,
+  AlertCircle
+} from 'lucide-react';
+import {
+  LineChart,
+  Line,
+  XAxis,
+  YAxis,
+  CartesianGrid,
+  Tooltip,
+  ResponsiveContainer,
+  BarChart,
+  Bar,
+  PieChart as RechartsPie,
+  Pie,
+  Cell,
+  Legend
 } from 'recharts';
-import { mockCompanies, mockUsers, mockJobs, mockCandidates, mockNotifications } from "@/data/adminModuleData";
+import { useToast } from '@/hooks/use-toast';
+import {
+  companyService,
+  jobService,
+  candidateService,
+  dashboardService,
+  isValidUrl,
+  formatLocation
+} from '@/services/companyService';
+
+const CHART_COLORS = ['#3b82f6', '#8b5cf6', '#ec4899', '#10b981', '#f59e0b', '#ef4444'];
 
 interface Company {
   id: string;
   name: string;
-  logo_url: string | null;
-  website: string | null;
-  industry: string | null;
-  company_size: string | null;
-  created_at: string;
-}
-
-interface Employee {
-  id: string;
-  email: string;
-  full_name: string;
-  avatar_url: string | null;
-  role: string;
-  joined_at: string;
-  status: string;
+  email?: string;
+  logo_url?: string;
+  website?: string;
+  industry?: string;
+  company_size?: string;
+  location?: string;
+  description?: string;
 }
 
 interface Job {
   id: string;
   title: string;
-  department: string | null;
-  location: string | null;
-  status: string | null;
-  employment_type: string | null;
-  description: string | null;
+  department?: string;
+  location?: string;
+  employment_type?: string;
+  salary_min?: number;
+  salary_max?: number;
+  description?: string;
+  status: 'open' | 'closed' | 'draft';
   created_at: string;
-  created_by: string;
   applications?: number;
 }
 
 interface Candidate {
   id: string;
   full_name: string;
-  email: string;
-  phone: string | null;
-  current_title: string | null;
-  location: string | null;
+  email?: string;
+  phone?: string;
+  current_title?: string;
+  location?: string;
   status: string;
-  applied_job?: string;
-  applied_at: string;
-  source: string;
-  rating: number;
-  skills: string[];
-}
-
-interface Notification {
-  id: string;
-  title: string;
-  message: string;
-  type: 'application' | 'interview' | 'system' | 'offer';
-  is_read: boolean;
+  source?: string;
+  skills?: string[];
+  rating?: number;
   created_at: string;
 }
 
-const CHART_COLORS = ['#06b6d4', '#3b82f6', '#8b5cf6', '#ec4899', '#f59e0b', '#10b981'];
+interface Stats {
+  totalJobs: number;
+  openJobs: number;
+  closedJobs: number;
+  totalCandidates: number;
+  pendingReview: number;
+  interviewsScheduled: number;
+  offersSent: number;
+  hiresCompleted: number;
+}
 
-const CompanyDashboard = () => {
-  const { user, isDemo } = useAuth();
+// Mock data for fallback
+const mockStats: Stats = {
+  totalJobs: 8,
+  openJobs: 6,
+  closedJobs: 2,
+  totalCandidates: 156,
+  pendingReview: 42,
+  interviewsScheduled: 18,
+  offersSent: 5,
+  hiresCompleted: 12
+};
+
+const mockJobs: Job[] = [
+  { id: '1', title: 'Senior Frontend Developer', department: 'Engineering', location: 'San Francisco, CA', status: 'open', created_at: '2025-01-15', applications: 24 },
+  { id: '2', title: 'Backend Developer', department: 'Engineering', location: 'Remote', status: 'open', created_at: '2025-01-14', applications: 18 },
+  { id: '3', title: 'Product Manager', department: 'Product', location: 'New York, NY', status: 'open', created_at: '2025-01-13', applications: 31 },
+  { id: '4', title: 'UX Designer', department: 'Design', location: 'San Francisco, CA', status: 'closed', created_at: '2025-01-10', applications: 15 },
+];
+
+const mockCandidates: Candidate[] = [
+  { id: '1', full_name: 'John Doe', email: 'john@example.com', current_title: 'Frontend Developer', location: 'San Francisco, CA', status: 'interview', source: 'LinkedIn', rating: 4.5, created_at: '2025-01-15' },
+  { id: '2', full_name: 'Sarah Wilson', email: 'sarah@example.com', current_title: 'Senior Developer', location: 'Austin, TX', status: 'applied', source: 'Website', rating: 4.0, created_at: '2025-01-14' },
+  { id: '3', full_name: 'Mike Johnson', email: 'mike@example.com', current_title: 'Backend Engineer', location: 'Seattle, WA', status: 'screening', source: 'Referral', rating: 3.8, created_at: '2025-01-13' },
+  { id: '4', full_name: 'Emily Davis', email: 'emily@example.com', current_title: 'Product Manager', location: 'New York, NY', status: 'offer', source: 'LinkedIn', rating: 4.8, created_at: '2025-01-12' },
+  { id: '5', full_name: 'David Kim', email: 'david@example.com', current_title: 'Software Engineer', location: 'Chicago, IL', status: 'hired', source: 'Indeed', rating: 4.2, created_at: '2025-01-11' },
+];
+
+const mockApplicationsTrend = [
+  { month: 'Jan', applications: 45, hires: 3 },
+  { month: 'Feb', applications: 52, hires: 5 },
+  { month: 'Mar', applications: 48, hires: 4 },
+  { month: 'Apr', applications: 61, hires: 6 },
+  { month: 'May', applications: 55, hires: 4 },
+  { month: 'Jun', applications: 70, hires: 8 },
+];
+
+export default function CompanyDashboard() {
   const { toast } = useToast();
-  const navigate = useNavigate();
-  
-  // State
+  const [activeTab, setActiveTab] = useState('overview');
+  const [loading, setLoading] = useState(true);
   const [company, setCompany] = useState<Company | null>(null);
-  const [employees, setEmployees] = useState<Employee[]>([]);
   const [jobs, setJobs] = useState<Job[]>([]);
   const [candidates, setCandidates] = useState<Candidate[]>([]);
-  const [notifications, setNotifications] = useState<Notification[]>([]);
-  const [loading, setLoading] = useState(true);
-  const [activeTab, setActiveTab] = useState("overview");
-  
-  // Dialogs
-  const [createJobOpen, setCreateJobOpen] = useState(false);
-  const [createEmployeeOpen, setCreateEmployeeOpen] = useState(false);
-  const [settingsOpen, setSettingsOpen] = useState(false);
-  
-  // Filters
-  const [searchTerm, setSearchTerm] = useState("");
-  const [jobStatusFilter, setJobStatusFilter] = useState("all");
-  const [candidateStatusFilter, setCandidateStatusFilter] = useState("all");
-  
-  // Form states
-  const [newJob, setNewJob] = useState({
-    title: '', department: '', location: '', employment_type: 'Full-time',
-    description: '', salary_min: '', salary_max: '', remote: false
+  const [stats, setStats] = useState<Stats>(mockStats);
+  const [searchQuery, setSearchQuery] = useState('');
+  const [statusFilter, setStatusFilter] = useState('all');
+  const [editModalOpen, setEditModalOpen] = useState(false);
+  const [jobModalOpen, setJobModalOpen] = useState(false);
+  const [editingJob, setEditingJob] = useState<Job | null>(null);
+  const [editForm, setEditForm] = useState({
+    name: '',
+    email: '',
+    website: '',
+    industry: '',
+    company_size: '',
+    location: '',
+    description: ''
   });
-  const [newEmployee, setNewEmployee] = useState({
-    email: '', full_name: '', role: 'recruiter', phone: ''
-  });
-  const [submitting, setSubmitting] = useState(false);
 
-   // Fetch data
-   useEffect(() => {
-     const fetchData = async () => {
-       if (!user) return;
-       
-       setLoading(true);
-       
-       // If demo user, use mock data
-       if (isDemo) {
-         try {
-           // Set mock company
-           const mockCompany: Company = {
-             id: "1",
-             name: "TechCorp Solutions",
-             logo_url: "",
-             website: "https://techcorp.com",
-             industry: "Technology",
-             company_size: "500-1000",
-             created_at: "2024-01-15T10:00:00Z"
-           };
-           setCompany(mockCompany);
-           
-           // Map mock jobs to our Job interface
-           const mockJobsData: Job[] = mockJobs.map(job => ({
-             id: job.id,
-             title: job.title,
-             department: job.department,
-             location: job.location,
-             status: job.status,
-             employment_type: job.workplaceType,
-             description: job.description,
-             created_at: job.createdAt,
-             created_by: "user_1" // Mock user ID
-           }));
-           setJobs(mockJobsData);
-           
-           // Map mock users to our Employee interface
-           const mockEmployeesData: Employee[] = mockUsers
-             .filter(user => user.companyId === "1") // Only users from TechCorp Solutions
-             .map(user => ({
-               id: user.id,
-               email: user.email,
-               full_name: user.name,
-               avatar_url: null,
-               role: user.role.toLowerCase().includes("admin") ? "admin" : 
-                       user.role.toLowerCase().includes("recruiter") ? "recruiter" :
-                       user.role.toLowerCase().includes("manager") ? "hiring_manager" :
-                       user.role.toLowerCase().includes("interviewer") ? "interviewer" : "employee",
-               joined_at: user.createdAt,
-               status: user.status.toLowerCase() === "active" ? "active" : "inactive"
-             }));
-           setEmployees(mockEmployeesData);
-           
-           // Map mock candidates to our Candidate interface
-           const mockCandidatesData: Candidate[] = mockCandidates.map(candidate => ({
-             id: candidate.id,
-             full_name: candidate.fullName,
-             email: candidate.email,
-             phone: candidate.phone,
-             current_title: null,
-             location: "",
-             status: candidate.stage,
-             applied_job: candidate.jobId,
-             applied_at: candidate.appliedAt,
-             source: candidate.source,
-             rating: candidate.rating,
-             skills: candidate.tags || []
-           }));
-           setCandidates(mockCandidatesData);
-           
-           // Map mock notifications to our Notification interface
-           const mockNotificationsData: Notification[] = mockNotifications.map(notification => ({
-             id: notification.id,
-             title: notification.title,
-             message: notification.message,
-             type: notification.type === "application" ? "application" :
-                     notification.type === "interview" ? "interview" :
-                     notification.type === "offer" ? "offer" : "system",
-             is_read: notification.read,
-             created_at: notification.timestamp
-           }));
-           setNotifications(mockNotificationsData);
-           
-         } catch (error) {
-           console.error("Error loading mock data:", error);
-           toast({ title: "Error", description: "Failed to load demo data", variant: "destructive" });
-         }
-       } else {
-         // Real Supabase data fetching
-         try {
-           // Fetch company
-           const { data: membership } = await supabase
-             .from("company_members")
-             .select("company_id, companies(*)")
-             .eq("user_id", user.id)
-             .single();
-           
-           if (membership?.companies) {
-             setCompany(membership.companies as Company);
-             
-             // Fetch jobs
-             const { data: jobsData } = await supabase
-               .from("jobs")
-               .select("*")
-               .eq("company_id", membership.company_id)
-               .order("created_at", { ascending: false });
-             setJobs(jobsData || []);
-             
-             // Fetch employees
-             const { data: employeesData } = await supabase
-               .from("company_members")
-               .select("*, profiles(full_name, avatar_url)")
-               .eq("company_id", membership.company_id);
-             
-             const formattedEmployees: Employee[] = (employeesData || []).map((e: any) => ({
-               id: e.user_id,
-               email: e.profiles?.email || '',
-               full_name: e.profiles?.full_name || 'Unknown',
-               avatar_url: e.profiles?.avatar_url || null,
-               role: e.role,
-               joined_at: e.joined_at,
-               status: 'active'
-             }));
-             setEmployees(formattedEmployees);
-             
-             // Fetch candidates
-             const { data: candidatesData } = await supabase
-               .from("candidates")
-               .select("*")
-               .eq("company_id", membership.company_id)
-               .order("created_at", { ascending: false });
-               
-             const formattedCandidates: Candidate[] = (candidatesData || []).map((c: any) => ({
-               id: c.id,
-               full_name: c.full_name,
-               email: c.email,
-               phone: c.phone,
-               current_title: c.current_title,
-               location: c.location,
-               status: c.status,
-               applied_job: c.job_id,
-               applied_at: c.created_at,
-               source: 'Direct',
-               rating: 0,
-               skills: c.skills || []
-             }));
-             setCandidates(formattedCandidates);
-           }
-           
-           // Fetch notifications
-           const { data: notificationsData } = await supabase
-             .from("job_seeker_notifications")
-             .select("*")
-             .eq("user_id", user.id)
-             .order("created_at", { ascending: false })
-             .limit(10);
-           
-           const formattedNotifications: Notification[] = (notificationsData || []).map((n: any) => ({
-             id: n.id,
-             title: n.title,
-             message: n.message,
-             type: n.type as any,
-             is_read: n.is_read,
-             created_at: n.created_at
-           }));
-           setNotifications(formattedNotifications);
-           
-         } catch (error) {
-           console.error("Error fetching data:", error);
-           toast({ title: "Error", description: "Failed to load dashboard data", variant: "destructive" });
-         }
-       }
-       
-       setLoading(false);
-     };
- 
-     fetchData();
-   }, [user, isDemo, toast]);
+  useEffect(() => {
+    loadData();
+  }, []);
 
-  // Stats calculation
-  const stats = useMemo(() => ({
-    activeJobs: jobs.filter(j => j.status === 'open').length,
-    totalCandidates: candidates.length,
-    pendingReview: candidates.filter(c => c.status === 'applied' || c.status === 'screening').length,
-    interviewsScheduled: candidates.filter(c => c.status === 'interview').length,
-    offersSent: candidates.filter(c => c.status === 'offer').length,
-    hiresCompleted: candidates.filter(c => c.status === 'hired').length,
-    employeesCount: employees.length,
-    totalApplications: candidates.length
-  }), [jobs, candidates, employees]);
-
-  // Analytics data
-  const analyticsData = useMemo(() => ({
-    applicationsTrend: [
-      { month: 'Jan', applications: 45, hires: 3 },
-      { month: 'Feb', applications: 52, hires: 5 },
-      { month: 'Mar', applications: 48, hires: 4 },
-      { month: 'Apr', applications: 61, hires: 6 },
-      { month: 'May', applications: 55, hires: 4 },
-      { month: 'Jun', applications: 70, hires: 8 },
-    ],
-    pipelineDistribution: [
-      { name: 'Applied', value: candidates.filter(c => c.status === 'applied').length || 45, color: CHART_COLORS[0] },
-      { name: 'Screening', value: candidates.filter(c => c.status === 'screening').length || 30, color: CHART_COLORS[1] },
-      { name: 'Interview', value: candidates.filter(c => c.status === 'interview').length || 18, color: CHART_COLORS[2] },
-      { name: 'Offer', value: candidates.filter(c => c.status === 'offer').length || 8, color: CHART_COLORS[3] },
-      { name: 'Hired', value: candidates.filter(c => c.status === 'hired').length || 5, color: CHART_COLORS[4] },
-    ],
-    sourceDistribution: [
-      { source: 'LinkedIn', count: 120 },
-      { source: 'Website', count: 85 },
-      { source: 'Referral', count: 65 },
-      { source: 'Indeed', count: 45 },
-    ]
-  }), [candidates]);
-
-  // Filtered jobs
-  const filteredJobs = useMemo(() => {
-    return jobs.filter(job => {
-      const matchesSearch = job.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
-        (job.department || '').toLowerCase().includes(searchTerm.toLowerCase());
-      const matchesStatus = jobStatusFilter === 'all' || job.status === jobStatusFilter;
-      return matchesSearch && matchesStatus;
-    });
-  }, [jobs, searchTerm, jobStatusFilter]);
-
-  // Filtered candidates
-  const filteredCandidates = useMemo(() => {
-    return candidates.filter(c => {
-      const matchesSearch = c.full_name.toLowerCase().includes(searchTerm.toLowerCase()) ||
-        c.email.toLowerCase().includes(searchTerm.toLowerCase());
-      const matchesStatus = candidateStatusFilter === 'all' || c.status === candidateStatusFilter;
-      return matchesSearch && matchesStatus;
-    });
-  }, [candidates, searchTerm, candidateStatusFilter]);
-
-  // Create job
-  const handleCreateJob = async () => {
-    if (!newJob.title || !company) return;
-    
-    setSubmitting(true);
+  const loadData = async () => {
+    setLoading(true);
     try {
-      const { error } = await supabase.from("jobs").insert({
-        title: newJob.title,
-        department: newJob.department,
-        location: newJob.location,
-        employment_type: newJob.employment_type,
-        description: newJob.description,
-        company_id: company.id,
-        created_by: user?.id,
-        status: 'open'
+      // Load from service - if it fails, use mock data
+      try {
+        const [companyData, jobsData, candidatesData, statsData] = await Promise.all([
+          companyService.getById('00000000-0000-0000-0000-000000000001'),
+          jobService.getByCompany('00000000-0000-0000-0000-000000000001'),
+          candidateService.getByCompany('00000000-0000-0000-0000-000000000001'),
+          dashboardService.getStats('00000000-0000-0000-0000-000000000001')
+        ]);
+
+        if (companyData) setCompany(companyData);
+        if (jobsData.length) setJobs(jobsData);
+        if (candidatesData.length) setCandidates(candidatesData);
+        if (statsData) setStats(statsData);
+      } catch (serviceError) {
+        console.log('Using mock data - service not available:', serviceError);
+        // Use mock data as fallback
+        setJobs(mockJobs);
+        setCandidates(mockCandidates);
+        setStats(mockStats);
+        setCompany({
+          id: '00000000-0000-0000-0000-000000000001',
+          name: 'TechCorp Solutions',
+          email: 'contact@techcorp.com',
+          industry: 'Technology',
+          company_size: '500-1000',
+          location: 'San Francisco, CA',
+          website: 'https://techcorp.com',
+          description: 'Leading technology solutions provider'
+        });
+      }
+    } catch (error) {
+      console.error('Error loading data:', error);
+    } finally {
+      setLoading(false);
+    }
+  };
+
+  const handleUpdateCompany = async () => {
+    if (!company) return;
+
+    // Validate
+    if (!editForm.name.trim()) {
+      toast({ title: 'Company name is required', variant: 'destructive' });
+      return;
+    }
+
+    if (editForm.website && !isValidUrl(editForm.website)) {
+      toast({ title: 'Invalid website URL', description: 'Please enter a valid URL starting with http:// or https://', variant: 'destructive' });
+      return;
+    }
+
+    try {
+      const updated = await companyService.update(company.id, {
+        name: formatLocation(editForm.name.trim()),
+        email: editForm.email?.trim() || undefined,
+        website: editForm.website?.trim() || undefined,
+        industry: editForm.industry || undefined,
+        company_size: editForm.company_size || undefined,
+        location: formatLocation(editForm.location || ''),
+        description: editForm.description?.trim() || undefined
       });
 
-      if (error) throw error;
-
-      toast({ title: "Success", description: "Job created successfully" });
-      setCreateJobOpen(false);
-      setNewJob({ title: '', department: '', location: '', employment_type: 'Full-time', description: '', salary_min: '', salary_max: '', remote: false });
-      
-      // Refresh jobs
-      const { data: jobsData } = await supabase.from("jobs").select("*").eq("company_id", company.id);
-      setJobs(jobsData || []);
+      setCompany(updated);
+      setEditModalOpen(false);
+      toast({ title: 'Company updated successfully' });
     } catch (error) {
-      toast({ title: "Error", description: "Failed to create job", variant: "destructive" });
+      console.error('Error updating company:', error);
+      toast({ title: 'Failed to update company', variant: 'destructive' });
     }
-    setSubmitting(false);
   };
 
-  // Create employee invite
-  const handleCreateEmployee = async () => {
-    if (!newEmployee.email || !newEmployee.full_name || !company) return;
-    
-    setSubmitting(true);
+  const handleCreateJob = async (jobData: Partial<Job>) => {
+    if (!company) return;
+
+    if (!jobData.title?.trim()) {
+      toast({ title: 'Job title is required', variant: 'destructive' });
+      return;
+    }
+
     try {
-      // In production, this would send an invite email
-      toast({ title: "Success", description: `Invitation sent to ${newEmployee.email}` });
-      setCreateEmployeeOpen(false);
-      setNewEmployee({ email: '', full_name: '', role: 'recruiter', phone: '' });
+      if (editingJob) {
+        const updated = await jobService.update(editingJob.id, jobData);
+        setJobs(jobs.map(j => j.id === updated.id ? updated : j));
+        toast({ title: 'Job updated successfully' });
+      } else {
+        const created = await jobService.create(company.id, jobData as any, '');
+        setJobs([created, ...jobs]);
+        toast({ title: 'Job created successfully' });
+      }
+      setJobModalOpen(false);
+      setEditingJob(null);
     } catch (error) {
-      toast({ title: "Error", description: "Failed to send invitation", variant: "destructive" });
+      console.error('Error saving job:', error);
+      toast({ title: 'Failed to save job', variant: 'destructive' });
     }
-    setSubmitting(false);
   };
 
-  // Update job status
-  const handleUpdateJobStatus = async (jobId: string, status: string) => {
+  const handleDeleteJob = async (jobId: string) => {
     try {
-      await supabase.from("jobs").update({ status }).eq("id", jobId);
-      setJobs(jobs.map(j => j.id === jobId ? { ...j, status } : j));
-      toast({ title: "Success", description: "Job status updated" });
+      await jobService.delete(jobId);
+      setJobs(jobs.filter(j => j.id !== jobId));
+      toast({ title: 'Job deleted successfully' });
     } catch (error) {
-      toast({ title: "Error", description: "Failed to update status", variant: "destructive" });
+      console.error('Error deleting job:', error);
+      toast({ title: 'Failed to delete job', variant: 'destructive' });
     }
   };
 
-  // Update candidate status
   const handleUpdateCandidateStatus = async (candidateId: string, status: string) => {
     try {
-      await supabase.from("candidates").update({ status }).eq("id", candidateId);
+      await candidateService.updateStatus(candidateId, status);
       setCandidates(candidates.map(c => c.id === candidateId ? { ...c, status } : c));
-      toast({ title: "Success", description: "Candidate status updated" });
+      toast({ title: 'Candidate status updated' });
     } catch (error) {
-      toast({ title: "Error", description: "Failed to update status", variant: "destructive" });
+      console.error('Error updating candidate:', error);
+      toast({ title: 'Failed to update candidate', variant: 'destructive' });
     }
   };
 
-  // Mark notification as read
-  const markAsRead = async (id: string) => {
-    try {
-      await supabase.from("job_seeker_notifications").update({ is_read: true }).eq("id", id);
-      setNotifications(notifications.map(n => n.id === id ? { ...n, is_read: true } : n));
-    } catch (error) {
-      console.error("Error marking notification as read:", error);
+  const openEditModal = () => {
+    if (company) {
+      setEditForm({
+        name: company.name || '',
+        email: company.email || '',
+        website: company.website || '',
+        industry: company.industry || '',
+        company_size: company.company_size || '',
+        location: company.location || '',
+        description: company.description || ''
+      });
+      setEditModalOpen(true);
     }
   };
+
+  const openJobModal = (job?: Job) => {
+    if (job) {
+      setEditingJob(job);
+    } else {
+      setEditingJob(null);
+    }
+    setJobModalOpen(true);
+  };
+
+  const filteredCandidates = candidates.filter(c => {
+    const matchesSearch = searchQuery === '' || 
+      c.full_name.toLowerCase().includes(searchQuery.toLowerCase()) ||
+      c.email?.toLowerCase().includes(searchQuery.toLowerCase()) ||
+      c.current_title?.toLowerCase().includes(searchQuery.toLowerCase());
+    const matchesStatus = statusFilter === 'all' || c.status === statusFilter;
+    return matchesSearch && matchesStatus;
+  });
 
   const getStatusBadge = (status: string) => {
-    const statusConfig: Record<string, { label: string; className: string }> = {
-      open: { label: "Open", className: "bg-green-100 text-green-700 border-green-200" },
-      closed: { label: "Closed", className: "bg-gray-100 text-gray-700 border-gray-200" },
-      draft: { label: "Draft", className: "bg-yellow-100 text-yellow-700 border-yellow-200" },
-      applied: { label: "Applied", className: "bg-blue-100 text-blue-700 border-blue-200" },
-      screening: { label: "Screening", className: "bg-purple-100 text-purple-700 border-purple-200" },
-      interview: { label: "Interview", className: "bg-orange-100 text-orange-700 border-orange-200" },
-      offer: { label: "Offer", className: "bg-emerald-100 text-emerald-700 border-emerald-200" },
-      hired: { label: "Hired", className: "bg-green-100 text-green-700 border-green-200" },
-      rejected: { label: "Rejected", className: "bg-red-100 text-red-700 border-red-200" },
-    };
-    const config = statusConfig[status] || { label: status, className: "bg-gray-100 text-gray-700" };
-    return <Badge className={config.className}>{config.label}</Badge>;
+    switch (status) {
+      case 'open': return <Badge className="bg-green-100 text-green-800">Open</Badge>;
+      case 'closed': return <Badge className="bg-gray-100 text-gray-800">Closed</Badge>;
+      case 'draft': return <Badge className="bg-yellow-100 text-yellow-800">Draft</Badge>;
+      case 'applied': return <Badge className="bg-blue-100 text-blue-800">Applied</Badge>;
+      case 'screening': return <Badge className="bg-purple-100 text-purple-800">Screening</Badge>;
+      case 'interview': return <Badge className="bg-indigo-100 text-indigo-800">Interview</Badge>;
+      case 'offer': return <Badge className="bg-pink-100 text-pink-800">Offer</Badge>;
+      case 'hired': return <Badge className="bg-green-100 text-green-800">Hired</Badge>;
+      case 'rejected': return <Badge className="bg-red-100 text-red-800">Rejected</Badge>;
+      default: return <Badge variant="outline">{status}</Badge>;
+    }
   };
 
-  const getRoleBadge = (role: string) => {
-    const roleConfig: Record<string, { label: string; className: string; icon: any }> = {
-      admin: { label: "Admin", className: "bg-purple-100 text-purple-700", icon: Crown },
-      hr: { label: "HR", className: "bg-blue-100 text-blue-700", icon: UsersRound },
-      recruiter: { label: "Recruiter", className: "bg-green-100 text-green-700", icon: UserCheck },
-      hiring_manager: { label: "Hiring Manager", className: "bg-orange-100 text-orange-700", icon: Briefcase },
-      interviewer: { label: "Interviewer", className: "bg-cyan-100 text-cyan-700", icon: MessageSquare },
+  const getPipelineStats = () => {
+    return {
+      applied: candidates.filter(c => c.status === 'applied').length,
+      screening: candidates.filter(c => c.status === 'screening').length,
+      interview: candidates.filter(c => c.status === 'interview').length,
+      offer: candidates.filter(c => c.status === 'offer').length,
+      hired: candidates.filter(c => c.status === 'hired').length
     };
-    const config = roleConfig[role] || { label: role, className: "bg-gray-100 text-gray-700", icon: User };
-    return (
-      <Badge className={config.className}>
-        <config.icon className="w-3 h-3 mr-1" />
-        {config.label}
-      </Badge>
-    );
   };
+
+  const pipeline = getPipelineStats();
 
   if (loading) {
     return (
-      <div className="flex items-center justify-center h-96">
-        <div className="text-center space-y-4">
-          <Loader2 className="h-8 w-8 animate-spin mx-auto text-primary" />
-          <p className="text-muted-foreground">Loading dashboard...</p>
-        </div>
+      <div className="flex items-center justify-center h-64">
+        <Loader2 className="h-8 w-8 animate-spin text-primary" />
       </div>
     );
   }
@@ -490,194 +392,232 @@ const CompanyDashboard = () => {
   return (
     <div className="space-y-6">
       {/* Header */}
-      <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4">
-        <div>
-          <h1 className="text-2xl lg:text-3xl font-bold tracking-tight">
-            {company?.name || 'Company'} Dashboard
-          </h1>
-          <p className="text-muted-foreground">
-            {isDemo ? 'Demo Mode - ' : ''}Manage your hiring pipeline and team
-          </p>
+      <div className="flex flex-col lg:flex-row lg:items-center lg:justify-between gap-4">
+        <div className="flex items-center gap-4">
+          <Avatar className="h-16 w-16 border-2 border-slate-100 dark:border-slate-800 shadow-md">
+            {company?.logo_url ? (
+              <AvatarImage src={company.logo_url} alt={company.name} />
+            ) : (
+              <AvatarFallback className="bg-gradient-to-r from-blue-500 to-indigo-500 text-white text-xl">
+                {company?.name?.slice(0, 2).toUpperCase() || 'TC'}
+              </AvatarFallback>
+            )}
+          </Avatar>
+          <div>
+            <h1 className="text-2xl md:text-3xl font-bold tracking-tight">{company?.name || 'Company Dashboard'}</h1>
+            <p className="text-muted-foreground flex items-center gap-2">
+              {company?.industry && <span>{company.industry}</span>}
+              {company?.location && (
+                <>
+                  <span>•</span>
+                  <span className="flex items-center gap-1">
+                    <MapPin className="h-3 w-3" />
+                    {company.location}
+                  </span>
+                </>
+              )}
+              {company?.website && (
+                <>
+                  <span>•</span>
+                  <a href={company.website} target="_blank" rel="noopener noreferrer" className="flex items-center gap-1 text-blue-600 hover:underline">
+                    <Globe className="h-3 w-3" />
+                    Website
+                  </a>
+                </>
+              )}
+            </p>
+          </div>
         </div>
-        <div className="flex flex-wrap gap-2">
-          <Button variant="outline" onClick={() => navigate("/company/results")}>
-            <Download className="h-4 w-4 mr-2" />
-            Export Report
-          </Button>
-          <Button onClick={() => setCreateJobOpen(true)}>
-            <Plus className="h-4 w-4 mr-2" />
-            Post New Job
+        <div className="flex gap-2">
+          <Button variant="outline" onClick={openEditModal}>
+            <Edit className="h-4 w-4 mr-2" />
+            Edit Profile
           </Button>
         </div>
       </div>
 
-      {/* Stats Grid */}
-      <div className="grid gap-4 grid-cols-2 lg:grid-cols-4">
-        <Card className="hover:shadow-md transition-shadow">
-          <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
-            <CardTitle className="text-sm font-medium text-muted-foreground">Active Jobs</CardTitle>
-            <div className="w-10 h-10 rounded-xl bg-cyan-500/10 flex items-center justify-center">
-              <Briefcase className="h-5 w-5 text-cyan-500" />
+      {/* Stats Overview */}
+      <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+        <Card>
+          <CardContent className="p-4">
+            <div className="flex items-center justify-between">
+              <div>
+                <p className="text-sm text-muted-foreground">Total Jobs</p>
+                <p className="text-2xl font-bold">{stats.totalJobs}</p>
+              </div>
+              <div className="p-2 bg-blue-500/10 rounded-lg">
+                <Briefcase className="h-5 w-5 text-blue-600" />
+              </div>
             </div>
-          </CardHeader>
-          <CardContent>
-            <div className="text-2xl font-bold">{stats.activeJobs}</div>
-            <p className="text-xs text-muted-foreground flex items-center">
-              <ArrowUpRight className="h-3 w-3 text-green-500 mr-1" />
-              +2 this month
-            </p>
           </CardContent>
         </Card>
-
-        <Card className="hover:shadow-md transition-shadow">
-          <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
-            <CardTitle className="text-sm font-medium text-muted-foreground">Total Candidates</CardTitle>
-            <div className="w-10 h-10 rounded-xl bg-blue-500/10 flex items-center justify-center">
-              <Users className="h-5 w-5 text-blue-500" />
+        <Card>
+          <CardContent className="p-4">
+            <div className="flex items-center justify-between">
+              <div>
+                <p className="text-sm text-muted-foreground">Open Positions</p>
+                <p className="text-2xl font-bold text-green-600">{stats.openJobs}</p>
+              </div>
+              <div className="p-2 bg-green-500/10 rounded-lg">
+                <CheckCircle className="h-5 w-5 text-green-600" />
+              </div>
             </div>
-          </CardHeader>
-          <CardContent>
-            <div className="text-2xl font-bold">{stats.totalCandidates}</div>
-            <p className="text-xs text-muted-foreground flex items-center">
-              <ArrowUpRight className="h-3 w-3 text-green-500 mr-1" />
-              +12% from last month
-            </p>
           </CardContent>
         </Card>
-
-        <Card className="hover:shadow-md transition-shadow">
-          <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
-            <CardTitle className="text-sm font-medium text-muted-foreground">Interviews</CardTitle>
-            <div className="w-10 h-10 rounded-xl bg-purple-500/10 flex items-center justify-center">
-              <Calendar className="h-5 w-5 text-purple-500" />
+        <Card>
+          <CardContent className="p-4">
+            <div className="flex items-center justify-between">
+              <div>
+                <p className="text-sm text-muted-foreground">Total Candidates</p>
+                <p className="text-2xl font-bold">{stats.totalCandidates}</p>
+              </div>
+              <div className="p-2 bg-purple-500/10 rounded-lg">
+                <Users className="h-5 w-5 text-purple-600" />
+              </div>
             </div>
-          </CardHeader>
-          <CardContent>
-            <div className="text-2xl font-bold">{stats.interviewsScheduled}</div>
-            <p className="text-xs text-muted-foreground">Scheduled this week</p>
           </CardContent>
         </Card>
-
-        <Card className="hover:shadow-md transition-shadow">
-          <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
-            <CardTitle className="text-sm font-medium text-muted-foreground">Hires</CardTitle>
-            <div className="w-10 h-10 rounded-xl bg-green-500/10 flex items-center justify-center">
-              <CheckCircle className="h-5 w-5 text-green-500" />
+        <Card>
+          <CardContent className="p-4">
+            <div className="flex items-center justify-between">
+              <div>
+                <p className="text-sm text-muted-foreground">Hires (This Month)</p>
+                <p className="text-2xl font-bold text-emerald-600">{stats.hiresCompleted}</p>
+              </div>
+              <div className="p-2 bg-emerald-500/10 rounded-lg">
+                <UserPlus className="h-5 w-5 text-emerald-600" />
+              </div>
             </div>
-          </CardHeader>
-          <CardContent>
-            <div className="text-2xl font-bold">{stats.hiresCompleted}</div>
-            <p className="text-xs text-muted-foreground flex items-center">
-              <ArrowUpRight className="h-3 w-3 text-green-500 mr-1" />
-              +3 this quarter
-            </p>
           </CardContent>
         </Card>
       </div>
 
-      {/* Tabs */}
+      {/* Main Tabs */}
       <Tabs value={activeTab} onValueChange={setActiveTab} className="space-y-4">
-        <TabsList className="grid w-full grid-cols-2 lg:grid-cols-5 lg:w-auto">
+        <TabsList>
           <TabsTrigger value="overview">Overview</TabsTrigger>
           <TabsTrigger value="jobs">Jobs</TabsTrigger>
           <TabsTrigger value="candidates">Candidates</TabsTrigger>
-          <TabsTrigger value="team">Team</TabsTrigger>
           <TabsTrigger value="analytics">Analytics</TabsTrigger>
         </TabsList>
 
         {/* Overview Tab */}
         <TabsContent value="overview" className="space-y-4">
-          <div className="grid gap-6 lg:grid-cols-2">
-            {/* Recent Candidates */}
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
+            {/* Hiring Pipeline */}
             <Card>
-              <CardHeader className="flex flex-row items-center justify-between">
-                <div>
-                  <CardTitle>Recent Candidates</CardTitle>
-                  <CardDescription>Latest applicants for your jobs</CardDescription>
-                </div>
-                <Button variant="ghost" size="sm" onClick={() => setActiveTab("candidates")}>
-                  View All <ChevronRight className="h-4 w-4 ml-1" />
-                </Button>
+              <CardHeader>
+                <CardTitle className="flex items-center gap-2">
+                  <Users className="h-5 w-5" />
+                  Hiring Pipeline
+                </CardTitle>
               </CardHeader>
               <CardContent>
-                {filteredCandidates.length === 0 ? (
-                  <div className="text-center py-8 text-muted-foreground">
-                    <Users className="h-12 w-12 mx-auto mb-3 opacity-50" />
-                    <p>No candidates yet</p>
-                    <p className="text-sm">Candidates will appear here when they apply</p>
-                  </div>
-                ) : (
-                  <div className="space-y-3">
-                    {filteredCandidates.slice(0, 5).map((c) => (
-                      <div key={c.id} className="flex items-center justify-between p-3 rounded-lg border hover:bg-muted/50 transition-colors">
-                        <div className="flex items-center gap-3">
-                          <Avatar className="h-10 w-10">
-                            <AvatarFallback className="bg-gradient-to-br from-cyan-500 to-blue-500 text-white">
-                              {c.full_name.split(' ').map(n => n[0]).join('').slice(0, 2)}
-                            </AvatarFallback>
-                          </Avatar>
-                          <div>
-                            <p className="font-medium text-sm">{c.full_name}</p>
-                            <p className="text-xs text-muted-foreground">{c.email}</p>
-                          </div>
-                        </div>
-                        {getStatusBadge(c.status)}
+                <div className="space-y-4">
+                  {[
+                    { label: 'Applied', value: pipeline.applied, color: 'bg-blue-500' },
+                    { label: 'Screening', value: pipeline.screening, color: 'bg-purple-500' },
+                    { label: 'Interview', value: pipeline.interview, color: 'bg-indigo-500' },
+                    { label: 'Offer', value: pipeline.offer, color: 'bg-pink-500' },
+                    { label: 'Hired', value: pipeline.hired, color: 'bg-green-500' },
+                  ].map((stage) => (
+                    <div key={stage.label} className="space-y-2">
+                      <div className="flex justify-between text-sm">
+                        <span>{stage.label}</span>
+                        <span className="font-semibold">{stage.value}</span>
                       </div>
-                    ))}
-                  </div>
-                )}
+                      <Progress 
+                        value={(stage.value / stats.totalCandidates) * 100} 
+                        className={`h-2 ${stage.color}`}
+                      />
+                    </div>
+                  ))}
+                </div>
               </CardContent>
             </Card>
 
-            {/* Active Jobs */}
+            {/* Recent Activity */}
             <Card>
-              <CardHeader className="flex flex-row items-center justify-between">
-                <div>
-                  <CardTitle>Active Jobs</CardTitle>
-                  <CardDescription>Currently open positions</CardDescription>
-                </div>
-                <Button variant="ghost" size="sm" onClick={() => setActiveTab("jobs")}>
-                  View All <ChevronRight className="h-4 w-4 ml-1" />
-                </Button>
+              <CardHeader>
+                <CardTitle className="flex items-center gap-2">
+                  <FileText className="h-5 w-5" />
+                  Recent Applications
+                </CardTitle>
               </CardHeader>
               <CardContent>
-                {filteredJobs.filter(j => j.status === 'open').length === 0 ? (
-                  <div className="text-center py-8 text-muted-foreground">
-                    <Briefcase className="h-12 w-12 mx-auto mb-3 opacity-50" />
-                    <p>No active jobs</p>
-                    <Button size="sm" className="mt-2" onClick={() => setCreateJobOpen(true)}>
-                      <Plus className="h-4 w-4 mr-1" /> Post a Job
-                    </Button>
-                  </div>
-                ) : (
-                  <div className="space-y-3">
-                    {filteredJobs.filter(j => j.status === 'open').slice(0, 5).map((job) => (
-                      <div key={job.id} className="flex items-center justify-between p-3 rounded-lg border hover:bg-muted/50 transition-colors">
+                <div className="space-y-4">
+                  {candidates.slice(0, 5).map((candidate) => (
+                    <div key={candidate.id} className="flex items-center justify-between p-3 bg-slate-50 dark:bg-slate-800/50 rounded-lg">
+                      <div className="flex items-center gap-3">
+                        <Avatar className="h-8 w-8">
+                          <AvatarFallback className="text-xs">
+                            {candidate.full_name.split(' ').map(n => n[0]).join('')}
+                          </AvatarFallback>
+                        </Avatar>
                         <div>
-                          <p className="font-medium text-sm">{job.title}</p>
-                          <p className="text-xs text-muted-foreground">{job.department} • {job.location}</p>
+                          <p className="font-medium text-sm">{candidate.full_name}</p>
+                          <p className="text-xs text-muted-foreground">{candidate.current_title}</p>
                         </div>
-                        <Badge variant="outline">{stats.totalCandidates} applicants</Badge>
                       </div>
-                    ))}
-                  </div>
-                )}
+                      {getStatusBadge(candidate.status)}
+                    </div>
+                  ))}
+                </div>
               </CardContent>
             </Card>
           </div>
+        </TabsContent>
 
-          {/* Pipeline Overview */}
+        {/* Jobs Tab */}
+        <TabsContent value="jobs">
           <Card>
             <CardHeader>
-              <CardTitle>Hiring Pipeline</CardTitle>
-              <CardDescription>Current status of all candidates</CardDescription>
+              <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
+                <CardTitle>Job Postings</CardTitle>
+                <Button onClick={() => openJobModal()}>
+                  <Plus className="h-4 w-4 mr-2" />
+                  Create Job
+                </Button>
+              </div>
             </CardHeader>
             <CardContent>
-              <div className="grid grid-cols-2 lg:grid-cols-5 gap-4">
-                {analyticsData.pipelineDistribution.map((stage, i) => (
-                  <div key={stage.name} className="text-center p-4 rounded-xl bg-muted/50">
-                    <div className="text-2xl font-bold" style={{ color: stage.color }}>{stage.value}</div>
-                    <p className="text-sm text-muted-foreground">{stage.name}</p>
+              <div className="space-y-4">
+                {jobs.map((job) => (
+                  <div key={job.id} className="p-4 border rounded-lg">
+                    <div className="flex items-start justify-between mb-4">
+                      <div>
+                        <h3 className="font-semibold text-lg">{job.title}</h3>
+                        <p className="text-sm text-muted-foreground flex items-center gap-2">
+                          {job.department && <span>{job.department}</span>}
+                          {job.department && job.location && <span>•</span>}
+                          {job.location && (
+                            <span className="flex items-center gap-1">
+                              <MapPin className="h-3 w-3" />
+                              {job.location}
+                            </span>
+                          )}
+                        </p>
+                      </div>
+                      <div className="flex items-center gap-2">
+                        {getStatusBadge(job.status)}
+                        <Button variant="ghost" size="sm" onClick={() => openJobModal(job)}>
+                          <Edit className="h-4 w-4" />
+                        </Button>
+                        <Button variant="ghost" size="sm" onClick={() => handleDeleteJob(job.id)}>
+                          <Trash2 className="h-4 w-4 text-red-500" />
+                        </Button>
+                      </div>
+                    </div>
+                    <div className="flex items-center gap-4 text-sm text-muted-foreground">
+                      <span className="flex items-center gap-1">
+                        <Users className="h-4 w-4" />
+                        {job.applications || 0} applicants
+                      </span>
+                      <span className="flex items-center gap-1">
+                        <Calendar className="h-4 w-4" />
+                        {new Date(job.created_at).toLocaleDateString()}
+                      </span>
+                    </div>
                   </div>
                 ))}
               </div>
@@ -685,129 +625,28 @@ const CompanyDashboard = () => {
           </Card>
         </TabsContent>
 
-        {/* Jobs Tab */}
-        <TabsContent value="jobs" className="space-y-4">
+        {/* Candidates Tab */}
+        <TabsContent value="candidates">
           <Card>
             <CardHeader>
-              <div className="flex flex-col gap-4 md:flex-row md:items-center md:justify-between">
-                <div>
-                  <CardTitle>Job Listings</CardTitle>
-                  <CardDescription>Manage your job postings</CardDescription>
-                </div>
-                <div className="flex flex-wrap gap-2">
+              <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
+                <CardTitle>Candidates ({candidates.length})</CardTitle>
+                <div className="flex gap-2">
                   <div className="relative">
                     <Search className="absolute left-3 top-1/2 -translate-y-1/2 h-4 w-4 text-muted-foreground" />
-                    <Input 
-                      placeholder="Search jobs..." 
-                      value={searchTerm} 
-                      onChange={(e) => setSearchTerm(e.target.value)} 
+                    <Input
+                      placeholder="Search candidates..."
+                      value={searchQuery}
+                      onChange={(e) => setSearchQuery(e.target.value)}
                       className="pl-10 w-[200px]"
                     />
                   </div>
-                  <Select value={jobStatusFilter} onValueChange={setJobStatusFilter}>
-                    <SelectTrigger className="w-[140px]"><SelectValue placeholder="Status" /></SelectTrigger>
+                  <Select value={statusFilter} onValueChange={setStatusFilter}>
+                    <SelectTrigger className="w-[150px]">
+                      <SelectValue placeholder="Status" />
+                    </SelectTrigger>
                     <SelectContent>
                       <SelectItem value="all">All Status</SelectItem>
-                      <SelectItem value="open">Open</SelectItem>
-                      <SelectItem value="closed">Closed</SelectItem>
-                      <SelectItem value="draft">Draft</SelectItem>
-                    </SelectContent>
-                  </Select>
-                  <Button onClick={() => setCreateJobOpen(true)}>
-                    <Plus className="h-4 w-4 mr-2" />
-                    New Job
-                  </Button>
-                </div>
-              </div>
-            </CardHeader>
-            <CardContent>
-              {filteredJobs.length === 0 ? (
-                <div className="text-center py-12 text-muted-foreground">
-                  <Briefcase className="h-16 w-16 mx-auto mb-4 opacity-50" />
-                  <p className="text-lg font-medium">No jobs found</p>
-                  <p className="text-sm">Create your first job posting to get started</p>
-                  <Button className="mt-4" onClick={() => setCreateJobOpen(true)}>
-                    <Plus className="h-4 w-4 mr-2" />
-                    Post New Job
-                  </Button>
-                </div>
-              ) : (
-                <Table>
-                  <TableHeader>
-                    <TableRow>
-                      <TableHead>Job Title</TableHead>
-                      <TableHead>Department</TableHead>
-                      <TableHead>Location</TableHead>
-                      <TableHead>Type</TableHead>
-                      <TableHead>Status</TableHead>
-                      <TableHead className="text-right">Actions</TableHead>
-                    </TableRow>
-                  </TableHeader>
-                  <TableBody>
-                    {filteredJobs.map((job) => (
-                      <TableRow key={job.id}>
-                        <TableCell>
-                          <div>
-                            <p className="font-medium">{job.title}</p>
-                            <p className="text-xs text-muted-foreground">Posted {new Date(job.created_at).toLocaleDateString()}</p>
-                          </div>
-                        </TableCell>
-                        <TableCell>{job.department || '-'}</TableCell>
-                        <TableCell>{job.location || '-'}</TableCell>
-                        <TableCell>
-                          <Badge variant="outline">{job.employment_type || 'Full-time'}</Badge>
-                        </TableCell>
-                        <TableCell>{getStatusBadge(job.status || 'draft')}</TableCell>
-                        <TableCell className="text-right">
-                          <DropdownMenu>
-                            <DropdownMenuTrigger asChild>
-                              <Button variant="ghost" size="icon"><MoreHorizontal className="h-4 w-4" /></Button>
-                            </DropdownMenuTrigger>
-                            <DropdownMenuContent align="end">
-                              <DropdownMenuItem onClick={() => navigate(`/company/candidates?job=${job.id}`)}>
-                                <Users className="h-4 w-4 mr-2" /> View Applicants
-                              </DropdownMenuItem>
-                              <DropdownMenuItem onClick={() => handleUpdateJobStatus(job.id, job.status === 'open' ? 'closed' : 'open')}>
-                                <RefreshCw className="h-4 w-4 mr-2" /> {job.status === 'open' ? 'Close' : 'Reopen'}
-                              </DropdownMenuItem>
-                              <DropdownMenuItem>
-                                <Edit className="h-4 w-4 mr-2" /> Edit
-                              </DropdownMenuItem>
-                            </DropdownMenuContent>
-                          </DropdownMenu>
-                        </TableCell>
-                      </TableRow>
-                    ))}
-                  </TableBody>
-                </Table>
-              )}
-            </CardContent>
-          </Card>
-        </TabsContent>
-
-        {/* Candidates Tab */}
-        <TabsContent value="candidates" className="space-y-4">
-          <Card>
-            <CardHeader>
-              <div className="flex flex-col gap-4 md:flex-row md:items-center md:justify-between">
-                <div>
-                  <CardTitle>All Candidates</CardTitle>
-                  <CardDescription>Manage your candidate pipeline</CardDescription>
-                </div>
-                <div className="flex flex-wrap gap-2">
-                  <div className="relative">
-                    <Search className="absolute left-3 top-1/2 -translate-y-1/2 h-4 w-4 text-muted-foreground" />
-                    <Input 
-                      placeholder="Search candidates..." 
-                      value={searchTerm} 
-                      onChange={(e) => setSearchTerm(e.target.value)} 
-                      className="pl-10 w-[200px]"
-                    />
-                  </div>
-                  <Select value={candidateStatusFilter} onValueChange={setCandidateStatusFilter}>
-                    <SelectTrigger className="w-[150px]"><SelectValue placeholder="Stage" /></SelectTrigger>
-                    <SelectContent>
-                      <SelectItem value="all">All Stages</SelectItem>
                       <SelectItem value="applied">Applied</SelectItem>
                       <SelectItem value="screening">Screening</SelectItem>
                       <SelectItem value="interview">Interview</SelectItem>
@@ -820,362 +659,330 @@ const CompanyDashboard = () => {
               </div>
             </CardHeader>
             <CardContent>
-              {filteredCandidates.length === 0 ? (
-                <div className="text-center py-12 text-muted-foreground">
-                  <Users className="h-16 w-16 mx-auto mb-4 opacity-50" />
-                  <p className="text-lg font-medium">No candidates found</p>
-                  <p className="text-sm">Candidates will appear when they apply to your jobs</p>
-                </div>
-              ) : (
-                <Table>
-                  <TableHeader>
-                    <TableRow>
-                      <TableHead>Candidate</TableHead>
-                      <TableHead>Location</TableHead>
-                      <TableHead>Stage</TableHead>
-                      <TableHead>Applied</TableHead>
-                      <TableHead className="text-right">Actions</TableHead>
-                    </TableRow>
-                  </TableHeader>
-                  <TableBody>
-                    {filteredCandidates.map((c) => (
-                      <TableRow key={c.id}>
-                        <TableCell>
-                          <div className="flex items-center gap-3">
-                            <Avatar className="h-9 w-9">
-                              <AvatarFallback className="bg-gradient-to-br from-cyan-500 to-blue-500 text-white text-xs">
-                                {c.full_name.split(' ').map(n => n[0]).join('').slice(0, 2)}
-                              </AvatarFallback>
-                            </Avatar>
-                            <div>
-                              <p className="font-medium text-sm">{c.full_name}</p>
-                              <p className="text-xs text-muted-foreground">{c.email}</p>
-                            </div>
+              <div className="space-y-4">
+                {filteredCandidates.map((candidate) => (
+                  <div key={candidate.id} className="p-4 border rounded-lg">
+                    <div className="flex items-start justify-between">
+                      <div className="flex items-center gap-4">
+                        <Avatar className="h-10 w-10">
+                          <AvatarFallback className="bg-gradient-to-br from-blue-500 to-indigo-500 text-white">
+                            {candidate.full_name.split(' ').map(n => n[0]).join('')}
+                          </AvatarFallback>
+                        </Avatar>
+                        <div>
+                          <p className="font-semibold">{candidate.full_name}</p>
+                          <p className="text-sm text-muted-foreground">{candidate.current_title}</p>
+                          <div className="flex items-center gap-2 mt-1 text-xs text-muted-foreground">
+                            {candidate.email && <span className="flex items-center gap-1"><Mail className="h-3 w-3" />{candidate.email}</span>}
+                            {candidate.location && <span className="flex items-center gap-1"><MapPin className="h-3 w-3" />{candidate.location}</span>}
                           </div>
-                        </TableCell>
-                        <TableCell>{c.location || '-'}</TableCell>
-                        <TableCell>{getStatusBadge(c.status)}</TableCell>
-                        <TableCell className="text-muted-foreground text-sm">
-                          {new Date(c.applied_at).toLocaleDateString()}
-                        </TableCell>
-                        <TableCell className="text-right">
-                          <DropdownMenu>
-                            <DropdownMenuTrigger asChild>
-                              <Button variant="ghost" size="icon"><MoreHorizontal className="h-4 w-4" /></Button>
-                            </DropdownMenuTrigger>
-                            <DropdownMenuContent align="end">
-                              <DropdownMenuItem>
-                                <Eye className="h-4 w-4 mr-2" /> View Profile
-                              </DropdownMenuItem>
-                              <DropdownMenuItem onClick={() => handleUpdateCandidateStatus(c.id, 'screening')}>
-                                <ClipboardCheck className="h-4 w-4 mr-2" /> Move to Screening
-                              </DropdownMenuItem>
-                              <DropdownMenuItem onClick={() => handleUpdateCandidateStatus(c.id, 'interview')}>
-                                <Calendar className="h-4 w-4 mr-2" /> Schedule Interview
-                              </DropdownMenuItem>
-                              <DropdownMenuItem onClick={() => handleUpdateCandidateStatus(c.id, 'offer')}>
-                                <Send className="h-4 w-4 mr-2" /> Send Offer
-                              </DropdownMenuItem>
-                            </DropdownMenuContent>
-                          </DropdownMenu>
-                        </TableCell>
-                      </TableRow>
-                    ))}
-                  </TableBody>
-                </Table>
-              )}
+                        </div>
+                      </div>
+                      <Select value={candidate.status} onValueChange={(v) => handleUpdateCandidateStatus(candidate.id, v)}>
+                        <SelectTrigger className="w-[130px]">
+                          <SelectValue />
+                        </SelectTrigger>
+                        <SelectContent>
+                          <SelectItem value="applied">Applied</SelectItem>
+                          <SelectItem value="screening">Screening</SelectItem>
+                          <SelectItem value="interview">Interview</SelectItem>
+                          <SelectItem value="offer">Offer</SelectItem>
+                          <SelectItem value="hired">Hired</SelectItem>
+                          <SelectItem value="rejected">Rejected</SelectItem>
+                        </SelectContent>
+                      </Select>
+                    </div>
+                    {candidate.skills && candidate.skills.length > 0 && (
+                      <div className="flex flex-wrap gap-1 mt-3">
+                        {candidate.skills.map((skill, idx) => (
+                          <Badge key={idx} variant="outline" className="text-xs">{skill}</Badge>
+                        ))}
+                      </div>
+                    )}
+                  </div>
+                ))}
+              </div>
             </CardContent>
           </Card>
-        </TabsContent>
-
-        {/* Team Tab */}
-        <TabsContent value="team" className="space-y-4">
-          <div className="flex items-center justify-between">
-            <div>
-              <h2 className="text-lg font-semibold">Team Members</h2>
-              <p className="text-sm text-muted-foreground">{employees.length} members in your company</p>
-            </div>
-            <Button onClick={() => setCreateEmployeeOpen(true)}>
-              <UserPlus className="h-4 w-4 mr-2" />
-              Invite Member
-            </Button>
-          </div>
-
-          <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
-            {employees.map((employee) => (
-              <Card key={employee.id} className="hover:shadow-md transition-shadow">
-                <CardContent className="pt-6">
-                  <div className="flex items-start justify-between">
-                    <div className="flex items-center gap-3">
-                      <Avatar className="h-12 w-12">
-                        <AvatarFallback className="bg-gradient-to-br from-cyan-500 to-blue-500 text-white">
-                          {employee.full_name.split(' ').map(n => n[0]).join('').slice(0, 2)}
-                        </AvatarFallback>
-                      </Avatar>
-                      <div>
-                        <p className="font-medium">{employee.full_name}</p>
-                        <p className="text-sm text-muted-foreground">{employee.email}</p>
-                      </div>
-                    </div>
-                    <DropdownMenu>
-                      <DropdownMenuTrigger asChild>
-                        <Button variant="ghost" size="icon"><MoreHorizontal className="h-4 w-4" /></Button>
-                      </DropdownMenuTrigger>
-                      <DropdownMenuContent align="end">
-                        <DropdownMenuItem>
-                          <UserCog className="h-4 w-4 mr-2" /> Edit Role
-                        </DropdownMenuItem>
-                        <DropdownMenuItem className="text-destructive">
-                          <Trash2 className="h-4 w-4 mr-2" /> Remove
-                        </DropdownMenuItem>
-                      </DropdownMenuContent>
-                    </DropdownMenu>
-                  </div>
-                  <div className="mt-4 flex items-center justify-between">
-                    {getRoleBadge(employee.role)}
-                    <span className="text-xs text-muted-foreground">
-                      Joined {new Date(employee.joined_at).toLocaleDateString()}
-                    </span>
-                  </div>
-                </CardContent>
-              </Card>
-            ))}
-          </div>
         </TabsContent>
 
         {/* Analytics Tab */}
-        <TabsContent value="analytics" className="space-y-4">
-          <div className="grid gap-6 lg:grid-cols-2">
-            {/* Applications Trend */}
+        <TabsContent value="analytics">
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
             <Card>
               <CardHeader>
                 <CardTitle>Applications Trend</CardTitle>
-                <CardDescription>Monthly applications and hires</CardDescription>
               </CardHeader>
               <CardContent>
-                <div className="h-[300px]">
-                  <ResponsiveContainer width="100%" height="100%">
-                    <AreaChart data={analyticsData.applicationsTrend}>
-                      <defs>
-                        <linearGradient id="colorApps" x1="0" y1="0" x2="0" y2="1">
-                          <stop offset="5%" stopColor="#06b6d4" stopOpacity={0.3}/>
-                          <stop offset="95%" stopColor="#06b6d4" stopOpacity={0}/>
-                        </linearGradient>
-                        <linearGradient id="colorHires" x1="0" y1="0" x2="0" y2="1">
-                          <stop offset="5%" stopColor="#10b981" stopOpacity={0.3}/>
-                          <stop offset="95%" stopColor="#10b981" stopOpacity={0}/>
-                        </linearGradient>
-                      </defs>
-                      <CartesianGrid strokeDasharray="3 3" stroke="#e5e7eb" />
-                      <XAxis dataKey="month" stroke="#9ca3af" fontSize={12} />
-                      <YAxis stroke="#9ca3af" fontSize={12} />
-                      <Tooltip 
-                        contentStyle={{ background: 'white', border: '1px solid #e5e7eb', borderRadius: '8px' }}
-                      />
-                      <Area type="monotone" dataKey="applications" stroke="#06b6d4" fillOpacity={1} fill="url(#colorApps)" />
-                      <Area type="monotone" dataKey="hires" stroke="#10b981" fillOpacity={1} fill="url(#colorHires)" />
-                    </AreaChart>
-                  </ResponsiveContainer>
-                </div>
+                <ResponsiveContainer width="100%" height={300}>
+                  <LineChart data={mockApplicationsTrend}>
+                    <CartesianGrid strokeDasharray="3 3" />
+                    <XAxis dataKey="month" />
+                    <YAxis />
+                    <Tooltip />
+                    <Legend />
+                    <Line type="monotone" dataKey="applications" stroke="#3b82f6" strokeWidth={2} name="Applications" />
+                    <Line type="monotone" dataKey="hires" stroke="#10b981" strokeWidth={2} name="Hires" />
+                  </LineChart>
+                </ResponsiveContainer>
               </CardContent>
             </Card>
 
-            {/* Pipeline Distribution */}
             <Card>
               <CardHeader>
-                <CardTitle>Candidate Pipeline</CardTitle>
-                <CardDescription>Distribution by stage</CardDescription>
+                <CardTitle>Pipeline Distribution</CardTitle>
               </CardHeader>
               <CardContent>
-                <div className="h-[300px] flex items-center">
-                  <ResponsiveContainer width="100%" height="100%">
-                    <PieChart>
-                      <Pie
-                        data={analyticsData.pipelineDistribution}
-                        cx="50%"
-                        cy="50%"
-                        innerRadius={60}
-                        outerRadius={100}
-                        paddingAngle={5}
-                        dataKey="value"
-                      >
-                        {analyticsData.pipelineDistribution.map((entry, index) => (
-                          <Cell key={`cell-${index}`} fill={entry.color} />
-                        ))}
-                      </Pie>
-                      <Tooltip />
-                      <Legend />
-                    </PieChart>
-                  </ResponsiveContainer>
-                </div>
+                <ResponsiveContainer width="100%" height={300}>
+                  <RechartsPie>
+                    <Pie
+                      data={[
+                        { name: 'Applied', value: pipeline.applied },
+                        { name: 'Screening', value: pipeline.screening },
+                        { name: 'Interview', value: pipeline.interview },
+                        { name: 'Offer', value: pipeline.offer },
+                        { name: 'Hired', value: pipeline.hired },
+                      ]}
+                      cx="50%"
+                      cy="50%"
+                      innerRadius={60}
+                      outerRadius={100}
+                      paddingAngle={2}
+                      dataKey="value"
+                      label={({ name, value }) => `${name}: ${value}`}
+                    >
+                      {CHART_COLORS.map((color, index) => (
+                        <Cell key={`cell-${index}`} fill={color} />
+                      ))}
+                    </Pie>
+                    <Tooltip />
+                    <Legend />
+                  </RechartsPie>
+                </ResponsiveContainer>
               </CardContent>
             </Card>
           </div>
-
-          {/* Source Distribution */}
-          <Card>
-            <CardHeader>
-              <CardTitle>Candidate Sources</CardTitle>
-              <CardDescription>Where your candidates come from</CardDescription>
-            </CardHeader>
-            <CardContent>
-              <div className="h-[200px]">
-                <ResponsiveContainer width="100%" height="100%">
-                  <BarChart data={analyticsData.sourceDistribution}>
-                    <CartesianGrid strokeDasharray="3 3" stroke="#e5e7eb" />
-                    <XAxis dataKey="source" stroke="#9ca3af" fontSize={12} />
-                    <YAxis stroke="#9ca3af" fontSize={12} />
-                    <Tooltip 
-                      contentStyle={{ background: 'white', border: '1px solid #e5e7eb', borderRadius: '8px' }}
-                    />
-                    <Bar dataKey="count" fill="#06b6d4" radius={[4, 4, 0, 0]} />
-                  </BarChart>
-                </ResponsiveContainer>
-              </div>
-            </CardContent>
-          </Card>
         </TabsContent>
       </Tabs>
 
-      {/* Create Job Dialog */}
-      <Dialog open={createJobOpen} onOpenChange={setCreateJobOpen}>
-        <DialogContent className="max-w-2xl max-h-[90vh] overflow-y-auto">
+      {/* Edit Company Modal */}
+      <Dialog open={editModalOpen} onOpenChange={setEditModalOpen}>
+        <DialogContent className="sm:max-w-[500px]">
           <DialogHeader>
-            <DialogTitle>Create New Job</DialogTitle>
-            <DialogDescription>Fill in the details to create a new job posting</DialogDescription>
+            <DialogTitle>Edit Company Profile</DialogTitle>
+            <DialogDescription>Update your company information</DialogDescription>
           </DialogHeader>
-          <div className="grid gap-4 py-4">
+          <div className="space-y-4 py-4">
             <div className="space-y-2">
-              <Label htmlFor="job-title">Job Title *</Label>
-              <Input 
-                id="job-title" 
-                placeholder="e.g. Senior Software Engineer" 
-                value={newJob.title}
-                onChange={(e) => setNewJob({ ...newJob, title: e.target.value })}
+              <Label>Company Name *</Label>
+              <Input
+                value={editForm.name}
+                onChange={(e) => setEditForm({ ...editForm, name: e.target.value })}
+                placeholder="Enter company name"
               />
             </div>
-            <div className="grid grid-cols-2 gap-4">
-              <div className="space-y-2">
-                <Label htmlFor="department">Department</Label>
-                <Input 
-                  id="department" 
-                  placeholder="e.g. Engineering" 
-                  value={newJob.department}
-                  onChange={(e) => setNewJob({ ...newJob, department: e.target.value })}
-                />
-              </div>
-              <div className="space-y-2">
-                <Label htmlFor="location">Location</Label>
-                <Input 
-                  id="location" 
-                  placeholder="e.g. San Francisco, CA" 
-                  value={newJob.location}
-                  onChange={(e) => setNewJob({ ...newJob, location: e.target.value })}
-                />
-              </div>
+            <div className="space-y-2">
+              <Label>Email</Label>
+              <Input
+                type="email"
+                value={editForm.email}
+                onChange={(e) => setEditForm({ ...editForm, email: e.target.value })}
+                placeholder="company@example.com"
+              />
+            </div>
+            <div className="space-y-2">
+              <Label>Website</Label>
+              <Input
+                value={editForm.website}
+                onChange={(e) => setEditForm({ ...editForm, website: e.target.value })}
+                placeholder="https://example.com"
+              />
+              {editForm.website && !isValidUrl(editForm.website) && (
+                <p className="text-xs text-red-500">Please enter a valid URL starting with http:// or https://</p>
+              )}
             </div>
             <div className="grid grid-cols-2 gap-4">
               <div className="space-y-2">
-                <Label>Employment Type</Label>
-                <Select value={newJob.employment_type} onValueChange={(v) => setNewJob({ ...newJob, employment_type: v })}>
-                  <SelectTrigger><SelectValue /></SelectTrigger>
+                <Label>Industry</Label>
+                <Select value={editForm.industry} onValueChange={(v) => setEditForm({ ...editForm, industry: v })}>
+                  <SelectTrigger>
+                    <SelectValue placeholder="Select industry" />
+                  </SelectTrigger>
                   <SelectContent>
-                    <SelectItem value="Full-time">Full-time</SelectItem>
-                    <SelectItem value="Part-time">Part-time</SelectItem>
-                    <SelectItem value="Contract">Contract</SelectItem>
-                    <SelectItem value="Internship">Internship</SelectItem>
+                    <SelectItem value="Technology">Technology</SelectItem>
+                    <SelectItem value="Healthcare">Healthcare</SelectItem>
+                    <SelectItem value="Finance">Finance</SelectItem>
+                    <SelectItem value="Education">Education</SelectItem>
+                    <SelectItem value="Retail">Retail</SelectItem>
+                    <SelectItem value="Manufacturing">Manufacturing</SelectItem>
+                    <SelectItem value="Other">Other</SelectItem>
                   </SelectContent>
                 </Select>
               </div>
               <div className="space-y-2">
-                <Label htmlFor="salary">Salary Range</Label>
-                <div className="flex gap-2">
-                  <Input placeholder="Min" value={newJob.salary_min} onChange={(e) => setNewJob({ ...newJob, salary_min: e.target.value })} />
-                  <Input placeholder="Max" value={newJob.salary_max} onChange={(e) => setNewJob({ ...newJob, salary_max: e.target.value })} />
-                </div>
+                <Label>Company Size</Label>
+                <Select value={editForm.company_size} onValueChange={(v) => setEditForm({ ...editForm, company_size: v })}>
+                  <SelectTrigger>
+                    <SelectValue placeholder="Select size" />
+                  </SelectTrigger>
+                  <SelectContent>
+                    <SelectItem value="1-10">1-10</SelectItem>
+                    <SelectItem value="11-50">11-50</SelectItem>
+                    <SelectItem value="51-200">51-200</SelectItem>
+                    <SelectItem value="201-500">201-500</SelectItem>
+                    <SelectItem value="500-1000">500-1000</SelectItem>
+                    <SelectItem value="1000+">1000+</SelectItem>
+                  </SelectContent>
+                </Select>
               </div>
             </div>
-            <div className="flex items-center space-x-2">
-              <Switch 
-                id="remote" 
-                checked={newJob.remote}
-                onCheckedChange={(checked) => setNewJob({ ...newJob, remote: checked })}
+            <div className="space-y-2">
+              <Label>Location</Label>
+              <Input
+                value={editForm.location}
+                onChange={(e) => setEditForm({ ...editForm, location: e.target.value })}
+                placeholder="City, State"
               />
-              <Label htmlFor="remote">Remote position available</Label>
             </div>
             <div className="space-y-2">
-              <Label htmlFor="description">Job Description *</Label>
-              <Textarea 
-                id="description" 
-                rows={4} 
-                placeholder="Describe the role, responsibilities, and requirements..."
-                value={newJob.description}
-                onChange={(e) => setNewJob({ ...newJob, description: e.target.value })}
+              <Label>Description</Label>
+              <Textarea
+                value={editForm.description}
+                onChange={(e) => setEditForm({ ...editForm, description: e.target.value })}
+                placeholder="Describe your company..."
+                rows={3}
               />
             </div>
           </div>
           <DialogFooter>
-            <Button variant="outline" onClick={() => setCreateJobOpen(false)}>Cancel</Button>
-            <Button onClick={handleCreateJob} disabled={!newJob.title || submitting}>
-              {submitting && <Loader2 className="h-4 w-4 mr-2 animate-spin" />}
-              Create Job
-            </Button>
+            <Button variant="outline" onClick={() => setEditModalOpen(false)}>Cancel</Button>
+            <Button onClick={handleUpdateCompany}>Save Changes</Button>
           </DialogFooter>
         </DialogContent>
       </Dialog>
 
-      {/* Invite Employee Dialog */}
-      <Dialog open={createEmployeeOpen} onOpenChange={setCreateEmployeeOpen}>
-        <DialogContent>
+      {/* Create/Edit Job Modal */}
+      <Dialog open={jobModalOpen} onOpenChange={setJobModalOpen}>
+        <DialogContent className="sm:max-w-[500px]">
           <DialogHeader>
-            <DialogTitle>Invite Team Member</DialogTitle>
-            <DialogDescription>Send an invitation to join your company workspace</DialogDescription>
+            <DialogTitle>{editingJob ? 'Edit Job' : 'Create New Job'}</DialogTitle>
+            <DialogDescription>Fill in the job details</DialogDescription>
           </DialogHeader>
-          <div className="grid gap-4 py-4">
-            <div className="space-y-2">
-              <Label htmlFor="employee-name">Full Name *</Label>
-              <Input 
-                id="employee-name" 
-                placeholder="John Smith" 
-                value={newEmployee.full_name}
-                onChange={(e) => setNewEmployee({ ...newEmployee, full_name: e.target.value })}
-              />
-            </div>
-            <div className="space-y-2">
-              <Label htmlFor="employee-email">Email *</Label>
-              <Input 
-                id="employee-email" 
-                type="email"
-                placeholder="john@company.com" 
-                value={newEmployee.email}
-                onChange={(e) => setNewEmployee({ ...newEmployee, email: e.target.value })}
-              />
-            </div>
-            <div className="space-y-2">
-              <Label>Role</Label>
-              <Select value={newEmployee.role} onValueChange={(v) => setNewEmployee({ ...newEmployee, role: v })}>
-                <SelectTrigger><SelectValue /></SelectTrigger>
-                <SelectContent>
-                  <SelectItem value="admin">Admin</SelectItem>
-                  <SelectItem value="hr">HR Manager</SelectItem>
-                  <SelectItem value="recruiter">Recruiter</SelectItem>
-                  <SelectItem value="hiring_manager">Hiring Manager</SelectItem>
-                  <SelectItem value="interviewer">Interviewer</SelectItem>
-                </SelectContent>
-              </Select>
-            </div>
-          </div>
-          <DialogFooter>
-            <Button variant="outline" onClick={() => setCreateEmployeeOpen(false)}>Cancel</Button>
-            <Button onClick={handleCreateEmployee} disabled={!newEmployee.email || !newEmployee.full_name || submitting}>
-              {submitting && <Loader2 className="h-4 w-4 mr-2 animate-spin" />}
-              Send Invitation
-            </Button>
-          </DialogFooter>
+          <JobForm onSubmit={handleCreateJob} onCancel={() => { setJobModalOpen(false); setEditingJob(null); }} job={editingJob} />
         </DialogContent>
       </Dialog>
     </div>
   );
-};
+}
 
-export default CompanyDashboard;
+function JobForm({ onSubmit, onCancel, job }: { onSubmit: (data: any) => void; onCancel: () => void; job?: Job | null }) {
+  const [form, setForm] = useState({
+    title: job?.title || '',
+    department: job?.department || '',
+    location: job?.location || '',
+    employment_type: job?.employment_type || 'Full-time',
+    salary_min: job?.salary_min || 0,
+    salary_max: job?.salary_max || 0,
+    description: job?.description || '',
+    status: job?.status || 'open'
+  });
+
+  const handleSubmit = (e: React.FormEvent) => {
+    e.preventDefault();
+    onSubmit(form);
+  };
+
+  return (
+    <form onSubmit={handleSubmit} className="space-y-4 py-4">
+      <div className="space-y-2">
+        <Label>Job Title *</Label>
+        <Input
+          value={form.title}
+          onChange={(e) => setForm({ ...form, title: e.target.value })}
+          placeholder="e.g., Senior Frontend Developer"
+          required
+        />
+      </div>
+      <div className="grid grid-cols-2 gap-4">
+        <div className="space-y-2">
+          <Label>Department</Label>
+          <Input
+            value={form.department}
+            onChange={(e) => setForm({ ...form, department: e.target.value })}
+            placeholder="e.g., Engineering"
+          />
+        </div>
+        <div className="space-y-2">
+          <Label>Location</Label>
+          <Input
+            value={form.location}
+            onChange={(e) => setForm({ ...form, location: e.target.value })}
+            placeholder="e.g., San Francisco, CA"
+          />
+        </div>
+      </div>
+      <div className="grid grid-cols-2 gap-4">
+        <div className="space-y-2">
+          <Label>Employment Type</Label>
+          <Select value={form.employment_type} onValueChange={(v) => setForm({ ...form, employment_type: v })}>
+            <SelectTrigger>
+              <SelectValue />
+            </SelectTrigger>
+            <SelectContent>
+              <SelectItem value="Full-time">Full-time</SelectItem>
+              <SelectItem value="Part-time">Part-time</SelectItem>
+              <SelectItem value="Contract">Contract</SelectItem>
+              <SelectItem value="Internship">Internship</SelectItem>
+            </SelectContent>
+          </Select>
+        </div>
+        <div className="space-y-2">
+          <Label>Status</Label>
+          <Select value={form.status} onValueChange={(v) => setForm({ ...form, status: v as any })}>
+            <SelectTrigger>
+              <SelectValue />
+            </SelectTrigger>
+            <SelectContent>
+              <SelectItem value="open">Open</SelectItem>
+              <SelectItem value="closed">Closed</SelectItem>
+              <SelectItem value="draft">Draft</SelectItem>
+            </SelectContent>
+          </Select>
+        </div>
+      </div>
+      <div className="grid grid-cols-2 gap-4">
+        <div className="space-y-2">
+          <Label>Min Salary</Label>
+          <Input
+            type="number"
+            value={form.salary_min}
+            onChange={(e) => setForm({ ...form, salary_min: Number(e.target.value) })}
+            placeholder="50000"
+          />
+        </div>
+        <div className="space-y-2">
+          <Label>Max Salary</Label>
+          <Input
+            type="number"
+            value={form.salary_max}
+            onChange={(e) => setForm({ ...form, salary_max: Number(e.target.value) })}
+            placeholder="100000"
+          />
+        </div>
+      </div>
+      <div className="space-y-2">
+        <Label>Description</Label>
+        <Textarea
+          value={form.description}
+          onChange={(e) => setForm({ ...form, description: e.target.value })}
+          placeholder="Job description..."
+          rows={4}
+        />
+      </div>
+      <div className="flex justify-end gap-2">
+        <Button type="button" variant="outline" onClick={onCancel}>Cancel</Button>
+        <Button type="submit">{job ? 'Update' : 'Create'} Job</Button>
+      </div>
+    </form>
+  );
+}
