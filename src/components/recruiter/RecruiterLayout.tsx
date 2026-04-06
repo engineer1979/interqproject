@@ -34,6 +34,9 @@ import {
   PieChart as RechartsPie, Pie, Cell, BarChart, Bar, Legend, Area, AreaChart
 } from 'recharts';
 import { format, addDays, startOfWeek, addWeeks, isSameDay } from "date-fns";
+import { DetailedCandidate, mockCandidates } from "@/data/candidateEvaluationsMock";
+import jsPDF from "jspdf";
+import html2canvas from "html2canvas";
 
 const navSections = [
   {
@@ -135,11 +138,44 @@ export function RecruiterLayout() {
   const [showCreateJob, setShowCreateJob] = useState(false);
   const [jobStatus, setJobStatus] = useState("all");
   const [candidateStage, setCandidateStage] = useState("all");
+  const [selectedCandidate, setSelectedCandidate] = useState<DetailedCandidate | null>(null);
+  const [viewModal, setViewModal] = useState(false);
   const { logout } = useAuth();
 
   const handleLogout = async () => {
     setIsMobileMenuOpen(false);
     await logout();
+  };
+
+  const handleViewReport = (candidate: DetailedCandidate) => {
+    setSelectedCandidate(candidate);
+    setViewModal(true);
+  };
+
+  const generatePDF = async () => {
+    const element = document.getElementById('report-content');
+    if (element) {
+      const canvas = await html2canvas(element, { scale: 2 });
+      const imgData = canvas.toDataURL('image/png');
+      const pdf = new jsPDF('p', 'mm', 'a4');
+      const imgWidth = 210;
+      const pageHeight = 295;
+      const imgHeight = (canvas.height * imgWidth) / canvas.width;
+      let heightLeft = imgHeight;
+      let position = 0;
+
+      pdf.addImage(imgData, 'PNG', 0, position, imgWidth, imgHeight);
+      heightLeft -= pageHeight;
+
+      while (heightLeft >= 0) {
+        position = heightLeft - imgHeight;
+        pdf.addPage();
+        pdf.addImage(imgData, 'PNG', 0, position, imgWidth, imgHeight);
+        heightLeft -= pageHeight;
+      }
+
+      pdf.save(`${selectedCandidate?.name}_Evaluation_Report.pdf`);
+    }
   };
 
   const getStageColor = (stage: string) => {
@@ -1225,6 +1261,218 @@ export function RecruiterLayout() {
                   </CardContent>
                 </Card>
               </div>
+            </div>
+          ) : location.pathname === "/recruiter/evaluation-reports" ? (
+            <div className="space-y-6">
+              <div className="flex flex-col lg:flex-row lg:items-center lg:justify-between gap-4">
+                <div>
+                  <h1 className="text-3xl font-bold tracking-tight">Evaluation Reports</h1>
+                  <p className="text-muted-foreground">Manage candidate assessments and reports ({mockCandidates.length})</p>
+                </div>
+                <div className="flex gap-2">
+                  <Button variant="outline" size="sm" className="gap-2">
+                    <Download className="h-4 w-4" /> Export CSV
+                  </Button>
+                  <Button size="sm" className="gap-2">
+                    <FileText className="h-4 w-4" /> Generate Report
+                  </Button>
+                </div>
+              </div>
+
+              <div className="grid grid-cols-1 md:grid-cols-4 gap-4">
+                <Card>
+                  <CardContent className="p-6">
+                    <div className="flex items-center justify-between">
+                      <div>
+                        <p className="text-sm text-muted-foreground">Total Reports</p>
+                        <p className="text-3xl font-bold mt-1">{mockCandidates.length}</p>
+                      </div>
+                      <div className="p-3 rounded-xl bg-blue-500/10">
+                        <FileText className="h-8 w-8 text-blue-600" />
+                      </div>
+                    </div>
+                  </CardContent>
+                </Card>
+                <Card>
+                  <CardContent className="p-6">
+                    <div className="flex items-center justify-between">
+                      <div>
+                        <p className="text-sm text-muted-foreground">Advance</p>
+                        <p className="text-3xl font-bold mt-1 text-green-600">
+                          {mockCandidates.filter(c => c.status === 'advance').length}
+                        </p>
+                      </div>
+                      <div className="p-3 rounded-xl bg-green-500/10">
+                        <CheckCircle className="h-8 w-8 text-green-600" />
+                      </div>
+                    </div>
+                  </CardContent>
+                </Card>
+                <Card>
+                  <CardContent className="p-6">
+                    <div className="flex items-center justify-between">
+                      <div>
+                        <p className="text-sm text-muted-foreground">Hold</p>
+                        <p className="text-3xl font-bold mt-1 text-yellow-600">
+                          {mockCandidates.filter(c => c.status === 'advance-reserve').length}
+                        </p>
+                      </div>
+                      <div className="p-3 rounded-xl bg-yellow-500/10">
+                        <Clock className="h-8 w-8 text-yellow-600" />
+                      </div>
+                    </div>
+                  </CardContent>
+                </Card>
+                <Card>
+                  <CardContent className="p-6">
+                    <div className="flex items-center justify-between">
+                      <div>
+                        <p className="text-sm text-muted-foreground">Rejected</p>
+                        <p className="text-3xl font-bold mt-1 text-red-600">
+                          {mockCandidates.filter(c => c.status === 'reject').length}
+                        </p>
+                      </div>
+                      <div className="p-3 rounded-xl bg-red-500/10">
+                        <XCircle className="h-8 w-8 text-red-600" />
+                      </div>
+                    </div>
+                  </CardContent>
+                </Card>
+              </div>
+
+              <Card>
+                <CardHeader>
+                  <CardTitle>Candidate Evaluations</CardTitle>
+                </CardHeader>
+                <CardContent>
+                  <div className="space-y-4">
+                    {mockCandidates.map((candidate) => (
+                      <div key={candidate.id} className="p-4 border rounded-lg hover:bg-muted/50 transition-colors">
+                        <div className="flex items-start justify-between mb-4">
+                          <div className="flex items-center gap-4">
+                            <Avatar className="h-12 w-12">
+                              <AvatarFallback className="bg-gradient-to-r from-blue-500 to-indigo-500 text-white">
+                                {candidate.name.split(' ').map(n => n[0]).join('')}
+                              </AvatarFallback>
+                            </Avatar>
+                            <div>
+                              <p className="font-semibold text-lg">{candidate.name}</p>
+                              <p className="text-sm text-muted-foreground">{candidate.position}</p>
+                            </div>
+                          </div>
+                          <div className="flex items-center gap-2">
+                            <Badge className={
+                              candidate.status === 'advance' ? 'bg-green-100 text-green-800' :
+                              candidate.status === 'advance-reserve' ? 'bg-yellow-100 text-yellow-800' :
+                              candidate.status === 'reject' ? 'bg-red-100 text-red-800' :
+                              'bg-gray-100 text-gray-800'
+                            }>
+                              {candidate.status === 'advance' ? 'Advance' :
+                               candidate.status === 'advance-reserve' ? 'Hold' :
+                               candidate.status === 'reject' ? 'Reject' : 'Pending'}
+                            </Badge>
+                          </div>
+                        </div>
+
+                        <div className="grid grid-cols-2 md:grid-cols-5 gap-4 mb-4">
+                          {candidate.features.slice(0, 5).map((feature, idx) => (
+                            <div key={idx} className="text-center p-3 bg-slate-50 dark:bg-slate-800/50 rounded-lg">
+                              <div className="text-lg font-bold text-primary">
+                                {Math.round((feature.score / feature.maxScore) * 100)}%
+                              </div>
+                              <p className="text-xs text-muted-foreground">{feature.name}</p>
+                            </div>
+                          ))}
+                        </div>
+
+                        <div className="flex gap-2">
+                          <Button variant="outline" size="sm" onClick={() => handleViewReport(candidate)}>
+                            <Eye className="h-4 w-4 mr-2" /> View Full Report
+                          </Button>
+                          <Button variant="outline" size="sm">
+                            <Download className="h-4 w-4 mr-2" /> Download PDF
+                          </Button>
+                        </div>
+                      </div>
+                    ))}
+                  </div>
+                </CardContent>
+              </Card>
+
+              <Dialog open={viewModal} onOpenChange={setViewModal}>
+                <DialogContent className="max-w-4xl max-h-[90vh] overflow-y-auto">
+                  {selectedCandidate && (
+                    <div id="report-content">
+                      <div className="flex items-center gap-4 mb-6">
+                        <Avatar className="h-16 w-16">
+                          <AvatarFallback className="bg-gradient-to-r from-blue-500 to-indigo-500 text-white text-xl">
+                            {selectedCandidate.name.split(' ').map(n => n[0]).join('')}
+                          </AvatarFallback>
+                        </Avatar>
+                        <div>
+                          <h2 className="text-2xl font-bold">{selectedCandidate.name}</h2>
+                          <p className="text-muted-foreground">{selectedCandidate.position}</p>
+                        </div>
+                      </div>
+
+                      <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-6">
+                        <div className="p-4 bg-primary/5 rounded-lg text-center">
+                          <div className="text-2xl font-bold text-primary">
+                            {Math.round((selectedCandidate.overallScore / 5) * 100)}%
+                          </div>
+                          <p className="text-sm text-muted-foreground">Overall Score</p>
+                        </div>
+                        <div className="p-4 bg-green-500/5 rounded-lg text-center">
+                          <div className="text-2xl font-bold text-green-600">
+                            {selectedCandidate.interviewer}
+                          </div>
+                          <p className="text-sm text-muted-foreground">Interviewer</p>
+                        </div>
+                        <div className="p-4 bg-blue-500/5 rounded-lg text-center">
+                          <div className="text-2xl font-bold text-blue-600">{selectedCandidate.date}</div>
+                          <p className="text-sm text-muted-foreground">Interview Date</p>
+                        </div>
+                        <div className="p-4 bg-purple-500/5 rounded-lg text-center">
+                          <Badge className={
+                            selectedCandidate.status === 'advance' ? 'bg-green-100 text-green-800' :
+                            selectedCandidate.status === 'advance-reserve' ? 'bg-yellow-100 text-yellow-800' :
+                            'bg-red-100 text-red-800'
+                          }>
+                            {selectedCandidate.status === 'advance' ? 'Advance' :
+                             selectedCandidate.status === 'advance-reserve' ? 'Hold' : 'Reject'}
+                          </Badge>
+                          <p className="text-sm text-muted-foreground mt-1">Recommendation</p>
+                        </div>
+                      </div>
+
+                      <h3 className="font-semibold mb-3">Detailed Evaluation</h3>
+                      <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
+                        {selectedCandidate.features.map((feature, idx) => (
+                          <div key={idx} className="p-4 border rounded-lg">
+                            <div className="flex items-center justify-between mb-2">
+                              <span className="font-medium">{feature.name}</span>
+                              <Badge variant="outline">
+                                {feature.category}
+                              </Badge>
+                            </div>
+                            <Progress value={(feature.score / feature.maxScore) * 100} className="mb-2" />
+                            <p className="text-sm text-muted-foreground">{feature.comments}</p>
+                          </div>
+                        ))}
+                      </div>
+
+                      <div className="p-4 bg-muted rounded-lg">
+                        <h4 className="font-semibold mb-2">Final Recommendation</h4>
+                        <p className="text-sm">{selectedCandidate.recommendation}</p>
+                      </div>
+                    </div>
+                  )}
+                  <div className="flex justify-end gap-2 mt-4">
+                    <Button variant="outline" onClick={() => setViewModal(false)}>Close</Button>
+                    <Button onClick={generatePDF}><Download className="h-4 w-4 mr-2" /> Download PDF</Button>
+                  </div>
+                </DialogContent>
+              </Dialog>
             </div>
           ) : location.pathname === "/recruiter/settings" ? (
             <div className="space-y-6">

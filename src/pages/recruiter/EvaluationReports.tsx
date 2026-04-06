@@ -28,7 +28,7 @@ const EvaluationReports = () => {
   const [selectedCandidate, setSelectedCandidate] = useState<DetailedCandidate | null>(null);
   const [viewModal, setViewModal] = useState(false);
 
-  const { mockCandidates } = require('@/data/candidateEvaluationsMock');
+  const mockCandidates: DetailedCandidate[] = require('@/data/candidateEvaluationsMock').mockCandidates;
 
   const candidates = useMemo(() => {
     let filtered = mockCandidates as DetailedCandidate[];

@@ -3,6 +3,7 @@ import { Toaster as Sonner } from "@/components/ui/sonner";
 import { TooltipProvider } from "@/components/ui/tooltip";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
+import React from "react";
 import { Suspense, lazy } from "react";
 import { SimpleAuthProvider } from "@/contexts/SimpleAuthContext";
 import { JobSeekerDashboardProvider } from "@/contexts/JobSeekerDashboardContext";
@@ -94,7 +95,30 @@ const CompanyResults = lazy(() => import("./pages/company/CompanyResults"));
 const CompanyNotifications = lazy(() => import("./pages/company/CompanyNotifications"));
 const CompanyAuditLogs = lazy(() => import("./pages/company/CompanyAuditLogs"));
 const CompanySettings = lazy(() => import("./pages/company/CompanySettings"));
-const RecruiterLayout = lazy(() => import("./components/recruiter/RecruiterLayout").then(m => ({ default: m.RecruiterLayout })));
+import { RecruiterLayout } from "./components/recruiter/RecruiterLayout";
+
+class ErrorBoundary extends React.Component<{children: React.ReactNode}, {hasError: boolean, error: string}> {
+  constructor(props: any) {
+    super(props);
+    this.state = { hasError: false, error: '' };
+  }
+  static getDerivedStateFromError(error: Error) {
+    return { hasError: true, error: error.message };
+  }
+  render() {
+    if (this.state.hasError) {
+      return (
+        <div className="min-h-screen flex items-center justify-center bg-red-50">
+          <div className="text-center p-8">
+            <h1 className="text-2xl font-bold text-red-600 mb-4">Something went wrong</h1>
+            <p className="text-red-500">{this.state.error}</p>
+          </div>
+        </div>
+      );
+    }
+    return this.props.children;
+  }
+}
 const RecruiterDashboard = lazy(() => import("./pages/recruiter/RecruiterDashboard"));
 const RecruiterPipeline = lazy(() => import("./pages/recruiter/Pipeline"));
 const RecruiterAssessments = lazy(() => import("./pages/recruiter/Assessments"));
@@ -257,22 +281,20 @@ const App = () => (
                 <Route path="reports" element={<AdminReports />} />
                 <Route path="settings" element={<AdminSettings />} />
               </Route>
-              <Route path="/recruiter" element={<RecruiterLayout />}>
+              <Route path="/recruiter" element={<ErrorBoundary><RecruiterLayout /></ErrorBoundary>}>
                 <Route index element={<RecruiterDashboard />} />
-                <Route path="jobs" element={<JobsPage />} />
-                <Route path="pipeline" element={<RecruiterPipeline />} />
-                <Route path="candidates" element={<CandidatesPage />} />
                 <Route path="evaluation-reports" element={<EvaluationReports />} />
-                <Route path="assessments" element={<RecruiterAssessments />} />
+                <Route path="jobs" element={<RecruiterDashboard />} />
+                <Route path="candidates" element={<RecruiterDashboard />} />
+                <Route path="interviews" element={<RecruiterDashboard />} />
+                <Route path="offers" element={<RecruiterDashboard />} />
+                <Route path="reports" element={<RecruiterDashboard />} />
+                <Route path="settings" element={<RecruiterDashboard />} />
 
-                <Route path="interviews" element={<RecruiterInterviews />} />
-                <Route path="offers" element={<OffersManagement />} />
-                <Route path="reports" element={<ReportsPage />} />
-                <Route path="settings" element={<SettingsPage />} />
-                <Route path="*" element={<NotFound />} />
               </Route>
               {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
               <Route path="*" element={<NotFound />} />
+
             </Routes>
             <ChatbotWidget />
           </Suspense>

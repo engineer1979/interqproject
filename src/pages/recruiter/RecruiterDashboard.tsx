@@ -110,21 +110,50 @@ export default function RecruiterDashboard() {
             </CardTitle>
           </CardHeader>
           <CardContent className="space-y-3">
-            <div className="flex items-center gap-3 p-3 bg-muted/50 rounded-lg">
-              <div className="w-10 h-10 bg-gradient-to-r from-blue-500 to-indigo-500 rounded-full flex items-center justify-center text-white font-bold text-sm">JD</div>
-              <div className="flex-1 min-w-0">
-                <p className="font-medium text-sm">John Doe</p>
-                <p className="text-xs text-muted-foreground">Final Score: 92</p>
+            <div className="space-y-3">
+              <div className="p-3 border rounded-lg bg-gradient-to-r from-primary/5 to-secondary/5">
+                <div className="flex items-start gap-3">
+                  <div className="w-10 h-10 bg-gradient-to-r from-blue-500 to-indigo-500 rounded-full flex items-center justify-center text-white font-bold text-sm flex-shrink-0">JD</div>
+                  <div className="flex-1 min-w-0">
+                    <div className="flex items-center gap-2 mb-1">
+                      <p className="font-semibold text-sm truncate">John Doe</p>
+                      <Badge className="text-xs bg-green-100 text-green-800 border-green-200">92%</Badge>
+                    </div>
+                    <p className="text-xs text-muted-foreground mb-1">Senior React Developer</p>
+                    <div className="flex -space-x-1">
+                      <div className="w-2 h-2 bg-green-500 rounded-full"></div>
+                      <div className="w-2 h-2 bg-green-400 rounded-full"></div>
+                      <div className="w-2 h-2 bg-yellow-400 rounded-full"></div>
+                      <div className="w-2 h-2 bg-yellow-400 rounded-full"></div>
+                      <div className="w-2 h-2 bg-gray-300 rounded-full"></div>
+                    </div>
+                  </div>
+                  <Button size="sm" className="h-8 text-xs" variant="outline">View Full</Button>
+                </div>
               </div>
-<Button variant="ghost" size="sm" className="h-8 px-3 text-xs" onClick={() => navigate('/recruiter/evaluation-reports')}>View Reports</Button>
-            </div>
-            <div className="flex items-center gap-3 p-3 bg-muted/50 rounded-lg">
-              <div className="w-10 h-10 bg-gradient-to-r from-green-500 to-emerald-500 rounded-full flex items-center justify-center text-white font-bold text-sm">SW</div>
-              <div className="flex-1 min-w-0">
-                <p className="font-medium text-sm">Sarah Wilson</p>
-                <p className="text-xs text-muted-foreground">Final Score: 87</p>
+              <div className="p-3 border rounded-lg bg-gradient-to-r from-emerald-500/5 to-green-500/5">
+                <div className="flex items-start gap-3">
+                  <div className="w-10 h-10 bg-gradient-to-r from-emerald-500 to-green-500 rounded-full flex items-center justify-center text-white font-bold text-sm flex-shrink-0">SW</div>
+                  <div className="flex-1 min-w-0">
+                    <div className="flex items-center gap-2 mb-1">
+                      <p className="font-semibold text-sm truncate">Sarah Wilson</p>
+                      <Badge className="text-xs bg-emerald-100 text-emerald-800 border-emerald-200">87%</Badge>
+                    </div>
+                    <p className="text-xs text-muted-foreground mb-1">DevOps Engineer</p>
+                    <div className="flex -space-x-1">
+                      <div className="w-2 h-2 bg-green-500 rounded-full"></div>
+                      <div className="w-2 h-2 bg-green-500 rounded-full"></div>
+                      <div className="w-2 h-2 bg-yellow-400 rounded-full"></div>
+                      <div className="w-2 h-2 bg-yellow-400 rounded-full"></div>
+                      <div className="w-2 h-2 bg-gray-300 rounded-full"></div>
+                    </div>
+                  </div>
+                  <Button size="sm" className="h-8 text-xs" variant="outline">Offer Sent</Button>
+                </div>
               </div>
-              <Button variant="ghost" size="sm" className="h-8 px-3 text-xs">Offer</Button>
+              <Button variant="ghost" size="sm" className="w-full h-9 mt-2 text-xs justify-start" onClick={() => navigate('/recruiter/evaluation-reports')}>
+                <BarChart3 className="h-4 w-4 mr-2" /> View All Reports
+              </Button>
             </div>
           </CardContent>
         </Card>
