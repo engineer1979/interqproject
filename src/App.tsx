@@ -123,7 +123,7 @@ const RecruiterDashboard = lazy(() => import("./pages/recruiter/RecruiterDashboa
 const RecruiterPipeline = lazy(() => import("./pages/recruiter/Pipeline"));
 const RecruiterAssessments = lazy(() => import("./pages/recruiter/Assessments"));
 const RecruiterInterviews = lazy(() => import("./pages/recruiter/Interviews"));
-const EvaluationReports = lazy(() => import("./pages/recruiter/EvaluationReports"));
+const EvaluationReports = lazy(() => import("./pages/recruiter/DynamicEvaluationReports"));
 const JobSeekerLayout = lazy(() => import("./components/jobseeker/JobSeekerLayout").then(m => ({ default: m.JobSeekerLayout })));
 const JobSeekerDashboard = lazy(() => import("./pages/jobseeker/JobSeekerDashboard"));
 const JobSeekerAssessments = lazy(() => import("./pages/jobseeker/JobSeekerAssessments"));
