@@ -15,7 +15,7 @@ import { useAssessments } from "@/hooks/useAssessments";
 import { useCertificate } from "@/hooks/useCertificate";
 import { cn } from "@/lib/utils";
 
-const categories = ["All", "CCNA", "AWS", "Azure", "CISSP", "Security", "Kubernetes", "Python", "SQL", "Linux", "Windows", "ITIL"];
+const categories = ["All", "Python", "AWS", "SQL", "JavaScript", "Linux", "Docker", "React", "DevOps", "Security", "Node.js", "Go", "Kubernetes", "Azure", "GCP"];
 const difficulties = ["All", "easy", "medium", "hard"];
 
 const JobSeekerAssessments = () => {
@@ -32,18 +32,16 @@ const JobSeekerAssessments = () => {
 
 
   const filtered = assessments.filter((a: any) => {
-    const matchSearch = !search || 
-      a.title.toLowerCase().includes(search.toLowerCase()) || 
-      (a.domain && a.domain.toLowerCase().includes(search.toLowerCase())) ||
+    const matchSearch = !search ||
+      a.title.toLowerCase().includes(search.toLowerCase()) ||
       (a.category && a.category.toLowerCase().includes(search.toLowerCase()));
-    
-    const matchCategory = category === "All" || 
-      (a.domain && a.domain.toLowerCase().includes(category.toLowerCase())) ||
-      (a.category && a.category.toLowerCase().includes(category.toLowerCase()));
-    
-    const matchDifficulty = difficulty === "All" || 
+
+    const matchCategory = category === "All" ||
+      (a.category && a.category.toLowerCase() === category.toLowerCase());
+
+    const matchDifficulty = difficulty === "All" ||
       (a.difficulty && a.difficulty.toLowerCase() === difficulty.toLowerCase());
-    
+
     return matchSearch && matchCategory && matchDifficulty;
   });
 
@@ -241,14 +239,23 @@ const JobSeekerAssessments = () => {
                     </span>
                   </div>
                     <div className="space-y-2">
-                      <Button
-                        className="w-full"
-                        variant={getButtonVariant(isCompleted, hasCertificate)}
-                        onClick={() => handleAction(a)}
-                      >
-                        {getButtonLabel(isCompleted, hasCertificate)}
-                        <ChevronRight className="w-4 h-4 ml-1" />
-                      </Button>
+                  <Button
+                    variant={getButtonVariant(isCompleted, hasCertificate)}
+                    className="gap-2"
+                    disabled={isLoading}
+                    onClick={() => {
+                      if (isCompleted && hasCertificate) {
+                        navigate(`/jobseeker/certificates`);
+                      } else if (isCompleted) {
+                        navigate(`/jobseeker/results`);
+                      } else {
+                        navigate(`/assessment/${a.id}`);
+                      }
+                    }}
+                  >
+                    {getButtonLabel(isCompleted, hasCertificate)}
+                    <ChevronRight className="w-4 h-4" />
+                  </Button>
                       
                       {isCompleted && !hasCertificate && (
                         <Button
