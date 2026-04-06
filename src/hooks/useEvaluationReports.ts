@@ -2,6 +2,17 @@ import { useQuery, useMutation, useQueryClient } from '@tanstack/react-query';
 import { supabase } from '@/lib/supabaseClient';
 import type { CandidateEvaluation } from '@/types/candidateEvaluation';
 
+import { DetailedCandidate, getStatsFromCandidates } from '@/data/candidateEvaluationsMock';
+import { getDashboardStats } from '@/services/reportService';
+
+export interface DashboardStats {
+  approved: number;
+  hold: number;
+  rejected: number;
+  pending: number;
+  total: number;
+}
+
 export const useEvaluationReports = ({
   role = 'recruiter',
   filters = {},
@@ -23,9 +34,8 @@ export const useEvaluationReports = ({
   const reportsQuery = useQuery({
     queryKey: ['evaluation-reports', role, filters, page],
     queryFn: async () => {
-      // Mock data fallback for demo
       const { mockCandidates } = await import('@/data/candidateEvaluationsMock');
-      let data = mockCandidates as any[];
+      let data = mockCandidates as DetailedCandidate[];
       
       // Apply filters to mock data
       if (filters.status) {
@@ -81,13 +91,24 @@ export const useEvaluationReports = ({
     },
   });
 
+  const statsQuery = useQuery<DashboardStats>({
+    queryKey: ['evaluation-stats', filters],
+    queryFn: async () => {
+      const { mockCandidates } = await import('@/data/candidateEvaluationsMock');
+      return getDashboardStats(mockCandidates);
+    },
+    refetchInterval: 30000, // 30s polling
+  });
+
   return {
     reports: reportsQuery.data || [],
     report: reportQuery.data,
-    isLoading: reportsQuery.isLoading || reportQuery.isLoading,
+    stats: statsQuery.data || { approved: 0, hold: 0, rejected: 0, pending: 0, total: 0 },
+    isLoading: reportsQuery.isLoading || reportQuery.isLoading || statsQuery.isLoading,
     refetch: reportsQuery.refetch,
     updateNotes: updateNotesMutation.mutate,
     addTag: addTagMutation.mutate,
   };
+
 };
 

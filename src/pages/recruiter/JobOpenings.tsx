@@ -1,4 +1,5 @@
 import React, { useState, useContext } from 'react';
+import { useToast } from '@/hooks/use-toast';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
@@ -14,6 +15,7 @@ import { JobOpening } from '@/types/recruiter';
 
 const JobOpenings = () => {
   const { state, dispatch } = useRecruiter();
+  const { toast } = useToast();
   const [showAddModal, setShowAddModal] = useState(false);
   const [editingJob, setEditingJob] = useState<JobOpening | null>(null);
   const [formData, setFormData] = useState({
@@ -31,14 +33,16 @@ const JobOpenings = () => {
 
     if (editingJob) {
       dispatch({ type: 'UPDATE_JOB' as any, payload: { ...editingJob, ...formData } });
+      toast({ title: 'Job Updated', description: `${formData.title} has been updated` });
     } else {
       const newJob: JobOpening = {
         id: Date.now(),
         ...formData,
-        status: 'Draft' as const,
+        status: 'Open' as const,
         postedDate: new Date().toISOString().split('T')[0],
       };
       dispatch({ type: 'ADD_JOB' as any, payload: newJob });
+      toast({ title: 'Job Created', description: `${formData.title} has been posted` });
     }
     setShowAddModal(false);
     setEditingJob(null);
@@ -61,7 +65,12 @@ const JobOpenings = () => {
   const handleDelete = (id: number) => {
     if (confirm('Delete this job opening?')) {
       dispatch({ type: 'DELETE_JOB' as any, payload: id });
+      toast({ title: 'Job Deleted', description: 'The job opening has been removed' });
     }
+  };
+
+  const handleView = (job: JobOpening) => {
+    toast({ title: 'Viewing Job', description: `Details for ${job.title}` });
   };
 
   return (
@@ -187,7 +196,7 @@ const JobOpenings = () => {
                       <Button variant="ghost" size="icon" onClick={() => handleDelete(job.id)}>
                         <Trash2 className="h-4 w-4" />
                       </Button>
-                      <Button variant="ghost" size="icon">
+                      <Button variant="ghost" size="icon" onClick={() => handleView(job)}>
                         <Eye className="h-4 w-4" />
                       </Button>
                     </div>

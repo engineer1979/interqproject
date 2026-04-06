@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import { useToast } from '@/hooks/use-toast';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Input } from '@/components/ui/input';
 import { Label } from '@/components/ui/label';
@@ -20,6 +21,7 @@ const mockUserData = {
 
 const Settings = () => {
   const { state, dispatch } = useRecruiter();
+  const { toast } = useToast();
   const [userData, setUserData] = useState({
     name: '',
     email: '',
@@ -32,12 +34,11 @@ const Settings = () => {
   const [saving, setSaving] = useState(false);
 
   useEffect(() => {
-    // Load from context/localStorage
     setUserData({
       name: mockUserData.name,
       email: mockUserData.email,
       companyName: state.companyName || 'Acme Corporation',
-      notifications: state.notifications !== false, // default true
+      notifications: state.notifications !== false,
       defaultTimeZone: state.defaultTimeZone || 'America/New_York',
       interviewReminderDays: state.interviewReminderDays?.toString() || '2',
     });
@@ -45,7 +46,6 @@ const Settings = () => {
 
   const handleSave = async () => {
     setSaving(true);
-    // Simulate API call
     await new Promise(resolve => setTimeout(resolve, 1000));
     
     dispatch({
@@ -60,6 +60,7 @@ const Settings = () => {
     
     setSaving(false);
     setEditMode(false);
+    toast({ title: 'Settings Saved', description: 'Your preferences have been updated' });
   };
 
   return (

@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { useToast } from '@/hooks/use-toast';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
@@ -16,6 +17,7 @@ const mockCandidates = [
 ];
 
 const Offers = () => {
+  const { toast } = useToast();
   const [showOfferModal, setShowOfferModal] = useState(false);
   const [offers, setOffers] = useState<Offer[]>([
     { 
@@ -94,7 +96,12 @@ const Offers = () => {
   const handleDelete = (id: number) => {
     if (confirm('Delete this offer?')) {
       setOffers(offers.filter(o => o.id !== id));
+      toast({ title: 'Offer Deleted', description: 'The offer has been removed' });
     }
+  };
+
+  const handleDownload = (offer: Offer) => {
+    toast({ title: 'Downloading Offer', description: `Generating PDF for ${offer.candidate}` });
   };
 
   const getStatusVariant = (status: string) => {
@@ -268,7 +275,7 @@ const Offers = () => {
                       <Button variant="ghost" size="icon" onClick={() => handleDelete(offer.id)}>
                         <Trash2 className="h-4 w-4" />
                       </Button>
-                      <Button variant="ghost" size="icon">
+                      <Button variant="ghost" size="icon" onClick={() => handleDownload(offer)}>
                         <Download className="h-4 w-4" />
                       </Button>
                     </div>

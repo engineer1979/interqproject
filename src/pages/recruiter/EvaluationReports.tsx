@@ -7,7 +7,10 @@ import { Input } from '@/components/ui/input';
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select';
 import { Slider } from '@/components/ui/slider';
 import { Checkbox } from '@/components/ui/checkbox';
-import { DetailedCandidate } from '@/data/candidateEvaluationsMock';
+import { DetailedCandidate, mockCandidates } from '@/data/candidateEvaluationsMock';
+import jsPDF from 'jspdf';
+import html2canvas from 'html2canvas';
+import toast from 'sonner';
 import { BarChart3, FileText, Download, Eye, Users, Filter, Search, Calendar, TrendingUp } from 'lucide-react';
 import { 
   PieChart, 
@@ -27,8 +30,15 @@ const EvaluationReports = () => {
   });
   const [selectedCandidate, setSelectedCandidate] = useState<DetailedCandidate | null>(null);
   const [viewModal, setViewModal] = useState(false);
+  const [showGenerateModal, setShowGenerateModal] = useState(false);
+  const [loadingExport, setLoadingExport] = useState(false);
+  const [loadingPDF, setLoadingPDF] = useState<string | null>(null);
 
-  const mockCandidates: DetailedCandidate[] = require('@/data/candidateEvaluationsMock').mockCandidates;
+useEffect(() => {
+    import('@/data/candidateEvaluationsMock').then(({ mockCandidates }: { mockCandidates: DetailedCandidate[] }) => {
+      // Update local state if needed
+    });
+  }, []);
 
   const candidates = useMemo(() => {
     let filtered = mockCandidates as DetailedCandidate[];
@@ -64,19 +74,61 @@ const EvaluationReports = () => {
   ];
 
   const handleBulkExport = () => {
-    // CSV export
-    const csv = candidates.map(c => `${c.name},${c.position},${c.overallScore},${c.status}`).join('\n');
+    setLoadingExport(true);
+    const headers = ['Name', 'Position', 'Score', 'Status'];
+    const csvRows = [headers.join(',')];
+    candidates.forEach(c => {
+      csvRows.push([c.name, c.position, ((c.overallScore / 5) * 100).toFixed(0) + '%', c.status].join(','));
+    });
+    const csv = csvRows.join('\n');
     const blob = new Blob([csv], { type: 'text/csv' });
     const url = URL.createObjectURL(blob);
     const a = document.createElement('a');
     a.href = url;
     a.download = 'evaluation_reports.csv';
     a.click();
+    setTimeout(() => setLoadingExport(false), 1000);
+  };
+
+  const handleDownloadPDF = async (candidate: DetailedCandidate) => {
+    setLoadingPDF(candidate.id);
+    // Render the report view to a hidden element for PDF
+    const tempDiv = document.createElement('div');
+    tempDiv.style.position = 'fixed';
+    tempDiv.style.left = '-9999px';
+    document.body.appendChild(tempDiv);
+    tempDiv.innerHTML = `<div id='pdf-report'><h2>${candidate.name} - ${candidate.position}</h2><p>Score: ${((candidate.overallScore / 5) * 100).toFixed(0)}%</p><p>Status: ${candidate.status}</p></div>`;
+    const element = tempDiv.querySelector('#pdf-report');
+    if (element) {
+      const canvas = await html2canvas(element as HTMLElement, { scale: 2 });
+      const imgData = canvas.toDataURL('image/png');
+      const pdf = new jsPDF('p', 'mm', 'a4');
+      const imgWidth = 210;
+      const pageHeight = 295;
+      const imgHeight = (canvas.height * imgWidth) / canvas.width;
+      let heightLeft = imgHeight;
+      let position = 0;
+      pdf.addImage(imgData, 'PNG', 0, position, imgWidth, imgHeight);
+      heightLeft -= pageHeight;
+      while (heightLeft >= 0) {
+        position = heightLeft - imgHeight;
+        pdf.addPage();
+        pdf.addImage(imgData, 'PNG', 0, position, imgWidth, imgHeight);
+        heightLeft -= pageHeight;
+      }
+      pdf.save(`${candidate.name}_Evaluation_Report.pdf`);
+    }
+    document.body.removeChild(tempDiv);
+    setLoadingPDF(null);
   };
 
   const handleViewReport = (candidate: DetailedCandidate) => {
     setSelectedCandidate(candidate);
     setViewModal(true);
+  };
+
+  const handleGenerateReport = () => {
+    setShowGenerateModal(true);
   };
 
   if (candidates.length === 0) {
@@ -97,14 +149,13 @@ const EvaluationReports = () => {
           <p className="text-muted-foreground">Manage candidate assessments and reports ({candidates.length})</p>
         </div>
         <div className="flex gap-2">
-          {selectedReports.length > 0 && (
-            <Button onClick={handleBulkExport} variant="outline">
-              Export Selected ({selectedReports.length})
-            </Button>
-          )}
-          <Button>
+          <Button onClick={handleBulkExport} variant="outline" disabled={loadingExport}>
+            <Download className="mr-2 h-4 w-4" />
+            {loadingExport ? 'Exporting...' : 'Export CSV'}
+          </Button>
+          <Button onClick={handleGenerateReport}>
             <FileText className="mr-2 h-4 w-4" />
-            New Report
+            Generate Report
           </Button>
         </div>
       </div>
@@ -215,11 +266,11 @@ const EvaluationReports = () => {
                 <div className="flex gap-2">
                   <Button variant="ghost" size="sm" onClick={() => handleViewReport(candidate)}>
                     <Eye className="h-4 w-4 mr-1" />
-                    View
+                    View Full Report
                   </Button>
-                  <Button variant="outline" size="sm">
+                  <Button variant="outline" size="sm" onClick={() => handleDownloadPDF(candidate)} disabled={loadingPDF === candidate.id}>
                     <Download className="h-4 w-4 mr-1" />
-                    Export
+                    {loadingPDF === candidate.id ? 'Downloading...' : 'Download PDF'}
                   </Button>
                 </div>
               </div>
@@ -229,10 +280,29 @@ const EvaluationReports = () => {
       </Card>
 
       {/* View Modal */}
-      <EvaluationReportView 
-        candidate={selectedCandidate || mockCandidates[0]} 
-        onClose={() => setViewModal(false)}
-      />
+      {viewModal && selectedCandidate && (
+        <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/40">
+          <div className="bg-white rounded-lg shadow-lg max-w-3xl w-full p-6 relative">
+            <button className="absolute top-2 right-2 text-gray-500 hover:text-black" onClick={() => setViewModal(false)}>&times;</button>
+            <EvaluationReportView 
+              candidate={selectedCandidate} 
+              onClose={() => setViewModal(false)}
+            />
+          </div>
+        </div>
+      )}
+
+      {/* Generate Report Modal (placeholder) */}
+      {showGenerateModal && (
+        <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/40">
+          <div className="bg-white rounded-lg shadow-lg max-w-lg w-full p-6 relative">
+            <button className="absolute top-2 right-2 text-gray-500 hover:text-black" onClick={() => setShowGenerateModal(false)}>&times;</button>
+            <h2 className="text-xl font-bold mb-4">Generate New Report</h2>
+            <p className="mb-4">(Report generation form/modal integration goes here.)</p>
+            <Button onClick={() => setShowGenerateModal(false)}>Close</Button>
+          </div>
+        </div>
+      )}
     </div>
   );
 };

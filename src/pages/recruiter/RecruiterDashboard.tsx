@@ -1,9 +1,11 @@
 import { useEffect, useState } from "react";
+import { useToast } from "@/hooks/use-toast";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { useNavigate } from "react-router-dom";
 import { Briefcase, Users, CheckCircle, MessageCircle, BarChart3, Plus, ArrowRight, Clock, ClipboardList } from "lucide-react";
+import { useRecruiter } from "@/contexts/RecruiterContext";
 
 interface StatCardProps {
   title: string;
@@ -33,14 +35,33 @@ const StatCard = ({ title, value, change, icon, color, path, navigate }: StatCar
 
 export default function RecruiterDashboard() {
   const navigate = useNavigate();
+  const { toast } = useToast();
+  const { state } = useRecruiter();
+  
   const [stats, setStats] = useState({
-    activeJobs: 3,
+    activeJobs: state.jobs.length || 3,
     newApplications: 12,
-    inPipeline: 8,
+    inPipeline: state.candidates.length || 8,
     interviewsScheduled: 2,
     offersMade: 1,
     messages: 5,
   });
+
+  useEffect(() => {
+    setStats({
+      activeJobs: state.jobs.length || 3,
+      newApplications: 12,
+      inPipeline: state.candidates.length || 8,
+      interviewsScheduled: 2,
+      offersMade: 1,
+      messages: 5,
+    });
+  }, [state]);
+
+  const handleViewAllReports = () => {
+    navigate("/recruiter/evaluation-reports");
+    toast({ title: 'Evaluation Reports', description: 'Viewing all evaluation reports' });
+  };
 
   const statCards: Omit<StatCardProps, 'navigate'>[] = [
     { title: "Active Jobs", value: stats.activeJobs, change: "+2 this week", icon: <Briefcase className="h-8 w-8 text-blue-600" />, color: "blue", path: "/recruiter/jobs" },
@@ -128,7 +149,7 @@ export default function RecruiterDashboard() {
                       <div className="w-2 h-2 bg-gray-300 rounded-full"></div>
                     </div>
                   </div>
-                  <Button size="sm" className="h-8 text-xs" variant="outline">View Full</Button>
+                  <Button size="sm" className="h-8 text-xs" variant="outline" onClick={handleViewAllReports}>View Full</Button>
                 </div>
               </div>
               <div className="p-3 border rounded-lg bg-gradient-to-r from-emerald-500/5 to-green-500/5">

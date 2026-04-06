@@ -30,14 +30,33 @@ export default function PipelineDashboard() {
   const { toast } = useToast();
   const [searchTerm, setSearchTerm] = useState("");
   const [selectedJob, setSelectedJob] = useState<string>("all");
+  const [showFilter, setShowFilter] = useState(false);
+  const [filterData, setFilterData] = useState({ stage: 'all', dateRange: 'all' });
 
   const filteredApplications = mockCandidates.filter((app) => {
     const matchesSearch =
       app.fullName.toLowerCase().includes(searchTerm.toLowerCase()) ||
       app.appliedRole.toLowerCase().includes(searchTerm.toLowerCase());
     const matchesJob = selectedJob === "all" || app.jobId === selectedJob;
-    return matchesSearch && matchesJob;
+    const matchesStage = filterData.stage === 'all' || app.stage === filterData.stage;
+    return matchesSearch && matchesJob && matchesStage;
   });
+
+  const handleAddCandidate = () => {
+    toast({ title: 'Add Candidate', description: 'Opening add candidate form...' });
+  };
+
+  const handleViewAll = (stageName: string) => {
+    toast({ title: 'View All', description: `Showing all candidates in ${stageName}` });
+  };
+
+  const handleBulkActions = (stageName: string) => {
+    toast({ title: 'Bulk Actions', description: `Perform bulk actions for ${stageName}` });
+  };
+
+  const handleExport = (stageName: string) => {
+    toast({ title: 'Export', description: `Exporting ${stageName} candidates` });
+  };
 
   const getApplicationsByStage = (stage: string) => {
     return filteredApplications.filter((app) => app.stage === stage);
@@ -81,16 +100,42 @@ export default function PipelineDashboard() {
           <p className="text-gray-500">Track and manage candidates through hiring stages</p>
         </div>
         <div className="flex items-center space-x-3">
-          <Button variant="outline">
+          <Button variant="outline" onClick={() => setShowFilter(!showFilter)}>
             <Filter className="w-4 h-4 mr-2" />
             Filter
           </Button>
-          <Button>
+          <Button onClick={handleAddCandidate}>
             <Plus className="w-4 h-4 mr-2" />
             Add Candidate
           </Button>
         </div>
       </div>
+
+      {showFilter && (
+        <Card>
+          <CardContent className="p-4 flex gap-4 items-center">
+            <span className="text-sm font-medium">Filters:</span>
+            <select 
+              className="px-3 py-2 border rounded-lg" 
+              value={filterData.stage}
+              onChange={(e) => setFilterData({ ...filterData, stage: e.target.value })}
+            >
+              <option value="all">All Stages</option>
+              {pipelineStages.map(s => <option key={s.id} value={s.id}>{s.name}</option>)}
+            </select>
+            <select 
+              className="px-3 py-2 border rounded-lg"
+              value={filterData.dateRange}
+              onChange={(e) => setFilterData({ ...filterData, dateRange: e.target.value })}
+            >
+              <option value="all">All Time</option>
+              <option value="today">Today</option>
+              <option value="week">This Week</option>
+              <option value="month">This Month</option>
+            </select>
+          </CardContent>
+        </Card>
+      )}
 
       <div className="flex items-center space-x-4">
         <div className="relative flex-1 max-w-md">
@@ -157,9 +202,9 @@ export default function PipelineDashboard() {
                       </Button>
                     </DropdownMenuTrigger>
                     <DropdownMenuContent align="end">
-                      <DropdownMenuItem>View All</DropdownMenuItem>
-                      <DropdownMenuItem>Bulk Actions</DropdownMenuItem>
-                      <DropdownMenuItem>Export</DropdownMenuItem>
+                      <DropdownMenuItem onClick={() => handleViewAll(stage.name)}>View All</DropdownMenuItem>
+                      <DropdownMenuItem onClick={() => handleBulkActions(stage.name)}>Bulk Actions</DropdownMenuItem>
+                      <DropdownMenuItem onClick={() => handleExport(stage.name)}>Export</DropdownMenuItem>
                     </DropdownMenuContent>
                   </DropdownMenu>
                 </div>

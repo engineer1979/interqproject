@@ -69,6 +69,38 @@ const EvaluationReport = () => {
     URL.revokeObjectURL(url);
   };
 
+  // CSV export functionality
+  const handleDownloadCSV = () => {
+    // Flatten the report data for CSV
+    const csvRows = [];
+    csvRows.push(["Field","Value"]);
+    csvRows.push(["Candidate Name", reportData.candidateName]);
+    csvRows.push(["Expert Name", reportData.expertName]);
+    csvRows.push(["Session Date", reportData.sessionDate]);
+    csvRows.push(["Session Time", reportData.sessionTime]);
+    csvRows.push(["Session Type", reportData.sessionType]);
+    csvRows.push(["Overall Score", reportData.overallScore]);
+    csvRows.push(["Recommendation", reportData.recommendation]);
+    csvRows.push(["Strengths", reportData.strengths.join("; ")]);
+    csvRows.push(["Improvements", reportData.improvements.join("; ")]);
+    csvRows.push(["Expert Comments", reportData.expertComments]);
+    // Add categories as separate rows
+    reportData.categories.forEach((cat, idx) => {
+      csvRows.push([`Category ${idx+1} Name`, cat.name]);
+      csvRows.push([`Category ${idx+1} Score`, cat.score]);
+      csvRows.push([`Category ${idx+1} Rating`, cat.rating]);
+    });
+    // Convert to CSV string
+    const csvContent = csvRows.map(row => row.map(field => `"${String(field).replace(/"/g, '""')}"`).join(",")).join("\r\n");
+    const blob = new Blob([csvContent], { type: "text/csv" });
+    const url = URL.createObjectURL(blob);
+    const link = document.createElement("a");
+    link.href = url;
+    link.download = `evaluation-report-${reportData.candidateName.replace(/\s+/g, "-")}.csv`;
+    link.click();
+    URL.revokeObjectURL(url);
+  };
+
   return (
     <div className="min-h-screen bg-background">
       <EnhancedNavigation />
@@ -84,9 +116,14 @@ const EvaluationReport = () => {
                 <h1 className="text-3xl font-bold">Evaluation Report</h1>
                 <p className="text-muted-foreground mt-1">Detailed assessment summary</p>
               </div>
-              <Button onClick={handleDownloadPDF} className="shadow-soft">
-                <Download className="w-4 h-4 mr-2" /> Download PDF
-              </Button>
+              <div className="flex gap-2">
+                <Button onClick={handleDownloadPDF} className="shadow-soft">
+                  <Download className="w-4 h-4 mr-2" /> Download JSON
+                </Button>
+                <Button onClick={handleDownloadCSV} className="shadow-soft" variant="outline">
+                  <Download className="w-4 h-4 mr-2" /> Export CSV
+                </Button>
+              </div>
             </div>
 
             {/* Overview Card */}
@@ -264,9 +301,14 @@ const EvaluationReport = () => {
               <Button variant="outline" onClick={() => navigate("/dashboard")}>
                 <ArrowLeft className="w-4 h-4 mr-2" /> Back to Dashboard
               </Button>
-              <Button onClick={handleDownloadPDF}>
-                <Download className="w-4 h-4 mr-2" /> Download PDF
-              </Button>
+              <div className="flex gap-2">
+                <Button onClick={handleDownloadPDF}>
+                  <Download className="w-4 h-4 mr-2" /> Download JSON
+                </Button>
+                <Button onClick={handleDownloadCSV} variant="outline">
+                  <Download className="w-4 h-4 mr-2" /> Export CSV
+                </Button>
+              </div>
             </div>
           </motion.div>
         </div>
