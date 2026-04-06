@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useCallback } from 'react';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
@@ -6,7 +6,6 @@ import { Input } from '@/components/ui/input';
 import { Label } from '@/components/ui/label';
 import { Textarea } from '@/components/ui/textarea';
 import { Progress } from '@/components/ui/progress';
-import { Checkbox } from '@/components/ui/checkbox';
 import { Avatar, AvatarFallback, AvatarImage } from '@/components/ui/avatar';
 import { Separator } from '@/components/ui/separator';
 import {
@@ -15,7 +14,6 @@ import {
   DialogDescription,
   DialogHeader,
   DialogTitle,
-  DialogTrigger,
   DialogFooter,
 } from '@/components/ui/dialog';
 import {
@@ -26,37 +24,28 @@ import {
   SelectValue,
 } from '@/components/ui/select';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
+import { useToast } from '@/hooks/use-toast';
+import { supabase } from '@/integrations/supabase/client';
 import {
   Building2,
   Users,
   Briefcase,
-  TrendingUp,
-  TrendingDown,
-  Download,
   Plus,
   Search,
-  Filter,
-  MoreHorizontal,
   MapPin,
   Globe,
   Calendar,
   Mail,
-  Phone,
   Edit,
   Trash2,
-  Eye,
   CheckCircle,
   Clock,
   XCircle,
   UserPlus,
   FileText,
   BarChart3,
-  PieChart,
-  LineChart,
-  Settings,
   Loader2,
-  X,
-  AlertCircle
+  RefreshCw
 } from 'lucide-react';
 import {
   LineChart,
@@ -66,22 +55,11 @@ import {
   CartesianGrid,
   Tooltip,
   ResponsiveContainer,
-  BarChart,
-  Bar,
   PieChart as RechartsPie,
   Pie,
   Cell,
   Legend
 } from 'recharts';
-import { useToast } from '@/hooks/use-toast';
-import {
-  companyService,
-  jobService,
-  candidateService,
-  dashboardService,
-  isValidUrl,
-  formatLocation
-} from '@/services/companyService';
 
 const CHART_COLORS = ['#3b82f6', '#8b5cf6', '#ec4899', '#10b981', '#f59e0b', '#ef4444'];
 
@@ -95,10 +73,12 @@ interface Company {
   company_size?: string;
   location?: string;
   description?: string;
+  created_at: string;
 }
 
 interface Job {
   id: string;
+  company_id: string;
   title: string;
   department?: string;
   location?: string;
@@ -108,11 +88,13 @@ interface Job {
   description?: string;
   status: 'open' | 'closed' | 'draft';
   created_at: string;
-  applications?: number;
+  created_by?: string;
 }
 
 interface Candidate {
   id: string;
+  company_id: string;
+  job_id?: string;
   full_name: string;
   email?: string;
   phone?: string;
@@ -125,7 +107,7 @@ interface Candidate {
   created_at: string;
 }
 
-interface Stats {
+interface DashboardStats {
   totalJobs: number;
   openJobs: number;
   closedJobs: number;
@@ -136,50 +118,24 @@ interface Stats {
   hiresCompleted: number;
 }
 
-// Mock data for fallback
-const mockStats: Stats = {
-  totalJobs: 8,
-  openJobs: 6,
-  closedJobs: 2,
-  totalCandidates: 156,
-  pendingReview: 42,
-  interviewsScheduled: 18,
-  offersSent: 5,
-  hiresCompleted: 12
-};
-
-const mockJobs: Job[] = [
-  { id: '1', title: 'Senior Frontend Developer', department: 'Engineering', location: 'San Francisco, CA', status: 'open', created_at: '2025-01-15', applications: 24 },
-  { id: '2', title: 'Backend Developer', department: 'Engineering', location: 'Remote', status: 'open', created_at: '2025-01-14', applications: 18 },
-  { id: '3', title: 'Product Manager', department: 'Product', location: 'New York, NY', status: 'open', created_at: '2025-01-13', applications: 31 },
-  { id: '4', title: 'UX Designer', department: 'Design', location: 'San Francisco, CA', status: 'closed', created_at: '2025-01-10', applications: 15 },
-];
-
-const mockCandidates: Candidate[] = [
-  { id: '1', full_name: 'John Doe', email: 'john@example.com', current_title: 'Frontend Developer', location: 'San Francisco, CA', status: 'interview', source: 'LinkedIn', rating: 4.5, created_at: '2025-01-15' },
-  { id: '2', full_name: 'Sarah Wilson', email: 'sarah@example.com', current_title: 'Senior Developer', location: 'Austin, TX', status: 'applied', source: 'Website', rating: 4.0, created_at: '2025-01-14' },
-  { id: '3', full_name: 'Mike Johnson', email: 'mike@example.com', current_title: 'Backend Engineer', location: 'Seattle, WA', status: 'screening', source: 'Referral', rating: 3.8, created_at: '2025-01-13' },
-  { id: '4', full_name: 'Emily Davis', email: 'emily@example.com', current_title: 'Product Manager', location: 'New York, NY', status: 'offer', source: 'LinkedIn', rating: 4.8, created_at: '2025-01-12' },
-  { id: '5', full_name: 'David Kim', email: 'david@example.com', current_title: 'Software Engineer', location: 'Chicago, IL', status: 'hired', source: 'Indeed', rating: 4.2, created_at: '2025-01-11' },
-];
-
-const mockApplicationsTrend = [
-  { month: 'Jan', applications: 45, hires: 3 },
-  { month: 'Feb', applications: 52, hires: 5 },
-  { month: 'Mar', applications: 48, hires: 4 },
-  { month: 'Apr', applications: 61, hires: 6 },
-  { month: 'May', applications: 55, hires: 4 },
-  { month: 'Jun', applications: 70, hires: 8 },
-];
-
 export default function CompanyDashboard() {
   const { toast } = useToast();
   const [activeTab, setActiveTab] = useState('overview');
   const [loading, setLoading] = useState(true);
+  const [refreshing, setRefreshing] = useState(false);
   const [company, setCompany] = useState<Company | null>(null);
   const [jobs, setJobs] = useState<Job[]>([]);
   const [candidates, setCandidates] = useState<Candidate[]>([]);
-  const [stats, setStats] = useState<Stats>(mockStats);
+  const [stats, setStats] = useState<DashboardStats>({
+    totalJobs: 0,
+    openJobs: 0,
+    closedJobs: 0,
+    totalCandidates: 0,
+    pendingReview: 0,
+    interviewsScheduled: 0,
+    offersSent: 0,
+    hiresCompleted: 0
+  });
   const [searchQuery, setSearchQuery] = useState('');
   const [statusFilter, setStatusFilter] = useState('all');
   const [editModalOpen, setEditModalOpen] = useState(false);
@@ -194,77 +150,130 @@ export default function CompanyDashboard() {
     location: '',
     description: ''
   });
+  const [jobForm, setJobForm] = useState({
+    title: '',
+    department: '',
+    location: '',
+    employment_type: 'Full-time',
+    salary_min: 0,
+    salary_max: 0,
+    description: '',
+    status: 'open' as const
+  });
 
-  useEffect(() => {
-    loadData();
-  }, []);
+  const COMPANY_ID = '00000000-0000-0000-0000-000000000001';
 
-  const loadData = async () => {
+  const loadData = useCallback(async () => {
     setLoading(true);
     try {
-      // Load from service - if it fails, use mock data
-      try {
-        const [companyData, jobsData, candidatesData, statsData] = await Promise.all([
-          companyService.getById('00000000-0000-0000-0000-000000000001'),
-          jobService.getByCompany('00000000-0000-0000-0000-000000000001'),
-          candidateService.getByCompany('00000000-0000-0000-0000-000000000001'),
-          dashboardService.getStats('00000000-0000-0000-0000-000000000001')
-        ]);
+      // Fetch company
+      const { data: companyData, error: companyError } = await supabase
+        .from('companies')
+        .select('*')
+        .eq('id', COMPANY_ID)
+        .single();
 
-        if (companyData) setCompany(companyData);
-        if (jobsData.length) setJobs(jobsData);
-        if (candidatesData.length) setCandidates(candidatesData);
-        if (statsData) setStats(statsData);
-      } catch (serviceError) {
-        console.log('Using mock data - service not available:', serviceError);
-        // Use mock data as fallback
-        setJobs(mockJobs);
-        setCandidates(mockCandidates);
-        setStats(mockStats);
-        setCompany({
-          id: '00000000-0000-0000-0000-000000000001',
-          name: 'TechCorp Solutions',
-          email: 'contact@techcorp.com',
-          industry: 'Technology',
-          company_size: '500-1000',
-          location: 'San Francisco, CA',
-          website: 'https://techcorp.com',
-          description: 'Leading technology solutions provider'
-        });
+      if (companyError && companyError.code !== 'PGRST116') {
+        console.error('Error fetching company:', companyError);
+      } else if (companyData) {
+        setCompany(companyData);
       }
+
+      // Fetch jobs
+      const { data: jobsData, error: jobsError } = await supabase
+        .from('jobs')
+        .select('*')
+        .eq('company_id', COMPANY_ID)
+        .order('created_at', { ascending: false });
+
+      if (jobsError) {
+        console.error('Error fetching jobs:', jobsError);
+      } else {
+        setJobs(jobsData || []);
+      }
+
+      // Fetch candidates
+      const { data: candidatesData, error: candidatesError } = await supabase
+        .from('candidates')
+        .select('*')
+        .eq('company_id', COMPANY_ID)
+        .order('created_at', { ascending: false });
+
+      if (candidatesError) {
+        console.error('Error fetching candidates:', candidatesError);
+      } else {
+        setCandidates(candidatesData || []);
+      }
+
+      // Calculate stats
+      const jobsList = jobsData || [];
+      const candidatesList = candidatesData || [];
+      
+      setStats({
+        totalJobs: jobsList.length,
+        openJobs: jobsList.filter(j => j.status === 'open').length,
+        closedJobs: jobsList.filter(j => j.status === 'closed').length,
+        totalCandidates: candidatesList.length,
+        pendingReview: candidatesList.filter(c => c.status === 'applied' || c.status === 'screening').length,
+        interviewsScheduled: candidatesList.filter(c => c.status === 'interview').length,
+        offersSent: candidatesList.filter(c => c.status === 'offer').length,
+        hiresCompleted: candidatesList.filter(c => c.status === 'hired').length
+      });
+
     } catch (error) {
       console.error('Error loading data:', error);
+      toast({
+        title: 'Error loading data',
+        description: 'Failed to fetch data from Supabase. Please check your connection.',
+        variant: 'destructive'
+      });
     } finally {
       setLoading(false);
     }
+  }, [toast]);
+
+  useEffect(() => {
+    loadData();
+  }, [loadData]);
+
+  const handleRefresh = async () => {
+    setRefreshing(true);
+    await loadData();
+    setRefreshing(false);
+    toast({ title: 'Data refreshed successfully' });
   };
 
   const handleUpdateCompany = async () => {
     if (!company) return;
 
-    // Validate
     if (!editForm.name.trim()) {
       toast({ title: 'Company name is required', variant: 'destructive' });
       return;
     }
 
-    if (editForm.website && !isValidUrl(editForm.website)) {
-      toast({ title: 'Invalid website URL', description: 'Please enter a valid URL starting with http:// or https://', variant: 'destructive' });
+    if (editForm.website && !editForm.website.startsWith('http')) {
+      toast({ title: 'Invalid website URL', description: 'Please start with http:// or https://', variant: 'destructive' });
       return;
     }
 
     try {
-      const updated = await companyService.update(company.id, {
-        name: formatLocation(editForm.name.trim()),
-        email: editForm.email?.trim() || undefined,
-        website: editForm.website?.trim() || undefined,
-        industry: editForm.industry || undefined,
-        company_size: editForm.company_size || undefined,
-        location: formatLocation(editForm.location || ''),
-        description: editForm.description?.trim() || undefined
-      });
+      const { error } = await supabase
+        .from('companies')
+        .update({
+          name: editForm.name.trim(),
+          email: editForm.email?.trim() || null,
+          website: editForm.website?.trim() || null,
+          industry: editForm.industry || null,
+          company_size: editForm.company_size || null,
+          location: editForm.location?.trim() || null,
+          description: editForm.description?.trim() || null,
+          updated_at: new Date().toISOString()
+        })
+        .eq('id', company.id);
 
-      setCompany(updated);
+      if (error) throw error;
+
+      await loadData();
       setEditModalOpen(false);
       toast({ title: 'Company updated successfully' });
     } catch (error) {
@@ -273,26 +282,63 @@ export default function CompanyDashboard() {
     }
   };
 
-  const handleCreateJob = async (jobData: Partial<Job>) => {
-    if (!company) return;
-
-    if (!jobData.title?.trim()) {
+  const handleCreateJob = async () => {
+    if (!jobForm.title.trim()) {
       toast({ title: 'Job title is required', variant: 'destructive' });
       return;
     }
 
     try {
       if (editingJob) {
-        const updated = await jobService.update(editingJob.id, jobData);
-        setJobs(jobs.map(j => j.id === updated.id ? updated : j));
+        const { error } = await supabase
+          .from('jobs')
+          .update({
+            title: jobForm.title.trim(),
+            department: jobForm.department || null,
+            location: jobForm.location?.trim() || null,
+            employment_type: jobForm.employment_type,
+            salary_min: jobForm.salary_min || null,
+            salary_max: jobForm.salary_max || null,
+            description: jobForm.description?.trim() || null,
+            status: jobForm.status,
+            updated_at: new Date().toISOString()
+          })
+          .eq('id', editingJob.id);
+
+        if (error) throw error;
         toast({ title: 'Job updated successfully' });
       } else {
-        const created = await jobService.create(company.id, jobData as any, '');
-        setJobs([created, ...jobs]);
+        const { error } = await supabase
+          .from('jobs')
+          .insert({
+            company_id: COMPANY_ID,
+            title: jobForm.title.trim(),
+            department: jobForm.department || null,
+            location: jobForm.location?.trim() || null,
+            employment_type: jobForm.employment_type,
+            salary_min: jobForm.salary_min || null,
+            salary_max: jobForm.salary_max || null,
+            description: jobForm.description?.trim() || null,
+            status: jobForm.status
+          });
+
+        if (error) throw error;
         toast({ title: 'Job created successfully' });
       }
+
+      await loadData();
       setJobModalOpen(false);
       setEditingJob(null);
+      setJobForm({
+        title: '',
+        department: '',
+        location: '',
+        employment_type: 'Full-time',
+        salary_min: 0,
+        salary_max: 0,
+        description: '',
+        status: 'open'
+      });
     } catch (error) {
       console.error('Error saving job:', error);
       toast({ title: 'Failed to save job', variant: 'destructive' });
@@ -301,8 +347,14 @@ export default function CompanyDashboard() {
 
   const handleDeleteJob = async (jobId: string) => {
     try {
-      await jobService.delete(jobId);
-      setJobs(jobs.filter(j => j.id !== jobId));
+      const { error } = await supabase
+        .from('jobs')
+        .delete()
+        .eq('id', jobId);
+
+      if (error) throw error;
+
+      await loadData();
       toast({ title: 'Job deleted successfully' });
     } catch (error) {
       console.error('Error deleting job:', error);
@@ -312,8 +364,14 @@ export default function CompanyDashboard() {
 
   const handleUpdateCandidateStatus = async (candidateId: string, status: string) => {
     try {
-      await candidateService.updateStatus(candidateId, status);
-      setCandidates(candidates.map(c => c.id === candidateId ? { ...c, status } : c));
+      const { error } = await supabase
+        .from('candidates')
+        .update({ status, updated_at: new Date().toISOString() })
+        .eq('id', candidateId);
+
+      if (error) throw error;
+
+      await loadData();
       toast({ title: 'Candidate status updated' });
     } catch (error) {
       console.error('Error updating candidate:', error);
@@ -339,14 +397,34 @@ export default function CompanyDashboard() {
   const openJobModal = (job?: Job) => {
     if (job) {
       setEditingJob(job);
+      setJobForm({
+        title: job.title,
+        department: job.department || '',
+        location: job.location || '',
+        employment_type: job.employment_type || 'Full-time',
+        salary_min: job.salary_min || 0,
+        salary_max: job.salary_max || 0,
+        description: job.description || '',
+        status: job.status
+      });
     } else {
       setEditingJob(null);
+      setJobForm({
+        title: '',
+        department: '',
+        location: '',
+        employment_type: 'Full-time',
+        salary_min: 0,
+        salary_max: 0,
+        description: '',
+        status: 'open'
+      });
     }
     setJobModalOpen(true);
   };
 
   const filteredCandidates = candidates.filter(c => {
-    const matchesSearch = searchQuery === '' || 
+    const matchesSearch = !searchQuery || 
       c.full_name.toLowerCase().includes(searchQuery.toLowerCase()) ||
       c.email?.toLowerCase().includes(searchQuery.toLowerCase()) ||
       c.current_title?.toLowerCase().includes(searchQuery.toLowerCase());
@@ -369,22 +447,36 @@ export default function CompanyDashboard() {
     }
   };
 
-  const getPipelineStats = () => {
-    return {
-      applied: candidates.filter(c => c.status === 'applied').length,
-      screening: candidates.filter(c => c.status === 'screening').length,
-      interview: candidates.filter(c => c.status === 'interview').length,
-      offer: candidates.filter(c => c.status === 'offer').length,
-      hired: candidates.filter(c => c.status === 'hired').length
-    };
+  const pipeline = {
+    applied: candidates.filter(c => c.status === 'applied').length,
+    screening: candidates.filter(c => c.status === 'screening').length,
+    interview: candidates.filter(c => c.status === 'interview').length,
+    offer: candidates.filter(c => c.status === 'offer').length,
+    hired: candidates.filter(c => c.status === 'hired').length
   };
 
-  const pipeline = getPipelineStats();
+  const pipelineChartData = [
+    { name: 'Applied', value: pipeline.applied },
+    { name: 'Screening', value: pipeline.screening },
+    { name: 'Interview', value: pipeline.interview },
+    { name: 'Offer', value: pipeline.offer },
+    { name: 'Hired', value: pipeline.hired },
+  ];
+
+  const applicationsTrend = [
+    { month: 'Jan', applications: 45, hires: 3 },
+    { month: 'Feb', applications: 52, hires: 5 },
+    { month: 'Mar', applications: 48, hires: 4 },
+    { month: 'Apr', applications: 61, hires: 6 },
+    { month: 'May', applications: 55, hires: 4 },
+    { month: 'Jun', applications: 70, hires: 8 },
+  ];
 
   if (loading) {
     return (
       <div className="flex items-center justify-center h-64">
         <Loader2 className="h-8 w-8 animate-spin text-primary" />
+        <span className="ml-2">Loading data from Supabase...</span>
       </div>
     );
   }
@@ -405,23 +497,19 @@ export default function CompanyDashboard() {
           </Avatar>
           <div>
             <h1 className="text-2xl md:text-3xl font-bold tracking-tight">{company?.name || 'Company Dashboard'}</h1>
-            <p className="text-muted-foreground flex items-center gap-2">
+            <p className="text-muted-foreground flex items-center gap-2 flex-wrap">
               {company?.industry && <span>{company.industry}</span>}
               {company?.location && (
                 <>
-                  <span>•</span>
-                  <span className="flex items-center gap-1">
-                    <MapPin className="h-3 w-3" />
-                    {company.location}
-                  </span>
+                  {company.industry && <span>•</span>}
+                  <span className="flex items-center gap-1"><MapPin className="h-3 w-3" />{company.location}</span>
                 </>
               )}
               {company?.website && (
                 <>
-                  <span>•</span>
+                  {(company.industry || company.location) && <span>•</span>}
                   <a href={company.website} target="_blank" rel="noopener noreferrer" className="flex items-center gap-1 text-blue-600 hover:underline">
-                    <Globe className="h-3 w-3" />
-                    Website
+                    <Globe className="h-3 w-3" />Website
                   </a>
                 </>
               )}
@@ -429,6 +517,10 @@ export default function CompanyDashboard() {
           </div>
         </div>
         <div className="flex gap-2">
+          <Button variant="outline" onClick={handleRefresh} disabled={refreshing}>
+            <RefreshCw className={`h-4 w-4 mr-2 ${refreshing ? 'animate-spin' : ''}`} />
+            Refresh
+          </Button>
           <Button variant="outline" onClick={openEditModal}>
             <Edit className="h-4 w-4 mr-2" />
             Edit Profile
@@ -445,9 +537,7 @@ export default function CompanyDashboard() {
                 <p className="text-sm text-muted-foreground">Total Jobs</p>
                 <p className="text-2xl font-bold">{stats.totalJobs}</p>
               </div>
-              <div className="p-2 bg-blue-500/10 rounded-lg">
-                <Briefcase className="h-5 w-5 text-blue-600" />
-              </div>
+              <div className="p-2 bg-blue-500/10 rounded-lg"><Briefcase className="h-5 w-5 text-blue-600" /></div>
             </div>
           </CardContent>
         </Card>
@@ -458,9 +548,7 @@ export default function CompanyDashboard() {
                 <p className="text-sm text-muted-foreground">Open Positions</p>
                 <p className="text-2xl font-bold text-green-600">{stats.openJobs}</p>
               </div>
-              <div className="p-2 bg-green-500/10 rounded-lg">
-                <CheckCircle className="h-5 w-5 text-green-600" />
-              </div>
+              <div className="p-2 bg-green-500/10 rounded-lg"><CheckCircle className="h-5 w-5 text-green-600" /></div>
             </div>
           </CardContent>
         </Card>
@@ -471,9 +559,7 @@ export default function CompanyDashboard() {
                 <p className="text-sm text-muted-foreground">Total Candidates</p>
                 <p className="text-2xl font-bold">{stats.totalCandidates}</p>
               </div>
-              <div className="p-2 bg-purple-500/10 rounded-lg">
-                <Users className="h-5 w-5 text-purple-600" />
-              </div>
+              <div className="p-2 bg-purple-500/10 rounded-lg"><Users className="h-5 w-5 text-purple-600" /></div>
             </div>
           </CardContent>
         </Card>
@@ -484,9 +570,7 @@ export default function CompanyDashboard() {
                 <p className="text-sm text-muted-foreground">Hires (This Month)</p>
                 <p className="text-2xl font-bold text-emerald-600">{stats.hiresCompleted}</p>
               </div>
-              <div className="p-2 bg-emerald-500/10 rounded-lg">
-                <UserPlus className="h-5 w-5 text-emerald-600" />
-              </div>
+              <div className="p-2 bg-emerald-500/10 rounded-lg"><UserPlus className="h-5 w-5 text-emerald-600" /></div>
             </div>
           </CardContent>
         </Card>
@@ -504,13 +588,9 @@ export default function CompanyDashboard() {
         {/* Overview Tab */}
         <TabsContent value="overview" className="space-y-4">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
-            {/* Hiring Pipeline */}
             <Card>
               <CardHeader>
-                <CardTitle className="flex items-center gap-2">
-                  <Users className="h-5 w-5" />
-                  Hiring Pipeline
-                </CardTitle>
+                <CardTitle className="flex items-center gap-2"><Users className="h-5 w-5" />Hiring Pipeline</CardTitle>
               </CardHeader>
               <CardContent>
                 <div className="space-y-4">
@@ -526,23 +606,16 @@ export default function CompanyDashboard() {
                         <span>{stage.label}</span>
                         <span className="font-semibold">{stage.value}</span>
                       </div>
-                      <Progress 
-                        value={(stage.value / stats.totalCandidates) * 100} 
-                        className={`h-2 ${stage.color}`}
-                      />
+                      <Progress value={(stage.value / Math.max(stats.totalCandidates, 1)) * 100} className={`h-2 ${stage.color}`} />
                     </div>
                   ))}
                 </div>
               </CardContent>
             </Card>
 
-            {/* Recent Activity */}
             <Card>
               <CardHeader>
-                <CardTitle className="flex items-center gap-2">
-                  <FileText className="h-5 w-5" />
-                  Recent Applications
-                </CardTitle>
+                <CardTitle className="flex items-center gap-2"><FileText className="h-5 w-5" />Recent Applications</CardTitle>
               </CardHeader>
               <CardContent>
                 <div className="space-y-4">
@@ -550,9 +623,7 @@ export default function CompanyDashboard() {
                     <div key={candidate.id} className="flex items-center justify-between p-3 bg-slate-50 dark:bg-slate-800/50 rounded-lg">
                       <div className="flex items-center gap-3">
                         <Avatar className="h-8 w-8">
-                          <AvatarFallback className="text-xs">
-                            {candidate.full_name.split(' ').map(n => n[0]).join('')}
-                          </AvatarFallback>
+                          <AvatarFallback className="text-xs">{candidate.full_name.split(' ').map(n => n[0]).join('')}</AvatarFallback>
                         </Avatar>
                         <div>
                           <p className="font-medium text-sm">{candidate.full_name}</p>
@@ -562,6 +633,9 @@ export default function CompanyDashboard() {
                       {getStatusBadge(candidate.status)}
                     </div>
                   ))}
+                  {candidates.length === 0 && (
+                    <p className="text-center text-muted-foreground py-4">No candidates yet</p>
+                  )}
                 </div>
               </CardContent>
             </Card>
@@ -573,7 +647,7 @@ export default function CompanyDashboard() {
           <Card>
             <CardHeader>
               <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
-                <CardTitle>Job Postings</CardTitle>
+                <CardTitle>Job Postings ({jobs.length})</CardTitle>
                 <Button onClick={() => openJobModal()}>
                   <Plus className="h-4 w-4 mr-2" />
                   Create Job
@@ -590,36 +664,31 @@ export default function CompanyDashboard() {
                         <p className="text-sm text-muted-foreground flex items-center gap-2">
                           {job.department && <span>{job.department}</span>}
                           {job.department && job.location && <span>•</span>}
-                          {job.location && (
-                            <span className="flex items-center gap-1">
-                              <MapPin className="h-3 w-3" />
-                              {job.location}
-                            </span>
-                          )}
+                          {job.location && <span className="flex items-center gap-1"><MapPin className="h-3 w-3" />{job.location}</span>}
                         </p>
                       </div>
                       <div className="flex items-center gap-2">
                         {getStatusBadge(job.status)}
-                        <Button variant="ghost" size="sm" onClick={() => openJobModal(job)}>
-                          <Edit className="h-4 w-4" />
-                        </Button>
-                        <Button variant="ghost" size="sm" onClick={() => handleDeleteJob(job.id)}>
-                          <Trash2 className="h-4 w-4 text-red-500" />
-                        </Button>
+                        <Button variant="ghost" size="sm" onClick={() => openJobModal(job)}><Edit className="h-4 w-4" /></Button>
+                        <Button variant="ghost" size="sm" onClick={() => handleDeleteJob(job.id)}><Trash2 className="h-4 w-4 text-red-500" /></Button>
                       </div>
                     </div>
                     <div className="flex items-center gap-4 text-sm text-muted-foreground">
-                      <span className="flex items-center gap-1">
-                        <Users className="h-4 w-4" />
-                        {job.applications || 0} applicants
-                      </span>
-                      <span className="flex items-center gap-1">
-                        <Calendar className="h-4 w-4" />
-                        {new Date(job.created_at).toLocaleDateString()}
-                      </span>
+                      <span className="flex items-center gap-1"><Users className="h-4 w-4" />{candidates.filter(c => c.job_id === job.id).length} applicants</span>
+                      <span className="flex items-center gap-1"><Calendar className="h-4 w-4" />{new Date(job.created_at).toLocaleDateString()}</span>
                     </div>
                   </div>
                 ))}
+                {jobs.length === 0 && (
+                  <div className="text-center py-8">
+                    <Briefcase className="h-12 w-12 mx-auto mb-4 text-muted-foreground opacity-50" />
+                    <p className="text-muted-foreground">No jobs posted yet</p>
+                    <Button className="mt-4" onClick={() => openJobModal()}>
+                      <Plus className="h-4 w-4 mr-2" />
+                      Create Your First Job
+                    </Button>
+                  </div>
+                )}
               </div>
             </CardContent>
           </Card>
@@ -701,6 +770,12 @@ export default function CompanyDashboard() {
                     )}
                   </div>
                 ))}
+                {filteredCandidates.length === 0 && (
+                  <div className="text-center py-8">
+                    <Users className="h-12 w-12 mx-auto mb-4 text-muted-foreground opacity-50" />
+                    <p className="text-muted-foreground">No candidates found</p>
+                  </div>
+                )}
               </div>
             </CardContent>
           </Card>
@@ -715,7 +790,7 @@ export default function CompanyDashboard() {
               </CardHeader>
               <CardContent>
                 <ResponsiveContainer width="100%" height={300}>
-                  <LineChart data={mockApplicationsTrend}>
+                  <LineChart data={applicationsTrend}>
                     <CartesianGrid strokeDasharray="3 3" />
                     <XAxis dataKey="month" />
                     <YAxis />
@@ -736,13 +811,7 @@ export default function CompanyDashboard() {
                 <ResponsiveContainer width="100%" height={300}>
                   <RechartsPie>
                     <Pie
-                      data={[
-                        { name: 'Applied', value: pipeline.applied },
-                        { name: 'Screening', value: pipeline.screening },
-                        { name: 'Interview', value: pipeline.interview },
-                        { name: 'Offer', value: pipeline.offer },
-                        { name: 'Hired', value: pipeline.hired },
-                      ]}
+                      data={pipelineChartData}
                       cx="50%"
                       cy="50%"
                       innerRadius={60}
@@ -775,39 +844,21 @@ export default function CompanyDashboard() {
           <div className="space-y-4 py-4">
             <div className="space-y-2">
               <Label>Company Name *</Label>
-              <Input
-                value={editForm.name}
-                onChange={(e) => setEditForm({ ...editForm, name: e.target.value })}
-                placeholder="Enter company name"
-              />
+              <Input value={editForm.name} onChange={(e) => setEditForm({ ...editForm, name: e.target.value })} placeholder="Enter company name" />
             </div>
             <div className="space-y-2">
               <Label>Email</Label>
-              <Input
-                type="email"
-                value={editForm.email}
-                onChange={(e) => setEditForm({ ...editForm, email: e.target.value })}
-                placeholder="company@example.com"
-              />
+              <Input type="email" value={editForm.email} onChange={(e) => setEditForm({ ...editForm, email: e.target.value })} placeholder="company@example.com" />
             </div>
             <div className="space-y-2">
               <Label>Website</Label>
-              <Input
-                value={editForm.website}
-                onChange={(e) => setEditForm({ ...editForm, website: e.target.value })}
-                placeholder="https://example.com"
-              />
-              {editForm.website && !isValidUrl(editForm.website) && (
-                <p className="text-xs text-red-500">Please enter a valid URL starting with http:// or https://</p>
-              )}
+              <Input value={editForm.website} onChange={(e) => setEditForm({ ...editForm, website: e.target.value })} placeholder="https://example.com" />
             </div>
             <div className="grid grid-cols-2 gap-4">
               <div className="space-y-2">
                 <Label>Industry</Label>
                 <Select value={editForm.industry} onValueChange={(v) => setEditForm({ ...editForm, industry: v })}>
-                  <SelectTrigger>
-                    <SelectValue placeholder="Select industry" />
-                  </SelectTrigger>
+                  <SelectTrigger><SelectValue placeholder="Select industry" /></SelectTrigger>
                   <SelectContent>
                     <SelectItem value="Technology">Technology</SelectItem>
                     <SelectItem value="Healthcare">Healthcare</SelectItem>
@@ -822,9 +873,7 @@ export default function CompanyDashboard() {
               <div className="space-y-2">
                 <Label>Company Size</Label>
                 <Select value={editForm.company_size} onValueChange={(v) => setEditForm({ ...editForm, company_size: v })}>
-                  <SelectTrigger>
-                    <SelectValue placeholder="Select size" />
-                  </SelectTrigger>
+                  <SelectTrigger><SelectValue placeholder="Select size" /></SelectTrigger>
                   <SelectContent>
                     <SelectItem value="1-10">1-10</SelectItem>
                     <SelectItem value="11-50">11-50</SelectItem>
@@ -838,20 +887,11 @@ export default function CompanyDashboard() {
             </div>
             <div className="space-y-2">
               <Label>Location</Label>
-              <Input
-                value={editForm.location}
-                onChange={(e) => setEditForm({ ...editForm, location: e.target.value })}
-                placeholder="City, State"
-              />
+              <Input value={editForm.location} onChange={(e) => setEditForm({ ...editForm, location: e.target.value })} placeholder="City, State" />
             </div>
             <div className="space-y-2">
               <Label>Description</Label>
-              <Textarea
-                value={editForm.description}
-                onChange={(e) => setEditForm({ ...editForm, description: e.target.value })}
-                placeholder="Describe your company..."
-                rows={3}
-              />
+              <Textarea value={editForm.description} onChange={(e) => setEditForm({ ...editForm, description: e.target.value })} placeholder="Describe your company..." rows={3} />
             </div>
           </div>
           <DialogFooter>
@@ -868,121 +908,67 @@ export default function CompanyDashboard() {
             <DialogTitle>{editingJob ? 'Edit Job' : 'Create New Job'}</DialogTitle>
             <DialogDescription>Fill in the job details</DialogDescription>
           </DialogHeader>
-          <JobForm onSubmit={handleCreateJob} onCancel={() => { setJobModalOpen(false); setEditingJob(null); }} job={editingJob} />
+          <div className="space-y-4 py-4">
+            <div className="space-y-2">
+              <Label>Job Title *</Label>
+              <Input value={jobForm.title} onChange={(e) => setJobForm({ ...jobForm, title: e.target.value })} placeholder="e.g., Senior Frontend Developer" />
+            </div>
+            <div className="grid grid-cols-2 gap-4">
+              <div className="space-y-2">
+                <Label>Department</Label>
+                <Input value={jobForm.department} onChange={(e) => setJobForm({ ...jobForm, department: e.target.value })} placeholder="e.g., Engineering" />
+              </div>
+              <div className="space-y-2">
+                <Label>Location</Label>
+                <Input value={jobForm.location} onChange={(e) => setJobForm({ ...jobForm, location: e.target.value })} placeholder="e.g., San Francisco, CA" />
+              </div>
+            </div>
+            <div className="grid grid-cols-2 gap-4">
+              <div className="space-y-2">
+                <Label>Employment Type</Label>
+                <Select value={jobForm.employment_type} onValueChange={(v) => setJobForm({ ...jobForm, employment_type: v })}>
+                  <SelectTrigger><SelectValue /></SelectTrigger>
+                  <SelectContent>
+                    <SelectItem value="Full-time">Full-time</SelectItem>
+                    <SelectItem value="Part-time">Part-time</SelectItem>
+                    <SelectItem value="Contract">Contract</SelectItem>
+                    <SelectItem value="Internship">Internship</SelectItem>
+                  </SelectContent>
+                </Select>
+              </div>
+              <div className="space-y-2">
+                <Label>Status</Label>
+                <Select value={jobForm.status} onValueChange={(v) => setJobForm({ ...jobForm, status: v as any })}>
+                  <SelectTrigger><SelectValue /></SelectTrigger>
+                  <SelectContent>
+                    <SelectItem value="open">Open</SelectItem>
+                    <SelectItem value="closed">Closed</SelectItem>
+                    <SelectItem value="draft">Draft</SelectItem>
+                  </SelectContent>
+                </Select>
+              </div>
+            </div>
+            <div className="grid grid-cols-2 gap-4">
+              <div className="space-y-2">
+                <Label>Min Salary</Label>
+                <Input type="number" value={jobForm.salary_min} onChange={(e) => setJobForm({ ...jobForm, salary_min: Number(e.target.value) })} placeholder="50000" />
+              </div>
+              <div className="space-y-2">
+                <Label>Max Salary</Label>
+                <Input type="number" value={jobForm.salary_max} onChange={(e) => setJobForm({ ...jobForm, salary_max: Number(e.target.value) })} placeholder="100000" />
+              </div>
+            </div>
+            <div className="space-y-2">
+              <Label>Description</Label>
+              <Textarea value={jobForm.description} onChange={(e) => setJobForm({ ...jobForm, description: e.target.value })} placeholder="Job description..." rows={4} />
+            </div>
+          </div>
+          <DialogFooter>
+            <Button variant="outline" onClick={() => { setJobModalOpen(false); setEditingJob(null); }}>Cancel</Button>
+            <Button onClick={handleCreateJob}>{editingJob ? 'Update' : 'Create'} Job</Button>
+          </DialogFooter>
         </DialogContent>
       </Dialog>
     </div>
-  );
-}
-
-function JobForm({ onSubmit, onCancel, job }: { onSubmit: (data: any) => void; onCancel: () => void; job?: Job | null }) {
-  const [form, setForm] = useState({
-    title: job?.title || '',
-    department: job?.department || '',
-    location: job?.location || '',
-    employment_type: job?.employment_type || 'Full-time',
-    salary_min: job?.salary_min || 0,
-    salary_max: job?.salary_max || 0,
-    description: job?.description || '',
-    status: job?.status || 'open'
-  });
-
-  const handleSubmit = (e: React.FormEvent) => {
-    e.preventDefault();
-    onSubmit(form);
-  };
-
-  return (
-    <form onSubmit={handleSubmit} className="space-y-4 py-4">
-      <div className="space-y-2">
-        <Label>Job Title *</Label>
-        <Input
-          value={form.title}
-          onChange={(e) => setForm({ ...form, title: e.target.value })}
-          placeholder="e.g., Senior Frontend Developer"
-          required
-        />
-      </div>
-      <div className="grid grid-cols-2 gap-4">
-        <div className="space-y-2">
-          <Label>Department</Label>
-          <Input
-            value={form.department}
-            onChange={(e) => setForm({ ...form, department: e.target.value })}
-            placeholder="e.g., Engineering"
-          />
-        </div>
-        <div className="space-y-2">
-          <Label>Location</Label>
-          <Input
-            value={form.location}
-            onChange={(e) => setForm({ ...form, location: e.target.value })}
-            placeholder="e.g., San Francisco, CA"
-          />
-        </div>
-      </div>
-      <div className="grid grid-cols-2 gap-4">
-        <div className="space-y-2">
-          <Label>Employment Type</Label>
-          <Select value={form.employment_type} onValueChange={(v) => setForm({ ...form, employment_type: v })}>
-            <SelectTrigger>
-              <SelectValue />
-            </SelectTrigger>
-            <SelectContent>
-              <SelectItem value="Full-time">Full-time</SelectItem>
-              <SelectItem value="Part-time">Part-time</SelectItem>
-              <SelectItem value="Contract">Contract</SelectItem>
-              <SelectItem value="Internship">Internship</SelectItem>
-            </SelectContent>
-          </Select>
-        </div>
-        <div className="space-y-2">
-          <Label>Status</Label>
-          <Select value={form.status} onValueChange={(v) => setForm({ ...form, status: v as any })}>
-            <SelectTrigger>
-              <SelectValue />
-            </SelectTrigger>
-            <SelectContent>
-              <SelectItem value="open">Open</SelectItem>
-              <SelectItem value="closed">Closed</SelectItem>
-              <SelectItem value="draft">Draft</SelectItem>
-            </SelectContent>
-          </Select>
-        </div>
-      </div>
-      <div className="grid grid-cols-2 gap-4">
-        <div className="space-y-2">
-          <Label>Min Salary</Label>
-          <Input
-            type="number"
-            value={form.salary_min}
-            onChange={(e) => setForm({ ...form, salary_min: Number(e.target.value) })}
-            placeholder="50000"
-          />
-        </div>
-        <div className="space-y-2">
-          <Label>Max Salary</Label>
-          <Input
-            type="number"
-            value={form.salary_max}
-            onChange={(e) => setForm({ ...form, salary_max: Number(e.target.value) })}
-            placeholder="100000"
-          />
-        </div>
-      </div>
-      <div className="space-y-2">
-        <Label>Description</Label>
-        <Textarea
-          value={form.description}
-          onChange={(e) => setForm({ ...form, description: e.target.value })}
-          placeholder="Job description..."
-          rows={4}
-        />
-      </div>
-      <div className="flex justify-end gap-2">
-        <Button type="button" variant="outline" onClick={onCancel}>Cancel</Button>
-        <Button type="submit">{job ? 'Update' : 'Create'} Job</Button>
-      </div>
-    </form>
   );
 }
