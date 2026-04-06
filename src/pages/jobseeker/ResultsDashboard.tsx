@@ -136,7 +136,7 @@ export default function ResultsDashboard() {
         </CardHeader>
         <CardContent>
           <div className="space-y-4">
-{assessmentData.filter((a): a is { id: string; title: string; category: string; score: number; completed_at: string; } => a.score !== undefined).slice(0, 5).map((assessment) => (
+            {assessmentData.slice(0, 5).map((assessment) => (
               <div key={assessment.id} className="flex items-center justify-between p-4 border rounded-xl hover:bg-muted/50 transition-colors">
                 <div className="flex items-center gap-4">
                   <div className="w-12 h-12 bg-gradient-to-br from-primary to-primary/70 rounded-xl flex items-center justify-center">
@@ -148,12 +148,13 @@ export default function ResultsDashboard() {
                   </div>
                 </div>
                 <div className="text-right">
-
-
-                    <div className="text-2xl font-bold px-3 py-1 rounded-full bg-emerald-100 text-emerald-800">
-                      92%
-
-
+                  <div className={cn(
+                    "text-2xl font-bold px-3 py-1 rounded-full",
+                    assessment.score >= 90 ? "bg-emerald-100 text-emerald-800" :
+                    assessment.score >= 70 ? "bg-amber-100 text-amber-800" :
+                    "bg-destructive/10 text-destructive"
+                  )}>
+                    {assessment.score}%
                   </div>
                   <p className="text-xs text-muted-foreground mt-1">
                     {new Date(assessment.completed_at).toLocaleDateString()}

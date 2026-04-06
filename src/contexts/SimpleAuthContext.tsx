@@ -114,7 +114,7 @@ const getDashboardPath = (role: AccountRole): string => {
   switch (role) {
     case "admin": return "/admin";
     case "company": return "/company";
-    case "recruiter": return "/recruiter";
+    case "recruiter": return "/recruiter/evaluation-reports";
     case "jobseeker": return "/jobseeker";
     default: return "/dashboard";
   }

@@ -296,8 +296,7 @@ export default function RecruiterAssessments() {
           </CardHeader>
           <CardContent>
             <div className="space-y-3">
-{mockAssessmentAssignments.slice(0, 4).map((assessment) => (
-
+              {mockAssessments.map((assessment) => (
                 <div
                   key={assessment.id}
                   className="flex items-center justify-between p-3 border border-gray-100 rounded-lg hover:bg-gray-50 transition"

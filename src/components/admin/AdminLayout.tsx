@@ -1,3 +1,4 @@
+
 import { useState } from 'react';
 import { Outlet, Link, useLocation } from 'react-router-dom';
 import { cn } from '@/lib/utils';
@@ -27,6 +28,7 @@ import {
   TooltipProvider,
   TooltipTrigger,
 } from '@/components/ui/tooltip';
+import { useAuth } from '@/contexts/SimpleAuthContext';
 import { useTheme } from '@/components/theme-provider';
 import { mockNotifications } from '@/data/adminModuleData';
 
@@ -69,6 +71,7 @@ const navSections = [
 ];
 
 export function AdminLayout() {
+  const { logout } = useAuth();
   const location = useLocation();
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
   const [searchQuery, setSearchQuery] = useState('');
@@ -244,7 +247,7 @@ export function AdminLayout() {
               
               <DropdownMenu>
                 <DropdownMenuTrigger asChild>
-                  <Button variant="ghost" size="sm" className="w-full justify-start h-9 text-sm text-muted-foreground hover:text-destructive">
+<Button variant="ghost" size="sm" className="w-full justify-start h-9 text-sm text-muted-foreground hover:text-destructive" onClick={logout}>
                     <LogOut className="h-4 w-4 mr-2.5" />
                     Logout
                   </Button>
@@ -265,7 +268,7 @@ export function AdminLayout() {
                     Keyboard Shortcuts
                   </DropdownMenuItem>
                   <DropdownMenuSeparator />
-                  <DropdownMenuItem className="text-destructive">
+                  <DropdownMenuItem className="text-destructive" onClick={logout}>
                     <LogOut className="h-4 w-4 mr-2" />
                     Logout
                   </DropdownMenuItem>

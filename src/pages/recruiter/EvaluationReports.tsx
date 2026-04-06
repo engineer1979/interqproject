@@ -1,89 +1,219 @@
-import React from 'react';
+import React, { useState, useMemo } from 'react';
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from '@/components/ui/card';
+import { Label } from '@/components/ui/label';
 import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
-import { useNavigate } from 'react-router-dom';
-import { useAuth } from '@/contexts/SimpleAuthContext';
-import { useQuery } from '@tanstack/react-query';
-import { supabase } from '@/integrations/supabase/client';
-import { Skeleton } from '@/components/ui/skeleton';
-import { FileText, Download, Eye, Users, TrendingUp, BarChart3 } from 'lucide-react';
+import { Input } from '@/components/ui/input';
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select';
+import { Slider } from '@/components/ui/slider';
+import { Checkbox } from '@/components/ui/checkbox';
+import { DetailedCandidate } from '@/data/candidateEvaluationsMock';
+import { BarChart3, FileText, Download, Eye, Users, Filter, Search, Calendar, TrendingUp } from 'lucide-react';
+import { 
+  PieChart, 
+  Pie, 
+  Cell, 
+  ResponsiveContainer, 
+  Tooltip 
+} from 'recharts';
+import EvaluationReportView from '@/components/reports/EvaluationReportView';
 
 const EvaluationReports = () => {
-  const navigate = useNavigate();
-  const { user } = useAuth();
-
-  const { data: reports = [], isLoading } = useQuery({
-    queryKey: ['recruiter-evaluation-reports'],
-    queryFn: async () => {
-      try {
-        const { data } = await supabase
-          .from('evaluation_reports')
-          .select('*')
-          .order('created_at', { ascending: false })
-          .limit(20);
-        if (data && data.length > 0) return data;
-      } catch (e) {
-        console.log('DB not ready, using demo');
-      }
-      
-      // Always fallback to demo data
-      const demoData = await fetch('/data/evaluationReports.json').then(r => r.json());
-      return demoData;
-    },
+  const [selectedReports, setSelectedReports] = useState<string[]>([]);
+  const [filters, setFilters] = useState({
+    search: '',
+    status: '',
+    minScore: 0,
   });
+  const [selectedCandidate, setSelectedCandidate] = useState<DetailedCandidate | null>(null);
+  const [viewModal, setViewModal] = useState(false);
 
-  const stats = reports?.length || 0;
+  const { mockCandidates } = require('@/data/candidateEvaluationsMock');
 
-  if (isLoading) {
-    return (
-      <div className="space-y-6">
-        <Skeleton className="h-12 w-64" />
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          <Skeleton className="h-48 w-full" />
-          <Skeleton className="h-48 w-full" />
-          <Skeleton className="h-48 w-full" />
-        </div>
-      </div>
-    );
+  const candidates = useMemo(() => {
+    let filtered = mockCandidates as DetailedCandidate[];
+
+    if (filters.status) {
+      filtered = filtered.filter(c => c.status === filters.status);
+    }
+    if (filters.minScore) {
+      filtered = filtered.filter(c => (c.overallScore / 5) * 100 >= filters.minScore);
+    }
+    if (filters.search) {
+      filtered = filtered.filter(c => 
+        c.name.toLowerCase().includes(filters.search.toLowerCase()) || 
+        c.position.toLowerCase().includes(filters.search.toLowerCase())
+      );
+    }
+
+    return filtered;
+  }, [filters, mockCandidates]);
+
+  const statusColors = {
+    'advance': '#10b981',
+    'advance-reserve': '#f59e0b',
+    'reject': '#ef4444',
+    'pending': '#6b7280',
+  };
+
+  const chartData = [
+    { name: 'Advance', value: candidates.filter(c => c.status === 'advance').length, fill: '#10b981' },
+    { name: 'Advance-Reserve', value: candidates.filter(c => c.status === 'advance-reserve').length, fill: '#f59e0b' },
+    { name: 'Reject', value: candidates.filter(c => c.status === 'reject').length, fill: '#ef4444' },
+    { name: 'Pending', value: candidates.filter(c => c.status === 'pending').length, fill: '#6b7280' },
+  ];
+
+  const handleBulkExport = () => {
+    // CSV export
+    const csv = candidates.map(c => `${c.name},${c.position},${c.overallScore},${c.status}`).join('\n');
+    const blob = new Blob([csv], { type: 'text/csv' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = 'evaluation_reports.csv';
+    a.click();
+  };
+
+  const handleViewReport = (candidate: DetailedCandidate) => {
+    setSelectedCandidate(candidate);
+    setViewModal(true);
+  };
+
+  if (candidates.length === 0) {
+    return <div className="p-12 text-center text-muted-foreground">
+      <FileText className="h-16 w-16 mx-auto mb-4 opacity-50" />
+      <h3 className="text-xl font-semibold mb-2">No evaluation reports</h3>
+      <p className="mb-6">Reports will appear here after candidate assessments</p>
+      <Button onClick={() => window.location.reload()}>Refresh</Button>
+    </div>;
   }
 
   return (
     <div className="space-y-6">
-      <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
+      {/* Header */}
+      <div className="flex flex-col lg:flex-row lg:items-center lg:justify-between gap-4">
         <div>
-          <h1 className="text-3xl font-bold">Evaluation Reports</h1>
-          <p className="text-muted-foreground">Candidate evaluation and assessment reports</p>
+          <h1 className="text-3xl font-bold tracking-tight">Evaluation Reports</h1>
+          <p className="text-muted-foreground">Manage candidate assessments and reports ({candidates.length})</p>
         </div>
-        <Button>
-          <FileText className="mr-2 h-4 w-4" />
-          New Report
-        </Button>
+        <div className="flex gap-2">
+          {selectedReports.length > 0 && (
+            <Button onClick={handleBulkExport} variant="outline">
+              Export Selected ({selectedReports.length})
+            </Button>
+          )}
+          <Button>
+            <FileText className="mr-2 h-4 w-4" />
+            New Report
+          </Button>
+        </div>
       </div>
 
+      {/* Filters */}
       <Card>
         <CardHeader>
-          <div className="flex items-center justify-between">
-            <CardTitle>Recent Reports ({stats})</CardTitle>
-            <Badge variant="outline">{stats} reports</Badge>
+          <CardTitle className="flex items-center gap-2">
+            <Filter className="h-5 w-5" />
+            Filters
+          </CardTitle>
+        </CardHeader>
+        <CardContent className="grid grid-cols-1 md:grid-cols-3 gap-4 p-6">
+          <div className="space-y-2">
+            <Label>Search</Label>
+            <div className="relative">
+              <Search className="absolute left-3 top-3 h-4 w-4 text-muted-foreground" />
+              <Input
+                placeholder="Candidate name..."
+                value={filters.search}
+                onChange={(e) => setFilters({...filters, search: e.target.value})}
+                className="pl-10"
+              />
+            </div>
           </div>
+          <div className="space-y-2">
+            <Label>Status</Label>
+            <Select value={filters.status} onValueChange={(v) => setFilters({...filters, status: v})}>
+              <SelectTrigger>
+                <SelectValue placeholder="All statuses" />
+              </SelectTrigger>
+              <SelectContent>
+                <SelectItem value="advance">Advance</SelectItem>
+                <SelectItem value="advance-reserve">Advance-Reserve</SelectItem>
+                <SelectItem value="reject">Reject</SelectItem>
+                <SelectItem value="pending">Pending</SelectItem>
+              </SelectContent>
+            </Select>
+          </div>
+          <div className="space-y-2">
+            <Label>Min Score</Label>
+            <Slider
+              value={[filters.minScore]}
+              onValueChange={([v]) => setFilters({...filters, minScore: v})}
+              max={100}
+              step={5}
+            />
+            <div className="text-sm text-muted-foreground">{filters.minScore}%</div>
+          </div>
+        </CardContent>
+      </Card>
+
+      {/* Stats Chart */}
+      <Card>
+        <CardHeader>
+          <CardTitle className="flex items-center gap-2">
+            <BarChart3 className="h-5 w-5" />
+            Report Status Distribution
+          </CardTitle>
         </CardHeader>
         <CardContent>
-          <div className="grid gap-4">
-{reports.map((report: any) => (
-              <div key={report.id} className="flex items-center justify-between p-4 border rounded-lg hover:bg-muted/50 transition-colors">
-                <div className="flex items-center gap-3">
-                  <div className="w-10 h-10 bg-gradient-to-r from-blue-500 to-indigo-500 rounded-lg flex items-center justify-center">
-                    <BarChart3 className="h-5 w-5 text-white" />
+          <ResponsiveContainer width="100%" height={300}>
+            <PieChart>
+              <Pie data={chartData} cx="50%" cy="50%" outerRadius={80} dataKey="value" label>
+                {chartData.map((entry, index) => (
+                  <Cell key={`cell-${index}`} fill={entry.fill} />
+                ))}
+              </Pie>
+              <Tooltip />
+            </PieChart>
+          </ResponsiveContainer>
+        </CardContent>
+      </Card>
+
+      {/* Reports List */}
+      <Card>
+        <CardHeader>
+          <CardTitle>Recent Reports ({candidates.length})</CardTitle>
+        </CardHeader>
+        <CardContent>
+          <div className="space-y-4">
+            {candidates.map((candidate) => (
+              <div key={candidate.id} className="flex items-center p-4 border rounded-lg hover:bg-muted/50 transition-all group">
+                <Checkbox 
+                  checked={selectedReports.includes(candidate.id)}
+                  onCheckedChange={(checked) => {
+                    if (checked) {
+                      setSelectedReports([...selectedReports, candidate.id]);
+                    } else {
+                      setSelectedReports(selectedReports.filter(id => id !== candidate.id));
+                    }
+                  }}
+                  className="mr-4"
+                />
+                <div className="flex items-center gap-4 flex-1 min-w-0">
+                  <div className="w-12 h-12 bg-gradient-to-br from-primary to-secondary rounded-xl flex items-center justify-center text-white font-bold">
+                    {candidate.name.slice(0,2).toUpperCase()}
                   </div>
-                  <div>
-                    <p className="font-medium">{report.title}</p>
-                    <p className="text-sm text-muted-foreground">Candidate #{report.candidate_id}</p>
+                  <div className="min-w-0 flex-1">
+                    <p className="font-semibold truncate">{candidate.name} - {candidate.position}</p>
+                    <p className="text-sm text-muted-foreground truncate">{candidate.interviewer} · {new Date(candidate.date).toLocaleDateString()}</p>
+                  </div>
+                  <Badge>{candidate.status}</Badge>
+                  <div className="w-20 bg-muted rounded-full h-6 flex items-center justify-center font-mono text-sm">
+                    {(candidate.overallScore / 5 * 100).toFixed(0)}%
                   </div>
                 </div>
-                <div className="flex items-center gap-2">
-                  <Badge variant="secondary">{report.status}</Badge>
-                  <Button variant="ghost" size="sm">
+                <div className="flex gap-2">
+                  <Button variant="ghost" size="sm" onClick={() => handleViewReport(candidate)}>
                     <Eye className="h-4 w-4 mr-1" />
                     View
                   </Button>
@@ -94,16 +224,15 @@ const EvaluationReports = () => {
                 </div>
               </div>
             ))}
-            {reports.length === 0 && (
-              <div className="text-center py-12 text-muted-foreground">
-                <FileText className="h-12 w-12 mx-auto mb-4 opacity-50" />
-                <p>No evaluation reports yet</p>
-                <Button className="mt-4">Create First Report</Button>
-              </div>
-            )}
           </div>
         </CardContent>
       </Card>
+
+      {/* View Modal */}
+      <EvaluationReportView 
+        candidate={selectedCandidate || mockCandidates[0]} 
+        onClose={() => setViewModal(false)}
+      />
     </div>
   );
 };
