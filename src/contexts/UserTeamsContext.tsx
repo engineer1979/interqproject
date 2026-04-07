@@ -55,6 +55,8 @@ function userTeamsReducer(state: UserTeamsState, action: UserTeamsAction): UserT
       return { ...state, error: action.payload }
     case 'SET_USERS':
       return { ...state, users: action.payload }
+    case 'SET_TEAMS':
+      return { ...state, teams: action.payload }
     case 'ADD_USER':
       return {
         ...state,

@@ -96,6 +96,7 @@ const CompanyNotifications = lazy(() => import("./pages/company/CompanyNotificat
 const CompanyAuditLogs = lazy(() => import("./pages/company/CompanyAuditLogs"));
 const CompanySettings = lazy(() => import("./pages/company/CompanySettings"));
 import { RecruiterLayout } from "./components/recruiter/RecruiterLayout";
+import UserTeamsDashboard from "./components/admin/UserTeamsDashboard";
 
 class ErrorBoundary extends React.Component<{children: React.ReactNode}, {hasError: boolean, error: string}> {
   constructor(props: any) {
@@ -127,7 +128,8 @@ const EvaluationReports = lazy(() => import("./pages/recruiter/DynamicEvaluation
 const JobSeekerLayout = lazy(() => import("./components/jobseeker/JobSeekerLayout").then(m => ({ default: m.JobSeekerLayout })));
 const JobSeekerDashboard = lazy(() => import("./pages/jobseeker/JobSeekerDashboard"));
 const JobSeekerAssessments = lazy(() => import("./pages/jobseeker/JobSeekerAssessments"));
-const JobSeekerInterviews = lazy(() => import("./pages/jobseeker/JobSeekerInterviews"));
+const JobSeekerInterviews = lazy(() => import("./pages/jobseeker/Interviews"));
+const InterviewSession = lazy(() => import("./pages/jobseeker/InterviewSession"));
 const JobSeekerApplications = lazy(() => import("./pages/jobseeker/Applications"));
 const JobSeekerResults = lazy(() => import("./pages/jobseeker/JobSeekerResults"));
 const JobSeekerCertificates = lazy(() => import("./pages/jobseeker/JobSeekerCertificates"));
@@ -246,6 +248,7 @@ const App = () => (
                 <Route path="applications" element={<JobSeekerApplications />} />
                 <Route path="assessments" element={<JobSeekerAssessments />} />
                 <Route path="interviews" element={<JobSeekerInterviews />} />
+                <Route path="interview/:id" element={<InterviewSession />} />
                 <Route path="results" element={<JobSeekerResults />} />
                 <Route path="certificates" element={<JobSeekerCertificates />} />
                 <Route path="profile" element={<JobSeekerProfile />} />
@@ -280,6 +283,7 @@ const App = () => (
                 <Route path="scoring" element={<CollaborativeScoring />} />
                 <Route path="reports" element={<AdminReports />} />
                 <Route path="settings" element={<AdminSettings />} />
+<Route path="users" element={<UserTeamsDashboard />} />
               </Route>
               <Route path="/recruiter" element={<ErrorBoundary><RecruiterLayout /></ErrorBoundary>}>
                 <Route index element={<RecruiterDashboard />} />

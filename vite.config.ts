@@ -28,6 +28,7 @@ export default defineConfig(({ mode }) => ({
           vendor: ['react', 'react-dom'],
           ui: ['@radix-ui/react-accordion', '@radix-ui/react-dialog', '@radix-ui/react-slot'],
           motion: ['framer-motion'],
+          pdf: ['jspdf'],
         },
       },
     },

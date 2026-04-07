@@ -89,6 +89,7 @@ interface DashboardContextType {
   completeInterview: (interviewId: string) => Promise<void>;
   markNotificationRead: (notificationId: string) => Promise<void>;
   getCertificateEligibility: () => Array<{ assessmentId?: string; title?: string; score?: number; completedAt?: string }>;
+  generateInterviews: () => Promise<void>;
 }
 
 const mockData: JobSeekerData = {
@@ -174,6 +175,7 @@ export function JobSeekerDashboardProvider({ children }: { children: ReactNode }
           getCertificateEligibility: () => [
             { assessmentId: "a3", title: "Node.js Basics", score: 72, completedAt: "2024-01-18T14:30:00Z" }
           ],
+          generateInterviews: async () => {},
         }}
       >
         {children}
@@ -240,15 +242,58 @@ export function JobSeekerDashboardProvider({ children }: { children: ReactNode }
       const supabaseClient = getSupabaseClient();
       const { data, error } = await supabaseClient
         .from("ai_interviews")
-        .select("*")
+        .select("*, interview_questions(*)")
         .eq("user_id", user.id)
         .order("created_at", { ascending: false });
-      if (error) throw error;
+      if (error) {
+        console.error("Error fetching interviews:", error);
+        return [];
+      }
       return data || [];
     },
     enabled: !!user?.id,
     retry: 1,
   });
+
+  const generateInterviews = useCallback(async () => {
+    if (!user?.id) return;
+    const supabaseClient = getSupabaseClient();
+    const domains = ["Web Development", "Data Structures", "Databases", "AI", "DevOps", "System Design"];
+    for (const category of domains) {
+      const title = `${category} Technical Interview`;
+      const { data: interviewData, error: interviewError } = await supabaseClient
+        .from("ai_interviews")
+        .insert({
+          user_id: user.id,
+          title,
+          category,
+          description: `Technical interview covering ${category} topics. 20 questions.`,
+          status: "upcoming",
+          total_questions: 20,
+        })
+        .select()
+        .single();
+      if (interviewError) {
+        console.error("Error creating interview:", interviewError);
+        continue;
+      }
+      const { itInterviewDomains } = await import("@/data/itInterviewQuestions");
+      const domain = itInterviewDomains.find(d => d.name === category);
+      if (domain) {
+        const questions = domain.questions.map((q, i) => ({
+          interview_id: interviewData.id,
+          question_text: q.question_text,
+          question_type: q.question_type,
+          difficulty: q.difficulty,
+          category: q.category,
+          order_index: i + 1,
+          points: q.points,
+        }));
+        await supabaseClient.from("interview_questions").insert(questions);
+      }
+    }
+    queryClient.invalidateQueries({ queryKey: ["jobseeker-interviews", user.id] });
+  }, [user?.id, queryClient]);
 
   const { data: certificates = [], isLoading: certificatesLoading } = useQuery({
     queryKey: ["jobseeker-certificates", user?.id],
@@ -410,6 +455,7 @@ export function JobSeekerDashboardProvider({ children }: { children: ReactNode }
         completeInterview,
         markNotificationRead,
         getCertificateEligibility,
+        generateInterviews,
       }}
     >
       {children}

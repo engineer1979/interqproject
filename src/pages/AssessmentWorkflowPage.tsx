@@ -19,12 +19,74 @@ export default function AssessmentWorkflowPage() {
   const [isStarted, setIsStarted] = useState(false);
   const [completedResults, setCompletedResults] = useState<AssessmentResultsType | null>(null);
 
-  const handleAssessmentComplete = (results: AssessmentResultsType) => {
+  const handleAssessmentComplete = async (results: AssessmentResultsType) => {
     setCompletedResults(results);
     toast({
       title: 'Assessment Completed!',
       description: `You scored ${results.percentage}% on the assessment.`,
     });
+    try {
+      const supabase = await import("@/integrations/supabase/client");
+      if (user?.id) {
+        // Save assessment result
+        await supabase.from("assessment_results").insert({
+          user_id: user.id,
+          assessment_id: results.assessmentId,
+          score: results.percentage,
+          total_questions: results.totalQuestions || 20,
+          correct_answers: results.correctAnswers || Math.round(results.percentage / 5),
+          status: results.percentage >= 70 ? "passed" : "failed",
+          completed_at: new Date().toISOString(),
+        });
+
+        const domains = ["Web Development", "Data Structures", "Databases", "AI", "DevOps", "System Design"];
+        for (const category of domains) {
+          const { data: existing } = await supabase
+            .from("ai_interviews")
+            .select("id")
+            .eq("user_id", user.id)
+            .eq("category", category)
+            .limit(1);
+          if (!existing?.length) {
+            const { itInterviewDomains } = await import("@/data/itInterviewQuestions");
+            const title = `${category} Technical Interview`;
+            const { data: interview } = await supabase
+              .from("ai_interviews")
+              .insert({
+                user_id: user.id,
+                title,
+                category,
+                description: `Technical interview covering ${category} topics. 20 questions.`,
+                status: "upcoming",
+                total_questions: 20,
+              })
+              .select()
+              .single();
+            if (interview) {
+              const domain = itInterviewDomains.find(d => d.name === category);
+              if (domain) {
+                const questions = domain.questions.map((q, i) => ({
+                  interview_id: interview.id,
+                  question_text: q.question_text,
+                  question_type: q.question_type,
+                  difficulty: q.difficulty,
+                  category: q.category,
+                  order_index: i + 1,
+                  points: q.points,
+                }));
+                await supabase.from("interview_questions").insert(questions);
+              }
+            }
+          }
+        }
+        toast({
+          title: 'Interviews Generated!',
+          description: '6 IT Technical Interviews are now available for practice.',
+        });
+      }
+    } catch (err) {
+      console.error("Error generating interviews:", err);
+    }
   };
 
   const handleAssessmentCancel = () => {

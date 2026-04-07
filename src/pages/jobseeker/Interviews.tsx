@@ -1,10 +1,11 @@
 import { useState } from "react";
+import { useNavigate } from "react-router-dom";
 import { useToast } from "@/hooks/use-toast";
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { Input } from "@/components/ui/input";
-import {
+import { 
   Table,
   TableBody,
   TableCell,
@@ -13,77 +14,94 @@ import {
   TableRow,
 } from "@/components/ui/table";
 import {
-  DropdownMenu,
-  DropdownMenuContent,
-  DropdownMenuItem,
-  DropdownMenuTrigger,
-} from "@/components/ui/dropdown-menu";
-import {
   Search,
   Calendar,
   Clock,
-  Video,
-  MapPin,
-  Phone,
-  ExternalLink,
-  MoreVertical,
+  Play,
   CheckCircle,
-  XCircle,
   AlertCircle,
   FileText,
   Star,
   Users,
+  Plus,
 } from "lucide-react";
-import { mockInterviews } from "@/data/adminModuleData";
+import { useJobSeekerDashboard } from "@/contexts/JobSeekerDashboardContext";
 
 export default function JobSeekerInterviews() {
   const { toast } = useToast();
+  const navigate = useNavigate();
+  const { data, generateInterviews } = useJobSeekerDashboard();
   const [searchTerm, setSearchTerm] = useState("");
   const [statusFilter, setStatusFilter] = useState<string>("all");
+  const [generating, setGenerating] = useState(false);
 
-  const filteredInterviews = mockInterviews.filter((interview) => {
+  const interviews = data?.interviews || [];
+  
+  const filteredInterviews = interviews.filter((interview: any) => {
     const matchesSearch =
-      interview.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
-      interview.companyName.toLowerCase().includes(searchTerm.toLowerCase());
+      !searchTerm || 
+      interview.title?.toLowerCase().includes(searchTerm.toLowerCase()) ||
+      interview.category?.toLowerCase().includes(searchTerm.toLowerCase());
     const matchesStatus = statusFilter === "all" || interview.status === statusFilter;
     return matchesSearch && matchesStatus;
   });
 
   const statusColors: Record<string, string> = {
-    scheduled: "bg-blue-100 text-blue-700",
+    upcoming: "bg-blue-100 text-blue-700",
+    in_progress: "bg-yellow-100 text-yellow-700",
     completed: "bg-green-100 text-green-700",
-    cancelled: "bg-red-100 text-red-700",
-    no_show: "bg-red-100 text-red-700",
-  };
-
-  const typeIcons: Record<string, React.ReactNode> = {
-    video: <Video className="w-4 h-4" />,
-    phone: <Phone className="w-4 h-4" />,
-    in_person: <MapPin className="w-4 h-4" />,
   };
 
   const stats = {
-    upcoming: mockInterviews.filter((i) => i.status === "scheduled").length,
-    completed: mockInterviews.filter((i) => i.status === "completed").length,
-    total: mockInterviews.length,
+    upcoming: interviews.filter((i: any) => i.status === "upcoming").length,
+    inProgress: interviews.filter((i: any) => i.status === "in_progress").length,
+    completed: interviews.filter((i: any) => i.status === "completed").length,
+    total: interviews.length,
   };
 
-  const upcomingInterviews = mockInterviews.filter((i) => i.status === "scheduled");
+  const upcomingInterviews = interviews.filter((i: any) => i.status === "upcoming");
+
+  const handleGenerateInterviews = async () => {
+    setGenerating(true);
+    try {
+      await generateInterviews();
+      toast({ title: "Success", description: "6 IT Technical Interviews generated!" });
+    } catch (err) {
+      toast({ title: "Error", description: "Failed to generate interviews", variant: "destructive" });
+    } finally {
+      setGenerating(false);
+    }
+  };
+
+  const handleStartInterview = (interview: any) => {
+    navigate(`/jobseeker/interview/${interview.id}`);
+  };
+
+  if (!data) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-primary"></div>
+        <span className="ml-3 text-muted-foreground">Loading...</span>
+      </div>
+    );
+  }
 
   return (
     <div className="space-y-6">
       <div className="flex items-center justify-between">
         <div>
           <h1 className="text-2xl font-bold text-gray-900">My Interviews</h1>
-          <p className="text-gray-500">View and manage your scheduled interviews</p>
+          <p className="text-gray-500">Practice technical interviews in IT domains</p>
         </div>
-        <Button variant="outline">
-          <Calendar className="w-4 h-4 mr-2" />
-          Calendar View
-        </Button>
+        {stats.total < 6 && (
+          <Button onClick={handleGenerateInterviews} disabled={generating}>
+            <Plus className="w-4 h-4 mr-2" />
+            {generating ? "Generating..." : "Generate Interviews"}
+          </Button>
+        )}
       </div>
 
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+      <div className="grid grid-cols-1 md:grid-cols-4 gap-4">
         <Card>
           <CardContent className="p-6">
             <div className="flex items-center justify-between">
@@ -93,6 +111,19 @@ export default function JobSeekerInterviews() {
               </div>
               <div className="w-12 h-12 bg-blue-50 rounded-lg flex items-center justify-center">
                 <Calendar className="w-6 h-6 text-blue-600" />
+              </div>
+            </div>
+          </CardContent>
+        </Card>
+        <Card>
+          <CardContent className="p-6">
+            <div className="flex items-center justify-between">
+              <div>
+                <p className="text-sm text-gray-500">In Progress</p>
+                <p className="text-2xl font-bold text-yellow-600">{stats.inProgress}</p>
+              </div>
+              <div className="w-12 h-12 bg-yellow-50 rounded-lg flex items-center justify-center">
+                <Play className="w-6 h-6 text-yellow-600" />
               </div>
             </div>
           </CardContent>
@@ -125,6 +156,50 @@ export default function JobSeekerInterviews() {
         </Card>
       </div>
 
+      <Card>
+        <CardHeader>
+          <CardTitle>Upcoming Interviews</CardTitle>
+          <CardDescription>Start practicing your technical interviews</CardDescription>
+        </CardHeader>
+        <CardContent>
+          {upcomingInterviews.length === 0 ? (
+            <div className="text-center py-8">
+              <AlertCircle className="w-12 h-12 mx-auto text-muted-foreground mb-4" />
+              <p className="text-muted-foreground mb-4">No interviews available</p>
+              <Button onClick={handleGenerateInterviews} disabled={generating}>
+                <Plus className="w-4 h-4 mr-2" />
+                Generate 6 IT Technical Interviews
+              </Button>
+            </div>
+          ) : (
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+              {upcomingInterviews.map((interview: any) => (
+                <Card key={interview.id} className="border-2 hover:border-blue-300 transition-colors">
+                  <CardHeader className="pb-2">
+                    <div className="flex items-start justify-between">
+                      <Badge variant="outline">{interview.category}</Badge>
+                      <Badge className={statusColors[interview.status]}>
+                        {interview.status}
+                      </Badge>
+                    </div>
+                    <CardTitle className="text-lg mt-2">{interview.title}</CardTitle>
+                  </CardHeader>
+                  <CardContent>
+                    <p className="text-sm text-muted-foreground mb-4">
+                      {interview.description || `${interview.total_questions || 20} questions`}
+                    </p>
+                    <Button className="w-full" onClick={() => handleStartInterview(interview)}>
+                      <Play className="w-4 h-4 mr-2" />
+                      Start Interview
+                    </Button>
+                  </CardContent>
+                </Card>
+              ))}
+            </div>
+          )}
+        </CardContent>
+      </Card>
+
       <div className="bg-white rounded-xl shadow-sm border border-gray-100">
         <div className="p-6 border-b border-gray-100">
           <div className="flex items-center justify-between">
@@ -145,9 +220,9 @@ export default function JobSeekerInterviews() {
                 onChange={(e) => setStatusFilter(e.target.value)}
               >
                 <option value="all">All Status</option>
-                <option value="scheduled">Scheduled</option>
+                <option value="upcoming">Upcoming</option>
+                <option value="in_progress">In Progress</option>
                 <option value="completed">Completed</option>
-                <option value="cancelled">Cancelled</option>
               </select>
             </div>
           </div>
@@ -156,193 +231,69 @@ export default function JobSeekerInterviews() {
           <TableHeader>
             <TableRow>
               <TableHead>Interview</TableHead>
-              <TableHead>Company</TableHead>
-              <TableHead>Type</TableHead>
-              <TableHead>Date & Time</TableHead>
-              <TableHead>Duration</TableHead>
+              <TableHead>Category</TableHead>
+              <TableHead>Questions</TableHead>
+              <TableHead>Created</TableHead>
               <TableHead>Status</TableHead>
               <TableHead className="text-right">Actions</TableHead>
             </TableRow>
           </TableHeader>
           <TableBody>
-            {filteredInterviews.map((interview) => (
-              <TableRow key={interview.id}>
-                <TableCell>
-                  <div>
-                    <p className="font-medium">{interview.title}</p>
-                    <p className="text-xs text-gray-500">{interview.jobTitle}</p>
-                  </div>
-                </TableCell>
-                <TableCell>
-                  <p className="font-medium">{interview.companyName}</p>
-                </TableCell>
-                <TableCell>
-                  <Badge variant="outline" className="flex items-center w-fit">
-                    {typeIcons[interview.type]}
-                    <span className="ml-1 capitalize">{interview.type.replace("_", " ")}</span>
-                  </Badge>
-                </TableCell>
-                <TableCell>
-                  <div className="text-sm">
-                    <p className="font-medium">
-                      {new Date(interview.scheduledAt).toLocaleDateString()}
-                    </p>
-                    <p className="text-gray-500 flex items-center">
-                      <Clock className="w-3 h-3 mr-1" />
-                      {new Date(interview.scheduledAt).toLocaleTimeString([], {
-                        hour: "2-digit",
-                        minute: "2-digit",
-                      })}
-                    </p>
-                  </div>
-                </TableCell>
-                <TableCell>
-                  <span className="text-sm">{interview.duration} min</span>
-                </TableCell>
-                <TableCell>
-                  <Badge className={statusColors[interview.status]}>
-                    {interview.status.charAt(0).toUpperCase() + interview.status.slice(1)}
-                  </Badge>
-                </TableCell>
-                <TableCell className="text-right">
-                  <DropdownMenu>
-                    <DropdownMenuTrigger asChild>
-                      <Button variant="ghost" size="sm" className="h-8 w-8 p-0">
-                        <MoreVertical className="h-4 w-4" />
-                      </Button>
-                    </DropdownMenuTrigger>
-                    <DropdownMenuContent align="end">
-                      <DropdownMenuItem>
-                        <Calendar className="w-4 h-4 mr-2" />
-                        View Details
-                      </DropdownMenuItem>
-                      {interview.meetingLink && (
-                        <DropdownMenuItem>
-                          <ExternalLink className="w-4 h-4 mr-2" />
-                          Join Meeting
-                        </DropdownMenuItem>
-                      )}
-                      <DropdownMenuItem>
-                        <FileText className="w-4 h-4 mr-2" />
-                        Preparation Tips
-                      </DropdownMenuItem>
-                      {interview.status === "scheduled" && (
-                        <>
-                          <DropdownMenuItem onClick={() => toast({ title: "Reschedule Request Sent", description: "The interviewer has been notified." })}>
-                            <Calendar className="w-4 h-4 mr-2" />
-                            Reschedule
-                          </DropdownMenuItem>
-                          <DropdownMenuItem>
-                            <XCircle className="w-4 h-4 mr-2" />
-                            Cancel
-                          </DropdownMenuItem>
-                        </>
-                      )}
-                    </DropdownMenuContent>
-                  </DropdownMenu>
+            {filteredInterviews.length === 0 ? (
+              <TableRow>
+                <TableCell colSpan={6} className="text-center py-8 text-muted-foreground">
+                  No interviews found
                 </TableCell>
               </TableRow>
-            ))}
-          </TableBody>
-        </Table>
-      </div>
-
-      <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
-        <Card>
-          <CardHeader>
-            <CardTitle>Upcoming Interviews</CardTitle>
-          </CardHeader>
-          <CardContent>
-            {upcomingInterviews.length === 0 ? (
-              <p className="text-center text-gray-500 py-8">No upcoming interviews</p>
             ) : (
-              <div className="space-y-4">
-                {upcomingInterviews.map((interview) => (
-                  <div
-                    key={interview.id}
-                    className="p-4 border border-blue-100 bg-blue-50/50 rounded-lg"
-                  >
-                    <div className="flex items-start justify-between mb-3">
-                      <div>
-                        <h3 className="font-semibold text-gray-900">{interview.title}</h3>
-                        <p className="text-sm text-gray-500">{interview.companyName}</p>
-                      </div>
-                      <Badge className={statusColors[interview.status]}>
-                        {interview.status}
-                      </Badge>
+              filteredInterviews.map((interview: any) => (
+                <TableRow key={interview.id}>
+                  <TableCell>
+                    <div>
+                      <p className="font-medium">{interview.title}</p>
                     </div>
-                    <div className="grid grid-cols-2 gap-3 text-sm mb-3">
-                      <div className="flex items-center text-gray-600">
-                        <Calendar className="w-4 h-4 mr-2" />
-                        {new Date(interview.scheduledAt).toLocaleDateString()}
-                      </div>
-                      <div className="flex items-center text-gray-600">
-                        <Clock className="w-4 h-4 mr-2" />
-                        {new Date(interview.scheduledAt).toLocaleTimeString([], {
-                          hour: "2-digit",
-                          minute: "2-digit",
-                        })}
-                      </div>
-                    </div>
-                    <p className="text-xs text-gray-500 mb-3">
-                      Duration: {interview.duration} minutes
-                    </p>
-                    {interview.meetingLink && (
-                      <Button className="w-full" size="sm">
-                        <Video className="w-4 h-4 mr-2" />
-                        Join Meeting
+                  </TableCell>
+                  <TableCell>
+                    <Badge variant="outline">{interview.category}</Badge>
+                  </TableCell>
+                  <TableCell>
+                    <span className="text-sm">{interview.total_questions || 20}</span>
+                  </TableCell>
+                  <TableCell>
+                    <span className="text-sm">
+                      {interview.created_at ? new Date(interview.created_at).toLocaleDateString() : '-'}
+                    </span>
+                  </TableCell>
+                  <TableCell>
+                    <Badge className={statusColors[interview.status]}>
+                      {interview.status?.replace('_', ' ')}
+                    </Badge>
+                  </TableCell>
+                  <TableCell className="text-right">
+                    {interview.status === 'upcoming' && (
+                      <Button size="sm" onClick={() => handleStartInterview(interview)}>
+                        <Play className="w-4 h-4 mr-1" />
+                        Start
                       </Button>
                     )}
-                  </div>
-                ))}
-              </div>
+                    {interview.status === 'in_progress' && (
+                      <Button size="sm" variant="outline" onClick={() => handleStartInterview(interview)}>
+                        <Play className="w-4 h-4 mr-1" />
+                        Continue
+                      </Button>
+                    )}
+                    {interview.status === 'completed' && (
+                      <Button size="sm" variant="ghost">
+                        <FileText className="w-4 h-4 mr-1" />
+                        View
+                      </Button>
+                    )}
+                  </TableCell>
+                </TableRow>
+              ))
             )}
-          </CardContent>
-        </Card>
-
-        <Card>
-          <CardHeader>
-            <CardTitle>Interview Preparation Tips</CardTitle>
-          </CardHeader>
-          <CardContent className="space-y-4">
-            <div className="flex items-start space-x-3">
-              <div className="w-8 h-8 bg-blue-100 rounded-full flex items-center justify-center flex-shrink-0">
-                <CheckCircle className="w-4 h-4 text-blue-600" />
-              </div>
-              <div>
-                <p className="font-medium text-sm">Test your equipment</p>
-                <p className="text-xs text-gray-500">Ensure camera, microphone, and internet are working</p>
-              </div>
-            </div>
-            <div className="flex items-start space-x-3">
-              <div className="w-8 h-8 bg-purple-100 rounded-full flex items-center justify-center flex-shrink-0">
-                <FileText className="w-4 h-4 text-purple-600" />
-              </div>
-              <div>
-                <p className="font-medium text-sm">Review the job description</p>
-                <p className="text-xs text-gray-500">Be familiar with requirements and responsibilities</p>
-              </div>
-            </div>
-            <div className="flex items-start space-x-3">
-              <div className="w-8 h-8 bg-emerald-100 rounded-full flex items-center justify-center flex-shrink-0">
-                <Star className="w-4 h-4 text-emerald-600" />
-              </div>
-              <div>
-                <p className="font-medium text-sm">Prepare your talking points</p>
-                <p className="text-xs text-gray-500">Have examples ready for common questions</p>
-              </div>
-            </div>
-            <div className="flex items-start space-x-3">
-              <div className="w-8 h-8 bg-amber-100 rounded-full flex items-center justify-center flex-shrink-0">
-                <AlertCircle className="w-4 h-4 text-amber-600" />
-              </div>
-              <div>
-                <p className="font-medium text-sm">Join 5 minutes early</p>
-                <p className="text-xs text-gray-500">Shows punctuality and gives time to settle in</p>
-              </div>
-            </div>
-          </CardContent>
-        </Card>
+          </TableBody>
+        </Table>
       </div>
     </div>
   );
