@@ -50,7 +50,7 @@ export default function JobSeekerDashboard() {
     <div className="space-y-6">
       <div className="flex items-center justify-between">
         <div>
-          <h1 className="text-2xl font-bold text-gray-900">Welcome back, Emily!</h1>
+          <p className="text-2xl font-bold text-gray-900">Job Seeker Dashboard</p>
           <p className="text-gray-500">Track your job search progress</p>
         </div>
         <button className="px-4 py-2 bg-indigo-600 text-white rounded-lg hover:bg-indigo-700 transition">

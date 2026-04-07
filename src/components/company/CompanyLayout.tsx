@@ -192,11 +192,8 @@ export function CompanyLayout() {
           <Button variant="ghost" size="icon" className="lg:hidden" onClick={() => setSidebarOpen(true)}>
             <Menu className="h-5 w-5" />
           </Button>
-          <div className="flex items-center gap-2">
-            <span className="text-sm text-muted-foreground hidden sm:inline">
-              Welcome, <span className="font-medium text-foreground">{user?.name || user?.email}</span>
-            </span>
-          </div>
+<div className="flex items-center gap-2">
+            </div>
           <div className="flex items-center gap-2">
             <Button variant="ghost" size="icon"><Bell className="h-4 w-4" /></Button>
           </div>

@@ -82,7 +82,7 @@ export default function IntegratedJobSeekerHub() {
     <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="space-y-6">
       {/* Header */}
       <div className="border-b pb-6">
-        <h1 className="text-3xl font-bold">Welcome, {data?.profile?.full_name || "Job Seeker"}!</h1>
+        <p className="text-3xl font-bold">Job Seeker Dashboard</p>
         <p className="text-muted-foreground mt-2">Manage your assessments, interviews, and certifications all in one place</p>
       </div>
 

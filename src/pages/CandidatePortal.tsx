@@ -89,7 +89,7 @@ const CandidatePortal = () => {
       <main className="flex-1 overflow-auto">
         <header className="sticky top-0 z-30 bg-background/95 backdrop-blur-md border-b border-border px-6 py-4 flex items-center justify-between">
           <div>
-            <h1 className="text-xl font-bold">Welcome, {userName}!</h1>
+            <p className="text-xl font-bold">Candidate Portal</p>
             <p className="text-sm text-muted-foreground">Track your application progress</p>
           </div>
           <Avatar className="w-9 h-9 border border-border">

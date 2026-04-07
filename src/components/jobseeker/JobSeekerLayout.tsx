@@ -154,10 +154,9 @@ export function JobSeekerLayout() {
             <button className="lg:hidden p-2 hover:bg-muted rounded-lg" onClick={() => setMobileOpen(true)}>
               <Menu className="w-5 h-5" />
             </button>
-            <div>
-              <h1 className="text-lg font-bold">Welcome, {userName}!</h1>
-              <p className="text-xs text-muted-foreground">Manage your career journey</p>
-            </div>
+<div>
+            <p className="text-xs text-muted-foreground">Manage your career journey</p>
+          </div>
           </div>
           <div className="flex items-center gap-2">
             <Button variant="ghost" size="icon" className="relative" onClick={() => navigate("/jobseeker/notifications")}>
