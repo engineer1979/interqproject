@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { motion } from "framer-motion";
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
@@ -13,8 +13,11 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@/components/ui/select";
-import { Copy, Download, RefreshCw, Zap } from "lucide-react";
+import { Copy, Download, RefreshCw, Zap, Upload } from "lucide-react";
 import { useToast } from "@/hooks/use-toast";
+import { useAuth } from "@/contexts/SimpleAuthContext";
+import { useLocation, useNavigate } from "react-router-dom";
+import { canAccessAdmin } from "@/contexts/SimpleAuthContext";
 
 const ASSESSMENT_TYPES = [
   "Networking Fundamentals",
@@ -57,14 +60,26 @@ interface LearningObjective {
 }
 
 export default function AssessmentPromptGenerator() {
+  const { user, isLoading } = useAuth();
+  const location = useLocation();
+  const navigate = useNavigate();
   const { toast } = useToast();
-  const [formData, setFormData] = useState({
-    assessmentName: "",
-    assessmentType: "Networking Fundamentals",
-    targetAudience: "",
-    passingScore: 70,
-    duration: 270,
-  });
+
+  // Prevent mounting if not admin or loading
+  if (isLoading) {
+    return <div>Loading...</div>;
+  }
+  if (!canAccessAdmin(user)) {
+    toast({
+      title: "Access Denied",
+      description: "You must be an admin to access this page",
+      variant: "destructive",
+    });
+    navigate("/dashboard");
+    return null;
+  }
+
+  // ... rest of the component
 
   const [contentFocuses, setContentFocuses] = useState<ContentFocus[]>([
     { topic: "Core Concepts", percentage: 40 },
@@ -79,246 +94,134 @@ export default function AssessmentPromptGenerator() {
     QUESTION_TYPES.map((q) => q.name)
   );
 
-  const [learningObjectives, setLearningObjectives] = useState<LearningObjective[]>([
+const [learningObjectives, setLearningObjectives] = useState<LearningObjective[]>([
     { difficulty: "Easy", objective: "Understand core concepts and definitions" },
     { difficulty: "Medium", objective: "Apply knowledge in practical scenarios" },
     { difficulty: "Hard", objective: "Analyze complex situations and design solutions" },
   ]);
 
   const [newObjective, setNewObjective] = useState({ difficulty: "Easy", text: "" });
-
   const [generatedPrompt, setGeneratedPrompt] = useState("");
   const [showPreview, setShowPreview] = useState(false);
 
+// Bulk import state
+const [bulkConfig, setBulkConfig] = useState<any>(null);
+const [isBulkProcessing, setIsBulkProcessing] = useState(false);
+const [originalAssessments, setOriginalAssessments] = useState<any[]>([]);
+
+// Keep old isBulkImporting for compatibility if used elsewhere
+const [isBulkImporting, setIsBulkImporting] = useState(false);
+
   // Add content focus
-  const handleAddContentFocus = () => {
-    if (newContentTopic.trim() && newContentPercentage > 0) {
-      const newFocus: ContentFocus = {
-        topic: newContentTopic,
-        percentage: newContentPercentage,
-      };
-      setContentFocuses([...contentFocuses, newFocus]);
-      setNewContentTopic("");
-      setNewContentPercentage(0);
-      toast({
-        title: "Content Area Added",
-        description: `${newContentTopic} (${newContentPercentage}%) added successfully`,
-      });
-    }
-  };
+  const handleAddContentFocus = () => { ... };
 
   // Remove content focus
-  const handleRemoveContentFocus = (index: number) => {
-    setContentFocuses(contentFocuses.filter((_, i) => i !== index));
-  };
+  const handleRemoveContentFocus = (index: number) => { ... };
 
   // Add learning objective
-  const handleAddObjective = () => {
-    if (newObjective.text.trim()) {
-      setLearningObjectives([
-        ...learningObjectives,
-        { difficulty: newObjective.difficulty, objective: newObjective.text },
-      ]);
-      setNewObjective({ difficulty: "Easy", text: "" });
-      toast({
-        title: "Learning Objective Added",
-        description: "New objective added successfully",
-      });
-    }
-  };
+  const handleAddObjective = () => { ... };
 
   // Toggle question type
-  const handleToggleQuestionType = (typeName: string) => {
-    setSelectedQuestionTypes((prev) =>
-      prev.includes(typeName)
-        ? prev.filter((t) => t !== typeName)
-        : [...prev, typeName]
-    );
-  };
+  const handleToggleQuestionType = (typeName: string) => { ... };
 
   // Generate master prompt
-  const handleGeneratePrompt = () => {
-    if (!formData.assessmentName.trim()) {
+  const handleGeneratePrompt = () => { ... };
+
+// Bulk import handler
+  const handleBulkImport = async (e: React.ChangeEvent<HTMLInputElement>) => {
+    const file = e.target.files?.[0];
+    if (!file) return;
+
+    // Check file size (1MB max)
+    if (file.size > 1 * 1024 * 1024) {
       toast({
         title: "Error",
-        description: "Please enter an assessment name",
+        description: "File too large. Maximum size is 1MB",
         variant: "destructive",
       });
       return;
     }
 
-    const contentText = contentFocuses
-      .map((cf) => `${cf.topic}: ${cf.percentage}% (${Math.round(cf.percentage * 1.8)} questions)`)
-      .join("\n");
-
-    const questionTypeText = QUESTION_TYPES
-      .filter((q) => selectedQuestionTypes.includes(q.name))
-      .map((q) => `${q.name}: ${q.weight}%`)
-      .join("\n");
-
-    const objectiveText = learningObjectives
-      .map((lo) => `**${lo.difficulty}**: ${lo.objective}`)
-      .join("\n");
-
-    const prompt = `# Assessment Generation Master Prompt
-
-You are an expert assessment designer creating a comprehensive 180-question professional certification assessment.
-
-## ASSESSMENT SPECIFICATIONS
-
-### Basic Information
-- **Assessment Name**: ${formData.assessmentName}
-- **Assessment Type**: ${formData.assessmentType}
-- **Target Audience**: ${formData.targetAudience || "Professional certification candidates"}
-- **Duration**: ${formData.duration} minutes
-- **Passing Score**: ${formData.passingScore}%
-
-### Difficulty Distribution
-- Easy Questions (Q1-Q60): 60 questions @ 20% weight
-- Medium Questions (Q61-Q120): 60 questions @ 30% weight
-- Hard Questions (Q121-Q180): 60 questions @ 50% weight
-
-### Content Focus Areas
-${contentText}
-
-### Question Types Mix
-${questionTypeText}
-
-## LEARNING OBJECTIVES
-
-For each difficulty level, ensure questions validate:
-
-${objectiveText}
-
-## QUALITY REQUIREMENTS
-
-### For EASY Questions (Q1-Q60)
-- Focus on recall and understanding
-- Single concepts per question
-- Clear, unambiguous wording
-- Standard vocabulary
-- Direct answers from core materials
-- Mix of definitions, terminology, and basic scenarios
-- Each question should take 1-2 minutes to answer
-
-### For MEDIUM Questions (Q61-Q120)
-- Focus on application and analysis
-- Combine 2-3 related concepts
-- Scenario-based contexts (brief case studies)
-- Require interpretation and judgment
-- Real-world applications
-- Mix of scenario analysis and problem-solving
-- Each question should take 2-3 minutes to answer
-
-### For HARD Questions (Q121-Q180)
-- Focus on evaluation and synthesis
-- Complex, multi-step scenarios
-- Require critical thinking and judgment
-- Integration of multiple concepts
-- Edge cases and exceptions
-- Research/design components when applicable
-- Each question should take 3-5 minutes to answer
-
-## MANDATORY GUIDELINES
-
-✅ INCLUDE IN OUTPUT:
-1. All 180 questions precisely formatted
-2. Answer key with complete explanations (2-3 sentences minimum)
-3. Learning objectives for each question
-4. Content category/topic for each question
-5. Difficulty justification for hard questions
-6. Common misconceptions addressed in explanations
-
-✅ FORMATTING REQUIREMENTS:
-- Questions: Q1-Q180 (consecutive numbering)
-- Answer markers: Use ✓ for correct answer in multiple choice
-- Multiple correct answers should be marked with ✓
-- Explanations must be clear and educational
-- No duplicate questions
-
-❌ DO NOT INCLUDE:
-- Questions outside the specified domains
-- Ambiguous questions with multiple valid answers
-- Overly wordy or convoluted questions
-- Outdated or deprecated information
-- Biased or discriminatory content
-
-## OUTPUT FORMAT
-
-Present the assessment in this structure:
-
-\`\`\`
-# ${formData.assessmentName} - Complete Assessment Bank
-
-## Assessment Overview
-- Type: ${formData.assessmentType}
-- Total Questions: 180
-- Passing Score: ${formData.passingScore}%
-- Estimated Duration: ${formData.duration} minutes
-
-## Learning Objectives
-
-${objectiveText}
-
-## EASY SECTION (Q1-Q60)
-[60 questions with answers marked with ✓]
-
-## MEDIUM SECTION (Q61-Q120)
-[60 questions with answers marked with ✓]
-
-## HARD SECTION (Q121-Q180)
-[60 questions with answers marked with ✓]
-
-## ANSWER KEY & EXPLANATIONS
-[Complete table with all answers, explanations, and categories]
-
-## SCORING GUIDE
-[Scoring breakdown and interpretation]
-\`\`\`
-
----
-
-## ASSESSMENT TYPE SPECIFICS: ${formData.assessmentType}
-
-[Include 2-3 specific guidelines and domain-relevant context for ${formData.assessmentType}]
-
----
-
-⚡ GENERATE THE COMPLETE ASSESSMENT WITH ALL 180 QUESTIONS NOW.
-START WITH EASY QUESTIONS (Q1-Q60).
-ENSURE EVERY QUESTION INCLUDES EXPLANATION, CATEGORY, AND LEARNING OBJECTIVE.`;
-
-    setGeneratedPrompt(prompt);
-    setShowPreview(true);
-    toast({
-      title: "Prompt Generated!",
-      description: "Master prompt is ready to copy and use with Claude or ChatGPT",
-    });
+    try {
+      const text = await file.text();
+      const assessments: any[] = JSON.parse(text);
+      if (assessments.length === 0) throw new Error("No assessments found in file");
+      
+      // Store original assessments and start with first
+      setOriginalAssessments(assessments);
+      setBulkConfig(assessments[0]);
+      setIsBulkProcessing(true);
+    } catch (err) {
+      toast({
+        title: "Error",
+        description: `Failed to parse JSON file: ${err}`,
+        variant: "destructive",
+      });
+    } finally {
+      // Reset file input
+      e.target.value = "";
+    }
   };
+
+  // Effect to handle bulk import processing
+  useEffect(() => {
+    if (!bulkConfig || !isBulkProcessing) return;
+
+    const generateNext = async () => {
+      try {
+        setFormData(bulkConfig);
+        // Wait for state update
+        await new Promise(resolve => setTimeout(resolve, 500));
+        await handleGeneratePrompt();
+        
+        // Show success toast
+        toast({
+          title: "Success",
+          description: `Generated: ${bulkConfig.assessmentName}`,
+          duration: 2000,
+        });
+
+        // Find next assessment in the original array
+        const originalAssessments = getBulkAssessments(); // Need to store original array
+        const currentIdx = originalAssessments.indexOf(bulkConfig);
+        if (currentIdx !== -1 && currentIdx < originalAssessments.length - 1) {
+          const nextConfig = originalAssessments[currentIdx + 1];
+          setBulkConfig(nextConfig);
+        } else {
+          setIsBulkProcessing(false);
+          toast({
+            title: "Bulk Import Complete",
+            description: `Successfully generated all assessments!`,
+            duration: 5000,
+          });
+        }
+      } catch (err) {
+        toast({
+          title: "Error",
+          description: `Failed to generate ${bulkConfig?.assessmentName}: ${err}`,
+          variant: "destructive",
+          duration: 3000,
+        });
+        // Move to next assessment even if one fails
+        const originalAssessments = getBulkAssessments();
+        const currentIdx = originalAssessments.indexOf(bulkConfig);
+        if (currentIdx !== -1 && currentIdx < originalAssessments.length - 1) {
+          const nextConfig = originalAssessments[currentIdx + 1];
+          setBulkConfig(nextConfig);
+        } else {
+          setIsBulkProcessing(false);
+        }
+      }
+    };
+
+    generate();
+  }, [bulkConfig]);
 
   // Copy to clipboard
-  const handleCopyToClipboard = () => {
-    navigator.clipboard.writeText(generatedPrompt);
-    toast({
-      title: "Copied!",
-      description: "Master prompt copied to clipboard",
-    });
-  };
+  const handleCopyToClipboard = () => { ... };
 
   // Download as file
-  const handleDownload = () => {
-    const element = document.createElement("a");
-    const file = new Blob([generatedPrompt], { type: "text/plain" });
-    element.href = URL.createObjectURL(file);
-    element.download = `${formData.assessmentName.replace(/ /g, "_")}_master_prompt.txt`;
-    document.body.appendChild(element);
-    element.click();
-    document.body.removeChild(element);
-    toast({
-      title: "Downloaded!",
-      description: "Master prompt file downloaded successfully",
-    });
-  };
+  const handleDownload = () => { ... };
 
   return (
     <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="space-y-6 p-6">
@@ -499,28 +402,108 @@ ENSURE EVERY QUESTION INCLUDES EXPLANATION, CATEGORY, AND LEARNING OBJECTIVE.`;
             </CardContent>
           </Card>
 
-          {/* Learning Objectives */}
-          <Card>
-            <CardHeader>
-              <CardTitle>Learning Objectives</CardTitle>
-              <CardDescription>Define what each difficulty level should assess</CardDescription>
-            </CardHeader>
-            <CardContent className="space-y-4">
-              {learningObjectives.map((lo, idx) => (
-                <div key={idx} className="p-3 border rounded-lg">
-                  <p className="font-medium text-sm">{lo.difficulty}</p>
-                  <p className="text-sm text-muted-foreground mt-1">{lo.objective}</p>
-                  <Button
-                    size="sm"
-                    variant="ghost"
-                    onClick={() =>
-                      setLearningObjectives(learningObjectives.filter((_, i) => i !== idx))
-                    }
-                    className="mt-2"
-                  >
-                    Remove
-                  </Button>
-                </div>
+{/* Learning Objectives */}
+      <Card>
+        <CardHeader>
+          <CardTitle>Learning Objectives</CardTitle>
+          <CardDescription>Define what each difficulty level should assess</CardDescription>
+        </CardHeader>
+        <CardContent className="space-y-4">
+          {learningObjectives.map((lo, idx) => (
+            <div key={idx} className="p-3 border rounded-lg">
+              <p className="font-medium text-sm">{lo.difficulty}</p>
+              <p className="text-sm text-muted-foreground mt-1">{lo.objective}</p>
+              <Button
+                size="sm"
+                variant="ghost"
+                onClick={() =>
+                  setLearningObjectives(learningObjectives.filter((_, i) => i !== idx))
+                }
+                className="mt-2"
+              >
+                Remove
+              </Button>
+            </div>
+          ))}
+
+          <div className="border-t pt-4 space-y-2">
+            <div>
+              <Label htmlFor="objDifficulty">Difficulty Level</Label>
+              <Select value={newObjective.difficulty} onValueChange={(value) =>
+                setNewObjective({ ...newObjective, difficulty: value })
+              }>
+                <SelectTrigger>
+                  <SelectValue />
+                </SelectTrigger>
+                <SelectContent>
+                  {DIFFICULTY_LEVELS.map((d) => (
+                    <SelectItem key={d.level} value={d.level}>
+                      {d.level}
+                    </SelectItem>
+                  ))}
+                </SelectContent>
+              </Select>
+            </div>
+<div>
+  <Label htmlFor="objective">Learning Objective</Label>
+  <Textarea
+    id="objective"
+    placeholder="What should students be able to do?"
+    value={newObjective.text}
+    onChange={(e) =>
+      setNewObjective({ ...newObjective, text: e.target.value })
+    }
+  />
+  <Button onClick={handleAddObjective} size="sm" className="mt-2">
+    Add Objective
+  </Button>
+</div>
+          </div>
+        </CardContent>
+      </Card>
+
+      {/* Bulk Import */}
+      <Card>
+        <CardHeader>
+          <CardTitle>Bulk Import</CardTitle>
+          <CardDescription>Import multiple assessment configurations at once</CardDescription>
+        </CardHeader>
+        <CardContent className="space-y-4">
+          <div className="border-2 border-dashed border-muted rounded-lg p-6 text-center">
+            <Upload className="w-12 h-12 mx-auto text-muted-foreground mb-2" />
+            <p className="text-muted-foreground">Upload JSON file with assessment configurations</p>
+            <p className="text-xs text-muted-foreground mt-2">
+              Format: Array of objects with assessmentName, assessmentType, targetAudience, passingScore, duration
+            </p>
+          </div>
+          <div className="flex gap-2">
+            <Input
+              type="file"
+              id="bulkImport"
+              accept=".json"
+              onChange={handleBulkImport}
+              disabled={isBulkImporting}
+              className="flex-1"
+            />
+            <Button variant="outline" onClick={() => document.getElementById('bulkImport')?.click()} disabled={isBulkImporting}>
+              Browse
+            </Button>
+            {isBulkImporting && (
+              <div className="flex items-center ml-2">
+                <div className="animate-spin rounded-full h-4 w-4 border-b-2 border-current mr-2" />
+                Importing...
+              </div>
+            )}
+          </div>
+        </CardContent>
+      </Card>
+
+      {/* Generate Button */}
+      <Button onClick={handleGeneratePrompt} size="lg" className="w-full">
+        <Zap className="w-5 h-5 mr-2" />
+        Generate Master Prompt
+      </Button>
+    </div>
               ))}
 
               <div className="border-t pt-4 space-y-2">

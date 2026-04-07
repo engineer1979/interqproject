@@ -319,19 +319,19 @@ export default function IntegratedJobSeekerHub() {
                     className="p-4 border rounded-lg hover:bg-muted/50 transition-colors"
                   >
                     <div className="flex items-start justify-between">
-                      <div className="flex-1">
-                        <h4 className="font-medium flex items-center gap-2">
-                          <Award className="w-5 h-5 text-amber-500" />
-                          {cert.title || "Certificate"}
-                        </h4>
-                        <p className="text-sm text-muted-foreground mt-1">
-                          Issued: {new Date(cert.issued_at).toLocaleDateString()}
-                        </p>
-                      </div>
-                      <Button size="sm" variant="outline">
-                        <Download className="w-4 h-4 mr-2" />
-                        Download
-                      </Button>
+<div className="flex-1">
+  <h4 className="font-medium flex items-center gap-2">
+    <Award className="w-5 h-5 text-amber-500" />
+    {cert.title || "Certificate"}
+  </h4>
+  <p className="text-sm text-muted-foreground mt-1">
+    Issued: {new Date(cert.issued_at).toLocaleDateString()}
+  </p>
+</div>
+<Button size="sm" variant="outline" onClick={() => navigate(`/jobseeker/certificates?download=${cert.id}`)}>
+  <Download className="w-4 h-4 mr-2" />
+  Download Certificate
+</Button>
                     </div>
                   </motion.div>
                 ))
