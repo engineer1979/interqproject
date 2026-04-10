@@ -157,23 +157,6 @@ const CompanyOverview = () => {
             </div>
           </div>
 
-          {/* Our Values Section */}
-          <div className="mt-8 p-8 bg-white border border-slate-200 rounded-2xl shadow-sm">
-            <h3 className="text-2xl font-bold mb-6 text-slate-900">Our Values</h3>
-            <Accordion type="single" collapsible className="w-full space-y-2">
-              {[
-                { value: "innovation", title: "Innovation", desc: "We continuously explore new ideas, technologies, and approaches to deliver smarter and more effective solutions. Innovation drives everything we build." },
-                { value: "integrity", title: "Integrity", desc: "We operate with honesty, transparency, and accountability, building trust with our clients, partners, and team members." },
-                { value: "collaboration", title: "Collaboration", desc: "We believe the best results come from working together—across teams, with clients, and through open communication." },
-                { value: "excellence", title: "Excellence", desc: "We are committed to delivering the highest quality in everything we do, from our products to our partnerships." },
-              ].map((v, i) => (
-                <AccordionItem key={v.value} value={v.value} className={i < 3 ? "border-b border-slate-100" : "border-none"}>
-                  <AccordionTrigger className="text-base font-medium hover:no-underline text-slate-900">{v.title}</AccordionTrigger>
-                  <AccordionContent className="text-slate-600 text-base pb-4">{v.desc}</AccordionContent>
-                </AccordionItem>
-              ))}
-            </Accordion>
-          </div>
         </motion.div>
       </div>
     </section>
