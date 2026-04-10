@@ -1,8 +1,12 @@
-import { useState } from "react";
-import { Card, CardContent } from "@/components/ui/card";
+import { useState, useMemo, useEffect } from "react";
+import { useToast } from "@/hooks/use-toast";
+import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { Input } from "@/components/ui/input";
+import { Label } from "@/components/ui/label";
+import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogDescription, DialogFooter } from "@/components/ui/dialog";
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
 import {
   Table,
   TableBody,
@@ -34,16 +38,74 @@ import {
   Edit,
   Trash2,
 } from "lucide-react";
-import { mockInterviews } from "@/data/atsData";
+import { mockInterviews } from "@/data/adminModuleData";
+import { LiveInterviewPlatforms } from "@/components/dashboard/LiveInterviewPlatforms";
 
 export default function CompanyInterviews() {
+  const { toast } = useToast();
   const [searchTerm, setSearchTerm] = useState("");
   const [statusFilter, setStatusFilter] = useState<string>("all");
+  const [isScheduleOpen, setIsScheduleOpen] = useState(false);
 
-  const filteredInterviews = mockInterviews.filter((interview) => {
+  // Use state for interviews so we can "add" more in demo
+  const [interviews, setInterviews] = useState<any[]>([]);
+
+  useEffect(() => {
+    const saved = localStorage.getItem('companyInterviews');
+    if (saved) {
+      setInterviews(JSON.parse(saved));
+    } else {
+      const enhancedMocks = mockInterviews.map((i, idx) => ({
+        ...i,
+        scheduledAt: new Date(Date.now() + (idx * 2 - 2) * 24 * 60 * 60 * 1000).toISOString()
+      }));
+      setInterviews(enhancedMocks);
+      localStorage.setItem('companyInterviews', JSON.stringify(enhancedMocks));
+    }
+  }, []);
+
+  const stats = {
+    total: interviews.length,
+    scheduled: interviews.filter(i => i.status === 'scheduled').length,
+    completed: interviews.filter(i => i.status === 'completed').length,
+    today: interviews.filter(i => new Date(i.scheduledAt).toDateString() === new Date().toDateString()).length,
+    thisWeek: interviews.filter(i => {
+      const d = new Date(i.scheduledAt);
+      const now = new Date();
+      return d >= now && d <= new Date(now.getTime() + 7 * 24 * 60 * 60 * 1000);
+    }).length
+  };
+
+  const handleSchedule = () => {
+    const newInterview = {
+      id: "int-" + Date.now(),
+      candidateName: "Alex Thompson", // Hardcoded for demo simplicity
+      interviewerName: "Sarah Smith",
+      jobTitle: "Software Engineer",
+      scheduledAt: new Date().toISOString(),
+      duration: 45,
+      mode: "video",
+      status: "scheduled",
+      meetingLink: "https://meet.google.com/abc-defg-hij"
+    };
+    const updated = [newInterview, ...interviews];
+    setInterviews(updated);
+    localStorage.setItem('companyInterviews', JSON.stringify(updated));
+    setIsScheduleOpen(false);
+    toast({ title: "Interview Scheduled", description: "Candidate and interviewer notified." });
+  };
+
+  const handleDelete = (id: string) => {
+    const updated = interviews.filter(i => i.id !== id);
+    setInterviews(updated);
+    localStorage.setItem('companyInterviews', JSON.stringify(updated));
+    toast({ title: "Interview Cancelled", description: "Interview has been removed." });
+  };
+
+  const filteredInterviews = interviews.filter((interview) => {
     const matchesSearch =
       interview.candidateName.toLowerCase().includes(searchTerm.toLowerCase()) ||
-      interview.title.toLowerCase().includes(searchTerm.toLowerCase());
+      interview.jobTitle.toLowerCase().includes(searchTerm.toLowerCase());
     const matchesStatus = statusFilter === "all" || interview.status === statusFilter;
     return matchesSearch && matchesStatus;
   });
@@ -61,36 +123,67 @@ export default function CompanyInterviews() {
     in_person: <MapPin className="w-4 h-4" />,
   };
 
-  const stats = {
-    total: mockInterviews.length,
-    scheduled: mockInterviews.filter((i) => i.status === "scheduled").length,
-    completed: mockInterviews.filter((i) => i.status === "completed").length,
-    thisWeek: mockInterviews.filter((i) => {
-      const date = new Date(i.scheduledAt);
-      const now = new Date();
-      const weekFromNow = new Date(now.getTime() + 7 * 24 * 60 * 60 * 1000);
-      return date >= now && date <= weekFromNow;
-    }).length,
-  };
-
   return (
-    <div className="space-y-6">
+    <div className="space-y-8 animate-in fade-in duration-700">
       <div className="flex items-center justify-between">
         <div>
-          <h1 className="text-2xl font-bold text-gray-900">Interviews</h1>
-          <p className="text-gray-500">Manage your candidate interviews</p>
+          <h1 className="text-3xl font-black text-gray-900 tracking-tight">Interviews</h1>
+          <p className="text-gray-500 font-medium">Manage your candidate interviews</p>
         </div>
         <div className="flex items-center space-x-3">
           <Button variant="outline">
             <Calendar className="w-4 h-4 mr-2" />
             Calendar View
           </Button>
-          <Button>
+          <Button onClick={() => setIsScheduleOpen(true)} className="bg-primary hover:bg-primary/90">
             <Plus className="w-4 h-4 mr-2" />
             Schedule Interview
           </Button>
         </div>
       </div>
+
+      <LiveInterviewPlatforms />
+
+      <Dialog open={isScheduleOpen} onOpenChange={setIsScheduleOpen}>
+        <DialogContent className="sm:max-w-[500px]">
+          <DialogHeader>
+            <DialogTitle>Schedule New Interview</DialogTitle>
+            <DialogDescription>Setup a new interview with a candidate.</DialogDescription>
+          </DialogHeader>
+          <div className="grid gap-4 py-4">
+            <div className="grid grid-cols-4 items-center gap-4">
+              <Label htmlFor="candidate" className="text-right text-xs">Candidate</Label>
+              <Select defaultValue="Alex Thompson">
+                <SelectTrigger className="col-span-3"><SelectValue placeholder="Select candidate" /></SelectTrigger>
+                <SelectContent>
+                  <SelectItem value="Alex Thompson">Alex Thompson</SelectItem>
+                  <SelectItem value="Maria Garcia">Maria Garcia</SelectItem>
+                  <SelectItem value="John Lee">John Lee</SelectItem>
+                </SelectContent>
+              </Select>
+            </div>
+            <div className="grid grid-cols-4 items-center gap-4">
+              <Label htmlFor="date" className="text-right text-xs">Date & Time</Label>
+              <Input id="date" type="datetime-local" defaultValue="2026-03-24T10:00" className="col-span-3" />
+            </div>
+            <div className="grid grid-cols-4 items-center gap-4">
+              <Label htmlFor="type" className="text-right text-xs">Type</Label>
+              <Select defaultValue="video">
+                <SelectTrigger className="col-span-3"><SelectValue placeholder="Select type" /></SelectTrigger>
+                <SelectContent>
+                  <SelectItem value="video">Video Call</SelectItem>
+                  <SelectItem value="phone">Phone Call</SelectItem>
+                  <SelectItem value="in_person">In Person</SelectItem>
+                </SelectContent>
+              </Select>
+            </div>
+          </div>
+          <DialogFooter>
+            <Button variant="outline" onClick={() => setIsScheduleOpen(false)}>Cancel</Button>
+            <Button onClick={handleSchedule}>Confirm Schedule</Button>
+          </DialogFooter>
+        </DialogContent>
+      </Dialog>
 
       <div className="grid grid-cols-1 md:grid-cols-4 gap-4">
         <Card>
@@ -203,16 +296,16 @@ export default function CompanyInterviews() {
                   </div>
                 </TableCell>
                 <TableCell>
-                  <p className="font-medium">{interview.title}</p>
-                  <p className="text-xs text-gray-500">{interview.interviewers.join(", ")}</p>
+                  <p className="font-medium">{interview.jobTitle}</p>
+                  <p className="text-xs text-muted-foreground">{interview.interviewerName}</p>
                 </TableCell>
                 <TableCell>
-                  <p className="text-sm">{interview.jobTitle}</p>
+                  <p className="text-sm">{interview.notes || "Standard Interview"}</p>
                 </TableCell>
                 <TableCell>
                   <Badge variant="outline" className="flex items-center w-fit">
-                    {typeIcons[interview.type]}
-                    <span className="ml-1 capitalize">{interview.type.replace("_", " ")}</span>
+                    {typeIcons[interview.mode]}
+                    <span className="ml-1 capitalize">{interview.mode.replace("_", " ")}</span>
                   </Badge>
                 </TableCell>
                 <TableCell>
@@ -264,7 +357,7 @@ export default function CompanyInterviews() {
                             <Edit className="w-4 h-4 mr-2" />
                             Reschedule
                           </DropdownMenuItem>
-                          <DropdownMenuItem className="text-red-600">
+                          <DropdownMenuItem className="text-red-600" onClick={() => handleDelete(interview.id)}>
                             <XCircle className="w-4 h-4 mr-2" />
                             Cancel
                           </DropdownMenuItem>
@@ -284,7 +377,7 @@ export default function CompanyInterviews() {
           <CardContent className="p-6">
             <h3 className="font-semibold text-gray-900 mb-4">Upcoming Interviews</h3>
             <div className="space-y-3">
-              {mockInterviews
+              {interviews
                 .filter((i) => i.status === "scheduled")
                 .slice(0, 3)
                 .map((interview) => (
@@ -295,10 +388,10 @@ export default function CompanyInterviews() {
                     <div className="flex items-start justify-between">
                       <div>
                         <p className="font-medium">{interview.candidateName}</p>
-                        <p className="text-sm text-gray-500">{interview.title}</p>
+                        <p className="text-sm text-gray-500">{interview.jobTitle}</p>
                       </div>
                       <Badge variant="outline" className="flex items-center">
-                        {typeIcons[interview.type]}
+                        {typeIcons[interview.mode]}
                       </Badge>
                     </div>
                     <div className="flex items-center mt-2 text-sm text-gray-500 space-x-4">

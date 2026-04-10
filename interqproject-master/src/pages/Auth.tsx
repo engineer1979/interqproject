@@ -22,7 +22,7 @@ const roleConfig = {
 };
 
 const Auth = () => {
-const { login, signup, loginWithDemo, isLoading } = useAuth();
+  const { login, signup, loginWithDemo, isLoading } = useAuth();
   const navigate = useNavigate();
   const location = useLocation();
   
@@ -36,7 +36,7 @@ const { login, signup, loginWithDemo, isLoading } = useAuth();
   const [rememberMe, setRememberMe] = useState(false);
   const [error, setError] = useState("");
   const [isSubmitting, setIsSubmitting] = useState(false);
-  const [showDemoSection, setShowDemoSection] = useState(true);
+  const [showDemoSection, setShowDemoSection] = useState(false);
 
   const [history, setHistory] = useState<string[]>([]);
 
@@ -64,8 +64,10 @@ const { login, signup, loginWithDemo, isLoading } = useAuth();
     const result = await login(email, password);
     
     if (result.success) {
-      // Instant login - no verification step
-      // Navigation handled by SimpleAuthProvider
+      if (result.needsVerification) {
+        navigate("/verify-email");
+      }
+      // Navigation is handled by useEffect in SimpleAuthProvider
     } else {
       setError(result.error || "Login failed");
     }
@@ -100,7 +102,8 @@ const { login, signup, loginWithDemo, isLoading } = useAuth();
     });
     
     if (result.success) {
-      // Instant login, no email verify
+      // Navigation is handled by useEffect in SimpleAuthProvider
+      // But we can show a success toast or message here if we want
     } else {
       setError(result.error || "Signup failed");
     }
@@ -200,18 +203,18 @@ const { login, signup, loginWithDemo, isLoading } = useAuth();
             >
               {showDemoSection ? (
                 <Card className="border-0 shadow-2xl">
-<CardHeader className="space-y-1 pb-4" onClick={() => setShowDemoSection(true)}>
-  <div className="flex items-center gap-2 mb-2 cursor-pointer">
-    <Sparkles className="w-5 h-5 text-amber-500" />
-    <Badge variant="outline" className="bg-amber-50 text-amber-700 border-amber-200">
-      Demo Mode Available
-    </Badge>
-  </div>
-  <CardTitle className="text-2xl font-bold">Try InterQ Free</CardTitle>
-  <CardDescription>
-    Explore InterQ instantly with pre-configured demo accounts
-  </CardDescription>
-</CardHeader>
+                  <CardHeader className="space-y-1 pb-4">
+                    <div className="flex items-center gap-2 mb-2">
+                      <Sparkles className="w-5 h-5 text-amber-500" />
+                      <Badge variant="outline" className="bg-amber-50 text-amber-700 border-amber-200">
+                        Demo Mode Available
+                      </Badge>
+                    </div>
+                    <CardTitle className="text-2xl font-bold">Try InterQ Free</CardTitle>
+                    <CardDescription>
+                      Explore InterQ instantly with pre-configured demo accounts
+                    </CardDescription>
+                  </CardHeader>
                   <CardContent className="space-y-4">
                     <div className="grid gap-3">
                       {(["jobseeker", "company", "recruiter", "admin"] as AccountRole[]).map((role) => {
@@ -292,7 +295,7 @@ const { login, signup, loginWithDemo, isLoading } = useAuth();
                         <TabsTrigger value="signup">Sign Up</TabsTrigger>
                       </TabsList>
 
-                      <TabsContent value="signin" className="space-y-4">
+                      <TabsContent value="signin" className="space-y-4 pb-12 sm:pb-0">
                         <form onSubmit={handleLogin} className="space-y-4">
                           <div className="space-y-2">
                             <Label htmlFor="email">Email</Label>
@@ -313,7 +316,12 @@ const { login, signup, loginWithDemo, isLoading } = useAuth();
                           <div className="space-y-2">
                             <div className="flex items-center justify-between">
                               <Label htmlFor="password">Password</Label>
-                              <Button variant="ghost" size="sm" className="h-auto p-0 text-xs text-blue-600 hover:text-blue-700">
+                              <Button
+                                variant="ghost"
+                                size="sm"
+                                className="h-auto p-0 text-xs text-blue-600 hover:text-blue-700"
+                                onClick={() => navigate("/reset-password")}
+                              >
                                 Forgot password?
                               </Button>
                             </div>
@@ -367,7 +375,7 @@ const { login, signup, loginWithDemo, isLoading } = useAuth();
                         </form>
                       </TabsContent>
 
-                      <TabsContent value="signup" className="space-y-4">
+                      <TabsContent value="signup" className="space-y-4 pb-12 sm:pb-0">
                         <form onSubmit={handleSignup} className="space-y-4">
                           <div className="space-y-2">
                             <Label>I am a...</Label>

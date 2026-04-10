@@ -420,17 +420,17 @@ export function ChatbotWidget() {
     <>
       <motion.button
         aria-label="Open InterQ Chat Assistant"
-        className="fixed bottom-6 right-6 z-50 rounded-full h-16 w-16 shadow-glow ring-2 ring-primary/40 bg-[var(--gradient-primary)] text-white flex items-center justify-center"
+        className="fixed bottom-4 right-4 md:bottom-6 md:right-6 z-[60] rounded-full h-12 w-12 md:h-16 md:w-16 shadow-glow ring-2 ring-primary/40 bg-[var(--gradient-primary)] text-white flex items-center justify-center transition-all duration-300"
         onClick={() => setOpen((v) => !v)}
         whileHover={{ scale: 1.06 }}
         whileTap={{ scale: 0.96 }}
       >
         <span className="sr-only">Open Chat Assistant</span>
-        <Bot className="h-7 w-7 drop-shadow" />
+        <Bot className="h-5 w-5 md:h-7 md:w-7 drop-shadow" />
         {unread > 0 && (
           <span
             aria-label={`${unread} unread`}
-            className="absolute -top-1 -right-1 h-6 min-w-6 px-1 rounded-full bg-red-600 text-white text-xs flex items-center justify-center"
+            className="absolute -top-1 -right-1 h-5 min-w-5 md:h-6 md:min-w-6 px-1 rounded-full bg-red-600 text-white text-[10px] md:text-xs flex items-center justify-center"
           >
             {unread}
           </span>

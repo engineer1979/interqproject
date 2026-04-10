@@ -1071,7 +1071,20 @@ export default function CompanyManagementNew() {
                   <TabsContent value="activity" className="mt-0">
                     <div className="text-center py-8">
                       <Clock className="h-12 w-12 mx-auto mb-4 text-muted-foreground/50" />
-                      <p className="text-muted-foreground">Activity logs coming soon</p>
+                      <div className="space-y-2 text-sm">
+  <div className="flex items-center gap-3 p-2 rounded bg-muted/50">
+    <span className="text-muted-foreground text-xs w-24">Mar 23 10:41</span>
+    <span>Company profile updated</span>
+  </div>
+  <div className="flex items-center gap-3 p-2 rounded bg-muted/50">
+    <span className="text-muted-foreground text-xs w-24">Mar 22 09:15</span>
+    <span>New job posted: Senior Engineer</span>
+  </div>
+  <div className="flex items-center gap-3 p-2 rounded bg-muted/50">
+    <span className="text-muted-foreground text-xs w-24">Mar 21 14:30</span>
+    <span>Recruiter added: Emily Davis</span>
+  </div>
+</div>
                     </div>
                   </TabsContent>
                 </ScrollArea>

@@ -94,7 +94,7 @@ const Dashboard = () => {
         {/* Top Header */}
         <header className="sticky top-0 z-30 bg-background/95 backdrop-blur-md border-b border-border px-6 py-4 flex items-center justify-between">
           <div>
-            <h1 className="text-xl font-bold">Welcome back, {userName}!</h1>
+            <p className="text-xl font-bold">Dashboard</p>
             <p className="text-sm text-muted-foreground">Here's your dashboard overview</p>
           </div>
           <div className="flex items-center gap-3">

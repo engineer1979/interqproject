@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { useToast } from "@/hooks/use-toast";
 import { Card, CardContent, CardHeader } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
@@ -34,15 +35,16 @@ import {
   Trash2,
   FileText,
 } from "lucide-react";
-import { mockApplications, mockJobs } from "@/data/atsData";
+import { mockCandidates, mockJobs } from "@/data/adminModuleData";
 
 export default function JobSeekerApplications() {
+  const { toast } = useToast();
   const [searchTerm, setSearchTerm] = useState("");
   const [statusFilter, setStatusFilter] = useState<string>("all");
 
-  const filteredApplications = mockApplications.filter((app) => {
+  const filteredApplications = mockCandidates.filter((app) => {
     const matchesSearch =
-      app.jobTitle.toLowerCase().includes(searchTerm.toLowerCase()) ||
+      app.appliedRole.toLowerCase().includes(searchTerm.toLowerCase()) ||
       app.companyName.toLowerCase().includes(searchTerm.toLowerCase());
     const matchesStatus = statusFilter === "all" || app.stage === statusFilter;
     return matchesSearch && matchesStatus;
@@ -66,12 +68,12 @@ export default function JobSeekerApplications() {
   };
 
   const stats = {
-    total: mockApplications.length,
-    active: mockApplications.filter((a) => a.stage !== "rejected" && a.stage !== "hired").length,
-    interviews: mockApplications.filter((a) =>
+    total: mockCandidates.length,
+    active: mockCandidates.filter((a) => a.stage !== "rejected" && a.stage !== "hired").length,
+    interviews: mockCandidates.filter((a) =>
       ["interview_scheduled", "interview_completed"].includes(a.stage)
     ).length,
-    offers: mockApplications.filter((a) => a.stage === "offer_sent").length,
+    offers: mockCandidates.filter((a) => a.stage === "offer_sent").length,
   };
 
   return (
@@ -81,7 +83,7 @@ export default function JobSeekerApplications() {
           <h1 className="text-2xl font-bold text-gray-900">My Applications</h1>
           <p className="text-gray-500">Track your job applications and status</p>
         </div>
-        <Button>
+        <Button onClick={() => window.location.href = "/jobs"}>
           <Briefcase className="w-4 h-4 mr-2" />
           Browse Jobs
         </Button>
@@ -190,7 +192,7 @@ export default function JobSeekerApplications() {
               <TableRow key={app.id}>
                 <TableCell>
                   <div>
-                    <p className="font-medium">{app.jobTitle}</p>
+                    <p className="font-medium">{app.appliedRole}</p>
                     <p className="text-xs text-gray-500">{app.source}</p>
                   </div>
                 </TableCell>
@@ -231,15 +233,15 @@ export default function JobSeekerApplications() {
                       </Button>
                     </DropdownMenuTrigger>
                     <DropdownMenuContent align="end">
-                      <DropdownMenuItem>
+                      <DropdownMenuItem onClick={() => toast({ title: "Application Details", description: `Viewing details for ${app.appliedRole} at ${app.companyName}.` })}>
                         <Eye className="w-4 h-4 mr-2" />
                         View Details
                       </DropdownMenuItem>
-                      <DropdownMenuItem>
+                      <DropdownMenuItem onClick={() => window.location.href = "/jobs"}>
                         <FileText className="w-4 h-4 mr-2" />
                         View Job
                       </DropdownMenuItem>
-                      <DropdownMenuItem>
+                      <DropdownMenuItem onClick={() => toast({ title: "Application Withdrawn", description: `Your application for ${app.appliedRole} has been withdrawn.` })}>
                         <CheckCircle className="w-4 h-4 mr-2" />
                         Withdraw Application
                       </DropdownMenuItem>
@@ -311,7 +313,7 @@ export default function JobSeekerApplications() {
                       </p>
                     </div>
                   </div>
-                  <Button size="sm" variant="outline">Apply</Button>
+                  <Button size="sm" variant="outline" onClick={() => toast({ title: "Applied!", description: `Application submitted for ${job.title}.` })}>Apply</Button>
                 </div>
               ))}
             </div>

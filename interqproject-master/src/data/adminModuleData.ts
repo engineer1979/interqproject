@@ -131,66 +131,109 @@ export const mockBillingInfo: BillingInfo = {
 };
 
 export const mockNotifications: Notification[] = [
-  { id: '1', type: 'application', title: 'New Application', message: 'Alex Thompson applied for Senior Software Engineer', read: false, timestamp: '2024-03-18T09:00:00Z', link: '/candidates/1' },
-  { id: '2', type: 'interview', title: 'Interview Scheduled', message: 'Interview with Alex Thompson scheduled for tomorrow', read: false, timestamp: '2024-03-17T16:00:00Z', link: '/interviews/1' },
-  { id: '3', type: 'offer', title: 'Offer Accepted', message: 'Sophie Chen accepted the offer for Senior Software Engineer', read: true, timestamp: '2024-03-17T14:30:00Z', link: '/offers/1' },
-  { id: '4', type: 'approval', title: 'Approval Required', message: 'Job posting "UX Designer" needs approval', read: false, timestamp: '2024-03-17T11:00:00Z', link: '/jobs/3' },
-  { id: '5', type: 'security', title: 'Security Alert', message: 'New login detected from unrecognized device', read: true, timestamp: '2024-03-16T08:00:00Z', link: '/settings/security' },
+   { id: '1', type: 'application', title: 'New Application', message: 'Alex Thompson applied for Senior Software Engineer', read: false, timestamp: '2024-03-18T09:00:00Z', link: '/candidates/1' },
+   { id: '2', type: 'interview', title: 'Interview Scheduled', message: 'Interview with Alex Thompson scheduled for tomorrow', read: false, timestamp: '2024-03-17T16:00:00Z', link: '/interviews/1' },
+   { id: '3', type: 'offer', title: 'Offer Accepted', message: 'Sophie Chen accepted the offer for Senior Software Engineer', read: true, timestamp: '2024-03-17T14:30:00Z', link: '/offers/1' },
+   { id: '4', type: 'approval', title: 'Approval Required', message: 'Job posting "UX Designer" needs approval', read: false, timestamp: '2024-03-17T11:00:00Z', link: '/jobs/3' },
+   { id: '5', type: 'security', title: 'Security Alert', message: 'New login detected from unrecognized device', read: true, timestamp: '2024-03-16T08:00:00Z', link: '/settings/security' },
 ];
 
 export const hiringTrendData: ChartDataPoint[] = [
-  { name: 'Jan', value: 45 },
-  { name: 'Feb', value: 52 },
-  { name: 'Mar', value: 67 },
-  { name: 'Apr', value: 58 },
-  { name: 'May', value: 71 },
-  { name: 'Jun', value: 63 },
-  { name: 'Jul', value: 78 },
-  { name: 'Aug', value: 82 },
-  { name: 'Sep', value: 75 },
-  { name: 'Oct', value: 88 },
-  { name: 'Nov', value: 92 },
-  { name: 'Dec', value: 95 },
+   { name: 'Jan', value: 45 },
+   { name: 'Feb', value: 52 },
+   { name: 'Mar', value: 67 },
+   { name: 'Apr', value: 58 },
+   { name: 'May', value: 71 },
+   { name: 'Jun', value: 63 },
+   { name: 'Jul', value: 78 },
+   { name: 'Aug', value: 82 },
+   { name: 'Sep', value: 75 },
+   { name: 'Oct', value: 88 },
+   { name: 'Nov', value: 92 },
+   { name: 'Dec', value: 95 },
 ];
 
 export const jobsByDepartmentData: ChartDataPoint[] = [
-  { name: 'Engineering', value: 45, fill: '#3b82f6' },
-  { name: 'Sales', value: 28, fill: '#22c55e' },
-  { name: 'Marketing', value: 18, fill: '#f59e0b' },
-  { name: 'HR', value: 12, fill: '#ec4899' },
-  { name: 'Finance', value: 15, fill: '#8b5cf6' },
-  { name: 'Operations', value: 8, fill: '#06b6d4' },
+   { name: 'Engineering', value: 45, fill: '#3b82f6' },
+   { name: 'Sales', value: 28, fill: '#22c55e' },
+   { name: 'Marketing', value: 18, fill: '#f59e0b' },
+   { name: 'HR', value: 12, fill: '#ec4899' },
+   { name: 'Finance', value: 15, fill: '#8b5cf6' },
+   { name: 'Operations', value: 8, fill: '#06b6d4' },
 ];
 
 export const candidateFunnelData: ChartDataPoint[] = [
-  { name: 'Applied', value: 1000 },
-  { name: 'Screening', value: 650 },
-  { name: 'Shortlisted', value: 350 },
-  { name: 'Interview', value: 180 },
-  { name: 'Offer', value: 45 },
-  { name: 'Hired', value: 35 },
+   { name: 'Applied', value: 1000 },
+   { name: 'Screening', value: 650 },
+   { name: 'Shortlisted', value: 350 },
+   { name: 'Interview', value: 180 },
+   { name: 'Offer', value: 45 },
+   { name: 'Hired', value: 35 },
 ];
 
 export const sourceEffectivenessData: ChartDataPoint[] = [
-  { name: 'LinkedIn', value: 35 },
-  { name: 'Indeed', value: 25 },
-  { name: 'Referral', value: 20 },
-  { name: 'Career Page', value: 12 },
-  { name: 'Job Board', value: 8 },
+   { name: 'LinkedIn', value: 35 },
+   { name: 'Indeed', value: 25 },
+   { name: 'Referral', value: 20 },
+   { name: 'Career Page', value: 12 },
+   { name: 'Job Board', value: 8 },
 ];
 
 export const recruiterPerformanceData = [
-  { name: 'Emily Davis', hired: 15, interviews: 42, offers: 18 },
-  { name: 'Michael Chen', hired: 12, interviews: 38, offers: 14 },
-  { name: 'Jennifer Lee', hired: 10, interviews: 35, offers: 12 },
-  { name: 'David Kim', hired: 8, interviews: 28, offers: 10 },
-  { name: 'Anna Brown', hired: 6, interviews: 22, offers: 8 },
+   { name: 'Emily Davis', hired: 15, interviews: 42, offers: 18 },
+   { name: 'Michael Chen', hired: 12, interviews: 38, offers: 14 },
+   { name: 'Jennifer Lee', hired: 10, interviews: 35, offers: 12 },
+   { name: 'David Kim', hired: 8, interviews: 28, offers: 10 },
+   { name: 'Anna Brown', hired: 6, interviews: 22, offers: 8 },
 ];
 
 export const timeToHireData = [
-  { stage: 'Applied to Screening', days: 3 },
-  { stage: 'Screening to Shortlist', days: 5 },
-  { stage: 'Shortlist to Interview', days: 7 },
-  { stage: 'Interview to Offer', days: 10 },
-  { stage: 'Offer to Hire', days: 5 },
+   { stage: 'Applied to Screening', days: 3 },
+   { stage: 'Screening to Shortlist', days: 5 },
+   { stage: 'Shortlist to Interview', days: 7 },
+   { stage: 'Interview to Offer', days: 10 },
+   { stage: 'Offer to Hire', days: 5 },
+];
+
+// Additional exports for compatibility
+export const mockJobSeekerStats = {
+   totalApplications: 12,
+   pendingApplications: 5,
+   interviewsScheduled: 3,
+   offersReceived: 1,
+   profileViews: 48,
+   profileStrength: 85,
+   savedJobs: 8,
+   assessmentsCompleted: 4,
+};
+
+export const mockAssessmentAssignments = mockCandidates.map((c, i) => ({
+   id: `assign_${i + 1}`,
+   candidateId: c.id,
+   candidateName: c.fullName,
+   jobId: c.jobId,
+   jobTitle: c.appliedRole,
+   assessmentId: `assess_${i + 1}`,
+   assessmentTitle: ["React Skills Test", "JavaScript Fundamentals", "System Design", "SQL Assessment"][i % 4],
+   status: ["pending", "in_progress", "completed", "pending"][i % 4] as "pending" | "in_progress" | "completed",
+   score: i % 2 === 0 ? Math.floor(Math.random() * 40 + 60) : undefined,
+   assignedAt: new Date(Date.now() - i * 86400000).toISOString(),
+   deadline: new Date(Date.now() + (7 - i) * 86400000).toISOString(),
+}));
+
+export const mockAssessments = [
+   { id: "assess_1", title: "React Skills Test", category: "Technical", duration: 60, questions: 30, difficulty: "Intermediate" },
+   { id: "assess_2", title: "JavaScript Fundamentals", category: "Technical", duration: 45, questions: 25, difficulty: "Basic" },
+   { id: "assess_3", title: "System Design", category: "Technical", duration: 90, questions: 10, difficulty: "Advanced" },
+   { id: "assess_4", title: "SQL Assessment", category: "Technical", duration: 30, questions: 20, difficulty: "Intermediate" },
+];
+
+export const pipelineStages = [
+   { id: "applied", name: "Applied", color: "#6B7280" },
+   { id: "screening", name: "Screening", color: "#3B82F6" },
+   { id: "shortlisted", name: "Shortlisted", color: "#8B5CF6" },
+   { id: "interview_r1", name: "Interview R1", color: "#F59E0B" },
+   { id: "hr_interview", name: "HR Interview", color: "#06B6D4" },
+   { id: "offer", name: "Offer", color: "#10B981" },
+   { id: "hired", name: "Hired", color: "#059669" },
 ];

@@ -1,4 +1,5 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
+import { useToast } from "@/hooks/use-toast";
 import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
@@ -18,6 +19,15 @@ import {
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
 import {
+  Dialog,
+  DialogContent,
+  DialogDescription,
+  DialogFooter,
+  DialogHeader,
+  DialogTitle,
+} from "@/components/ui/dialog";
+import { Label } from "@/components/ui/label";
+import {
   Search,
   Plus,
   MoreVertical,
@@ -32,16 +42,74 @@ import {
   Trash2,
   Download,
 } from "lucide-react";
-import { mockApplications } from "@/data/atsData";
+import { mockCandidates } from "@/data/adminModuleData";
 
 export default function CompanyCandidates() {
+  const { toast } = useToast();
   const [searchTerm, setSearchTerm] = useState("");
   const [stageFilter, setStageFilter] = useState<string>("all");
+  const [candidates, setCandidates] = useState<any[]>([]);
 
-  const filteredCandidates = mockApplications.filter((app) => {
+  useEffect(() => {
+    const saved = localStorage.getItem('companyCandidates');
+    if (saved) {
+      setCandidates(JSON.parse(saved));
+    } else {
+      setCandidates(mockCandidates);
+      localStorage.setItem('companyCandidates', JSON.stringify(mockCandidates));
+    }
+  }, []);
+
+  const [selectedCandidate, setSelectedCandidate] = useState<any>(null);
+  const [isViewModalOpen, setIsViewModalOpen] = useState(false);
+  const [isAddModalOpen, setIsAddModalOpen] = useState(false);
+  const [newCandidate, setNewCandidate] = useState({
+    fullName: "",
+    email: "",
+    appliedRole: "Senior Software Engineer",
+    source: "LinkedIn",
+    stage: "applied"
+  });
+
+  const handleAddCandidate = () => {
+    if (!newCandidate.fullName || !newCandidate.email) {
+      toast({ title: "Validation Error", description: "Name and Email are required.", variant: "destructive" });
+      return;
+    }
+    const candToAdd = {
+      id: "cand-" + Date.now(),
+      ...newCandidate,
+      companyName: "InterQ Technologies",
+      appliedAt: new Date().toISOString(),
+      rating: 0
+    };
+    const updated = [candToAdd, ...candidates];
+    setCandidates(updated);
+    localStorage.setItem('companyCandidates', JSON.stringify(updated));
+    setIsAddModalOpen(false);
+    setNewCandidate({ fullName: "", email: "", appliedRole: "Senior Software Engineer", source: "LinkedIn", stage: "applied" });
+    toast({ title: "Candidate Added", description: "Successfully added to the pipeline." });
+  };
+
+  const handleReject = (id: string) => {
+    const updated = candidates.filter(c => c.id !== id);
+    setCandidates(updated);
+    localStorage.setItem('companyCandidates', JSON.stringify(updated));
+    toast({ title: "Candidate Rejected", description: "Item removed from pipeline." });
+  };
+
+  const updateStage = (id: string, newStage: string) => {
+    const updated = candidates.map(c => c.id === id ? { ...c, stage: newStage } : c);
+    setCandidates(updated);
+    localStorage.setItem('companyCandidates', JSON.stringify(updated));
+    toast({ title: "Stage Updated", description: `Candidate moved to ${getStageName(newStage)}.` });
+  };
+
+
+  const filteredCandidates = candidates.filter((app) => {
     const matchesSearch =
-      app.jobSeekerName.toLowerCase().includes(searchTerm.toLowerCase()) ||
-      app.jobTitle.toLowerCase().includes(searchTerm.toLowerCase());
+      app.fullName.toLowerCase().includes(searchTerm.toLowerCase()) ||
+      app.appliedRole.toLowerCase().includes(searchTerm.toLowerCase());
     const matchesStage = stageFilter === "all" || app.stage === stageFilter;
     return matchesSearch && matchesStage;
   });
@@ -64,12 +132,10 @@ export default function CompanyCandidates() {
   };
 
   const stats = {
-    total: mockApplications.length,
-    new: mockApplications.filter((a) => a.stage === "applied").length,
-    screening: mockApplications.filter((a) => a.stage === "screening").length,
-    interviews: mockApplications.filter((a) =>
-      ["interview_scheduled", "interview_completed"].includes(a.stage)
-    ).length,
+    total: candidates.length,
+    new: candidates.filter((a) => a.stage === "applied").length,
+    screening: candidates.filter((a) => a.stage === "screening").length,
+    interviews: candidates.filter((a) => a.stage?.includes("interview")).length,
   };
 
   return (
@@ -84,7 +150,7 @@ export default function CompanyCandidates() {
             <Upload className="w-4 h-4 mr-2" />
             Import CSV
           </Button>
-          <Button>
+          <Button onClick={() => setIsAddModalOpen(true)}>
             <Plus className="w-4 h-4 mr-2" />
             Add Candidate
           </Button>
@@ -197,23 +263,21 @@ export default function CompanyCandidates() {
                   <div className="flex items-center space-x-3">
                     <div className="w-10 h-10 bg-indigo-100 rounded-full flex items-center justify-center">
                       <span className="text-sm font-medium text-indigo-600">
-                        {candidate.jobSeekerName
-                          .split(" ")
-                          .map((n) => n[0])
-                          .join("")}
+                        {candidate.fullName
+                          .split(" ").map((n: string) => n[0]).join("").slice(0,2)}
                       </span>
                     </div>
-                    <span className="font-medium">{candidate.jobSeekerName}</span>
+                    <span className="font-medium">{candidate.fullName}</span>
                   </div>
                 </TableCell>
                 <TableCell>
                   <div>
-                    <p className="font-medium">{candidate.jobTitle}</p>
+                    <p className="font-medium">{candidate.appliedRole}</p>
                     <p className="text-xs text-gray-500">{candidate.companyName}</p>
                   </div>
                 </TableCell>
                 <TableCell>
-                  <span className="text-sm text-gray-500">{candidate.appliedAt}</span>
+                  <span className="text-sm text-gray-500">{candidate.appliedAt ? new Date(candidate.appliedAt).toLocaleDateString() : "—"}</span>
                 </TableCell>
                 <TableCell>
                   <Badge className={stageColors[candidate.stage] || "bg-gray-100 text-gray-700"}>
@@ -241,27 +305,27 @@ export default function CompanyCandidates() {
                       </Button>
                     </DropdownMenuTrigger>
                     <DropdownMenuContent align="end">
-                      <DropdownMenuItem>
+                      <DropdownMenuItem onClick={() => { setSelectedCandidate(candidate); setIsViewModalOpen(true); }}>
                         <Eye className="w-4 h-4 mr-2" />
                         View Profile
                       </DropdownMenuItem>
-                      <DropdownMenuItem>
+                      <DropdownMenuItem onClick={() => toast({ title: "Email Sent", description: `Outreach email triggered to ${candidate.email}.` })}>
                         <Mail className="w-4 h-4 mr-2" />
                         Send Email
                       </DropdownMenuItem>
-                      <DropdownMenuItem>
+                      <DropdownMenuItem onClick={() => updateStage(candidate.id, 'interview_scheduled')}>
                         <Calendar className="w-4 h-4 mr-2" />
                         Schedule Interview
                       </DropdownMenuItem>
-                      <DropdownMenuItem>
+                      <DropdownMenuItem onClick={() => updateStage(candidate.id, 'shortlisted')}>
                         <Briefcase className="w-4 h-4 mr-2" />
-                        Move to Job
+                        Shortlist
                       </DropdownMenuItem>
-                      <DropdownMenuItem>
+                      <DropdownMenuItem onClick={() => toast({ title: "Downloading...", description: "Candidate resume is being prepared." })}>
                         <Download className="w-4 h-4 mr-2" />
                         Download Resume
                       </DropdownMenuItem>
-                      <DropdownMenuItem className="text-red-600">
+                      <DropdownMenuItem className="text-red-600" onClick={() => handleReject(candidate.id)}>
                         <Trash2 className="w-4 h-4 mr-2" />
                         Reject
                       </DropdownMenuItem>
@@ -291,15 +355,15 @@ export default function CompanyCandidates() {
                     <div className="flex items-center space-x-3">
                       <div className="w-10 h-10 bg-indigo-100 rounded-full flex items-center justify-center">
                         <span className="text-xs font-medium text-indigo-600">
-                          {candidate.jobSeekerName
+                          {candidate.fullName
                             .split(" ")
                             .map((n) => n[0])
                             .join("")}
                         </span>
                       </div>
                       <div>
-                        <p className="font-medium text-sm">{candidate.jobSeekerName}</p>
-                        <p className="text-xs text-gray-500">{candidate.jobTitle}</p>
+                        <p className="font-medium text-sm">{candidate.fullName}</p>
+                        <p className="text-xs text-gray-500">{candidate.appliedRole}</p>
                       </div>
                     </div>
                     <div className="flex items-center">
@@ -334,6 +398,112 @@ export default function CompanyCandidates() {
           </CardContent>
         </Card>
       </div>
+
+      {/* View Profile Modal */}
+      <Dialog open={isViewModalOpen} onOpenChange={setIsViewModalOpen}>
+        <DialogContent className="sm:max-w-[600px] text-slate-800">
+          <DialogHeader>
+            <DialogTitle className="text-2xl font-bold flex items-center gap-3">
+              <div className="w-12 h-12 bg-indigo-600 text-white rounded-full flex items-center justify-center text-sm">
+                {selectedCandidate?.fullName?.[0]}{selectedCandidate?.fullName?.split(' ')[1]?.[0]}
+              </div>
+              {selectedCandidate?.fullName}
+            </DialogTitle>
+            <DialogDescription>
+              Candidate application for {selectedCandidate?.appliedRole}
+            </DialogDescription>
+          </DialogHeader>
+          <div className="grid grid-cols-2 gap-6 py-4">
+            <div className="space-y-4">
+              <div>
+                <Label className="text-xs uppercase font-bold text-slate-400">Email Address</Label>
+                <p className="font-medium">{selectedCandidate?.email || "n/a"}</p>
+              </div>
+              <div>
+                <Label className="text-xs uppercase font-bold text-slate-400">Current Stage</Label>
+                <div className="mt-1">
+                   <Badge className={stageColors[selectedCandidate?.stage] || ""}>
+                    {selectedCandidate ? getStageName(selectedCandidate.stage) : ""}
+                  </Badge>
+                </div>
+              </div>
+            </div>
+            <div className="space-y-4">
+              <div>
+                <Label className="text-xs uppercase font-bold text-slate-400">Applied From</Label>
+                <p className="font-medium">{selectedCandidate?.source || "Direct"}</p>
+              </div>
+              <div>
+                <Label className="text-xs uppercase font-bold text-slate-400">Rating</Label>
+                <div className="flex items-center gap-1 mt-1">
+                  <Star className="w-4 h-4 text-amber-500 fill-amber-500" />
+                  <span className="font-bold">{selectedCandidate?.rating || "0.0"}</span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <DialogFooter className="gap-2">
+            <Button variant="outline" onClick={() => window.alert("Messaging feature would open here.")}>Message</Button>
+            <Button onClick={() => setIsViewModalOpen(false)}>Close Profile</Button>
+          </DialogFooter>
+        </DialogContent>
+      </Dialog>
+
+      {/* Add Candidate Modal */}
+      <Dialog open={isAddModalOpen} onOpenChange={setIsAddModalOpen}>
+        <DialogContent className="sm:max-w-[500px] text-slate-800">
+          <DialogHeader>
+            <DialogTitle>Add New Candidate</DialogTitle>
+            <DialogDescription>Manually add a candidate to the hiring pipeline.</DialogDescription>
+          </DialogHeader>
+          <div className="grid gap-4 py-4">
+            <div className="grid gap-2">
+              <Label htmlFor="cName">Full Name</Label>
+              <Input 
+                id="cName" 
+                placeholder="Eleanor Shellstrop" 
+                value={newCandidate.fullName}
+                onChange={(e) => setNewCandidate({...newCandidate, fullName: e.target.value})}
+              />
+            </div>
+            <div className="grid gap-2">
+              <Label htmlFor="cEmail">Email Address</Label>
+              <Input 
+                id="cEmail" 
+                type="email" 
+                placeholder="eleanor@goodplace.com" 
+                value={newCandidate.email}
+                onChange={(e) => setNewCandidate({...newCandidate, email: e.target.value})}
+              />
+            </div>
+            <div className="grid gap-2">
+              <Label htmlFor="cRole">Applied Role</Label>
+              <Input 
+                id="cRole" 
+                value={newCandidate.appliedRole}
+                onChange={(e) => setNewCandidate({...newCandidate, appliedRole: e.target.value})}
+              />
+            </div>
+            <div className="grid gap-2">
+              <Label htmlFor="cSource">Source</Label>
+              <select 
+                  className="flex h-10 w-full rounded-md border border-input bg-background px-3 py-2 text-sm"
+                  value={newCandidate.source}
+                  onChange={(e) => setNewCandidate({...newCandidate, source: e.target.value})}
+                >
+                  <option value="LinkedIn">LinkedIn</option>
+                  <option value="Indeed">Indeed</option>
+                  <option value="Referral">Referral</option>
+                  <option value="Direct">Direct</option>
+                </select>
+            </div>
+          </div>
+          <DialogFooter>
+            <Button variant="outline" onClick={() => setIsAddModalOpen(false)}>Cancel</Button>
+            <Button onClick={handleAddCandidate}>Add to Pipeline</Button>
+          </DialogFooter>
+        </DialogContent>
+      </Dialog>
     </div>
   );
 }

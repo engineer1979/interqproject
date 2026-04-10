@@ -2,11 +2,11 @@ import {
   Briefcase, Users, FileText, Calendar, TrendingUp, 
   ArrowRight, CheckCircle, Clock, Target, BarChart3 
 } from "lucide-react";
-import { mockCompanyStats, mockJobs, mockApplications, mockInterviews } from "@/data/atsData";
+import { mockKPIs, mockJobs, mockCandidates, mockInterviews } from "@/data/adminModuleData";
 
 export default function CompanyDashboard() {
-  const stats = mockCompanyStats;
-  const recentApps = mockApplications.slice(0, 5);
+  const stats = { activeJobs: mockJobs.filter(j=>j.status==="open").length, totalCandidates: mockCandidates.length, interviewsThisWeek: mockInterviews.filter(i=>i.status==="scheduled").length, offersOut: 5, hiredThisMonth: 8, pendingScreening: 23 };
+  const recentApps = mockCandidates.slice(0, 5);
   const activeJobs = mockJobs.slice(0, 3);
 
   return (
@@ -119,8 +119,8 @@ export default function CompanyDashboard() {
               <div key={app.id} className="p-4 hover:bg-gray-50 transition">
                 <div className="flex items-center justify-between">
                   <div>
-                    <h3 className="font-medium text-gray-900">{app.jobSeekerName}</h3>
-                    <p className="text-sm text-gray-500">{app.jobTitle}</p>
+                    <h3 className="font-medium text-gray-900">{app.fullName}</h3>
+                    <p className="text-sm text-gray-500">{app.appliedRole}</p>
                   </div>
                   <div className="text-right">
                     <p className="text-sm text-gray-500">{app.source}</p>

@@ -24,6 +24,7 @@ import {
   XCircle,
   Star,
   Bookmark,
+  Award,
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
@@ -43,6 +44,7 @@ import {
   TooltipTrigger,
 } from "@/components/ui/tooltip";
 import { useAuth, AccountRole } from "@/contexts/SimpleAuthContext";
+import { NotificationBell } from "@/components/NotificationBell";
 
 interface NavItem {
   label: string;
@@ -74,6 +76,7 @@ const navItems: NavItem[] = [
   { label: "Audit Logs", icon: <ScrollText className="h-5 w-5" />, href: "/audit-logs", roles: ["admin"] },
   { label: "Security", icon: <Shield className="h-5 w-5" />, href: "/security", roles: ["admin"] },
   { label: "Settings", icon: <Settings className="h-5 w-5" />, href: "/settings", roles: ["admin", "company", "recruiter", "jobseeker"] },
+  { label: "Certificates", icon: <Award className="h-5 w-5" />, href: "/jobseeker/certificates", roles: ["jobseeker"] },
 ];
 
 interface UnifiedLayoutProps {
@@ -136,7 +139,12 @@ export function UnifiedLayout({ children }: UnifiedLayoutProps) {
               </svg>
             </Button>
             <Link to="/" className="flex items-center gap-2">
-              <img src="/interq-logo.svg" alt="InterQ" className="h-10 w-auto" />
+              <div className="flex flex-col items-center justify-center">
+                <img src="/interq-logo.svg" alt="InterQ" className="h-10 w-auto" />
+                <span className="text-[10px] font-medium text-slate-700 mt-1 opacity-80 transition-colors duration-300" style={{ letterSpacing: '0.05em' }}>
+                  InterQ Technologies Inc
+                </span>
+              </div>
             </Link>
             <Badge variant="outline" className={`${roleColor} text-white border-0 hidden md:flex`}>
               {roleLabel}
@@ -151,10 +159,7 @@ export function UnifiedLayout({ children }: UnifiedLayoutProps) {
           </div>
 
           <div className="flex items-center gap-2">
-            <Button variant="ghost" size="icon" className="relative">
-              <Bell className="h-5 w-5" />
-              <span className="absolute -top-1 -right-1 w-5 h-5 bg-red-500 text-white text-xs rounded-full flex items-center justify-center">3</span>
-            </Button>
+            <NotificationBell />
             <Button variant="ghost" size="icon">
               <MessageSquare className="h-5 w-5" />
             </Button>

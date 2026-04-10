@@ -16,10 +16,18 @@ import {
   ArrowUpRight,
   ArrowDownRight,
 } from "lucide-react";
-import { mockAdminStats } from "@/data/atsData";
+import { mockKPIs, mockCompanies } from "@/data/adminModuleData";
 
 export default function AdminReports() {
-  const stats = mockAdminStats;
+  const stats = {
+    totalJobSeekers: mockKPIs.totalCandidates,
+    activeCompanies: mockCompanies.filter(c => c.status === "active").length,
+    totalApplications: mockKPIs.totalCandidates * 3,
+    totalHires: mockKPIs.hiresCompleted,
+    totalOffersSent: mockKPIs.offersSent,
+    totalRecruiters: mockKPIs.totalRecruiters,
+    activeJobs: mockKPIs.activeJobs,
+  };
   const [dateRange, setDateRange] = useState("30d");
 
   return (

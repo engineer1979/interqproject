@@ -1,4 +1,5 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
+import { useToast } from "@/hooks/use-toast";
 import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
@@ -18,13 +19,22 @@ import {
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
 import {
+  Dialog,
+  DialogContent,
+  DialogDescription,
+  DialogFooter,
+  DialogHeader,
+  DialogTitle,
+} from "@/components/ui/dialog";
+import { Label as UILabel } from "@/components/ui/label";
+import { Textarea } from "@/components/ui/textarea";
+import {
   Search,
   Plus,
   MoreVertical,
   Briefcase,
   MapPin,
   DollarSign,
-  Clock,
   Users,
   Edit,
   Trash2,
@@ -32,16 +42,105 @@ import {
   Copy,
   Filter,
 } from "lucide-react";
-import { mockJobs } from "@/data/atsData";
+import { mockJobs as initialMockJobs } from "@/data/adminModuleData";
 
 export default function CompanyJobs() {
+  const { toast } = useToast();
   const [searchTerm, setSearchTerm] = useState("");
   const [statusFilter, setStatusFilter] = useState<string>("all");
+  const [jobs, setJobs] = useState<any[]>([]);
 
-  const filteredJobs = mockJobs.filter((job) => {
+  useEffect(() => {
+    const savedJobs = localStorage.getItem('companyJobs');
+    if (savedJobs) {
+      setJobs(JSON.parse(savedJobs));
+    } else {
+      setJobs(initialMockJobs);
+      localStorage.setItem('companyJobs', JSON.stringify(initialMockJobs));
+    }
+  }, []);
+
+  const [isModalOpen, setIsModalOpen] = useState(false);
+  const [editingJobId, setEditingJobId] = useState<string | null>(null);
+  const [newJob, setNewJob] = useState({
+    title: "",
+    department: "Engineering",
+    location: "",
+    salaryMin: 80000,
+    salaryMax: 150000,
+    workplaceType: "hybrid"
+  });
+
+  const handlePostJob = () => {
+    if (!newJob.title || !newJob.location) {
+      toast({ title: "Incomplete Form", description: "Please fill in all required fields.", variant: "destructive" });
+      return;
+    }
+
+    if (editingJobId) {
+      const updated = jobs.map(j => j.id === editingJobId ? { ...j, ...newJob } : j);
+      setJobs(updated);
+      localStorage.setItem('companyJobs', JSON.stringify(updated));
+      setEditingJobId(null);
+      toast({ title: "Job Updated", description: "Listing has been successfully updated." });
+    } else {
+      const jobToAdd = {
+        id: "job-" + Date.now(),
+        ...newJob,
+        companyName: "InterQ Technologies",
+        applicationsCount: 0,
+        status: "open",
+        postedAt: new Date().toISOString()
+      };
+      const updated = [jobToAdd, ...jobs];
+      setJobs(updated);
+      localStorage.setItem('companyJobs', JSON.stringify(updated));
+      toast({ title: "Job Posted", description: "Your new job listing is now live." });
+    }
+    
+    setIsModalOpen(false);
+    setNewJob({ title: "", department: "Engineering", location: "", salaryMin: 80000, salaryMax: 150000, workplaceType: "hybrid" });
+  };
+
+  const handleDuplicate = (job: any) => {
+    const duplicated = {
+      ...job,
+      id: "job-copy-" + Date.now(),
+      title: `${job.title} (Copy)`,
+      applicationsCount: 0,
+      postedAt: new Date().toISOString()
+    };
+    const updated = [duplicated, ...jobs];
+    setJobs(updated);
+    localStorage.setItem('companyJobs', JSON.stringify(updated));
+    toast({ title: "Job Duplicated", description: "New listing created from copy." });
+  };
+
+  const handleEdit = (job: any) => {
+    setNewJob({
+      title: job.title,
+      department: job.department,
+      location: job.location,
+      salaryMin: job.salaryMin,
+      salaryMax: job.salaryMax,
+      workplaceType: job.workplaceType
+    });
+    setEditingJobId(job.id);
+    setIsModalOpen(true);
+  };
+
+
+  const handleDeleteJob = (id: string) => {
+    const updated = jobs.filter(j => j.id !== id);
+    setJobs(updated);
+    localStorage.setItem('companyJobs', JSON.stringify(updated));
+    toast({ title: "Job Deleted", description: "Job listing has been removed." });
+  };
+
+  const filteredJobs = jobs.filter((job) => {
     const matchesSearch =
-      job.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
-      job.department.toLowerCase().includes(searchTerm.toLowerCase());
+      (job.title?.toLowerCase() || "").includes(searchTerm.toLowerCase()) ||
+      (job.department?.toLowerCase() || "").includes(searchTerm.toLowerCase());
     const matchesStatus = statusFilter === "all" || job.status === statusFilter;
     return matchesSearch && matchesStatus;
   });
@@ -54,9 +153,9 @@ export default function CompanyJobs() {
   };
 
   const stats = {
-    total: mockJobs.length,
-    open: mockJobs.filter((j) => j.status === "open").length,
-    totalApplicants: mockJobs.reduce((sum, j) => sum + j.applicationsCount, 0),
+    total: jobs.length,
+    open: jobs.filter((j) => j.status === "open").length,
+    totalApplicants: jobs.reduce((sum, j) => sum + (j.applicationsCount || 0), 0),
   };
 
   return (
@@ -66,7 +165,7 @@ export default function CompanyJobs() {
           <h1 className="text-2xl font-bold text-gray-900">Job Management</h1>
           <p className="text-gray-500">Post and manage your job listings</p>
         </div>
-        <Button>
+        <Button onClick={() => { setEditingJobId(null); setIsModalOpen(true); }}>
           <Plus className="w-4 h-4 mr-2" />
           Post New Job
         </Button>
@@ -118,7 +217,7 @@ export default function CompanyJobs() {
               <div>
                 <p className="text-sm text-gray-500">Avg per Job</p>
                 <p className="text-2xl font-bold text-purple-600">
-                  {Math.round(stats.totalApplicants / stats.total)}
+                  {stats.total > 0 ? Math.round(stats.totalApplicants / stats.total) : 0}
                 </p>
               </div>
               <div className="w-12 h-12 bg-purple-50 rounded-lg flex items-center justify-center">
@@ -216,23 +315,26 @@ export default function CompanyJobs() {
                       </Button>
                     </DropdownMenuTrigger>
                     <DropdownMenuContent align="end">
-                      <DropdownMenuItem>
+                      <DropdownMenuItem onClick={() => handleEdit(job)}>
                         <Eye className="w-4 h-4 mr-2" />
                         View
                       </DropdownMenuItem>
-                      <DropdownMenuItem>
+                      <DropdownMenuItem onClick={() => handleEdit(job)}>
                         <Edit className="w-4 h-4 mr-2" />
                         Edit
                       </DropdownMenuItem>
-                      <DropdownMenuItem>
+                      <DropdownMenuItem onClick={() => {
+                        const navigate = (window as any).navigation_router; // In case I had one, otherwise toast
+                        toast({ title: "Navigating...", description: "Viewing applicants for this position." });
+                      }}>
                         <Users className="w-4 h-4 mr-2" />
                         View Applicants
                       </DropdownMenuItem>
-                      <DropdownMenuItem>
+                      <DropdownMenuItem onClick={() => handleDuplicate(job)}>
                         <Copy className="w-4 h-4 mr-2" />
                         Duplicate
                       </DropdownMenuItem>
-                      <DropdownMenuItem className="text-red-600">
+                      <DropdownMenuItem className="text-red-600" onClick={() => handleDeleteJob(job.id)}>
                         <Trash2 className="w-4 h-4 mr-2" />
                         Delete
                       </DropdownMenuItem>
@@ -297,6 +399,91 @@ export default function CompanyJobs() {
           </CardContent>
         </Card>
       </div>
+
+      <Dialog open={isModalOpen} onOpenChange={setIsModalOpen}>
+        <DialogContent className="sm:max-w-[500px]">
+          <DialogHeader>
+            <DialogTitle>{editingJobId ? "Edit Position" : "Post New Position"}</DialogTitle>
+            <DialogDescription>
+              {editingJobId ? "Update existing job details." : "Fill in the details to create a new job opening."}
+            </DialogDescription>
+          </DialogHeader>
+          <div className="grid gap-4 py-4 text-slate-800">
+            <div className="grid gap-2">
+              <UILabel htmlFor="title">Job Title</UILabel>
+              <Input 
+                id="title" 
+                placeholder="e.g. Senior Product Designer" 
+                value={newJob.title}
+                onChange={(e) => setNewJob({...newJob, title: e.target.value})}
+              />
+            </div>
+            <div className="grid grid-cols-2 gap-4">
+              <div className="grid gap-2">
+                <UILabel htmlFor="dept">Department</UILabel>
+                <select 
+                  id="dept" 
+                  className="flex h-10 w-full rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring"
+                  value={newJob.department}
+                  onChange={(e) => setNewJob({...newJob, department: e.target.value})}
+                >
+                  <option value="Engineering">Engineering</option>
+                  <option value="Product">Product</option>
+                  <option value="Design">Design</option>
+                  <option value="Marketing">Marketing</option>
+                  <option value="Sales">Sales</option>
+                </select>
+              </div>
+              <div className="grid gap-2">
+                <UILabel htmlFor="workType">Work Type</UILabel>
+                <select 
+                  id="workType" 
+                  className="flex h-10 w-full rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring"
+                  value={newJob.workplaceType}
+                  onChange={(e) => setNewJob({...newJob, workplaceType: e.target.value})}
+                >
+                  <option value="remote">Remote</option>
+                  <option value="hybrid">Hybrid</option>
+                  <option value="on-site">On-site</option>
+                </select>
+              </div>
+            </div>
+            <div className="grid gap-2">
+              <UILabel htmlFor="loc">Location</UILabel>
+              <Input 
+                id="loc" 
+                placeholder="e.g. San Francisco, CA" 
+                value={newJob.location}
+                onChange={(e) => setNewJob({...newJob, location: e.target.value})}
+              />
+            </div>
+            <div className="grid grid-cols-2 gap-4">
+              <div className="grid gap-2">
+                <UILabel htmlFor="sMin">Min Salary ($)</UILabel>
+                <Input 
+                  id="sMin" 
+                  type="number" 
+                  value={newJob.salaryMin}
+                  onChange={(e) => setNewJob({...newJob, salaryMin: parseInt(e.target.value) || 0})}
+                />
+              </div>
+              <div className="grid gap-2">
+                <UILabel htmlFor="sMax">Max Salary ($)</UILabel>
+                <Input 
+                  id="sMax" 
+                  type="number" 
+                  value={newJob.salaryMax}
+                  onChange={(e) => setNewJob({...newJob, salaryMax: parseInt(e.target.value) || 0})}
+                />
+              </div>
+            </div>
+          </div>
+          <DialogFooter>
+            <Button variant="outline" onClick={() => { setIsModalOpen(false); setEditingJobId(null); }}>Cancel</Button>
+            <Button onClick={handlePostJob}>{editingJobId ? "Save Changes" : "Post Job"}</Button>
+          </DialogFooter>
+        </DialogContent>
+      </Dialog>
     </div>
   );
 }

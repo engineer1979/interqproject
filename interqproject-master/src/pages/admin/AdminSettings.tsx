@@ -57,7 +57,20 @@ export default function AdminSettings() {
                             </CardDescription>
                         </CardHeader>
                         <CardContent>
-                            <p className="text-sm text-muted-foreground">Notification settings coming soon.</p>
+                            <div className="space-y-3">
+  <div className="flex items-center justify-between py-2 border-b">
+    <div><p className="text-sm font-medium">Email Alerts</p><p className="text-xs text-muted-foreground">Get emailed on new user signups</p></div>
+    <input type="checkbox" defaultChecked className="h-4 w-4 rounded" />
+  </div>
+  <div className="flex items-center justify-between py-2 border-b">
+    <div><p className="text-sm font-medium">System Alerts</p><p className="text-xs text-muted-foreground">Critical system notifications</p></div>
+    <input type="checkbox" defaultChecked className="h-4 w-4 rounded" />
+  </div>
+  <div className="flex items-center justify-between py-2">
+    <div><p className="text-sm font-medium">Weekly Reports</p><p className="text-xs text-muted-foreground">Receive weekly platform summaries</p></div>
+    <input type="checkbox" className="h-4 w-4 rounded" />
+  </div>
+</div>
                         </CardContent>
                     </Card>
                 </TabsContent>

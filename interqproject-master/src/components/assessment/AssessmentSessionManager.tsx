@@ -27,9 +27,9 @@ export function AssessmentSessionManager({
       try {
         // Check for existing active sessions
         const { data: existingSessions, error: checkError } = await (supabase as any)
-          .from('interview_sessions')
+          .from('assessment_sessions')
           .select('*')
-          .eq('interview_id', assessmentId)
+          .eq('assessment_id', assessmentId)
           .eq('user_id', userId)
           .eq('completed', false);
 
@@ -42,7 +42,7 @@ export function AssessmentSessionManager({
           
           // Update last activity
           await (supabase as any)
-            .from('interview_sessions')
+            .from('assessment_sessions')
             .update({ updated_at: new Date().toISOString() })
             .eq('id', activeSession.id);
         }
@@ -87,7 +87,7 @@ export function AssessmentSessionManager({
     const checkSessionValidity = async () => {
       try {
         const { data: session, error } = await supabase
-          .from('interview_sessions')
+          .from('assessment_sessions')
           .select('*')
           .eq('id', sessionId)
           .single();
@@ -111,7 +111,7 @@ export function AssessmentSessionManager({
 
         // Check for timeout (assuming 2x the assessment duration)
         const maxInactiveTime = (session.time_remaining_seconds || 3600) * 2 * 1000; // 2x duration in ms
-        const timeSinceLastActivity = Date.now() - new Date(session.updated_at).getTime();
+        const timeSinceLastActivity = Date.now() - new Date(session.last_activity_at).getTime();
         
         if (timeSinceLastActivity > maxInactiveTime) {
           toast({
@@ -136,9 +136,9 @@ export function AssessmentSessionManager({
     try {
       // First, check for existing incomplete sessions
       const { data: existingSessions } = await (supabase as any)
-        .from('interview_sessions')
+        .from('assessment_sessions')
         .select('id')
-        .eq('interview_id', assessmentId)
+        .eq('assessment_id', assessmentId)
         .eq('user_id', userId)
         .eq('completed', false);
 
@@ -147,9 +147,9 @@ export function AssessmentSessionManager({
       }
 
       const { data: newSession, error } = await (supabase as any)
-        .from('interview_sessions')
+        .from('assessment_sessions')
         .insert({
-          interview_id: assessmentId,
+          assessment_id: assessmentId,
           user_id: userId,
           time_remaining_seconds: timeRemaining,
           current_question_index: 0,

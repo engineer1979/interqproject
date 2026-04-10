@@ -1,7 +1,8 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
+import { useToast } from "@/hooks/use-toast";
 import {
   Bell,
   CheckCircle,
@@ -16,26 +17,61 @@ import {
   Check,
   Filter,
 } from "lucide-react";
-import { mockNotifications } from "@/data/atsData";
+import { mockNotifications } from "@/data/adminModuleData";
 
 export default function JobSeekerNotifications() {
   const [filter, setFilter] = useState<string>("all");
-  const notifications = mockNotifications;
+  const [notifications, setNotifications] = useState<any[]>([]);
+  const { toast } = useToast();
+
+  useEffect(() => {
+    const saved = localStorage.getItem('jobseekerNotifications');
+    if (saved) {
+      setNotifications(JSON.parse(saved));
+    } else {
+      setNotifications(mockNotifications.map(n => ({ ...n, createdAt: n.timestamp })));
+      localStorage.setItem('jobseekerNotifications', JSON.stringify(mockNotifications));
+    }
+  }, []);
+
+  const markAllRead = () => {
+    const updated = notifications.map(n => ({ ...n, read: true }));
+    setNotifications(updated);
+    localStorage.setItem('jobseekerNotifications', JSON.stringify(updated));
+    toast({ title: "All caught up!", description: "All notifications marked as read." });
+  };
+
+  const clearAll = () => {
+    setNotifications([]);
+    localStorage.setItem('jobseekerNotifications', JSON.stringify([]));
+    toast({ title: "Inbox cleared", description: "All notifications removed." });
+  };
+
+  const markRead = (id: string) => {
+    const updated = notifications.map(n => n.id === id ? { ...n, read: true } : n);
+    setNotifications(updated);
+    localStorage.setItem('jobseekerNotifications', JSON.stringify(updated));
+  };
+
+  const deleteNotif = (id: string) => {
+    const updated = notifications.filter(n => n.id !== id);
+    setNotifications(updated);
+    localStorage.setItem('jobseekerNotifications', JSON.stringify(updated));
+  };
 
   const filteredNotifications = notifications.filter((notif) => {
     if (filter === "all") return true;
-    if (filter === "unread") return !notif.isRead;
+    if (filter === "unread") return !notif.read;
     return true;
   });
 
-  const unreadCount = notifications.filter((n) => !n.isRead).length;
+  const unreadCount = notifications.filter((n) => !n.read).length;
 
   const notificationIcons: Record<string, React.ReactNode> = {
-    interview_scheduled: <Calendar className="w-5 h-5 text-blue-600" />,
-    application_received: <Briefcase className="w-5 h-5 text-indigo-600" />,
-    assessment_completed: <FileText className="w-5 h-5 text-purple-600" />,
-    offer_received: <Star className="w-5 h-5 text-amber-600" />,
-    stage_changed: <CheckCircle className="w-5 h-5 text-green-600" />,
+    interview: <Calendar className="w-5 h-5 text-blue-600" />,
+    application: <Briefcase className="w-5 h-5 text-indigo-600" />,
+    assessment: <FileText className="w-5 h-5 text-purple-600" />,
+    offer: <Star className="w-5 h-5 text-amber-600" />,
   };
 
   return (
@@ -46,15 +82,13 @@ export default function JobSeekerNotifications() {
           <p className="text-gray-500">Stay updated with your applications</p>
         </div>
         <div className="flex items-center space-x-3">
-          {unreadCount > 0 && (
-            <Button variant="outline" size="sm">
-              <Check className="w-4 h-4 mr-2" />
-              Mark all as read
-            </Button>
-          )}
-          <Button variant="outline" size="sm">
-            <Settings className="w-4 h-4 mr-2" />
-            Settings
+          <Button variant="outline" size="sm" onClick={markAllRead} disabled={unreadCount === 0}>
+            <Check className="w-4 h-4 mr-2" />
+            Mark all as read
+          </Button>
+          <Button variant="ghost" size="sm" onClick={clearAll} className="text-red-500 hover:text-red-600 hover:bg-red-50">
+            <Trash2 className="w-4 h-4 mr-2" />
+            Clear all
           </Button>
         </div>
       </div>
@@ -85,15 +119,16 @@ export default function JobSeekerNotifications() {
         {filteredNotifications.map((notification) => (
           <Card
             key={notification.id}
-            className={`transition ${
-              !notification.isRead ? "bg-blue-50/50 border-blue-200" : ""
+            className={`transition cursor-pointer group hover:shadow-md ${
+              !notification.read ? "bg-blue-50/50 border-blue-200" : ""
             }`}
+            onClick={() => markRead(notification.id)}
           >
             <CardContent className="p-4">
               <div className="flex items-start space-x-4">
                 <div
                   className={`w-12 h-12 rounded-full flex items-center justify-center flex-shrink-0 ${
-                    !notification.isRead ? "bg-blue-100" : "bg-gray-100"
+                    !notification.read ? "bg-blue-100" : "bg-gray-100"
                   }`}
                 >
                   {notificationIcons[notification.type] || <Bell className="w-5 h-5 text-gray-600" />}
@@ -101,28 +136,30 @@ export default function JobSeekerNotifications() {
                 <div className="flex-1 min-w-0">
                   <div className="flex items-start justify-between">
                     <div>
-                      <h3 className="font-semibold text-gray-900">{notification.title}</h3>
+                      <h3 className={`font-semibold ${!notification.read ? 'text-blue-900' : 'text-gray-900'}`}>{notification.title}</h3>
                       <p className="text-sm text-gray-600 mt-1">{notification.message}</p>
                     </div>
-                    {!notification.isRead && (
+                    {!notification.read && (
                       <Badge variant="default" className="ml-2">
                         New
                       </Badge>
                     )}
                   </div>
                   <p className="text-xs text-gray-400 mt-2">
-                    {new Date(notification.createdAt).toLocaleDateString()} at{" "}
-                    {new Date(notification.createdAt).toLocaleTimeString([], {
+                    {new Date(notification.timestamp).toLocaleDateString()} at{" "}
+                    {new Date(notification.timestamp).toLocaleTimeString([], {
                       hour: "2-digit",
                       minute: "2-digit",
                     })}
                   </p>
                 </div>
                 <div className="flex items-center space-x-2">
-                  <Button variant="ghost" size="sm">
-                    View
-                  </Button>
-                  <Button variant="ghost" size="sm">
+                  <Button 
+                    variant="ghost" 
+                    size="icon" 
+                    className="opacity-0 group-hover:opacity-100 transition-opacity text-gray-400 hover:text-red-500"
+                    onClick={(e) => { e.stopPropagation(); deleteNotif(notification.id); }}
+                  >
                     <Trash2 className="w-4 h-4" />
                   </Button>
                 </div>

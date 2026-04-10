@@ -2,13 +2,13 @@ import {
   Users, FileText, Calendar, Clock, TrendingUp, 
   ArrowRight, CheckCircle, AlertCircle, Target, Briefcase 
 } from "lucide-react";
-import { mockRecruiterStats, mockApplications, mockInterviews, mockAssessmentAssignments } from "@/data/atsData";
+import { mockKPIs, mockCandidates, mockInterviews, mockCandidates } from "@/data/adminModuleData";
 
 export default function RecruiterDashboard() {
-  const stats = mockRecruiterStats;
-  const candidates = mockApplications.slice(0, 5);
+  const stats = mockKPIs;
+  const candidates = mockCandidates.slice(0, 5);
   const upcomingInterviews = mockInterviews.slice(0, 3);
-  const pendingAssessments = mockAssessmentAssignments.filter(a => a.status !== "completed").slice(0, 3);
+  const pendingAssessments = mockCandidates.filter(a => a.status !== "completed").slice(0, 3);
 
   return (
     <div className="space-y-6">
@@ -149,13 +149,13 @@ export default function RecruiterDashboard() {
                       <div className="flex items-center">
                         <div className="w-8 h-8 bg-indigo-100 rounded-full flex items-center justify-center mr-3">
                           <span className="text-xs font-medium text-indigo-600">
-                            {candidate.jobSeekerName.split(" ").map(n => n[0]).join("")}
+                            {candidate.fullName.split(" ").map(n => n[0]).join("")}
                           </span>
                         </div>
-                        <span className="font-medium text-gray-900">{candidate.jobSeekerName}</span>
+                        <span className="font-medium text-gray-900">{candidate.fullName}</span>
                       </div>
                     </td>
-                    <td className="px-4 py-3 text-sm text-gray-500">{candidate.jobTitle}</td>
+                    <td className="px-4 py-3 text-sm text-gray-500">{candidate.appliedRole}</td>
                     <td className="px-4 py-3">
                       <span className="px-2 py-1 bg-blue-100 text-blue-700 text-xs rounded-full capitalize">
                         {candidate.stage.replace(/_/g, " ")}

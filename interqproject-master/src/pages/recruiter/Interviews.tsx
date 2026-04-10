@@ -1,8 +1,12 @@
 import { useState } from "react";
+import { useToast } from "@/hooks/use-toast";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { Input } from "@/components/ui/input";
+import { Label } from "@/components/ui/label";
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
+import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogTrigger, DialogClose } from "@/components/ui/dialog";
 import {
   Table,
   TableBody,
@@ -34,11 +38,14 @@ import {
   FileText,
   Star,
 } from "lucide-react";
-import { mockInterviews } from "@/data/atsData";
+import { LiveInterviewPlatforms } from "@/components/dashboard/LiveInterviewPlatforms";
 
 export default function RecruiterInterviews() {
+  const { toast } = useToast();
   const [searchTerm, setSearchTerm] = useState("");
   const [statusFilter, setStatusFilter] = useState<string>("all");
+  const [showScheduleModal, setShowScheduleModal] = useState(false);
+  const [scheduleData, setScheduleData] = useState({ candidate: '', type: 'video', date: '', time: '', duration: '45' });
 
   const filteredInterviews = mockInterviews.filter((interview) => {
     const matchesSearch =
@@ -47,6 +54,35 @@ export default function RecruiterInterviews() {
     const matchesStatus = statusFilter === "all" || interview.status === statusFilter;
     return matchesSearch && matchesStatus;
   });
+
+  const handleSchedule = () => {
+    if (!scheduleData.candidate || !scheduleData.date) return;
+    toast({ title: 'Interview Scheduled', description: `Interview with ${scheduleData.candidate} scheduled for ${scheduleData.date}` });
+    setShowScheduleModal(false);
+    setScheduleData({ candidate: '', type: 'video', date: '', time: '', duration: '45' });
+  };
+
+  const handleReschedule = (candidateName: string) => {
+    toast({ title: 'Reschedule', description: `Reschedule interview with ${candidateName}` });
+  };
+
+  const handleCancel = (candidateName: string) => {
+    if (confirm(`Cancel interview with ${candidateName}?`)) {
+      toast({ title: 'Interview Cancelled', description: `Interview with ${candidateName} has been cancelled` });
+    }
+  };
+
+  const handleJoinMeeting = (meetingLink: string) => {
+    window.open(meetingLink, '_blank');
+  };
+
+  const handleSubmitFeedback = (candidateName: string) => {
+    toast({ title: 'Submit Feedback', description: `Open feedback form for ${candidateName}` });
+  };
+
+  const handleViewCalendar = () => {
+    toast({ title: 'Calendar View', description: 'Opening calendar view...' });
+  };
 
   const statusColors: Record<string, string> = {
     scheduled: "bg-blue-100 text-blue-700",
@@ -77,23 +113,94 @@ export default function RecruiterInterviews() {
   };
 
   return (
-    <div className="space-y-6">
+    <div className="space-y-8 animate-in fade-in duration-700">
       <div className="flex items-center justify-between">
         <div>
-          <h1 className="text-2xl font-bold text-gray-900">Interview Management</h1>
-          <p className="text-gray-500">Schedule and manage candidate interviews</p>
+          <h1 className="text-3xl font-black text-gray-900 tracking-tight text-gray-900">Interview Management</h1>
+          <p className="text-gray-500 font-medium">Schedule and manage candidate interviews</p>
         </div>
         <div className="flex items-center space-x-3">
-          <Button variant="outline">
+          <Button variant="outline" onClick={handleViewCalendar}>
             <Calendar className="w-4 h-4 mr-2" />
             View Calendar
           </Button>
-          <Button>
-            <Plus className="w-4 h-4 mr-2" />
-            Schedule Interview
-          </Button>
+          <Dialog open={showScheduleModal} onOpenChange={setShowScheduleModal}>
+            <DialogTrigger asChild>
+              <Button className="bg-primary hover:bg-primary/90">
+                <Plus className="w-4 h-4 mr-2" />
+                Schedule Interview
+              </Button>
+            </DialogTrigger>
+            <DialogContent>
+              <DialogHeader>
+                <DialogTitle>Schedule New Interview</DialogTitle>
+              </DialogHeader>
+              <div className="space-y-4">
+                <div>
+                  <Label>Select Candidate</Label>
+                  <Select value={scheduleData.candidate} onValueChange={(v) => setScheduleData({ ...scheduleData, candidate: v })}>
+                    <SelectTrigger>
+                      <SelectValue placeholder="Choose candidate" />
+                    </SelectTrigger>
+                    <SelectContent>
+                      <SelectItem value="John Doe">John Doe</SelectItem>
+                      <SelectItem value="Sarah Wilson">Sarah Wilson</SelectItem>
+                      <SelectItem value="Mike Johnson">Mike Johnson</SelectItem>
+                    </SelectContent>
+                  </Select>
+                </div>
+                <div className="grid grid-cols-2 gap-4">
+                  <div>
+                    <Label>Type</Label>
+                    <Select value={scheduleData.type} onValueChange={(v) => setScheduleData({ ...scheduleData, type: v })}>
+                      <SelectTrigger>
+                        <SelectValue />
+                      </SelectTrigger>
+                      <SelectContent>
+                        <SelectItem value="video">Video Call</SelectItem>
+                        <SelectItem value="phone">Phone</SelectItem>
+                        <SelectItem value="in_person">In Person</SelectItem>
+                      </SelectContent>
+                    </Select>
+                  </div>
+                  <div>
+                    <Label>Duration (min)</Label>
+                    <Select value={scheduleData.duration} onValueChange={(v) => setScheduleData({ ...scheduleData, duration: v })}>
+                      <SelectTrigger>
+                        <SelectValue />
+                      </SelectTrigger>
+                      <SelectContent>
+                        <SelectItem value="30">30 min</SelectItem>
+                        <SelectItem value="45">45 min</SelectItem>
+                        <SelectItem value="60">60 min</SelectItem>
+                        <SelectItem value="90">90 min</SelectItem>
+                      </SelectContent>
+                    </Select>
+                  </div>
+                </div>
+                <div className="grid grid-cols-2 gap-4">
+                  <div>
+                    <Label>Date</Label>
+                    <Input type="date" value={scheduleData.date} onChange={(e) => setScheduleData({ ...scheduleData, date: e.target.value })} />
+                  </div>
+                  <div>
+                    <Label>Time</Label>
+                    <Input type="time" value={scheduleData.time} onChange={(e) => setScheduleData({ ...scheduleData, time: e.target.value })} />
+                  </div>
+                </div>
+                <div className="flex justify-end gap-3 pt-4">
+                  <DialogClose asChild>
+                    <Button variant="outline">Cancel</Button>
+                  </DialogClose>
+                  <Button onClick={handleSchedule}>Schedule</Button>
+                </div>
+              </div>
+            </DialogContent>
+          </Dialog>
         </div>
       </div>
+
+      <LiveInterviewPlatforms />
 
       <div className="grid grid-cols-1 md:grid-cols-4 gap-4">
         <Card>
@@ -260,26 +367,26 @@ export default function RecruiterInterviews() {
                       </Button>
                     </DropdownMenuTrigger>
                     <DropdownMenuContent align="end">
-                      <DropdownMenuItem>
+                      <DropdownMenuItem onClick={() => toast({ title: 'Viewing Details', description: `Interview details for ${interview.candidateName}` })}>
                         <Calendar className="w-4 h-4 mr-2" />
                         View Details
                       </DropdownMenuItem>
                       {interview.meetingLink && (
-                        <DropdownMenuItem>
+                        <DropdownMenuItem onClick={() => handleJoinMeeting(interview.meetingLink!)}>
                           <ExternalLink className="w-4 h-4 mr-2" />
                           Join Meeting
                         </DropdownMenuItem>
                       )}
                       {interview.status === "completed" && (
-                        <DropdownMenuItem>
+                        <DropdownMenuItem onClick={() => handleSubmitFeedback(interview.candidateName)}>
                           <FileText className="w-4 h-4 mr-2" />
                           Submit Feedback
                         </DropdownMenuItem>
                       )}
                       {interview.status === "scheduled" && (
                         <>
-                          <DropdownMenuItem>Reschedule</DropdownMenuItem>
-                          <DropdownMenuItem>
+                          <DropdownMenuItem onClick={() => handleReschedule(interview.candidateName)}>Reschedule</DropdownMenuItem>
+                          <DropdownMenuItem onClick={() => handleCancel(interview.candidateName)}>
                             <XCircle className="w-4 h-4 mr-2" />
                             Cancel
                           </DropdownMenuItem>

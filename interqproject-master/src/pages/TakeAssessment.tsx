@@ -1,518 +1,697 @@
 import { useState, useEffect, useCallback, useRef } from "react";
 import { useParams, useNavigate } from "react-router-dom";
-import { supabase } from "@/integrations/supabase/client";
-import { ProtectedRoute } from "@/components/ProtectedRoute";
-import EnhancedNavigation from "@/components/EnhancedNavigation";
-import EnhancedFooter from "@/components/EnhancedFooter";
-import { Button } from "@/components/ui/button";
-import { Card } from "@/components/ui/card";
 import { useToast } from "@/hooks/use-toast";
-import { Loader2, Clock, AlertTriangle, Eye, EyeOff } from "lucide-react";
-import { AssessmentTimer } from "@/components/assessment/AssessmentTimer";
-import { AssessmentQuestion } from "@/components/assessment/AssessmentQuestion";
-import { AssessmentProgress } from "@/components/assessment/AssessmentProgress";
-import { ProctoringWarning } from "@/components/assessment/ProctoringWarning";
-import { FaceDetection } from "@/components/assessment/FaceDetection";
 import { useAuth } from "@/contexts/SimpleAuthContext";
-import { Alert, AlertDescription } from "@/components/ui/alert";
-import { mockAssessments, getQuestionsByAssessment } from "@/data/mockQuestions";
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import { Button } from "@/components/ui/button";
+import { Progress } from "@/components/ui/progress";
+import { Badge } from "@/components/ui/badge";
+import { RadioGroup, RadioGroupItem } from "@/components/ui/radio-group";
+import { Label } from "@/components/ui/label";
+import {
+  Clock,
+  ChevronLeft,
+  ChevronRight,
+  CheckCircle,
+  AlertCircle,
+  BookOpen,
+  Target,
+  Timer,
+  Trophy,
+  RotateCcw,
+  List,
+  ChevronUp,
+} from "lucide-react";
+import { assessmentsData, Assessment } from "@/data/assessments";
+import { useAssessmentQuestions, TOTAL_QUESTIONS, ASSESSMENT_DURATION_MINUTES } from "@/hooks/useAssessmentQuestions";
+import { supabase } from "@/integrations/supabase/client";
+import { cn } from "@/lib/utils";
+import { CertificateTemplate } from "@/components/certificate/CertificateTemplate";
+import { useJobSeekerDashboard } from "@/contexts/JobSeekerDashboardContext";
+import { Dialog, DialogContent, DialogHeader, DialogTitle } from "@/components/ui/dialog";
 
-interface Assessment {
-  id: string;
-  title: string;
-  description: string;
-  duration_minutes: number;
-  timer_enabled: boolean;
-  grace_period_minutes: number;
-  auto_submit_on_timeout: boolean;
-  proctoring_enabled: boolean;
-  face_detection_enabled: boolean;
-  tab_switch_detection: boolean;
-  max_tab_switches: number;
-  passing_score: number;
+// ─── Types ────────────────────────────────────────────────────────────────────
+
+type Answers = Record<string, string>; // questionId → "A" | "B" | "C" | "D"
+type ViewState = "instructions" | "in-progress" | "submitted";
+
+// ─── Helpers ──────────────────────────────────────────────────────────────────
+
+const formatTime = (seconds: number): { text: string; urgent: boolean } => {
+  const m = Math.floor(seconds / 60);
+  const s = seconds % 60;
+  return {
+    text: `${String(m).padStart(2, "0")}:${String(s).padStart(2, "0")}`,
+    urgent: seconds <= 120, // last 2 minutes
+  };
+};
+
+const difficultyColor = (d?: string) => {
+  switch (d) {
+    case "easy":   return "bg-emerald-100 text-emerald-700 border-emerald-200";
+    case "medium": return "bg-amber-100 text-amber-700 border-amber-200";
+    case "hard":   return "bg-red-100 text-red-700 border-red-200";
+    default:       return "bg-slate-100 text-slate-600 border-slate-200";
+  }
+};
+
+// ─── Sub-components ───────────────────────────────────────────────────────────
+
+interface TimerBadgeProps { seconds: number }
+function TimerBadge({ seconds }: TimerBadgeProps) {
+  const { text, urgent } = formatTime(seconds);
+  return (
+    <div
+      className={cn(
+        "flex items-center gap-2 px-4 py-2 rounded-xl font-mono text-lg font-bold border-2 transition-all duration-300",
+        urgent
+          ? "bg-red-50 border-red-400 text-red-600 animate-pulse"
+          : "bg-slate-50 border-slate-200 text-slate-700"
+      )}
+    >
+      <Clock className={cn("w-5 h-5", urgent && "text-red-500")} />
+      {text}
+    </div>
+  );
 }
 
-interface Question {
-  id: string;
-  question_text: string;
-  question_type?: string;
-  options: any;
-  order_index: number;
-  points: number;
-  correct_answer?: string;
+// ─── Instructions Screen ──────────────────────────────────────────────────────
+
+interface InstructionsProps {
+  assessment: Assessment;
+  onStart: () => void;
 }
+function InstructionsScreen({ assessment, onStart }: InstructionsProps) {
+  return (
+    <div className="min-h-screen bg-gradient-to-br from-slate-50 via-blue-50 to-indigo-50 flex items-center justify-center p-6">
+      <Card className="w-full max-w-2xl shadow-2xl border-0 overflow-hidden">
+        {/* Header band */}
+        <div className="bg-gradient-to-r from-indigo-600 to-blue-600 px-8 py-6 text-white">
+          <div className="flex items-center gap-3 mb-2">
+            <BookOpen className="w-6 h-6 opacity-80" />
+            <span className="text-sm font-semibold uppercase tracking-wider opacity-80">Assessment</span>
+          </div>
+          <h1 className="text-2xl font-bold">{assessment.title}</h1>
+          <p className="text-sm text-blue-100 mt-1">{assessment.description}</p>
+        </div>
+
+        <CardContent className="p-8 space-y-8">
+          {/* Stats row */}
+          <div className="grid grid-cols-3 gap-4">
+            {[
+              { icon: List, label: "Questions", value: TOTAL_QUESTIONS },
+              { icon: Timer, label: "Duration", value: `${ASSESSMENT_DURATION_MINUTES} min` },
+              { icon: Target, label: "To Pass", value: "70%" },
+            ].map(({ icon: Icon, label, value }) => (
+              <div key={label} className="bg-slate-50 rounded-xl p-4 text-center border border-slate-100">
+                <Icon className="w-5 h-5 mx-auto text-indigo-500 mb-2" />
+                <p className="text-2xl font-bold text-slate-800">{value}</p>
+                <p className="text-xs text-slate-500 mt-0.5">{label}</p>
+              </div>
+            ))}
+          </div>
+
+          {/* Meta */}
+          <div className="flex gap-3 flex-wrap">
+            <Badge className={cn("border", difficultyColor(assessment.difficulty))}>
+              {assessment.difficulty?.toUpperCase()}
+            </Badge>
+            <Badge variant="outline">{assessment.category}</Badge>
+          </div>
+
+          {/* Rules */}
+          <div className="bg-amber-50 border border-amber-200 rounded-xl p-5">
+            <h3 className="font-semibold text-amber-800 mb-3 flex items-center gap-2">
+              <AlertCircle className="w-4 h-4" /> Important Rules
+            </h3>
+            <ul className="text-sm text-amber-700 space-y-2">
+              <li className="flex items-start gap-2"><span className="mt-0.5 text-amber-500">•</span>Answer all {TOTAL_QUESTIONS} questions within {ASSESSMENT_DURATION_MINUTES} minutes.</li>
+              <li className="flex items-start gap-2"><span className="mt-0.5 text-amber-500">•</span>The assessment auto-submits when the timer reaches zero.</li>
+              <li className="flex items-start gap-2"><span className="mt-0.5 text-amber-500">•</span>Navigate freely between questions using Previous / Next or the grid.</li>
+              <li className="flex items-start gap-2"><span className="mt-0.5 text-amber-500">•</span>Your answers are saved automatically as you select them.</li>
+              <li className="flex items-start gap-2"><span className="mt-0.5 text-amber-500">•</span>A score of 70% or above is required to pass.</li>
+            </ul>
+          </div>
+
+          {/* CTA */}
+          <Button
+            size="lg"
+            className="w-full h-12 text-base font-semibold bg-indigo-600 hover:bg-indigo-700"
+            onClick={onStart}
+          >
+            Start Assessment
+            <ChevronRight className="w-5 h-5 ml-2" />
+          </Button>
+        </CardContent>
+      </Card>
+    </div>
+  );
+}
+
+// ─── Result Screen ────────────────────────────────────────────────────────────
+
+interface ResultProps {
+  score: number;
+  answers: Answers;
+  totalQuestions: number;
+  correctCount: number;
+  timeTaken: number; // seconds
+  assessmentTitle: string;
+  onRetry: () => void;
+  onBack: () => void;
+}
+function ResultScreen({ score, totalQuestions, correctCount, timeTaken, assessmentTitle, onRetry, onBack }: ResultProps) {
+  const passed = score >= 70;
+  const { text: timeTakenText } = formatTime(timeTaken);
+  const { addCertificate } = useJobSeekerDashboard();
+  const [showCertificate, setShowCertificate] = useState(false);
+  const [isGenerating, setIsGenerating] = useState(false);
+  const [generatedId, setGeneratedId] = useState<string | null>(null);
+
+  const handleGenerate = async () => {
+    setIsGenerating(true);
+    await new Promise(resolve => setTimeout(resolve, 1500));
+    
+    const id = `CERT-${Math.random().toString(36).substr(2, 9).toUpperCase()}`;
+    setGeneratedId(id);
+    
+    await addCertificate({
+      id,
+      title: assessmentTitle,
+      assessment_id: "demo",
+      status: "issued",
+      issued_at: new Date().toISOString()
+    });
+    
+    setIsGenerating(false);
+    setShowCertificate(true);
+  };
+
+  return (
+    <div className="min-h-screen bg-gradient-to-br from-slate-50 via-blue-50 to-indigo-50 flex items-center justify-center p-6">
+      <Card className="w-full max-w-xl shadow-2xl border-0 overflow-hidden">
+        {/* Header */}
+        <div className={cn(
+          "px-8 py-8 text-white text-center",
+          passed ? "bg-gradient-to-r from-emerald-500 to-green-600" : "bg-gradient-to-r from-orange-500 to-amber-600"
+        )}>
+          <div className="flex justify-center mb-4">
+            {passed
+              ? <Trophy className="w-16 h-16 opacity-90" />
+              : <AlertCircle className="w-16 h-16 opacity-90" />}
+          </div>
+          <h1 className="text-2xl font-bold">{passed ? "Congratulations!" : "Keep Practicing!"}</h1>
+          <p className="mt-1 opacity-80 text-sm">{assessmentTitle}</p>
+        </div>
+
+        <CardContent className="p-8 space-y-6">
+          {/* Score circle */}
+          <div className="flex justify-center">
+            <div className={cn(
+              "w-32 h-32 rounded-full border-8 flex flex-col items-center justify-center",
+              passed ? "border-emerald-400 text-emerald-600" : "border-orange-400 text-orange-600"
+            )}>
+              <span className="text-4xl font-black">{score}%</span>
+              <span className="text-xs font-medium">{passed ? "PASS" : "FAIL"}</span>
+            </div>
+          </div>
+
+          {/* Stats grid */}
+          <div className="grid grid-cols-3 gap-3 text-center">
+            {[
+              { label: "Answered", value: Object.values({}).length !== undefined ? totalQuestions : totalQuestions, color: "text-slate-700" },
+              { label: "Correct", value: correctCount, color: "text-emerald-600" },
+              { label: "Incorrect", value: totalQuestions - correctCount, color: "text-red-500" },
+            ].map(({ label, value, color }) => (
+              <div key={label} className="bg-slate-50 rounded-xl p-3 border border-slate-100">
+                <p className={cn("text-2xl font-bold", color)}>{value}</p>
+                <p className="text-xs text-slate-500 mt-0.5">{label}</p>
+              </div>
+            ))}
+          </div>
+
+          {/* Time taken */}
+          <div className="flex items-center justify-center gap-2 text-sm text-slate-500">
+            <Clock className="w-4 h-4" />
+            Time taken: <span className="font-semibold text-slate-700 font-mono">{timeTakenText}</span>
+          </div>
+
+          {/* Progress bar of score */}
+          <div className="space-y-1">
+            <div className="flex justify-between text-xs text-slate-500">
+              <span>Score</span><span>{score}% / 100%</span>
+            </div>
+            <Progress value={score} className="h-3" />
+            <div className="text-xs text-slate-400 text-right">Pass mark: 70%</div>
+          </div>
+
+          {/* Actions */}
+          <div className="flex flex-col gap-3 pt-2">
+            {passed && (
+              <Button 
+                onClick={handleGenerate}
+                disabled={isGenerating || !!generatedId}
+                className="w-full bg-gradient-to-r from-amber-500 to-yellow-600 hover:from-amber-600 hover:to-yellow-700 text-white font-black h-12 shadow-lg shadow-amber-200"
+              >
+                <Award className="w-5 h-4 mr-2" />
+                {isGenerating ? "Generating..." : generatedId ? "Certificate Generated" : "Generate Certificate"}
+              </Button>
+            )}
+            
+            <div className="flex gap-3">
+              <Button variant="outline" className="flex-1" onClick={onBack}>
+                <ChevronLeft className="w-4 h-4 mr-1" /> Back to Library
+              </Button>
+              <Button className="flex-1 bg-slate-900 hover:bg-slate-800" onClick={onRetry}>
+                <RotateCcw className="w-4 h-4 mr-1" /> Retake
+              </Button>
+            </div>
+          </div>
+        </CardContent>
+      </Card>
+
+      <Dialog open={showCertificate} onOpenChange={setShowCertificate}>
+        <DialogContent className="max-w-5xl p-0 overflow-hidden bg-slate-100">
+          <DialogHeader className="p-6 bg-white border-b">
+            <DialogTitle className="text-2xl font-black">Verified Certificate</DialogTitle>
+          </DialogHeader>
+          <div className="p-8 max-h-[80vh] overflow-y-auto">
+            <CertificateTemplate 
+              id={generatedId || ""}
+              userName="Candidate"
+              courseName={assessmentTitle}
+              date={new Date().toLocaleDateString()}
+              type="Assessment"
+              score={score}
+              onClose={() => setShowCertificate(false)}
+            />
+          </div>
+        </DialogContent>
+      </Dialog>
+    </div>
+  );
+}
+
+// ─── Main Component ───────────────────────────────────────────────────────────
 
 export default function TakeAssessment() {
-  const { id } = useParams();
+  const { id } = useParams<{ id: string }>();
   const navigate = useNavigate();
   const { toast } = useToast();
   const { user } = useAuth();
-  const [loading, setLoading] = useState(true);
-  const [assessment, setAssessment] = useState<Assessment | null>(null);
-  const [questions, setQuestions] = useState<Question[]>([]);
-  const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
-  const [answers, setAnswers] = useState<Record<string, string>>({});
-  const [timeRemaining, setTimeRemaining] = useState<number>(0);
-  const [sessionId, setSessionId] = useState<string>("");
-  const [tabSwitches, setTabSwitches] = useState(0);
-  const [showProctoringWarning, setShowProctoringWarning] = useState(false);
-  const [proctoringViolations, setProctoringViolations] = useState<string[]>([]);
-  const autoSaveInterval = useRef<NodeJS.Timeout>();
-  const lastActivityRef = useRef<number>(Date.now());
-  const [copyPasteAttempts, setCopyPasteAttempts] = useState(0);
 
+  // ── State ──────────────────────────────────────────────────────────────────
+  const [view, setView]                         = useState<ViewState>("instructions");
+  const [currentIndex, setCurrentIndex]         = useState(0);
+  const [answers, setAnswers]                   = useState<Answers>({});
+  const [timeRemaining, setTimeRemaining]       = useState(ASSESSMENT_DURATION_MINUTES * 60);
+  const [score, setScore]                       = useState(0);
+  const [correctCount, setCorrectCount]         = useState(0);
+  const [timeTaken, setTimeTaken]               = useState(0);
+  const [isSubmitting, setIsSubmitting]         = useState(false);
+  const startTimeRef                            = useRef<number>(0);
+
+  // ── Data ───────────────────────────────────────────────────────────────────
+  const assessment = assessmentsData.find(a => a.id === id) ?? null;
+
+  // Override duration to always enforce 25 min timer
+  const { data: questions = [], isLoading: questionsLoading, isError } = useAssessmentQuestions(id);
+
+  // ── Timer ──────────────────────────────────────────────────────────────────
   useEffect(() => {
-    if (id && user) {
-      fetchAssessmentData();
-    }
-  }, [id, user]);
+    if (view !== "in-progress") return;
+    if (timeRemaining <= 0) { handleSubmit(); return; }
 
-  // Copy-paste prevention
-  useEffect(() => {
-    if (!assessment) return;
-
-    const preventCopy = (e: ClipboardEvent) => {
-      e.preventDefault();
-      setCopyPasteAttempts(prev => {
-        const newCount = prev + 1;
-        setProctoringViolations(prev => [...prev, `Copy attempt detected at ${new Date().toLocaleTimeString()}`]);
-        toast({
-          title: "Action Blocked",
-          description: "Copy-paste is disabled during the assessment",
-          variant: "destructive",
-        });
-        return newCount;
-      });
-    };
-
-    const preventPaste = (e: ClipboardEvent) => {
-      e.preventDefault();
-      setCopyPasteAttempts(prev => {
-        const newCount = prev + 1;
-        setProctoringViolations(prev => [...prev, `Paste attempt detected at ${new Date().toLocaleTimeString()}`]);
-        toast({
-          title: "Action Blocked",
-          description: "Copy-paste is disabled during the assessment",
-          variant: "destructive",
-        });
-        return newCount;
-      });
-    };
-
-    const preventCut = (e: ClipboardEvent) => {
-      e.preventDefault();
-      toast({
-        title: "Action Blocked",
-        description: "Cut operation is disabled during the assessment",
-        variant: "destructive",
-      });
-    };
-
-    const preventContextMenu = (e: MouseEvent) => {
-      e.preventDefault();
-      toast({
-        title: "Action Blocked",
-        description: "Right-click is disabled during the assessment",
-        variant: "destructive",
-      });
-    };
-
-    document.addEventListener('copy', preventCopy);
-    document.addEventListener('paste', preventPaste);
-    document.addEventListener('cut', preventCut);
-    document.addEventListener('contextmenu', preventContextMenu);
-
-    return () => {
-      document.removeEventListener('copy', preventCopy);
-      document.removeEventListener('paste', preventPaste);
-      document.removeEventListener('cut', preventCut);
-      document.removeEventListener('contextmenu', preventContextMenu);
-    };
-  }, [assessment, toast]);
-
-  // Tab switch detection
-  useEffect(() => {
-    if (!assessment?.tab_switch_detection) return;
-
-    const handleVisibilityChange = () => {
-      if (document.hidden) {
-        setTabSwitches(prev => {
-          const newCount = prev + 1;
-          if (assessment && newCount >= assessment.max_tab_switches) {
-            setShowProctoringWarning(true);
-            setProctoringViolations(prev => [...prev, `Tab switch detected at ${new Date().toLocaleTimeString()}`]);
-          }
-          updateSession({ tab_switches: newCount });
-          return newCount;
-        });
-      }
-    };
-
-    document.addEventListener("visibilitychange", handleVisibilityChange);
-    return () => document.removeEventListener("visibilitychange", handleVisibilityChange);
-  }, [assessment]);
-
-  // Auto-save every 30 seconds
-  useEffect(() => {
-    if (sessionId) {
-      autoSaveInterval.current = setInterval(() => {
-        saveProgress();
-      }, 30000);
-
-      return () => {
-        if (autoSaveInterval.current) {
-          clearInterval(autoSaveInterval.current);
-        }
-      };
-    }
-  }, [sessionId, answers, currentQuestionIndex]);
-
-  // Timer countdown
-  useEffect(() => {
-    if (!assessment?.timer_enabled || timeRemaining <= 0) return;
-
-    const timer = setInterval(() => {
+    const interval = setInterval(() => {
       setTimeRemaining(prev => {
-        if (prev <= 1) {
-          if (assessment.auto_submit_on_timeout) {
-            handleSubmit();
-          }
-          return 0;
-        }
+        if (prev <= 1) { handleSubmit(); return 0; }
         return prev - 1;
       });
     }, 1000);
 
-    return () => clearInterval(timer);
-  }, [timeRemaining, assessment]);
+    return () => clearInterval(interval);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [view, timeRemaining]);
 
-  const fetchAssessmentData = async () => {
-    try {
-      setLoading(true);
-
-      // Try Supabase first
-      const { data: assessmentData, error: assessmentError } = await supabase
-        .from('assessments')
-        .select('*')
-        .eq('id', id)
-        .single();
-
-      if (assessmentError) throw assessmentError;
-      setAssessment(assessmentData);
-
-      const { data: questionsData, error: questionsError } = await supabase
-        .from('assessment_questions')
-        .select('*')
-        .eq('assessment_id', id)
-        .order('order_index');
-
-      if (questionsError) throw questionsError;
-
-      const transformedQuestions = (questionsData || []).map(q => ({
-        ...q,
-        options: Array.isArray(q.options) ? q.options : []
-      }));
-      setQuestions(transformedQuestions);
-
-      // Create session (simplified for demo)
-      const initialTime = assessmentData.duration_minutes * 60;
-      setSessionId(`session_${Date.now()}`);
-      setTimeRemaining(initialTime);
-
-    } catch (error: any) {
-      // Use mock data as fallback
-      console.log('Using mock data for assessment');
-      const mockAssessment = mockAssessments.find(a => a.id === id) || mockAssessments[0];
-      const mockQuestionsData = getQuestionsByAssessment(id || mockAssessments[0].id);
-
-      const mockFormattedAssessment = {
-        id: mockAssessment.id,
-        title: mockAssessment.title,
-        description: mockAssessment.description,
-        duration_minutes: mockAssessment.duration_minutes,
-        timer_enabled: true,
-        grace_period_minutes: 5,
-        auto_submit_on_timeout: true,
-        proctoring_enabled: false,
-        face_detection_enabled: false,
-        tab_switch_detection: true,
-        max_tab_switches: 3,
-        passing_score: mockAssessment.passing_score,
-      };
-
-      const mockFormattedQuestions = mockQuestionsData.map((q, idx) => ({
-        id: q.id,
-        question_text: q.question_text,
-        question_type: q.question_type === 'multiple_choice' ? 'mcq' : q.question_type,
-        options: Array.isArray(q.options) ? q.options : [],
-        order_index: idx,
-        points: q.points,
-        correct_answer: q.correct_answer,
-      }));
-
-      setAssessment(mockFormattedAssessment);
-      setQuestions(mockFormattedQuestions);
-
-      const initialTime = mockFormattedAssessment.duration_minutes * 60;
-      setSessionId(`mock_session_${Date.now()}`);
-      setTimeRemaining(initialTime);
-    } finally {
-      setLoading(false);
-    }
+  // ── Handlers ───────────────────────────────────────────────────────────────
+  const handleStart = () => {
+    setAnswers({});
+    setCurrentIndex(0);
+    setTimeRemaining(ASSESSMENT_DURATION_MINUTES * 60);
+    startTimeRef.current = Date.now();
+    setView("in-progress");
+    toast({ title: "Assessment started", description: `You have ${ASSESSMENT_DURATION_MINUTES} minutes. Good luck!` });
   };
 
-  const saveProgress = async () => {
-    if (!sessionId) return;
-
-    try {
-      await supabase
-        .from('assessment_sessions')
-        .update({
-          current_question_index: currentQuestionIndex,
-          time_remaining_seconds: timeRemaining,
-          tab_switches: tabSwitches,
-        })
-        .eq('id', sessionId);
-    } catch (error) {
-      console.error('Error saving progress:', error);
-    }
-  };
-
-  const updateSession = async (updates: any) => {
-    if (!sessionId) return;
-
-    try {
-      await supabase
-        .from('assessment_sessions')
-        .update(updates)
-        .eq('id', sessionId);
-    } catch (error) {
-      console.error('Error updating session:', error);
-    }
-  };
-
-  const handleAnswerChange = (questionId: string, answer: string) => {
-    setAnswers(prev => ({
-      ...prev,
-      [questionId]: answer
-    }));
+  const handleAnswer = (questionId: string, value: string) => {
+    setAnswers(prev => ({ ...prev, [questionId]: value }));
   };
 
   const handleNext = () => {
-    if (currentQuestionIndex < questions.length - 1) {
-      setCurrentQuestionIndex(prev => prev + 1);
-      saveProgress();
-    }
+    if (currentIndex < questions.length - 1) setCurrentIndex(i => i + 1);
   };
 
   const handlePrevious = () => {
-    if (currentQuestionIndex > 0) {
-      setCurrentQuestionIndex(prev => prev - 1);
-      saveProgress();
-    }
+    if (currentIndex > 0) setCurrentIndex(i => i - 1);
   };
 
-  const handleSubmit = async () => {
+  const handleSubmit = useCallback(async () => {
+    if (isSubmitting || view === "submitted") return;
+    setIsSubmitting(true);
+
+    const taken = Math.floor((Date.now() - startTimeRef.current) / 1000);
+    setTimeTaken(taken);
+
+    // Calculate score
+    let correct = 0;
+    questions.forEach(q => { if (answers[q.id] === q.correct_answer) correct++; });
+    const finalScore = questions.length > 0 ? Math.round((correct / questions.length) * 100) : 0;
+    setScore(finalScore);
+    setCorrectCount(correct);
+
+    // Persist to Supabase results table
     try {
-      // Calculate score
-      let totalScore = 0;
-      let totalPoints = 0;
-
-      const answersArray = questions.map(q => {
-        const userAnswer = answers[q.id];
-        let isCorrect = false;
-        let pointsEarned = 0;
-        
-        // Auto-grade MCQ
-        if ((q.question_type === 'mcq' || !q.question_type) && q.correct_answer) {
-             if (userAnswer === q.correct_answer) {
-                 isCorrect = true;
-                 pointsEarned = q.points;
-             }
-        }
-        
-        totalPoints += q.points;
-        totalScore += pointsEarned;
-        
-        return {
-          question_id: q.id,
-          answer: userAnswer || "",
-          is_correct: isCorrect,
-          points_earned: pointsEarned
-        };
+      await supabase.from("results").insert({
+        candidate_id: user?.id ?? null,
+        assessment_id: id ?? null,
+        overall_score: finalScore,
+        max_score: 100,
+        status: finalScore >= 70 ? "pass" : "fail",
+        notes: JSON.stringify({ answers, total_questions: questions.length, correct, time_taken_seconds: taken }),
+        evaluated_at: new Date().toISOString(),
       });
-
-      const percentage = totalPoints > 0 ? (totalScore / totalPoints) * 100 : 0;
-      const passed = percentage >= (assessment?.passing_score || 70);
-
-      // Insert result
-      const { error: resultError } = await supabase
-        .from('assessment_results')
-        .insert({
-          assessment_id: id,
-          user_id: user?.id,
-          score: totalScore,
-          total_points: totalPoints,
-          percentage: percentage,
-          passed: passed,
-          answers: answersArray,
-          time_taken_minutes: assessment ? assessment.duration_minutes - Math.floor(timeRemaining / 60) : 0,
-          tab_switches_count: tabSwitches,
-          proctoring_flags: proctoringViolations,
-          ip_address: '',
-          timezone: Intl.DateTimeFormat().resolvedOptions().timeZone,
-          started_at: new Date().toISOString()
-        });
-
-      if (resultError) throw resultError;
-
-      // Mark session as completed
-      await supabase
-        .from('assessment_sessions')
-        .update({ completed: true, submitted_at: new Date().toISOString() })
-        .eq('id', sessionId);
-
-      toast({
-        title: "Assessment Submitted",
-        description: `You scored ${totalScore}/${totalPoints} (${Math.round(percentage)}%). ${passed ? 'Passed!' : 'Failed.'}`,
-      });
-
-      navigate('/assessments');
-    } catch (error: any) {
-      console.error('Error submitting assessment:', error);
-      toast({
-        title: "Error",
-        description: error.message,
-        variant: "destructive",
-      });
+    } catch (err) {
+      console.warn("Could not save result to Supabase:", err);
     }
+
+    setView("submitted");
+    setIsSubmitting(false);
+
+    toast({
+      title: "Assessment submitted!",
+      description: `Your score: ${finalScore}% — ${finalScore >= 70 ? "You passed! 🎉" : "Keep practicing!"}`,
+    });
+  }, [answers, questions, id, user, view, isSubmitting]);
+
+  const handleRetry = () => {
+    setView("instructions");
+    setAnswers({});
+    setCurrentIndex(0);
+    setScore(0);
+    setCorrectCount(0);
+    setTimeRemaining(ASSESSMENT_DURATION_MINUTES * 60);
   };
 
-  if (loading) {
+  // ── Guards ─────────────────────────────────────────────────────────────────
+  if (!assessment) {
     return (
-      <ProtectedRoute>
-        <div className="min-h-screen flex items-center justify-center bg-background">
-          <Loader2 className="h-8 w-8 animate-spin text-primary" />
+      <div className="min-h-screen flex items-center justify-center bg-slate-50">
+        <div className="text-center space-y-4">
+          <AlertCircle className="w-14 h-14 text-red-400 mx-auto" />
+          <h2 className="text-xl font-bold text-slate-800">Assessment Not Found</h2>
+          <p className="text-slate-500">The requested assessment does not exist.</p>
+          <Button onClick={() => navigate("/jobseeker/assessments")}>← Back to Assessments</Button>
         </div>
-      </ProtectedRoute>
+      </div>
     );
   }
 
-  if (!assessment) {
-    return null;
+  if (view === "instructions") {
+    return <InstructionsScreen assessment={assessment} onStart={handleStart} />;
   }
 
-  const currentQuestion = questions[currentQuestionIndex];
+  if (view === "submitted") {
+    return (
+      <ResultScreen
+        score={score}
+        answers={answers}
+        totalQuestions={questions.length}
+        correctCount={correctCount}
+        timeTaken={timeTaken}
+        assessmentTitle={assessment.title}
+        onRetry={handleRetry}
+        onBack={() => navigate("/jobseeker/assessments")}
+      />
+    );
+  }
+
+  // ── In-Progress View ───────────────────────────────────────────────────────
+  if (questionsLoading) {
+    return (
+      <div className="min-h-screen flex items-center justify-center bg-slate-50">
+        <div className="text-center space-y-4 animate-pulse">
+          <BookOpen className="w-12 h-12 text-indigo-400 mx-auto" />
+          <p className="text-slate-600">Loading questions…</p>
+        </div>
+      </div>
+    );
+  }
+
+  if (isError || questions.length === 0) {
+    return (
+      <div className="min-h-screen flex items-center justify-center bg-slate-50">
+        <div className="text-center space-y-4">
+          <AlertCircle className="w-12 h-12 text-orange-400 mx-auto" />
+          <h2 className="text-lg font-semibold text-slate-700">Could not load questions</h2>
+          <Button variant="outline" onClick={() => setView("instructions")}>← Back</Button>
+        </div>
+      </div>
+    );
+  }
+
+  const currentQuestion = questions[currentIndex];
+  const answeredCount   = Object.keys(answers).length;
+  const progressPct     = Math.round((answeredCount / questions.length) * 100);
+  const isLastQuestion  = currentIndex === questions.length - 1;
+  const isFirstQuestion = currentIndex === 0;
+
+  const optionLabels: Array<"A" | "B" | "C" | "D"> = ["A", "B", "C", "D"];
+  const optionValues = [
+    currentQuestion.option_a,
+    currentQuestion.option_b,
+    currentQuestion.option_c,
+    currentQuestion.option_d,
+  ];
 
   return (
-    <ProtectedRoute>
-      <div className="min-h-screen flex flex-col bg-background">
-        <EnhancedNavigation />
+    <div className="min-h-screen bg-gradient-to-br from-slate-50 to-indigo-50 flex flex-col">
 
-        <main className="flex-grow container mx-auto px-4 py-8 max-w-5xl">
-          {/* Face Detection */}
-          {assessment.face_detection_enabled && (
-            <FaceDetection
-              enabled={assessment.face_detection_enabled}
-              onViolation={(message) => {
-                setProctoringViolations(prev => [...prev, message]);
-              }}
-            />
-          )}
+      {/* ── Top Bar ─────────────────────────────────────────────────────── */}
+      <header className="sticky top-0 z-30 bg-white/90 backdrop-blur border-b border-slate-200 shadow-sm">
+        <div className="max-w-5xl mx-auto px-4 py-3 flex items-center justify-between gap-4">
+          {/* Title & question number */}
+          <div className="min-w-0">
+            <h1 className="font-bold text-slate-800 truncate text-sm md:text-base">{assessment.title}</h1>
+            <p className="text-xs text-slate-400">
+              Q{currentIndex + 1} of {questions.length} &nbsp;·&nbsp; {answeredCount} answered
+            </p>
+          </div>
 
-          {/* Header with Timer */}
-          <div className="mb-6">
-            <div className="flex items-center justify-between mb-4">
-              <div>
-                <h1 className="text-3xl font-bold mb-2">{assessment.title}</h1>
-                <p className="text-muted-foreground">{assessment.description}</p>
+          {/* Timer */}
+          <TimerBadge seconds={timeRemaining} />
+
+          {/* Submit early button */}
+          <Button
+            size="sm"
+            variant="outline"
+            className="hidden md:flex border-indigo-300 text-indigo-600 hover:bg-indigo-50"
+            onClick={handleSubmit}
+            disabled={isSubmitting}
+          >
+            {isSubmitting ? "Submitting…" : "Submit Early"}
+          </Button>
+        </div>
+
+        {/* Progress bar */}
+        <div className="max-w-5xl mx-auto px-4 pb-3">
+          <div className="flex items-center justify-between text-xs text-slate-400 mb-1">
+            <span>Completion</span>
+            <span>{progressPct}%</span>
+          </div>
+          <Progress value={progressPct} className="h-2" />
+        </div>
+      </header>
+
+      {/* ── Body ────────────────────────────────────────────────────────── */}
+      <main className="flex-1 max-w-5xl mx-auto w-full px-4 py-6 grid md:grid-cols-[1fr_220px] gap-6">
+
+        {/* Question card */}
+        <Card className="shadow-md border border-slate-100 self-start">
+          <CardHeader className="pb-4 border-b border-slate-100">
+            <div className="flex items-center justify-between">
+              <CardTitle className="text-sm font-semibold text-slate-500 uppercase tracking-wide">
+                Question {currentIndex + 1} / {questions.length}
+              </CardTitle>
+              <Badge className={cn("border text-xs", difficultyColor(currentQuestion.difficulty))}>
+                {currentQuestion.difficulty}
+              </Badge>
+            </div>
+          </CardHeader>
+
+          <CardContent className="p-6 md:p-8 space-y-6">
+            {/* Question text */}
+            <p className="text-lg md:text-xl font-semibold text-slate-800 leading-relaxed whitespace-pre-wrap">
+              {currentQuestion.question}
+            </p>
+
+            {/* Options */}
+            <RadioGroup
+              value={answers[currentQuestion.id] ?? ""}
+              onValueChange={(val) => handleAnswer(currentQuestion.id, val)}
+            >
+              <div className="space-y-3">
+                {optionLabels.map((label, idx) => {
+                  const isSelected = answers[currentQuestion.id] === label;
+                  return (
+                    <div
+                      key={label}
+                      onClick={() => handleAnswer(currentQuestion.id, label)}
+                      className={cn(
+                        "flex items-center gap-4 p-4 rounded-xl border-2 cursor-pointer transition-all duration-150 select-none",
+                        isSelected
+                          ? "border-indigo-500 bg-indigo-50"
+                          : "border-slate-200 hover:border-indigo-300 hover:bg-slate-50"
+                      )}
+                    >
+                      {/* Letter badge */}
+                      <span className={cn(
+                        "flex-shrink-0 w-8 h-8 rounded-lg flex items-center justify-center text-sm font-bold border-2",
+                        isSelected
+                          ? "bg-indigo-600 border-indigo-600 text-white"
+                          : "bg-white border-slate-200 text-slate-600"
+                      )}>
+                        {label}
+                      </span>
+
+                      <Label
+                        htmlFor={`opt-${label}`}
+                        className="flex-1 cursor-pointer text-slate-700 font-medium"
+                      >
+                        {optionValues[idx]}
+                      </Label>
+
+                      {/* Hidden radio for a11y */}
+                      <RadioGroupItem value={label} id={`opt-${label}`} className="sr-only" />
+
+                      {isSelected && (
+                        <CheckCircle className="w-5 h-5 text-indigo-500 flex-shrink-0" />
+                      )}
+                    </div>
+                  );
+                })}
               </div>
-              {assessment.timer_enabled && (
-                <AssessmentTimer
-                  timeRemaining={timeRemaining}
-                  totalTime={assessment.duration_minutes * 60}
-                  onTimeout={() => assessment.auto_submit_on_timeout && handleSubmit()}
-                />
+            </RadioGroup>
+
+            {/* Navigation */}
+            <div className="flex items-center justify-between pt-4 border-t border-slate-100">
+              <Button
+                variant="outline"
+                onClick={handlePrevious}
+                disabled={isFirstQuestion}
+                className="gap-2"
+              >
+                <ChevronLeft className="w-4 h-4" /> Previous
+              </Button>
+
+              {isLastQuestion ? (
+                <Button
+                  className="gap-2 bg-emerald-600 hover:bg-emerald-700"
+                  onClick={handleSubmit}
+                  disabled={isSubmitting}
+                >
+                  {isSubmitting ? "Submitting…" : "Submit Assessment"}
+                  <CheckCircle className="w-4 h-4" />
+                </Button>
+              ) : (
+                <Button
+                  className="gap-2 bg-indigo-600 hover:bg-indigo-700"
+                  onClick={handleNext}
+                >
+                  Next <ChevronRight className="w-4 h-4" />
+                </Button>
               )}
             </div>
+          </CardContent>
+        </Card>
 
-            {/* Proctoring Warnings */}
-            {assessment.tab_switch_detection && tabSwitches > 0 && (
-              <Alert variant={tabSwitches >= assessment.max_tab_switches ? "destructive" : "default"} className="mb-4">
-                <AlertTriangle className="h-4 w-4" />
-                <AlertDescription>
-                  Tab switches detected: {tabSwitches}/{assessment.max_tab_switches}
-                  {tabSwitches >= assessment.max_tab_switches && " - Maximum limit reached!"}
-                </AlertDescription>
-              </Alert>
-            )}
+        {/* ── Sidebar: Question Grid ──────────────────────────────────── */}
+        <aside className="space-y-4 self-start">
+          <Card className="shadow-sm border border-slate-100">
+            <CardHeader className="pb-2 pt-4 px-4">
+              <CardTitle className="text-xs text-slate-500 uppercase tracking-wide font-semibold">
+                Question Navigator
+              </CardTitle>
+            </CardHeader>
+            <CardContent className="px-4 pb-4">
+              <div className="grid grid-cols-5 gap-1.5">
+                {questions.map((q, idx) => {
+                  const isAnswered = !!answers[q.id];
+                  const isCurrent  = idx === currentIndex;
+                  return (
+                    <button
+                      key={q.id}
+                      onClick={() => setCurrentIndex(idx)}
+                      title={`Q${idx + 1}${isAnswered ? " (answered)" : ""}`}
+                      className={cn(
+                        "w-9 h-9 rounded-lg text-xs font-bold border-2 transition-all duration-150",
+                        isCurrent && "ring-2 ring-offset-1 ring-indigo-400",
+                        isCurrent
+                          ? "bg-indigo-600 border-indigo-600 text-white"
+                          : isAnswered
+                          ? "bg-emerald-100 border-emerald-300 text-emerald-700"
+                          : "bg-white border-slate-200 text-slate-500 hover:border-indigo-300"
+                      )}
+                    >
+                      {idx + 1}
+                    </button>
+                  );
+                })}
+              </div>
 
-            {copyPasteAttempts > 0 && (
-              <Alert variant="destructive" className="mb-4">
-                <AlertTriangle className="h-4 w-4" />
-                <AlertDescription>
-                  Copy-paste attempts detected: {copyPasteAttempts} - This activity is being logged
-                </AlertDescription>
-              </Alert>
-            )}
+              {/* Legend */}
+              <div className="mt-4 space-y-1.5 text-xs text-slate-500">
+                {[
+                  { color: "bg-indigo-600",   label: "Current" },
+                  { color: "bg-emerald-100 border border-emerald-300", label: "Answered" },
+                  { color: "bg-white border border-slate-200",          label: "Unanswered" },
+                ].map(({ color, label }) => (
+                  <div key={label} className="flex items-center gap-2">
+                    <span className={cn("w-4 h-4 rounded", color)} />
+                    {label}
+                  </div>
+                ))}
+              </div>
+            </CardContent>
+          </Card>
 
-            {assessment.face_detection_enabled && (
-              <Alert className="mb-4">
-                <Eye className="h-4 w-4" />
-                <AlertDescription>
-                  Face detection is active. Please ensure your face is visible throughout the assessment.
-                </AlertDescription>
-              </Alert>
-            )}
-          </div>
+          {/* Summary card */}
+          <Card className="shadow-sm border border-slate-100">
+            <CardContent className="p-4 space-y-2">
+              <div className="flex justify-between text-sm">
+                <span className="text-slate-500">Total</span>
+                <span className="font-bold text-slate-700">{questions.length}</span>
+              </div>
+              <div className="flex justify-between text-sm">
+                <span className="text-slate-500">Answered</span>
+                <span className="font-bold text-emerald-600">{answeredCount}</span>
+              </div>
+              <div className="flex justify-between text-sm">
+                <span className="text-slate-500">Remaining</span>
+                <span className="font-bold text-red-500">{questions.length - answeredCount}</span>
+              </div>
+            </CardContent>
+          </Card>
 
-          {/* Progress Bar */}
-          <AssessmentProgress
-            currentQuestion={currentQuestionIndex + 1}
-            totalQuestions={questions.length}
-            answeredQuestions={Object.keys(answers).length}
-          />
-
-          {/* Question Card */}
-          {currentQuestion && (
-            <AssessmentQuestion
-              question={currentQuestion}
-              selectedAnswer={answers[currentQuestion.id]}
-              onAnswerChange={(answer) => handleAnswerChange(currentQuestion.id, answer)}
-              questionNumber={currentQuestionIndex + 1}
-            />
-          )}
-
-          {/* Navigation Buttons */}
-          <div className="flex justify-between mt-6">
-            <Button
-              variant="outline"
-              onClick={handlePrevious}
-              disabled={currentQuestionIndex === 0}
-            >
-              Previous
-            </Button>
-
-            {currentQuestionIndex === questions.length - 1 ? (
-              <Button onClick={handleSubmit} size="lg">
-                Submit Assessment
-              </Button>
-            ) : (
-              <Button onClick={handleNext}>
-                Next Question
-              </Button>
-            )}
-          </div>
-        </main>
-
-        <ProctoringWarning
-          open={showProctoringWarning}
-          onClose={() => setShowProctoringWarning(false)}
-          violations={proctoringViolations}
-        />
-
-        <EnhancedFooter />
-      </div>
-    </ProtectedRoute>
+          {/* Mobile submit */}
+          <Button
+            className="w-full bg-emerald-600 hover:bg-emerald-700 md:hidden"
+            onClick={handleSubmit}
+            disabled={isSubmitting}
+          >
+            {isSubmitting ? "Submitting…" : "Submit Assessment"}
+          </Button>
+        </aside>
+      </main>
+    </div>
   );
 }

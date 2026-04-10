@@ -1,7 +1,7 @@
 import { useState, useEffect, useRef } from "react";
 import { Link, useLocation, useNavigate } from "react-router-dom";
 import { Button } from "@/components/ui/button";
-import { Menu, X, ChevronDown, Star, Settings, ChevronRight } from "lucide-react";
+import { Menu, X, ChevronDown, Star, Settings, ChevronRight, FileText, Code, Video } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 import { useAuth } from "@/contexts/SimpleAuthContext";
 import { supabase } from "@/integrations/supabase/client";
@@ -42,8 +42,27 @@ const EnhancedNavigation = () => {
       ]
     },
     {
-      label: "Assessments",
-      href: "/assessments",
+      label: "Assessments (MCQs and skill-based tests)",
+      children: [
+        {
+          label: "Assessments",
+          href: "/assessments",
+          icon: FileText,
+          description: "MCQ and skill-based technical assessments"
+        },
+        {
+          label: "Coding Tests",
+          href: "/coding-tests",
+          icon: Code,
+          description: "Interactive scenario-based coding challenges"
+        },
+        {
+          label: "Live Interviews",
+          href: "/live-interviews",
+          icon: Video,
+          description: "Seamlessly schedule and join live interviews"
+        }
+      ]
     },
     {
       label: "Solutions",
@@ -132,12 +151,17 @@ const EnhancedNavigation = () => {
           {/* Main Nav Row */}
           <div className="flex items-center justify-between h-16 lg:h-[70px]">
             {/* Logo */}
-            <Link to="/" className="flex items-center gap-3 group transition-all duration-200" onClick={() => setIsMobileMenuOpen(false)}>
-              <div className={`rounded-xl p-1.5 transition-all duration-300 nav-logo`}>
-                <img src="/interq-logo.png" alt="InterQ" className="h-9 lg:h-10 w-auto" loading="lazy" decoding="async" />
+            <Link to="/" className="flex flex-col group transition-all duration-200" onClick={() => setIsMobileMenuOpen(false)}>
+              <div className="flex items-center gap-2">
+                <div className={`rounded-xl p-1 transition-all duration-300 nav-logo`}>
+                  <img src="/interq-logo.png" alt="InterQ" className="h-8 lg:h-9 w-auto" loading="lazy" decoding="async" />
+                </div>
+                <span className={`text-xl lg:text-2xl font-bold tracking-tight nav-brand-text transition-colors duration-300 leading-none ${isScrolled ? "text-slate-800" : "text-white"}`}>
+                  InterQ
+                </span>
               </div>
-              <span className={`text-xl lg:text-2xl font-bold tracking-tight nav-brand-text transition-colors duration-300`}>
-                InterQ
+              <span className={`text-[10px] font-medium transition-colors duration-300 ml-1 mt-0.5 opacity-80 ${isScrolled ? "text-slate-700" : "text-slate-200"}`} style={{ letterSpacing: '0.05em' }}>
+                InterQ Technologies Inc
               </span>
             </Link>
 
@@ -147,17 +171,20 @@ const EnhancedNavigation = () => {
                 <div key={item.label} className="relative">
                   <button
                     onClick={() => handleNavItemClick(item)}
-                    className={`flex items-center gap-1.5 px-4 py-2.5 rounded-xl text-sm font-semibold transition-all duration-200 nav-link ${
+                    className={`flex items-center gap-1.5 px-4 py-2.5 rounded-xl text-sm font-semibold transition-all duration-300 nav-link drop-shadow-md ${
+                      isScrolled ? "text-slate-800 hover:text-cyan-600" : "text-white hover:text-white"
+                    } ${
                       isActive(item.href) || item.children?.some(child => isActive(child.href))
                         ? "active"
                         : ""
                     }`}
                     aria-expanded={activeDropdown === item.label}
                     aria-haspopup={item.children ? "true" : "false"}
+                    title={item.label}
                   >
-                    {item.label}
+                    <span className={`truncate max-w-[140px] xl:max-w-none hover:text-clip ${isScrolled ? "text-slate-800" : "text-white"}`}>{item.label}</span>
                     {item.children && (
-                      <ChevronDown size={14} className={`transition-transform duration-200 ${activeDropdown === item.label ? "rotate-180" : ""}`} />
+                      <ChevronDown size={14} className={`shrink-0 transition-transform duration-200 ${isScrolled ? "text-slate-500" : "text-white"} ${activeDropdown === item.label ? "rotate-180" : ""}`} />
                     )}
                   </button>
 
@@ -214,7 +241,9 @@ const EnhancedNavigation = () => {
               {isAdmin && (
                 <Link
                   to="/admin"
-                  className={`ml-2 px-4 py-2.5 rounded-xl text-sm font-semibold transition-all duration-200 nav-link ${
+                  className={`ml-2 px-4 py-2.5 rounded-xl text-sm font-semibold transition-all duration-200 nav-link drop-shadow-md ${
+                    isScrolled ? "text-slate-800 hover:text-cyan-600" : "text-white hover:text-white"
+                  } ${
                     isActive("/admin") ? "active" : ""
                   }`}
                 >
@@ -231,7 +260,7 @@ const EnhancedNavigation = () => {
                     <Button 
                       variant="ghost" 
                       size="sm" 
-                      className="font-medium nav-btn-ghost"
+                      className={`font-medium nav-btn-ghost drop-shadow-md ${isScrolled ? "text-slate-800 hover:text-cyan-600 hover:bg-slate-50" : "text-white hover:text-white"}`}
                     >
                       <Settings size={16} className="mr-1.5" /> Settings
                     </Button>
@@ -240,7 +269,7 @@ const EnhancedNavigation = () => {
                     variant="ghost" 
                     size="sm" 
                     onClick={signOut} 
-                    className="text-red-500 hover:text-red-600 hover:bg-red-50 font-medium"
+                    className="text-red-400 drop-shadow-md hover:text-red-500 hover:bg-red-50 font-medium"
                   >
                     Sign Out
                   </Button>
@@ -248,10 +277,10 @@ const EnhancedNavigation = () => {
               ) : (
                 <div className="flex items-center gap-2">
                   <Link to="/auth">
-                    <Button 
+                      <Button 
                       variant="ghost" 
                       size="sm" 
-                      className="font-semibold nav-btn-ghost"
+                      className={`font-semibold nav-btn-ghost drop-shadow-md ${isScrolled ? "text-slate-800 hover:text-cyan-600 hover:bg-slate-50" : "text-white hover:text-white"}`}
                     >
                       Sign In
                     </Button>
@@ -311,10 +340,11 @@ const EnhancedNavigation = () => {
                               ? "bg-gradient-to-r from-cyan-50 to-cyan-50/50 text-cyan-600"
                               : "text-slate-700 hover:bg-slate-50"
                           }`}
+                          title={item.label}
                         >
-                          <span>{item.label}</span>
+                          <span className="truncate pr-3">{item.label}</span>
                           {item.children && (
-                            <ChevronDown size={20} className={`transition-transform duration-200 ${activeDropdown === item.label ? "rotate-180" : ""}`} />
+                            <ChevronDown size={20} className={`shrink-0 transition-transform duration-200 ${activeDropdown === item.label ? "rotate-180" : ""}`} />
                           )}
                         </button>
                         {item.children && activeDropdown === item.label && (
@@ -381,7 +411,7 @@ const EnhancedNavigation = () => {
                     ) : (
                       <div className="grid gap-3">
                         <Link to="/auth" onClick={() => setIsMobileMenuOpen(false)}>
-                          <Button variant="outline" size="lg" className="w-full justify-center font-semibold border-2 border-slate-200 text-slate-700 hover:border-cyan-300 hover:text-cyan-600 hover:bg-cyan-50">
+                          <Button variant="outline" size="lg" className="w-full justify-center font-semibold border-2 border-slate-200 text-white hover:border-cyan-300 hover:text-white hover:bg-gray-800">
                             Sign In
                           </Button>
                         </Link>

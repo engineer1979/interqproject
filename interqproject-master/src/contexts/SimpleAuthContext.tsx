@@ -1,6 +1,5 @@
 import { createContext, useContext, useState, useEffect, ReactNode, useCallback } from "react";
-import { useNavigate } from "react-router-dom";
-import { supabase } from "@/integrations/supabase/client";
+import { useNavigate, useLocation } from "react-router-dom";
 import { useToast } from "@/hooks/use-toast";
 
 export type AccountRole = "admin" | "company" | "recruiter" | "jobseeker";
@@ -18,6 +17,18 @@ export interface User {
   isDemo?: boolean;
 }
 
+interface LocalUser {
+  id: string;
+  email: string;
+  name: string;
+  role: AccountRole;
+  password: string;
+  companyId?: string;
+  companyName?: string;
+  createdAt: string;
+  isVerified?: boolean;
+}
+
 export interface DemoUser {
   email: string;
   password: string;
@@ -27,7 +38,6 @@ export interface DemoUser {
 }
 
 // Demo users - only accessible via specific demo login mechanism
-// These are NEVER shown in any user lists or dashboards
 export const DEMO_USERS: DemoUser[] = [
   { 
     email: "admin.demo@interq.com", 
@@ -63,6 +73,7 @@ export const DEMO_USERS: DemoUser[] = [
 const STORAGE_KEY = "interq_user";
 const SESSION_KEY = "interq_session";
 const DEMO_SESSION_KEY = "interq_demo_session";
+const LOCAL_USERS_KEY = "interq_local_users";
 
 interface AuthContextType {
   user: User | null;
@@ -109,11 +120,26 @@ const getDashboardPath = (role: AccountRole): string => {
   }
 };
 
+const getLocalUsers = (): LocalUser[] => {
+  try {
+    const stored = localStorage.getItem(LOCAL_USERS_KEY);
+    if (!stored) return [];
+    return JSON.parse(stored) as LocalUser[];
+  } catch {
+    return [];
+  }
+};
+
+const setLocalUsers = (users: LocalUser[]) => {
+  localStorage.setItem(LOCAL_USERS_KEY, JSON.stringify(users));
+};
+
 export function SimpleAuthProvider({ children }: { children: ReactNode }) {
   const [user, setUser] = useState<User | null>(null);
   const [isLoading, setIsLoading] = useState(true);
   const [isDemo, setIsDemo] = useState(false);
   const navigate = useNavigate();
+  const location = useLocation();
   const { toast } = useToast();
 
   // Check for existing session on mount
@@ -179,88 +205,61 @@ export function SimpleAuthProvider({ children }: { children: ReactNode }) {
     setIsDemo(false);
   };
 
-  // Login handler - checks against real users in Supabase OR demo users
+  // Login handler - demo users only (Supabase removed)
   const login = useCallback(async (email: string, password: string): Promise<{ success: boolean; error?: string; needsVerification?: boolean }> => {
     setIsLoading(true);
     
     try {
-      // First, try Supabase authentication
-      const { data: supabaseData, error: supabaseError } = await supabase.auth.signInWithPassword({
-        email,
-        password,
-      });
-
-      if (supabaseError) {
-        // If Supabase fails, check if it's a demo user
-        const demoUser = DEMO_USERS.find(u => u.email.toLowerCase() === email.toLowerCase());
+      // Check if it's a demo user
+      const demoUser = DEMO_USERS.find(u => u.email.toLowerCase() === email.toLowerCase());
+      
+      if (demoUser && demoUser.password === password) {
+        // Demo login - create local session
+        const newUser: User = {
+          id: generateUserId(),
+          email: demoUser.email,
+          name: demoUser.name,
+          role: demoUser.role,
+          isVerified: true,
+          companyId: demoUser.role === "company" ? "comp_demo_001" : undefined,
+          companyName: demoUser.role === "company" ? "TechCorp Solutions" : undefined,
+          createdAt: new Date().toISOString(),
+          isDemo: true,
+        };
         
-        if (demoUser && demoUser.password === password) {
-          // Demo login - create local session
-          const newUser: User = {
-            id: generateUserId(),
-            email: demoUser.email,
-            name: demoUser.name,
-            role: demoUser.role,
-            isVerified: true,
-            companyId: demoUser.role === "company" ? "comp_demo_001" : undefined,
-            companyName: demoUser.role === "company" ? "TechCorp Solutions" : undefined,
-            createdAt: new Date().toISOString(),
-            isDemo: true,
-          };
-          
-          setUser(newUser);
-          setIsDemo(true);
-          
-          // Store in localStorage with demo session
-          localStorage.setItem(STORAGE_KEY, JSON.stringify(newUser));
-          localStorage.setItem(DEMO_SESSION_KEY, JSON.stringify({
-            timestamp: Date.now(),
-            role: demoUser.role,
-          }));
-          
-          setIsLoading(false);
-          return { success: true };
-        }
+        setUser(newUser);
+        setIsDemo(true);
+        
+        // Store in localStorage with demo session
+        localStorage.setItem(STORAGE_KEY, JSON.stringify(newUser));
+        localStorage.setItem(DEMO_SESSION_KEY, JSON.stringify({
+          timestamp: Date.now(),
+          role: demoUser.role,
+        }));
         
         setIsLoading(false);
-        return { success: false, error: "Invalid email or password" };
+        return { success: true };
       }
-
-      // Real Supabase user login
-      if (supabaseData.user) {
-        // Fetch user role from Supabase
-        const { data: roleData } = await supabase
-          .from("user_roles")
-          .select("role")
-          .eq("user_id", supabaseData.user.id)
-          .single();
-
-        const userRole: AccountRole = (roleData?.role as AccountRole) || "jobseeker";
-
-        // Get user profile
-        const { data: profileData } = await supabase
-          .from("profiles")
-          .select("*")
-          .eq("id", supabaseData.user.id)
-          .single();
-
+      
+      // Check local created accounts
+      const localUsers = getLocalUsers();
+      const localUser = localUsers.find((u: LocalUser) => u.email.toLowerCase() === email.toLowerCase() && u.password === password);
+      if (localUser) {
         const newUser: User = {
-          id: supabaseData.user.id,
-          email: supabaseData.user.email || email,
-          name: profileData?.full_name || email.split("@")[0],
-          role: userRole,
-          isVerified: supabaseData.user.email_confirmed_at !== null,
-          avatar: profileData?.avatar_url || undefined,
-          companyId: (profileData as any)?.company_id,
-          companyName: (profileData as any)?.company_name,
-          createdAt: supabaseData.user.created_at,
+          id: localUser.id,
+          email: localUser.email,
+          name: localUser.name,
+          role: localUser.role,
+          isVerified: localUser.isVerified ?? true,
+          companyId: localUser.companyId,
+          companyName: localUser.companyName,
+          createdAt: localUser.createdAt,
           isDemo: false,
         };
 
         setUser(newUser);
         setIsDemo(false);
 
-        // Store session
         localStorage.setItem(STORAGE_KEY, JSON.stringify(newUser));
         localStorage.setItem(SESSION_KEY, JSON.stringify({
           timestamp: Date.now(),
@@ -269,23 +268,19 @@ export function SimpleAuthProvider({ children }: { children: ReactNode }) {
         }));
 
         setIsLoading(false);
-        
-        // Check if email needs verification
-        if (!newUser.isVerified) {
-          return { success: true, needsVerification: true };
-        }
-        
         return { success: true };
       }
+
+      setIsLoading(false);
+      return { success: false, error: "Invalid email or password. Use demo accounts or signup for real accounts." };
     } catch (error) {
       console.error("Login error:", error);
+      setIsLoading(false);
+      return { success: false, error: "An unexpected error occurred" };
     }
-
-    setIsLoading(false);
-    return { success: false, error: "An unexpected error occurred" };
   }, []);
 
-  // Demo login - only accessible via demo button, never via manual credentials
+  // Demo login - only accessible via demo button
   const loginWithDemo = useCallback(async (role: AccountRole): Promise<{ success: boolean; error?: string }> => {
     setIsLoading(true);
     await new Promise(resolve => setTimeout(resolve, 600));
@@ -326,86 +321,71 @@ export function SimpleAuthProvider({ children }: { children: ReactNode }) {
     return { success: false, error: "Demo account not found" };
   }, [toast]);
 
-  // Signup handler
+  // Signup handler - pure localStorage (no Supabase)
   const signup = useCallback(async (data: SignupData): Promise<{ success: boolean; error?: string }> => {
     setIsLoading(true);
 
     try {
-      // Create Supabase auth user
-      const { data: supabaseData, error: supabaseError } = await supabase.auth.signUp({
+      // Generate user ID and create local user
+      const newUser: User = {
+        id: generateUserId(),
         email: data.email,
-        password: data.password,
-        options: {
-          data: {
-            full_name: data.name,
-          },
-        },
-      });
+        name: data.name,
+        role: data.role,
+        isVerified: true, // Auto-verified on signup
+        companyName: data.companyName,
+        createdAt: new Date().toISOString(),
+        isDemo: false,
+      };
 
-      if (supabaseError) {
-        setIsLoading(false);
-        return { success: false, error: supabaseError.message };
-      }
+      setUser(newUser);
+      setIsDemo(false);
 
-      if (supabaseData.user) {
-// Call RPC for profile + roles
-        const { data: rpcResult, error: rpcError } = await supabase.rpc("create_user_profile", {
-          p_user_id: supabaseData.user.id,
-          p_email: data.email,
-          p_name: data.name,
-          p_role: data.role,
-          p_company_name: data.companyName,
-        });
-
-        if (rpcError) {
-          console.error("RPC error:", rpcError);
-          // Continue anyway - profile may exist
-        }
-
-        const newUser: User = {
-          id: supabaseData.user.id,
+      // Persist user details and password for local login/session support
+      const localUsers = getLocalUsers();
+      const existing = localUsers.find((u: LocalUser) => u.email.toLowerCase() === data.email.toLowerCase());
+      if (existing) {
+        existing.password = data.password;
+        existing.name = data.name;
+        existing.role = data.role;
+        existing.companyName = data.companyName;
+      } else {
+        localUsers.push({
+          id: newUser.id,
           email: data.email,
           name: data.name,
           role: data.role,
-          isVerified: true, // No email verification required
+          password: data.password,
           companyName: data.companyName,
-          createdAt: supabaseData.user.created_at,
-          isDemo: false,
-        };
-
-        setUser(newUser);
-        setIsDemo(false);
-
-        localStorage.setItem(STORAGE_KEY, JSON.stringify(newUser));
-        localStorage.setItem(SESSION_KEY, JSON.stringify({
-          timestamp: Date.now(),
-          userId: newUser.id,
-          role: newUser.role,
-        }));
-
-        setIsLoading(false);
-        return { success: true };
+          createdAt: newUser.createdAt,
+          isVerified: true,
+        });
       }
-    } catch (error: any) {
+      setLocalUsers(localUsers);
+
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(newUser));
+      localStorage.setItem(SESSION_KEY, JSON.stringify({
+        timestamp: Date.now(),
+        userId: newUser.id,
+        role: newUser.role,
+      }));
+
+      setIsLoading(false);
+      toast({
+        title: "Welcome!",
+        description: "Account created successfully!",
+      });
+      return { success: true };
+    } catch (error: unknown) {
+      const message = error instanceof Error ? error.message : "An unexpected sign up error occurred";
       console.error("Signup error:", error);
       setIsLoading(false);
-      return { success: false, error: error.message };
+      return { success: false, error: message };
     }
-
-    setIsLoading(false);
-    return { success: false, error: "Signup failed" };
-  }, []);
+  }, [toast]);
 
   // Logout handler - clears everything
   const logout = useCallback(async () => {
-    try {
-      // Sign out from Supabase (will fail silently if no session)
-      await supabase.auth.signOut();
-    } catch (error) {
-      console.error("Supabase signout error:", error);
-    }
-    
-    // Clear all local storage
     clearAllStorage();
     
     // Clear any legacy keys
@@ -426,7 +406,7 @@ export function SimpleAuthProvider({ children }: { children: ReactNode }) {
   // Alias for signOut
   const signOut = logout;
 
-  // Verify email
+  // Verify email - demo
   const verifyEmail = useCallback(async (token: string): Promise<{ success: boolean; error?: string }> => {
     setIsLoading(true);
     await new Promise(resolve => setTimeout(resolve, 1500));
@@ -441,30 +421,21 @@ export function SimpleAuthProvider({ children }: { children: ReactNode }) {
     return { success: true };
   }, [user]);
 
-  // Request verification email
+  // Request verification email - demo
   const requestVerification = useCallback(async (email: string): Promise<{ success: boolean; error?: string }> => {
     setIsLoading(true);
-    try {
-      const { error } = await supabase.auth.resend({
-        type: "signup",
-        email,
-      });
-      setIsLoading(false);
-      if (error) return { success: false, error: error.message };
-      return { success: true };
-    } catch (error: any) {
-      setIsLoading(false);
-      return { success: false, error: error.message };
-    }
+    await new Promise(resolve => setTimeout(resolve, 1000));
+    setIsLoading(false);
+    return { success: true };
   }, []);
 
-  // Verify OTP
+  // Verify OTP - demo
   const verifyOTP = useCallback(async (email: string, otp: string): Promise<{ success: boolean; error?: string }> => {
     setIsLoading(true);
     await new Promise(resolve => setTimeout(resolve, 1000));
 
-    // For demo, accept any 6-digit code
-    if (otp === "123456" || otp.length === 6) {
+    // Accept any 6-digit code for demo
+    if (otp.length === 6) {
       if (user) {
         const updatedUser = { ...user, isVerified: true };
         setUser(updatedUser);
@@ -478,38 +449,18 @@ export function SimpleAuthProvider({ children }: { children: ReactNode }) {
     return { success: false, error: "Invalid OTP code" };
   }, [user]);
 
-  // Check session validity
+  // Check session validity - local only
   const checkSession = useCallback(async (): Promise<boolean> => {
-    try {
-      const { data: { session } } = await supabase.auth.getSession();
-      
-      if (session?.user && user && !user.isDemo) {
-        // Refresh user data from Supabase
-        const { data: roleData } = await supabase
-          .from("user_roles")
-          .select("role")
-          .eq("user_id", session.user.id)
-          .single();
-        
-        if (roleData) {
-          const updatedUser = { ...user, role: roleData.role as AccountRole };
-          setUser(updatedUser);
-          localStorage.setItem(STORAGE_KEY, JSON.stringify(updatedUser));
-        }
-        return true;
-      }
-    } catch (error) {
-      console.error("Session check error:", error);
-    }
-    return false;
+    return !!user;
   }, [user]);
 
   // Navigate to dashboard on login
   useEffect(() => {
-    if (user?.isVerified) {
+    const authPages = ["/auth", "/", "/landing", "/verify-email"];
+    if (user?.isVerified && authPages.includes(location.pathname)) {
       navigate(getDashboardPath(user.role), { replace: true });
     }
-  }, [user, navigate]);
+  }, [user, navigate, location.pathname]);
 
   return (
     <AuthContext.Provider

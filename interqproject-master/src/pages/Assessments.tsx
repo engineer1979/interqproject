@@ -7,11 +7,12 @@ import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Card } from "@/components/ui/card";
 import { Plus, Search, Filter, Clock, FileQuestion, CheckCircle, Timer, Award, BarChart, User, Play, LogIn, ArrowRight } from "lucide-react";
-import { supabase } from "@/integrations/supabase/client";
 import { useToast } from "@/hooks/use-toast";
 import { useAuth } from "@/contexts/SimpleAuthContext";
 import { Label } from "@/components/ui/label";
-import { mockAssessments, getQuestionCountByAssessment } from "@/data/mockQuestions";
+import AssessmentLibrary from "@/components/assessment/AssessmentLibrary";
+import { useAssessments } from "@/hooks/useAssessments";
+import { Role } from "@/types/assessment";
 
 interface Assessment {
   id: string;
@@ -27,47 +28,18 @@ interface Assessment {
 
 const Assessments = () => {
   const navigate = useNavigate();
-  const { user } = useAuth();
-  const [assessments, setAssessments] = useState<Assessment[]>([]);
-  const [loading, setLoading] = useState(true);
+const authUser = useAuth();
   const [searchQuery, setSearchQuery] = useState("");
   const [selectedCategory, setSelectedCategory] = useState<string>("All");
-  const { toast } = useToast();
 
-  useEffect(() => {
-    fetchAssessments();
-  }, []);
-
-  const fetchAssessments = async () => {
-    try {
-      const { data, error } = await supabase
-        .from("assessments")
-        .select("*")
-        .eq("is_published", true)
-        .order("created_at", { ascending: false });
-
-      if (error) throw error;
-      setAssessments(data || []);
-    } catch (error: any) {
-      const mockFormattedAssessments: Assessment[] = mockAssessments.map(a => ({
-        id: a.id,
-        title: a.title,
-        description: a.description,
-        category: a.category,
-        difficulty: a.difficulty,
-        duration_minutes: a.duration_minutes,
-        is_published: a.is_published,
-        questions_count: getQuestionCountByAssessment(a.id),
-        passing_score: a.passing_score,
-      }));
-      setAssessments(mockFormattedAssessments);
-    } finally {
-      setLoading(false);
-    }
-  };
+  const { data: assessmentsData = [] } = useAssessments();
+  const assessments = assessmentsData.filter(a => 
+    !["HR Manager - Generalist", "HR Executive - Recruitment"].includes(a.title)
+  );
 
   const hiddenTitles = ["HR Manager - Generalist", "HR Executive - Recruitment"];
-  const categories = ["All", ...Array.from(new Set(assessments.filter(a => !hiddenTitles.includes(a.title)).map(a => a.category))).sort()];
+
+  const categories = ["All", ...Array.from(new Set(assessments.map(a => a.category))).sort()];
 
   const filteredAssessments = assessments.filter((assessment) =>
     !hiddenTitles.includes(assessment.title) &&
@@ -76,26 +48,39 @@ const Assessments = () => {
       assessment.category.toLowerCase().includes(searchQuery.toLowerCase()))
   );
 
-  return (
-    <div className="min-h-screen bg-gradient-to-b from-slate-100 to-slate-50">
-      <EnhancedNavigation />
+  const role: Role = authUser.user ? 'jobseeker' : 'jobseeker'; // Default for public
 
-      <section className="pt-32 pb-20 px-4">
+  return (
+    <div className="min-h-screen bg-white">
+      <EnhancedNavigation />
+      
+      {/* Hero Section */}
+      <section className="pt-32 pb-20 px-4 hero-blue bg-aurora">
         <div className="container mx-auto max-w-7xl">
           <motion.div
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6 }}
           >
-            {/* Header */}
             <div className="text-center mb-16">
-              <h1 className="text-4xl md:text-6xl font-extrabold mb-6 text-slate-900">
-                Skill <span className="text-gradient-brand">Assessments</span>
+              <h1 className="text-4xl md:text-6xl font-extrabold mb-6 text-white leading-tight">
+                Skill <span className="gradient-text-brand">Assessments</span>
               </h1>
-              <p className="text-xl text-slate-600 max-w-2xl mx-auto">
+              <p className="text-xl text-white/90 max-w-2xl mx-auto">
                 Validate your expertise with our industry-standard assessments. Take them anytime, anywhere.
               </p>
             </div>
+          </motion.div>
+        </div>
+      </section>
+
+      <section className="py-20 px-4 bg-white">
+        <div className="container mx-auto max-w-7xl">
+          <motion.div
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.6, delay: 0.2 }}
+          >
 
             {/* How It Works */}
             <div className="mb-20">
@@ -170,7 +155,8 @@ const Assessments = () => {
               </div>
 
               {/* Optional Login Card */}
-              {!user && (
+{!authUser.user && (
+
                 <Card className="p-6 bg-white border-slate-200 shadow-md sticky top-24">
                   <div className="flex items-center gap-3 mb-6">
                     <div className="p-2 rounded-lg bg-blue-100 text-blue-600">
@@ -248,14 +234,7 @@ const Assessments = () => {
                 </div>
               </div>
 
-              {loading ? (
-                <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
-                  {[1, 2, 3].map((i) => (
-                    <div key={i} className="h-64 bg-white border border-slate-200 rounded-xl animate-pulse" />
-                  ))}
-                </div>
-              ) : (
-                <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+<div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
                   {filteredAssessments.map((assessment) => (
                     <Card key={assessment.id} className="group p-6 hover:shadow-lg transition-all duration-300 bg-white border-slate-200 hover:border-cyan-300 cursor-pointer" onClick={() => navigate(`/assessment/${assessment.id}`)}>
                       <div className="flex items-start justify-between mb-4">
@@ -287,7 +266,6 @@ const Assessments = () => {
                     </Card>
                   ))}
                 </div>
-              )}
             </div>
 
             {/* Live Interview Section */}

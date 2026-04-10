@@ -3,11 +3,20 @@ import {
   Briefcase, FileText, Calendar, Clock, TrendingUp, 
   Star, ArrowRight, CheckCircle, AlertCircle, Users, BarChart3 
 } from "lucide-react";
-import { mockJobSeekerStats, mockApplications, mockInterviews, mockNotifications } from "@/data/atsData";
+import { mockKPIs, mockCandidates, mockInterviews, mockNotifications } from "@/data/adminModuleData";
 
 export default function JobSeekerDashboard() {
-  const stats = mockJobSeekerStats;
-  const recentApps = mockApplications.slice(0, 3);
+  const stats = {
+    totalApplications: mockCandidates.length,
+    pendingApplications: mockCandidates.filter(c=>c.stage==="applied").length,
+    interviewsScheduled: mockInterviews.filter(i=>i.status==="scheduled").length,
+    offersReceived: mockKPIs.offersSent,
+    profileViews: 0,
+    profileStrength: 0,
+    savedJobs: 0,
+    assessmentsCompleted: 0,
+  };
+  const recentApps = mockCandidates.slice(0, 3);
   const upcomingInterviews = mockInterviews.slice(0, 2);
   const notifications = mockNotifications.slice(0, 3);
 
@@ -41,7 +50,7 @@ export default function JobSeekerDashboard() {
     <div className="space-y-6">
       <div className="flex items-center justify-between">
         <div>
-          <h1 className="text-2xl font-bold text-gray-900">Welcome back, Emily!</h1>
+          <p className="text-2xl font-bold text-gray-900">Job Seeker Dashboard</p>
           <p className="text-gray-500">Track your job search progress</p>
         </div>
         <button className="px-4 py-2 bg-indigo-600 text-white rounded-lg hover:bg-indigo-700 transition">
@@ -128,7 +137,7 @@ export default function JobSeekerDashboard() {
               <div key={app.id} className="p-4 hover:bg-gray-50 transition">
                 <div className="flex items-center justify-between">
                   <div className="flex-1">
-                    <h3 className="font-medium text-gray-900">{app.jobTitle}</h3>
+                    <h3 className="font-medium text-gray-900">{app.appliedRole}</h3>
                     <p className="text-sm text-gray-500">{app.companyName}</p>
                   </div>
                   <div className="flex items-center space-x-3">

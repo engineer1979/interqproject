@@ -2,6 +2,7 @@ import { Button } from "@/components/ui/button";
 import { motion } from "framer-motion";
 import { ArrowRight, Play, Users, TrendingUp, Shield, CheckCircle2, Clock, Target, Sparkles, Zap } from "lucide-react";
 import { useNavigate } from "react-router-dom";
+import StatsSlideshow from "./StatsSlideshow";
 import heroImg from "@/assets/hero-interview.jpg";
 
 const HeroSection = () => {
@@ -96,7 +97,7 @@ const HeroSection = () => {
             {/* Benefits List */}
             <motion.ul
               variants={itemVariants}
-              className="flex flex-col gap-3 text-sm sm:text-base text-slate-300 w-full max-w-xl mx-auto lg:mx-0"
+className="flex flex-col gap-3 text-sm sm:text-base text-glow-white w-full max-w-xl mx-auto lg:mx-0"
             >
               {[
                 { text: "Structured technical interviews — not gut-feel decisions", highlight: false },
@@ -104,10 +105,10 @@ const HeroSection = () => {
                 { text: "Detailed evaluation reports delivered within 24 hours", highlight: false },
               ].map((item, i) => (
                 <li key={i} className="flex items-start gap-3">
-                  <div className="w-5 h-5 rounded-full bg-gradient-to-br from-cyan-500 to-cyan-400 flex items-center justify-center mt-0.5 shrink-0 shadow-lg shadow-cyan-500/30">
+                  <div className="w-5 h-5 rounded-full bg-gradient-to-br from-cyan-500 to-cyan-400 flex items-center justify-center mt-0.5 shrink-0 shadow-lg shadow-cyan-500/30 icon-glow-cyan">
                     <CheckCircle2 className="h-3 w-3 text-white" />
                   </div>
-                  <span>{item.text}</span>
+                  <span className="font-medium text-white text-glow-white">{item.text}</span>
                 </li>
               ))}
             </motion.ul>
@@ -115,7 +116,7 @@ const HeroSection = () => {
             {/* CTA Buttons */}
             <motion.div
               variants={itemVariants}
-              className="flex flex-col sm:flex-row items-center gap-4 pt-2 w-full sm:w-auto"
+              className="flex flex-col sm:flex-row items-center gap-4 pt-2 pb-12 sm:pb-0 w-full sm:w-auto"
             >
               <Button
                 onClick={() => navigate("/get-started")}
@@ -203,34 +204,8 @@ const HeroSection = () => {
                 </div>
               </div>
 
-              {/* Stats Grid */}
-              <div className="grid grid-cols-4 gap-4">
-                {[
-                  { icon: Users, value: "2,847", label: "Candidates", color: "cyan" },
-                  { icon: Shield, value: "87%", label: "Strong Hire", color: "blue" },
-                  { icon: TrendingUp, value: "94%", label: "Hire Rate", color: "green" },
-                  { icon: Zap, value: "24h", label: "Reports", color: "purple" },
-                ].map((stat, i) => (
-                  <motion.div
-                    key={i}
-                    initial={{ opacity: 0, y: 20 }}
-                    animate={{ opacity: 1, y: 0 }}
-                    transition={{ duration: 0.5, delay: 0.5 + i * 0.1 }}
-                    className="bg-slate-800/60 backdrop-blur-sm border border-white/10 p-4 rounded-xl flex flex-col items-center text-center gap-2"
-                  >
-                    <div className={`w-11 h-11 rounded-xl flex items-center justify-center ${
-                      stat.color === 'cyan' ? 'bg-cyan-500/20 text-cyan-400' :
-                      stat.color === 'blue' ? 'bg-blue-500/20 text-blue-400' :
-                      stat.color === 'green' ? 'bg-green-500/20 text-green-400' :
-                      'bg-purple-500/20 text-purple-400'
-                    }`}>
-                      <stat.icon size={20} />
-                    </div>
-                    <p className="text-lg font-black text-white">{stat.value}</p>
-                    <p className="text-xs text-slate-400 font-medium">{stat.label}</p>
-                  </motion.div>
-                ))}
-              </div>
+              {/* Stats Slideshow */}
+              <StatsSlideshow />
             </div>
           </motion.div>
         </div>

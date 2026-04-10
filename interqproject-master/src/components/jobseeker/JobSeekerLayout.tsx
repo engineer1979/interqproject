@@ -7,7 +7,7 @@ import { Badge } from "@/components/ui/badge";
 import { cn } from "@/lib/utils";
 import {
   LayoutDashboard, FileText, Video, Award, User, Bell, Settings,
-  LogOut, BookOpen, TrendingUp, ChevronLeft, ChevronRight, Menu, X, Shield
+  LogOut, BookOpen, TrendingUp, ChevronLeft, ChevronRight, Menu, X, Shield, Code2
 } from "lucide-react";
 import { supabase } from "@/integrations/supabase/client";
 import { useQuery } from "@tanstack/react-query";
@@ -15,6 +15,7 @@ import { useQuery } from "@tanstack/react-query";
 const navItems = [
   { icon: LayoutDashboard, label: "Dashboard", path: "/jobseeker" },
   { icon: FileText, label: "Assessments", path: "/jobseeker/assessments" },
+  { icon: Code2, label: "Coding Challenges", path: "/jobseeker/coding-challenges" },
   { icon: Video, label: "Interviews", path: "/jobseeker/interviews" },
   { icon: TrendingUp, label: "Results", path: "/jobseeker/results" },
   { icon: Award, label: "Certificates", path: "/jobseeker/certificates" },
@@ -71,8 +72,20 @@ export function JobSeekerLayout() {
 
   const SidebarContent = () => (
     <>
-      <div className="p-4 border-b border-border flex items-center gap-3">
-        <img src="/interq-logo.png" alt="InterQ" className="h-10 w-auto object-contain flex-shrink-0" />
+      <div className="p-4 border-b border-border flex flex-col items-start justify-center">
+        <div className="flex items-center gap-2">
+          <img src="/interq-logo.png" alt="InterQ" className="h-10 w-auto object-contain flex-shrink-0" />
+          {!collapsed && (
+            <span className="text-xl font-bold tracking-tight text-slate-800">
+              InterQ
+            </span>
+          )}
+        </div>
+        {!collapsed && (
+          <span className="text-[10px] font-medium text-slate-700 mt-1 transition-colors duration-300" style={{ letterSpacing: '0.05em' }}>
+            InterQ Technologies Inc
+          </span>
+        )}
       </div>
 
       <nav className="flex-1 p-3 space-y-1 overflow-y-auto">
@@ -125,7 +138,7 @@ export function JobSeekerLayout() {
     <div className="min-h-screen bg-background flex">
       {/* Desktop Sidebar */}
       <aside className={cn(
-        "hidden lg:flex flex-col border-r border-border bg-card transition-all duration-300 sticky top-0 h-screen",
+        "hidden lg:flex flex-col border-r border-border bg-card transition-all duration-300 sticky top-0 h-screen overflow-y-auto",
         collapsed ? "w-16" : "w-64"
       )}>
         <SidebarContent />
@@ -148,16 +161,15 @@ export function JobSeekerLayout() {
       )}
 
       {/* Main */}
-      <main className="flex-1 overflow-auto min-w-0">
+      <main className="flex-1 min-w-0 min-h-screen">
         <header className="sticky top-0 z-30 bg-background/95 backdrop-blur-md border-b border-border px-4 md:px-6 py-3 flex items-center justify-between">
           <div className="flex items-center gap-3">
             <button className="lg:hidden p-2 hover:bg-muted rounded-lg" onClick={() => setMobileOpen(true)}>
               <Menu className="w-5 h-5" />
             </button>
-            <div>
-              <h1 className="text-lg font-bold">Welcome, {userName}!</h1>
-              <p className="text-xs text-muted-foreground">Manage your career journey</p>
-            </div>
+<div>
+            <p className="text-xs text-muted-foreground">Manage your career journey</p>
+          </div>
           </div>
           <div className="flex items-center gap-2">
             <Button variant="ghost" size="icon" className="relative" onClick={() => navigate("/jobseeker/notifications")}>

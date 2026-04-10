@@ -27,9 +27,13 @@ import {
   Shield,
   CreditCard,
   BarChart3,
+  Code2,
 } from "lucide-react";
 import { useAuth } from "@/contexts/SimpleAuthContext";
+import { useToast } from "@/hooks/use-toast";
+import { useNavigate } from "react-router-dom";
 import { mockKPIs, mockCompanies, mockJobs, mockCandidates, mockInterviews, mockOffers, mockActivityFeed } from "@/data/adminModuleData";
+import { LiveInterviewPlatforms } from "@/components/dashboard/LiveInterviewPlatforms";
 
 const statCards = {
   admin: [
@@ -70,33 +74,33 @@ const statCards = {
 
 const quickActions = {
   admin: [
-    { label: "Add Company", icon: Building2, href: "/companies/new", color: "bg-blue-500" },
-    { label: "Add Recruiter", icon: Users, href: "/users/new", color: "bg-green-500" },
-    { label: "Post Job", icon: Briefcase, href: "/jobs/new", color: "bg-purple-500" },
-    { label: "Permissions", icon: Shield, href: "/roles", color: "bg-orange-500" },
+    { label: "Add Company", icon: Building2, href: "/companies", color: "bg-blue-500" },
+    { label: "Add Recruiter", icon: Users, href: "/users", color: "bg-green-500" },
+    { label: "Post Job", icon: Briefcase, href: "/jobs", color: "bg-purple-500" },
+    { label: "Permissions", icon: Shield, href: "/settings", color: "bg-orange-500" },
     { label: "Reports", icon: BarChart3, href: "/reports", color: "bg-cyan-500" },
     { label: "Billing", icon: CreditCard, href: "/billing", color: "bg-pink-500" },
   ],
   company: [
-    { label: "Post New Job", icon: Plus, href: "/jobs/new", color: "bg-blue-500" },
+    { label: "Post New Job", icon: Plus, href: "/jobs", color: "bg-blue-500" },
     { label: "Review Candidates", icon: UserCheck, href: "/candidates", color: "bg-green-500" },
-    { label: "Schedule Interview", icon: Calendar, href: "/interviews/new", color: "bg-purple-500" },
-    { label: "Send Offer", icon: FileText, href: "/offers/new", color: "bg-orange-500" },
+    { label: "Schedule Interview", icon: Calendar, href: "/interviews", color: "bg-purple-500" },
+    { label: "Send Offer", icon: FileText, href: "/offers", color: "bg-orange-500" },
     { label: "Team Settings", icon: Users, href: "/team", color: "bg-cyan-500" },
     { label: "View Reports", icon: BarChart3, href: "/reports", color: "bg-pink-500" },
   ],
   recruiter: [
-    { label: "Add Candidate", icon: Plus, href: "/candidates/new", color: "bg-blue-500" },
-    { label: "Schedule Interview", icon: Calendar, href: "/interviews/new", color: "bg-green-500" },
+    { label: "Add Candidate", icon: Plus, href: "/candidates", color: "bg-blue-500" },
+    { label: "Schedule Interview", icon: Calendar, href: "/interviews", color: "bg-green-500" },
     { label: "Review Pipeline", icon: UserCheck, href: "/pipeline", color: "bg-purple-500" },
-    { label: "Send Offer Request", icon: FileText, href: "/offers/new", color: "bg-orange-500" },
+    { label: "Send Offer Request", icon: FileText, href: "/offers", color: "bg-orange-500" },
     { label: "Talent Pool", icon: Star, href: "/talent-pool", color: "bg-cyan-500" },
     { label: "My Reports", icon: BarChart3, href: "/reports", color: "bg-pink-500" },
   ],
   jobseeker: [
     { label: "Search Jobs", icon: Briefcase, href: "/jobs", color: "bg-blue-500" },
     { label: "Edit Profile", icon: Users, href: "/profile", color: "bg-green-500" },
-    { label: "Upload Resume", icon: FileText, href: "/profile/resume", color: "bg-purple-500" },
+    { label: "Upload Resume", icon: FileText, href: "/profile", color: "bg-purple-500" },
     { label: "Saved Jobs", icon: Star, href: "/saved-jobs", color: "bg-orange-500" },
     { label: "Messages", icon: MessageSquare, href: "/messages", color: "bg-cyan-500" },
     { label: "Settings", icon: Settings, href: "/settings", color: "bg-pink-500" },
@@ -105,6 +109,8 @@ const quickActions = {
 
 export default function UnifiedDashboard() {
   const { user } = useAuth();
+  const navigate = useNavigate();
+  const { toast } = useToast();
   const [notifications] = useState(mockActivityFeed.slice(0, 5));
   const currentRole = user?.role || "jobseeker";
 
@@ -133,12 +139,12 @@ export default function UnifiedDashboard() {
           <p className="text-muted-foreground">{roleDescription[currentRole]}</p>
         </div>
         <div className="flex gap-2">
-          <Button variant="outline">
+          <Button variant="outline" onClick={() => { toast({ title: "Report Exported", description: "Dashboard report downloaded as CSV." }); }}>
             <Download className="h-4 w-4 mr-2" />
             Export Report
           </Button>
           {currentRole !== "jobseeker" && (
-            <Button>
+            <Button onClick={() => navigate(currentRole === "admin" ? "/companies" : currentRole === "company" ? "/jobs" : "/candidates")}>
               <Plus className="h-4 w-4 mr-2" />
               {currentRole === "admin" ? "Add Company" : currentRole === "company" ? "Post Job" : "Add Candidate"}
             </Button>
@@ -170,6 +176,8 @@ export default function UnifiedDashboard() {
           </Card>
         ))}
       </div>
+
+      <LiveInterviewPlatforms />
 
       <div className="grid gap-6 lg:grid-cols-3">
         <Card className="lg:col-span-2">
@@ -210,6 +218,7 @@ export default function UnifiedDashboard() {
                   key={index}
                   variant="outline"
                   className="h-auto py-4 flex flex-col items-center gap-2"
+                  onClick={() => navigate(action.href)}
                 >
                   <div className={`w-10 h-10 rounded-lg ${action.color} flex items-center justify-center`}>
                     <action.icon className="h-5 w-5 text-white" />
@@ -405,6 +414,28 @@ export default function UnifiedDashboard() {
                   <div className="text-sm text-muted-foreground">{status.count}</div>
                 </div>
               ))}
+            </CardContent>
+          </Card>
+
+          <Card className="bg-slate-900 text-white border-none overflow-hidden relative group">
+            <div className="absolute top-0 right-0 w-32 h-32 bg-primary/20 rounded-full -mr-16 -mt-16 blur-3xl group-hover:bg-primary/30 transition-colors" />
+            <CardHeader>
+              <CardTitle className="flex items-center gap-2">
+                <Code2 className="w-5 h-5 text-primary" />
+                Coding Challenges
+              </CardTitle>
+            </CardHeader>
+            <CardContent>
+              <p className="text-slate-400 text-sm mb-6">
+                Master Top Skills with our curated collection of technical challenges.
+              </p>
+              <Button 
+                variant="outline" 
+                className="w-full bg-white text-slate-900 border-none hover:bg-slate-100"
+                onClick={() => navigate("/jobseeker/coding-challenges")}
+              >
+                Start Practice session
+              </Button>
             </CardContent>
           </Card>
         </div>

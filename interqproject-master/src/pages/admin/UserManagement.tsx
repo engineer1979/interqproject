@@ -153,7 +153,7 @@ export default function UserManagement() {
           selectedUsers.includes(u.id) ? { ...u, status: 'suspended' as UserStatus } : u
         ));
         break;
-      case 'export':
+      case 'export': {
         const csvContent = [
           ['Name', 'Email', 'Role', 'Department', 'Company', 'Status'].join(','),
           ...filteredUsers.filter(u => selectedUsers.includes(u.id)).map(u => 
@@ -167,6 +167,7 @@ export default function UserManagement() {
         a.download = 'users-export.csv';
         a.click();
         break;
+      }
     }
     setBulkAction('');
     setSelectedUsers([]);

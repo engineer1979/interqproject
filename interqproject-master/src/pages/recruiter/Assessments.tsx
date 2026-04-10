@@ -1,8 +1,12 @@
 import { useState } from "react";
+import { useToast } from "@/hooks/use-toast";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { Input } from "@/components/ui/input";
+import { Label } from "@/components/ui/label";
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
+import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogTrigger, DialogClose } from "@/components/ui/dialog";
 import {
   Table,
   TableBody,
@@ -33,11 +37,15 @@ import {
   Users,
   Calendar,
 } from "lucide-react";
-import { mockAssessmentAssignments, mockAssessments } from "@/data/atsData";
+import { mockKPIs, mockAssessments } from "@/data/adminModuleData";
+import { mockAssessmentAssignments } from "@/data/atsData";
 
 export default function RecruiterAssessments() {
+  const { toast } = useToast();
   const [searchTerm, setSearchTerm] = useState("");
   const [statusFilter, setStatusFilter] = useState<string>("all");
+  const [showAssignModal, setShowAssignModal] = useState(false);
+  const [assignData, setAssignData] = useState({ candidate: '', assessment: '' });
 
   const filteredAssignments = mockAssessmentAssignments.filter((assignment) => {
     const matchesSearch =
@@ -46,6 +54,25 @@ export default function RecruiterAssessments() {
     const matchesStatus = statusFilter === "all" || assignment.status === statusFilter;
     return matchesSearch && matchesStatus;
   });
+
+  const handleAssign = () => {
+    if (!assignData.candidate || !assignData.assessment) return;
+    toast({ title: 'Assessment Assigned', description: `Assessment sent to ${assignData.candidate}` });
+    setShowAssignModal(false);
+    setAssignData({ candidate: '', assessment: '' });
+  };
+
+  const handleSendReminder = (candidateName: string) => {
+    toast({ title: 'Reminder Sent', description: `Reminder sent to ${candidateName}` });
+  };
+
+  const handleDownloadReport = () => {
+    toast({ title: 'Report Downloaded', description: 'Assessment report has been downloaded' });
+  };
+
+  const handleExport = () => {
+    toast({ title: 'Export Started', description: 'Generating assessment report...' });
+  };
 
   const statusColors: Record<string, string> = {
     pending: "bg-gray-100 text-gray-700",
@@ -78,14 +105,57 @@ export default function RecruiterAssessments() {
           <p className="text-gray-500">Manage candidate assessments and track results</p>
         </div>
         <div className="flex items-center space-x-3">
-          <Button variant="outline">
+          <Button variant="outline" onClick={handleExport}>
             <Download className="w-4 h-4 mr-2" />
             Export Report
           </Button>
-          <Button>
-            <Plus className="w-4 h-4 mr-2" />
-            Assign Assessment
-          </Button>
+          <Dialog open={showAssignModal} onOpenChange={setShowAssignModal}>
+            <DialogTrigger asChild>
+              <Button>
+                <Plus className="w-4 h-4 mr-2" />
+                Assign Assessment
+              </Button>
+            </DialogTrigger>
+            <DialogContent>
+              <DialogHeader>
+                <DialogTitle>Assign Assessment</DialogTitle>
+              </DialogHeader>
+              <div className="space-y-4">
+                <div>
+                  <Label>Select Candidate</Label>
+                  <Select value={assignData.candidate} onValueChange={(v) => setAssignData({ ...assignData, candidate: v })}>
+                    <SelectTrigger>
+                      <SelectValue placeholder="Choose candidate" />
+                    </SelectTrigger>
+                    <SelectContent>
+                      <SelectItem value="John Doe">John Doe</SelectItem>
+                      <SelectItem value="Sarah Wilson">Sarah Wilson</SelectItem>
+                      <SelectItem value="Mike Johnson">Mike Johnson</SelectItem>
+                    </SelectContent>
+                  </Select>
+                </div>
+                <div>
+                  <Label>Select Assessment</Label>
+                  <Select value={assignData.assessment} onValueChange={(v) => setAssignData({ ...assignData, assessment: v })}>
+                    <SelectTrigger>
+                      <SelectValue placeholder="Choose assessment" />
+                    </SelectTrigger>
+                    <SelectContent>
+                      {mockAssessments.map(a => (
+                        <SelectItem key={a.id} value={a.title}>{a.title}</SelectItem>
+                      ))}
+                    </SelectContent>
+                  </Select>
+                </div>
+                <div className="flex justify-end gap-3 pt-4">
+                  <DialogClose asChild>
+                    <Button variant="outline">Cancel</Button>
+                  </DialogClose>
+                  <Button onClick={handleAssign}>Assign</Button>
+                </div>
+              </div>
+            </DialogContent>
+          </Dialog>
         </div>
       </div>
 
@@ -257,23 +327,23 @@ export default function RecruiterAssessments() {
                       </Button>
                     </DropdownMenuTrigger>
                     <DropdownMenuContent align="end">
-                      <DropdownMenuItem>
+                      <DropdownMenuItem onClick={() => toast({ title: 'Viewing Details', description: `Assessment for ${assignment.candidateName}` })}>
                         <Eye className="w-4 h-4 mr-2" />
                         View Details
                       </DropdownMenuItem>
                       {assignment.status === "completed" && (
-                        <DropdownMenuItem>
+                        <DropdownMenuItem onClick={() => toast({ title: 'Viewing Results', description: `${assignment.candidateName}'s assessment results` })}>
                           <BarChart3 className="w-4 h-4 mr-2" />
                           View Results
                         </DropdownMenuItem>
                       )}
                       {assignment.status === "pending" && (
-                        <DropdownMenuItem>
+                        <DropdownMenuItem onClick={() => handleSendReminder(assignment.candidateName)}>
                           <Send className="w-4 h-4 mr-2" />
                           Send Reminder
                         </DropdownMenuItem>
                       )}
-                      <DropdownMenuItem>
+                      <DropdownMenuItem onClick={handleDownloadReport}>
                         <FileText className="w-4 h-4 mr-2" />
                         Download Report
                       </DropdownMenuItem>
@@ -305,11 +375,14 @@ export default function RecruiterAssessments() {
                     <div>
                       <p className="font-medium">{assessment.title}</p>
                       <p className="text-xs text-gray-500">
-                        {assessment.questionsCount} questions • {assessment.duration} min
+                        {assessment.questions || assessment.questionsCount} questions • {assessment.duration} min
                       </p>
                     </div>
                   </div>
-                  <Button size="sm">Assign</Button>
+                  <Button size="sm" onClick={() => {
+                    setAssignData({ ...assignData, assessment: assessment.title });
+                    setShowAssignModal(true);
+                  }}>Assign</Button>
                 </div>
               ))}
             </div>

@@ -20,7 +20,7 @@ const navItems = [
   { label: "Interviews", icon: MessageSquare, path: "/company/interviews" },
   { label: "Results & Reports", icon: BarChart3, path: "/company/results" },
   { label: "Notifications", icon: Bell, path: "/company/notifications" },
-  { label: "Audit Logs", icon: ScrollText, path: "/company/logs" },
+  { label: "Audit Logs", icon: ScrollText, path: "/company/audit-logs" },
   { label: "Settings", icon: Settings, path: "/company/settings" },
 ];
 
@@ -45,18 +45,44 @@ export function CompanyLayout() {
     }
     if (!user) return;
 
-    const fetchCompany = async () => {
-      const { data: membership } = await (supabase as any)
-        .from("company_members")
-        .select("company_id, role, companies(id, name, logo_url)")
-        .eq("user_id", user.id)
-        .limit(1)
-        .single();
-
-      if (membership?.companies) {
-        setCompany(membership.companies as Company);
-      }
+    if (user.isDemo && user.role === "company") {
+      setCompany({
+        id: user.companyId || "comp_demo_001",
+        name: user.companyName || "TechCorp Solutions",
+        logo_url: null
+      });
       setLoadingCompany(false);
+      return;
+    }
+
+    const fetchCompany = async () => {
+      try {
+        const { data: membership } = await (supabase as any)
+          .from("company_members")
+          .select("company_id, role, companies(id, name, logo_url)")
+          .eq("user_id", user.id)
+          .limit(1)
+          .single();
+
+        if (membership?.companies) {
+          setCompany(membership.companies as Company);
+        } else {
+          // SECONDARY FALLBACK: Check localStorage if Supabase has no record
+          const localData = localStorage.getItem('companyData');
+          if (localData) {
+            const parsed = JSON.parse(localData);
+            setCompany({
+              id: parsed.id || 'local-comp',
+              name: parsed.name,
+              logo_url: null
+            });
+          }
+        }
+      } catch (error) {
+        console.error("Error fetching company:", error);
+      } finally {
+        setLoadingCompany(false);
+      }
     };
     fetchCompany();
   }, [user, authLoading, navigate]);
@@ -135,16 +161,23 @@ export function CompanyLayout() {
 
       {/* Sidebar */}
       <aside className={`fixed lg:static inset-y-0 left-0 z-50 w-64 bg-card border-r transform transition-transform duration-200 ${sidebarOpen ? 'translate-x-0' : '-translate-x-full lg:translate-x-0'} flex flex-col`}>
-        <div className="p-4 border-b flex items-center justify-between">
-          <div className="flex items-center gap-3 min-w-0">
-            <img src={interqLogo} alt="InterQ" className="h-10 flex-shrink-0" />
-            <div className="min-w-0">
-              <p className="text-sm font-semibold truncate">{company.name}</p>
+        <div className="p-4 border-b flex flex-col items-start gap-1">
+          <div className="flex items-center justify-between w-full">
+            <div className="flex items-center gap-3 min-w-0">
+              <div className="flex flex-col items-center">
+                <img src={interqLogo} alt="InterQ" className="h-10 flex-shrink-0" />
+                <span className="text-[10px] font-medium text-slate-700 mt-1 transition-colors duration-300" style={{ letterSpacing: '0.05em' }}>
+                  InterQ Technologies Inc
+                </span>
+              </div>
+              <div className="min-w-0">
+                <p className="text-sm font-semibold truncate">{company.name}</p>
+              </div>
             </div>
+            <Button variant="ghost" size="icon" className="lg:hidden" onClick={() => setSidebarOpen(false)}>
+              <X className="h-4 w-4" />
+            </Button>
           </div>
-          <Button variant="ghost" size="icon" className="lg:hidden" onClick={() => setSidebarOpen(false)}>
-            <X className="h-4 w-4" />
-          </Button>
         </div>
 
         <nav className="flex-1 p-3 space-y-1 overflow-y-auto">
@@ -177,11 +210,8 @@ export function CompanyLayout() {
           <Button variant="ghost" size="icon" className="lg:hidden" onClick={() => setSidebarOpen(true)}>
             <Menu className="h-5 w-5" />
           </Button>
-          <div className="flex items-center gap-2">
-            <span className="text-sm text-muted-foreground hidden sm:inline">
-              Welcome, <span className="font-medium text-foreground">{user?.name || user?.email}</span>
-            </span>
-          </div>
+<div className="flex items-center gap-2">
+            </div>
           <div className="flex items-center gap-2">
             <Button variant="ghost" size="icon"><Bell className="h-4 w-4" /></Button>
           </div>
