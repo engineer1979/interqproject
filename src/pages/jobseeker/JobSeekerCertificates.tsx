@@ -176,18 +176,10 @@ export default function JobSeekerCertificates() {
                         <Eye className="w-4 h-4 mr-2" /> View Full
                       </Button>
                       <div className="flex gap-2">
-                        <Button 
-                          onClick={() => setSelectedCert(cert)}
-                          variant="outline" 
-                          className="flex-1 border-white/20 hover:bg-white/10 text-white font-bold rounded-xl"
-                        >
+                        <Button variant="outline" className="flex-1 border-white/20 hover:bg-white/10 text-white font-bold rounded-xl">
                           <Download className="w-4 h-4 mr-2" /> PDF
                         </Button>
-                        <Button 
-                          onClick={() => setSelectedCert(cert)}
-                          variant="outline" 
-                          className="flex-1 border-white/20 hover:bg-white/10 text-white font-bold rounded-xl"
-                        >
+                        <Button variant="outline" className="flex-1 border-white/20 hover:bg-white/10 text-white font-bold rounded-xl">
                           <Share2 className="w-4 h-4 mr-2" /> Share
                         </Button>
                       </div>

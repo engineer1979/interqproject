@@ -126,7 +126,7 @@ export function JobSeekerLayout() {
     <div className="min-h-screen bg-background flex">
       {/* Desktop Sidebar */}
       <aside className={cn(
-        "hidden lg:flex flex-col border-r border-border bg-card transition-all duration-300 sticky top-0 h-screen",
+        "hidden lg:flex flex-col border-r border-border bg-card transition-all duration-300 sticky top-0 h-screen overflow-y-auto",
         collapsed ? "w-16" : "w-64"
       )}>
         <SidebarContent />
@@ -149,7 +149,7 @@ export function JobSeekerLayout() {
       )}
 
       {/* Main */}
-      <main className="flex-1 overflow-auto min-w-0">
+      <main className="flex-1 min-w-0 min-h-screen">
         <header className="sticky top-0 z-30 bg-background/95 backdrop-blur-md border-b border-border px-4 md:px-6 py-3 flex items-center justify-between">
           <div className="flex items-center gap-3">
             <button className="lg:hidden p-2 hover:bg-muted rounded-lg" onClick={() => setMobileOpen(true)}>
