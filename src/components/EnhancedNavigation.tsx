@@ -151,12 +151,17 @@ const EnhancedNavigation = () => {
           {/* Main Nav Row */}
           <div className="flex items-center justify-between h-16 lg:h-[70px]">
             {/* Logo */}
-            <Link to="/" className="flex items-center gap-3 group transition-all duration-200" onClick={() => setIsMobileMenuOpen(false)}>
-              <div className={`rounded-xl p-1.5 transition-all duration-300 nav-logo`}>
-                <img src="/interq-logo.png" alt="InterQ" className="h-9 lg:h-10 w-auto" loading="lazy" decoding="async" />
+            <Link to="/" className="flex flex-col group transition-all duration-200" onClick={() => setIsMobileMenuOpen(false)}>
+              <div className="flex items-center gap-2">
+                <div className={`rounded-xl p-1 transition-all duration-300 nav-logo`}>
+                  <img src="/interq-logo.png" alt="InterQ" className="h-8 lg:h-9 w-auto" loading="lazy" decoding="async" />
+                </div>
+                <span className={`text-xl lg:text-2xl font-bold tracking-tight nav-brand-text transition-colors duration-300 leading-none ${isScrolled ? "text-slate-800" : "text-white"}`}>
+                  InterQ
+                </span>
               </div>
-              <span className={`text-xl lg:text-2xl font-bold tracking-tight nav-brand-text transition-colors duration-300 text-white ${isScrolled ? "drop-shadow-[0_1.2px_1.2px_rgba(0,0,0,0.5)]" : ""}`}>
-                InterQ
+              <span className={`text-[10px] font-medium transition-colors duration-300 ml-1 mt-0.5 opacity-80 ${isScrolled ? "text-slate-700" : "text-slate-200"}`} style={{ letterSpacing: '0.05em' }}>
+                InterQ Technologies Inc
               </span>
             </Link>
 

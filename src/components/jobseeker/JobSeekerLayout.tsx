@@ -72,8 +72,20 @@ export function JobSeekerLayout() {
 
   const SidebarContent = () => (
     <>
-      <div className="p-4 border-b border-border flex items-center gap-3">
-        <img src="/interq-logo.png" alt="InterQ" className="h-10 w-auto object-contain flex-shrink-0" />
+      <div className="p-4 border-b border-border flex flex-col items-start justify-center">
+        <div className="flex items-center gap-2">
+          <img src="/interq-logo.png" alt="InterQ" className="h-10 w-auto object-contain flex-shrink-0" />
+          {!collapsed && (
+            <span className="text-xl font-bold tracking-tight text-slate-800">
+              InterQ
+            </span>
+          )}
+        </div>
+        {!collapsed && (
+          <span className="text-[10px] font-medium text-slate-700 mt-1 transition-colors duration-300" style={{ letterSpacing: '0.05em' }}>
+            InterQ Technologies Inc
+          </span>
+        )}
       </div>
 
       <nav className="flex-1 p-3 space-y-1 overflow-y-auto">

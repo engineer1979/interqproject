@@ -150,16 +150,23 @@ export function CompanyLayout() {
 
       {/* Sidebar */}
       <aside className={`fixed lg:static inset-y-0 left-0 z-50 w-64 bg-card border-r transform transition-transform duration-200 ${sidebarOpen ? 'translate-x-0' : '-translate-x-full lg:translate-x-0'} flex flex-col`}>
-        <div className="p-4 border-b flex items-center justify-between">
-          <div className="flex items-center gap-3 min-w-0">
-            <img src={interqLogo} alt="InterQ" className="h-10 flex-shrink-0" />
-            <div className="min-w-0">
-              <p className="text-sm font-semibold truncate">{company.name}</p>
+        <div className="p-4 border-b flex flex-col items-start gap-1">
+          <div className="flex items-center justify-between w-full">
+            <div className="flex items-center gap-3 min-w-0">
+              <div className="flex flex-col items-center">
+                <img src={interqLogo} alt="InterQ" className="h-10 flex-shrink-0" />
+                <span className="text-[10px] font-medium text-slate-700 mt-1 transition-colors duration-300" style={{ letterSpacing: '0.05em' }}>
+                  InterQ Technologies Inc
+                </span>
+              </div>
+              <div className="min-w-0">
+                <p className="text-sm font-semibold truncate">{company.name}</p>
+              </div>
             </div>
+            <Button variant="ghost" size="icon" className="lg:hidden" onClick={() => setSidebarOpen(false)}>
+              <X className="h-4 w-4" />
+            </Button>
           </div>
-          <Button variant="ghost" size="icon" className="lg:hidden" onClick={() => setSidebarOpen(false)}>
-            <X className="h-4 w-4" />
-          </Button>
         </div>
 
         <nav className="flex-1 p-3 space-y-1 overflow-y-auto">

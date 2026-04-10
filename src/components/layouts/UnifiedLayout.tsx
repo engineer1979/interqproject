@@ -139,7 +139,12 @@ export function UnifiedLayout({ children }: UnifiedLayoutProps) {
               </svg>
             </Button>
             <Link to="/" className="flex items-center gap-2">
-              <img src="/interq-logo.svg" alt="InterQ" className="h-10 w-auto" />
+              <div className="flex flex-col items-center justify-center">
+                <img src="/interq-logo.svg" alt="InterQ" className="h-10 w-auto" />
+                <span className="text-[10px] font-medium text-slate-700 mt-1 opacity-80 transition-colors duration-300" style={{ letterSpacing: '0.05em' }}>
+                  InterQ Technologies Inc
+                </span>
+              </div>
             </Link>
             <Badge variant="outline" className={`${roleColor} text-white border-0 hidden md:flex`}>
               {roleLabel}

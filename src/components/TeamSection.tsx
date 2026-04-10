@@ -68,7 +68,7 @@ const TeamSection = () => {
             Leadership
           </span>
           <h2 className="text-4xl md:text-5xl font-extrabold mb-5 text-slate-900 tracking-tight">
-            Meet the Team Behind InterQ
+            Meet the People - Our Story Behind InterQ
           </h2>
           <p className="text-slate-600 text-lg leading-relaxed max-w-2xl mx-auto">
             The talent, expertise, and passion driving our platform's success.
