@@ -1,3 +1,4 @@
+import { useState } from "react";
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
@@ -34,7 +35,7 @@ import { useQuery } from "@tanstack/react-query";
 import { supabase } from "@/integrations/supabase/client";
 import { Skeleton } from "@/components/ui/skeleton";
 import { AssignmentSystem } from "@/components/dashboard/AssignmentSystem";
-import { mockKPIs } from "@/data/adminModuleData";
+import { mockAssessments } from "@/data/adminModuleData";
 import { useNavigate } from "react-router-dom";
 import { LiveInterviewPlatforms } from "@/components/dashboard/LiveInterviewPlatforms";
 
@@ -44,6 +45,7 @@ export default function AdminDashboard() {
   const [isAssessmentModalOpen, setIsAssessmentModalOpen] = useState(false);
   const [isCodingTestModalOpen, setIsCodingTestModalOpen] = useState(false);
   const [isInterviewModalOpen, setIsInterviewModalOpen] = useState(false);
+  const [assessments, setAssessments] = useState([]);
 
   // Form states
   const [assessmentData, setAssessmentData] = useState({ title: "", type: "multiple-choice", timeLimit: 30 });
@@ -51,9 +53,15 @@ export default function AdminDashboard() {
   const [interviewData, setInterviewData] = useState({ candidateName: "", date: "", provider: "google_meet" });
 
   const handleCreateAssessment = () => {
-    const saved = JSON.parse(localStorage.getItem('adminTests') || '[]');
+    const saved = localStorage.getItem('adminTests');
+    if (saved) {
+      setAssessments(JSON.parse(saved));
+    } else {
+      setAssessments(mockAssessments);
+      localStorage.setItem('adminTests', JSON.stringify(mockAssessments));
+    }
     const newTest = { id: Date.now(), ...assessmentData, createdAt: new Date().toISOString() };
-    localStorage.setItem('adminTests', JSON.stringify([newTest, ...saved]));
+    localStorage.setItem('adminTests', JSON.stringify([newTest, ...JSON.parse(localStorage.getItem('adminTests') || '[]')]));
     setIsAssessmentModalOpen(false);
     toast({ title: "Assessment Created", description: `${assessmentData.title} is now in the bank.` });
   };

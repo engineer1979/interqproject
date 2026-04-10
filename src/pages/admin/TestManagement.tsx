@@ -8,7 +8,7 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@
 import { Search, Plus, Edit, Trash2, Eye } from "lucide-react";
 import { Skeleton } from "@/components/ui/skeleton";
 import { useToast } from "@/hooks/use-toast";
-import { mockTests } from "@/data/adminModuleData";
+import { mockAssessments } from "@/data/adminModuleData";
 import {
   AlertDialog, AlertDialogAction, AlertDialogCancel,
   AlertDialogContent, AlertDialogDescription, AlertDialogFooter,
@@ -27,8 +27,8 @@ export default function TestManagement() {
     if (saved) {
       setAssessments(JSON.parse(saved));
     } else {
-      setAssessments(mockTests);
-      localStorage.setItem('adminTests', JSON.stringify(mockTests));
+      setAssessments(mockAssessments);
+      localStorage.setItem('adminTests', JSON.stringify(mockAssessments));
     }
     setIsLoading(false);
   }, []);
