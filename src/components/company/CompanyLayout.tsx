@@ -20,7 +20,7 @@ const navItems = [
   { label: "Interviews", icon: MessageSquare, path: "/company/interviews" },
   { label: "Results & Reports", icon: BarChart3, path: "/company/results" },
   { label: "Notifications", icon: Bell, path: "/company/notifications" },
-  { label: "Audit Logs", icon: ScrollText, path: "/company/logs" },
+  { label: "Audit Logs", icon: ScrollText, path: "/company/audit-logs" },
   { label: "Settings", icon: Settings, path: "/company/settings" },
 ];
 

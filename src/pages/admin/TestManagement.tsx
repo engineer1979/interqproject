@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
@@ -6,10 +6,9 @@ import { Badge } from "@/components/ui/badge";
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
 import { Search, Plus, Edit, Trash2, Eye } from "lucide-react";
-import { useQuery } from "@tanstack/react-query";
-import { supabase } from "@/integrations/supabase/client";
 import { Skeleton } from "@/components/ui/skeleton";
 import { useToast } from "@/hooks/use-toast";
+import { mockTests } from "@/data/adminModuleData";
 import {
   AlertDialog, AlertDialogAction, AlertDialogCancel,
   AlertDialogContent, AlertDialogDescription, AlertDialogFooter,
@@ -20,43 +19,43 @@ export default function TestManagement() {
   const { toast } = useToast();
   const [search, setSearch] = useState("");
   const [categoryFilter, setCategoryFilter] = useState("all");
+  const [assessments, setAssessments] = useState<any[]>([]);
+  const [isLoading, setIsLoading] = useState(true);
 
-  const { data: assessments, isLoading, refetch } = useQuery({
-    queryKey: ["admin-assessments"],
-    queryFn: async () => {
-      const { data } = await supabase
-        .from("assessments")
-        .select("*, assessment_questions(id)")
-        .order("created_at", { ascending: false });
-      return data ?? [];
-    },
-  });
+  useEffect(() => {
+    const saved = localStorage.getItem('adminTests');
+    if (saved) {
+      setAssessments(JSON.parse(saved));
+    } else {
+      setAssessments(mockTests);
+      localStorage.setItem('adminTests', JSON.stringify(mockTests));
+    }
+    setIsLoading(false);
+  }, []);
 
-  const categories = ["all", ...Array.from(new Set(assessments?.map((a) => a.category) ?? [])).sort()];
+  const categories = ["all", ...Array.from(new Set(assessments?.map((a) => a.category || "General") ?? [])).sort()];
 
   const filtered = assessments?.filter((a) => {
-    const matchSearch = a.title.toLowerCase().includes(search.toLowerCase()) ||
-      a.category.toLowerCase().includes(search.toLowerCase());
-    const matchCat = categoryFilter === "all" || a.category === categoryFilter;
+    const title = a.title || "";
+    const category = a.category || "";
+    const matchSearch = title.toLowerCase().includes(search.toLowerCase()) ||
+      category.toLowerCase().includes(search.toLowerCase());
+    const matchCat = categoryFilter === "all" || category === categoryFilter;
     return matchSearch && matchCat;
   }) ?? [];
 
-  const handleDelete = async (id: string) => {
-    const { error } = await supabase.from("assessments").delete().eq("id", id);
-    if (error) {
-      toast({ title: "Error", description: error.message, variant: "destructive" });
-    } else {
-      toast({ title: "Test deleted" });
-      refetch();
-    }
+  const handleDelete = (id: string) => {
+    const updated = assessments.filter(a => a.id !== id);
+    setAssessments(updated);
+    localStorage.setItem('adminTests', JSON.stringify(updated));
+    toast({ title: "Test deleted" });
   };
 
-  const handleTogglePublish = async (id: string, currentState: boolean) => {
-    const { error } = await supabase.from("assessments").update({ is_published: !currentState }).eq("id", id);
-    if (!error) {
-      toast({ title: currentState ? "Test unpublished" : "Test published" });
-      refetch();
-    }
+  const handleTogglePublish = (id: string, currentState: boolean) => {
+    const updated = assessments.map(a => a.id === id ? { ...a, is_published: !currentState } : a);
+    setAssessments(updated);
+    localStorage.setItem('adminTests', JSON.stringify(updated));
+    toast({ title: currentState ? "Test unpublished" : "Test published" });
   };
 
   return (
@@ -64,17 +63,17 @@ export default function TestManagement() {
       <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
         <div>
           <h1 className="text-2xl md:text-3xl font-bold tracking-tight">Test Management</h1>
-          <p className="text-sm text-muted-foreground mt-1">{filtered.length} tests found</p>
+          <p className="text-sm text-muted-foreground mt-1">{filtered.length} tests found in global bank</p>
         </div>
         <Button onClick={() => window.location.href = "/create-assessment"}>
-          <Plus className="h-4 w-4 mr-2" /> Create Test
+          <Plus className="h-4 w-4 mr-2" /> Create Custom Test
         </Button>
       </div>
 
       <div className="flex flex-col sm:flex-row gap-3">
         <div className="relative flex-1">
           <Search className="absolute left-3 top-1/2 -translate-y-1/2 h-4 w-4 text-muted-foreground" />
-          <Input placeholder="Search tests..." value={search} onChange={(e) => setSearch(e.target.value)} className="pl-10" />
+          <Input placeholder="Search global test bank..." value={search} onChange={(e) => setSearch(e.target.value)} className="pl-10" />
         </div>
         <Select value={categoryFilter} onValueChange={setCategoryFilter}>
           <SelectTrigger className="w-[200px]"><SelectValue placeholder="Category" /></SelectTrigger>
@@ -107,14 +106,14 @@ export default function TestManagement() {
                 {filtered.map((test) => (
                   <TableRow key={test.id}>
                     <TableCell className="font-medium max-w-[200px] truncate">{test.title}</TableCell>
-                    <TableCell><Badge variant="outline" className="text-[10px]">{test.category}</Badge></TableCell>
+                    <TableCell><Badge variant="outline" className="text-[10px]">{test.category || "General"}</Badge></TableCell>
                     <TableCell>
                       <Badge variant={test.difficulty === "Hard" ? "destructive" : test.difficulty === "Medium" ? "secondary" : "default"} className="text-[10px]">
-                        {test.difficulty}
+                        {test.difficulty || "Medium"}
                       </Badge>
                     </TableCell>
-                    <TableCell>{test.assessment_questions?.length ?? 0}</TableCell>
-                    <TableCell>{test.duration_minutes}m</TableCell>
+                    <TableCell>{test.questionCount || 20}</TableCell>
+                    <TableCell>{test.duration_minutes || test.timeLimit || 30}m</TableCell>
                     <TableCell>
                       <Badge
                         variant={test.is_published ? "default" : "outline"}

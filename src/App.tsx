@@ -224,6 +224,7 @@ const App = () => (
                 <Route path="interviews" element={<CompanyInterviews />} />
                 <Route path="results" element={<CompanyResults />} />
                 <Route path="notifications" element={<CompanyNotifications />} />
+                <Route path="audit-logs" element={<CompanyAuditLogs />} />
                 <Route path="settings" element={<CompanySettings />} />
               </Route>
 
@@ -248,12 +249,16 @@ const App = () => (
                 <Route path="tests" element={<TestManagement />} />
                 <Route path="question-bank" element={<QuestionBank />} />
                 <Route path="results" element={<AdminResults />} />
-                <Route path="interviews" element={<InterviewManagement />} />
-                <Route path="companies" element={<CompanyManagement />} />
                 <Route path="job-seekers" element={<JobSeekerManagement />} />
+                <Route path="candidates" element={<JobSeekerManagement />} />
+                <Route path="interviews" element={<InterviewManagement />} />
+                <Route path="offers" element={<OffersManagement />} />
+                <Route path="companies" element={<CompanyManagement />} />
                 <Route path="role-management" element={<RoleManagement />} />
                 <Route path="jobs" element={<AdminJobs />} />
                 <Route path="reports" element={<AdminReports />} />
+                <Route path="activity" element={<ActivityLogs />} />
+                <Route path="audit" element={<ActivityLogs />} />
                 <Route path="settings" element={<AdminSettings />} />
                 <Route path="users" element={<UserTeamsDashboard />} />
               </Route>

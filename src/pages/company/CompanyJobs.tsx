@@ -402,6 +402,7 @@ export default function CompanyJobs() {
 
       <Dialog open={isModalOpen} onOpenChange={setIsModalOpen}>
         <DialogContent className="sm:max-w-[500px]">
+          <DialogHeader>
             <DialogTitle>{editingJobId ? "Edit Position" : "Post New Position"}</DialogTitle>
             <DialogDescription>
               {editingJobId ? "Update existing job details." : "Fill in the details to create a new job opening."}

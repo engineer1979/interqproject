@@ -13,8 +13,23 @@ import {
   Plus,
   ShieldAlert,
   Settings,
-  ArrowUpRight
+  ArrowUpRight,
+  Code2,
+  Video,
+  VideoIcon
 } from "lucide-react";
+import { 
+  Dialog, 
+  DialogContent, 
+  DialogHeader, 
+  DialogTitle, 
+  DialogDescription, 
+  DialogFooter 
+} from "@/components/ui/dialog";
+import { Label } from "@/components/ui/label";
+import { Input } from "@/components/ui/input";
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
+import { useToast } from "@/hooks/use-toast";
 import { useQuery } from "@tanstack/react-query";
 import { supabase } from "@/integrations/supabase/client";
 import { Skeleton } from "@/components/ui/skeleton";
@@ -25,6 +40,46 @@ import { LiveInterviewPlatforms } from "@/components/dashboard/LiveInterviewPlat
 
 export default function AdminDashboard() {
   const navigate = useNavigate();
+  const { toast } = useToast();
+  const [isAssessmentModalOpen, setIsAssessmentModalOpen] = useState(false);
+  const [isCodingTestModalOpen, setIsCodingTestModalOpen] = useState(false);
+  const [isInterviewModalOpen, setIsInterviewModalOpen] = useState(false);
+
+  // Form states
+  const [assessmentData, setAssessmentData] = useState({ title: "", type: "multiple-choice", timeLimit: 30 });
+  const [codingTestData, setCodingTestData] = useState({ title: "", language: "javascript", difficulty: "medium" });
+  const [interviewData, setInterviewData] = useState({ candidateName: "", date: "", provider: "google_meet" });
+
+  const handleCreateAssessment = () => {
+    const saved = JSON.parse(localStorage.getItem('adminTests') || '[]');
+    const newTest = { id: Date.now(), ...assessmentData, createdAt: new Date().toISOString() };
+    localStorage.setItem('adminTests', JSON.stringify([newTest, ...saved]));
+    setIsAssessmentModalOpen(false);
+    toast({ title: "Assessment Created", description: `${assessmentData.title} is now in the bank.` });
+  };
+
+  const handleCreateCodingTest = () => {
+    const saved = JSON.parse(localStorage.getItem('adminCodingTests') || '[]');
+    const newTest = { id: Date.now(), ...codingTestData, createdAt: new Date().toISOString() };
+    localStorage.setItem('adminCodingTests', JSON.stringify([newTest, ...saved]));
+    setIsCodingTestModalOpen(false);
+    toast({ title: "Coding Test Created", description: `${codingTestData.title} added to coding library.` });
+  };
+
+  const handleScheduleInterview = () => {
+    const saved = JSON.parse(localStorage.getItem('companyInterviews') || '[]');
+    const newInterview = { 
+      id: "int-" + Date.now(), 
+      candidateName: interviewData.candidateName,
+      scheduledAt: interviewData.date,
+      type: "video",
+      platform: interviewData.provider,
+      status: "scheduled"
+    };
+    localStorage.setItem('companyInterviews', JSON.stringify([newInterview, ...saved]));
+    setIsInterviewModalOpen(false);
+    toast({ title: "Interview Scheduled", description: `Meeting set up via ${interviewData.provider.replace('_', ' ')}.` });
+  };
 
   const summaryCards = [
     { title: "Total Tests", value: 124, icon: BookOpen, color: "text-blue-600 bg-blue-50" },
@@ -127,12 +182,12 @@ export default function AdminDashboard() {
             </div>
             <div className="grid grid-cols-1 gap-3">
               {[
-                { label: "Create Assessment", icon: <Plus className="w-4 h-4" /> },
-                { label: "Manage Companies", icon: <Building2 className="w-4 h-4" /> },
-                { label: "Platform Logs", icon: <Activity className="w-4 h-4" /> },
-                { label: "Billing Reports", icon: <TrendingUp className="w-4 h-4" /> },
+                { label: "Create Assessment", icon: <Plus className="w-4 h-4" />, action: () => setIsAssessmentModalOpen(true) },
+                { label: "Create Coding Test", icon: <Code2 className="w-4 h-4" />, action: () => setIsCodingTestModalOpen(true) },
+                { label: "Schedule Live Interview", icon: <Video className="w-4 h-4" />, action: () => setIsInterviewModalOpen(true) },
+                { label: "Platform Logs", icon: <Activity className="w-4 h-4" />, action: () => navigate("/admin/audit") },
               ].map((action, i) => (
-                <Button key={i} variant="outline" className="w-full justify-between h-12 border-slate-200 hover:border-primary/50 group">
+                <Button key={i} variant="outline" className="w-full justify-between h-12 border-slate-200 hover:border-primary/50 group" onClick={action.action}>
                   <span className="flex items-center gap-2 font-semibold">
                     {action.icon} {action.label}
                   </span>
@@ -172,8 +227,151 @@ export default function AdminDashboard() {
               </Button>
             </CardContent>
           </Card>
+
+          <Card className="border-slate-200">
+            <CardHeader>
+              <CardTitle className="text-lg">Assessment Creation Check</CardTitle>
+              <CardDescription>Verify recently added platform content</CardDescription>
+            </CardHeader>
+            <CardContent>
+              <div className="space-y-4">
+                {JSON.parse(localStorage.getItem('adminTests') || '[]').slice(0, 3).map((test: any) => (
+                  <div key={test.id} className="flex items-center justify-between p-3 rounded-lg border border-slate-50 bg-slate-50/30">
+                    <div className="flex items-center gap-3">
+                      <div className="p-2 bg-white rounded-md shadow-sm border border-slate-100">
+                        <BookOpen className="w-4 h-4 text-primary" />
+                      </div>
+                      <div>
+                        <p className="text-sm font-bold text-slate-800">{test.title}</p>
+                        <p className="text-[10px] text-slate-400 font-medium uppercase tracking-wider">{test.type || 'Assessment'}</p>
+                      </div>
+                    </div>
+                    <Badge variant="outline" className="text-[10px] bg-white text-emerald-600 border-emerald-100">Verified</Badge>
+                  </div>
+                ))}
+                {JSON.parse(localStorage.getItem('adminTests') || '[]').length === 0 && (
+                  <div className="text-center py-6">
+                    <p className="text-xs text-slate-400">No assessments created yet.</p>
+                  </div>
+                )}
+              </div>
+            </CardContent>
+          </Card>
         </div>
       </div>
+
+      {/* Modals */}
+      <Dialog open={isAssessmentModalOpen} onOpenChange={setIsAssessmentModalOpen}>
+        <DialogContent>
+          <DialogHeader>
+            <DialogTitle>New Assessment</DialogTitle>
+            <DialogDescription>Create a theoretical assessment for candidates.</DialogDescription>
+          </DialogHeader>
+          <div className="grid gap-4 py-4">
+            <div className="space-y-2">
+              <Label>Assessment Title</Label>
+              <Input placeholder="e.g. React Fundamentals" value={assessmentData.title} onChange={(e) => setAssessmentData({...assessmentData, title: e.target.value})} />
+            </div>
+            <div className="grid grid-cols-2 gap-4">
+              <div className="space-y-2">
+                <Label>Type</Label>
+                <Select value={assessmentData.type} onValueChange={(v) => setAssessmentData({...assessmentData, type: v})}>
+                  <SelectTrigger><SelectValue /></SelectTrigger>
+                  <SelectContent>
+                    <SelectItem value="multiple-choice">Multiple Choice</SelectItem>
+                    <SelectItem value="short-answer">Short Answer</SelectItem>
+                  </SelectContent>
+                </Select>
+              </div>
+              <div className="space-y-2">
+                <Label>Time Limit (min)</Label>
+                <Input type="number" value={assessmentData.timeLimit} onChange={(e) => setAssessmentData({...assessmentData, timeLimit: parseInt(e.target.value)})} />
+              </div>
+            </div>
+          </div>
+          <DialogFooter>
+            <Button variant="outline" onClick={() => setIsAssessmentModalOpen(false)}>Cancel</Button>
+            <Button onClick={handleCreateAssessment}>Create Assessment</Button>
+          </DialogFooter>
+        </DialogContent>
+      </Dialog>
+
+      <Dialog open={isCodingTestModalOpen} onOpenChange={setIsCodingTestModalOpen}>
+        <DialogContent>
+          <DialogHeader>
+            <DialogTitle>New Coding Test</DialogTitle>
+            <DialogDescription>Add a programming challenge to the bank.</DialogDescription>
+          </DialogHeader>
+          <div className="grid gap-4 py-4">
+            <div className="space-y-2">
+              <Label>Challenge Name</Label>
+              <Input placeholder="e.g. Binary Tree Traversal" value={codingTestData.title} onChange={(e) => setCodingTestData({...codingTestData, title: e.target.value})} />
+            </div>
+            <div className="grid grid-cols-2 gap-4">
+              <div className="space-y-2">
+                <Label>Language</Label>
+                <Select value={codingTestData.language} onValueChange={(v) => setCodingTestData({...codingTestData, language: v})}>
+                  <SelectTrigger><SelectValue /></SelectTrigger>
+                  <SelectContent>
+                    <SelectItem value="javascript">JavaScript</SelectItem>
+                    <SelectItem value="python">Python</SelectItem>
+                    <SelectItem value="typescript">TypeScript</SelectItem>
+                  </SelectContent>
+                </Select>
+              </div>
+              <div className="space-y-2">
+                <Label>Difficulty</Label>
+                <Select value={codingTestData.difficulty} onValueChange={(v) => setCodingTestData({...codingTestData, difficulty: v})}>
+                  <SelectTrigger><SelectValue /></SelectTrigger>
+                  <SelectContent>
+                    <SelectItem value="easy">Easy</SelectItem>
+                    <SelectItem value="medium">Medium</SelectItem>
+                    <SelectItem value="hard">Hard</SelectItem>
+                  </SelectContent>
+                </Select>
+              </div>
+            </div>
+          </div>
+          <DialogFooter>
+            <Button variant="outline" onClick={() => setIsCodingTestModalOpen(false)}>Cancel</Button>
+            <Button onClick={handleCreateCodingTest}>Add Coding Test</Button>
+          </DialogFooter>
+        </DialogContent>
+      </Dialog>
+
+      <Dialog open={isInterviewModalOpen} onOpenChange={setIsInterviewModalOpen}>
+        <DialogContent>
+          <DialogHeader>
+            <DialogTitle>Schedule Live Interview</DialogTitle>
+            <DialogDescription>Set up a meeting with a candidate using your preferred tool.</DialogDescription>
+          </DialogHeader>
+          <div className="grid gap-4 py-4">
+            <div className="space-y-2">
+              <Label>Candidate Name</Label>
+              <Input placeholder="Search or type candidate name" value={interviewData.candidateName} onChange={(e) => setInterviewData({...interviewData, candidateName: e.target.value})} />
+            </div>
+            <div className="space-y-2">
+              <Label>Date & Time</Label>
+              <Input type="datetime-local" value={interviewData.date} onChange={(e) => setInterviewData({...interviewData, date: e.target.value})} />
+            </div>
+            <div className="space-y-2">
+              <Label>Meeting Platform</Label>
+              <Select value={interviewData.provider} onValueChange={(v) => setInterviewData({...interviewData, provider: v})}>
+                <SelectTrigger><SelectValue /></SelectTrigger>
+                <SelectContent>
+                  <SelectItem value="google_meet">Google Meet</SelectItem>
+                  <SelectItem value="zoom">Zoom Video</SelectItem>
+                  <SelectItem value="ms_teams">Microsoft Teams</SelectItem>
+                </SelectContent>
+              </Select>
+            </div>
+          </div>
+          <DialogFooter>
+            <Button variant="outline" onClick={() => setIsInterviewModalOpen(false)}>Cancel</Button>
+            <Button onClick={handleScheduleInterview}>Schedule Meeting</Button>
+          </DialogFooter>
+        </DialogContent>
+      </Dialog>
     </div>
   );
 }
