@@ -155,7 +155,7 @@ const EnhancedNavigation = () => {
               <div className={`rounded-xl p-1.5 transition-all duration-300 nav-logo`}>
                 <img src="/interq-logo.png" alt="InterQ" className="h-9 lg:h-10 w-auto" loading="lazy" decoding="async" />
               </div>
-              <span className={`text-xl lg:text-2xl font-bold tracking-tight nav-brand-text transition-colors duration-300 text-white`}>
+              <span className={`text-xl lg:text-2xl font-bold tracking-tight nav-brand-text transition-colors duration-300 ${isScrolled ? "text-slate-900" : "text-white"}`}>
                 InterQ
               </span>
             </Link>
@@ -166,7 +166,9 @@ const EnhancedNavigation = () => {
                 <div key={item.label} className="relative">
                   <button
                     onClick={() => handleNavItemClick(item)}
-                    className={`flex items-center gap-1.5 px-4 py-2.5 rounded-xl text-sm font-semibold transition-all duration-200 nav-link text-white hover:text-white drop-shadow-md ${
+                    className={`flex items-center gap-1.5 px-4 py-2.5 rounded-xl text-sm font-semibold transition-all duration-200 nav-link drop-shadow-md ${
+                      isScrolled ? "text-slate-800 hover:text-cyan-600" : "text-white hover:text-white"
+                    } ${
                       isActive(item.href) || item.children?.some(child => isActive(child.href))
                         ? "active"
                         : ""
@@ -175,9 +177,9 @@ const EnhancedNavigation = () => {
                     aria-haspopup={item.children ? "true" : "false"}
                     title={item.label}
                   >
-                    <span className="truncate max-w-[140px] xl:max-w-none hover:text-clip text-white">{item.label}</span>
+                    <span className={`truncate max-w-[140px] xl:max-w-none hover:text-clip ${isScrolled ? "text-slate-800" : "text-white"}`}>{item.label}</span>
                     {item.children && (
-                      <ChevronDown size={14} className={`shrink-0 transition-transform duration-200 ${activeDropdown === item.label ? "rotate-180" : ""}`} />
+                      <ChevronDown size={14} className={`shrink-0 transition-transform duration-200 ${isScrolled ? "text-slate-500" : "text-white"} ${activeDropdown === item.label ? "rotate-180" : ""}`} />
                     )}
                   </button>
 
@@ -234,7 +236,9 @@ const EnhancedNavigation = () => {
               {isAdmin && (
                 <Link
                   to="/admin"
-                  className={`ml-2 px-4 py-2.5 rounded-xl text-sm font-semibold transition-all duration-200 nav-link text-white hover:text-white drop-shadow-md ${
+                  className={`ml-2 px-4 py-2.5 rounded-xl text-sm font-semibold transition-all duration-200 nav-link drop-shadow-md ${
+                    isScrolled ? "text-slate-800 hover:text-cyan-600" : "text-white hover:text-white"
+                  } ${
                     isActive("/admin") ? "active" : ""
                   }`}
                 >
@@ -251,7 +255,7 @@ const EnhancedNavigation = () => {
                     <Button 
                       variant="ghost" 
                       size="sm" 
-                      className="font-medium nav-btn-ghost text-white drop-shadow-md hover:text-white"
+                      className={`font-medium nav-btn-ghost drop-shadow-md ${isScrolled ? "text-slate-800 hover:text-cyan-600 hover:bg-slate-50" : "text-white hover:text-white"}`}
                     >
                       <Settings size={16} className="mr-1.5" /> Settings
                     </Button>
@@ -271,7 +275,7 @@ const EnhancedNavigation = () => {
                       <Button 
                       variant="ghost" 
                       size="sm" 
-                      className="font-semibold nav-btn-ghost text-white drop-shadow-md hover:text-white"
+                      className={`font-semibold nav-btn-ghost drop-shadow-md ${isScrolled ? "text-slate-800 hover:text-cyan-600 hover:bg-slate-50" : "text-white hover:text-white"}`}
                     >
                       Sign In
                     </Button>

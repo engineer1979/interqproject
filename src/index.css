@@ -100,6 +100,18 @@
   /* ... all other existing styles remain unchanged ... */
 }
 
+.nav-header-dark {
+  background-color: transparent;
+}
+
+.nav-header-light {
+  background-color: rgba(255, 255, 255, 0.9);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.03);
+}
+
 #lovable-badge {
   display: none !important;
 }
