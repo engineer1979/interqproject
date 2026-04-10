@@ -38,6 +38,7 @@ import { format, addDays, startOfWeek, addWeeks, isSameDay } from "date-fns";
 import { DetailedCandidate, mockCandidates } from "@/data/candidateEvaluationsMock";
 import jsPDF from "jspdf";
 import html2canvas from "html2canvas";
+import { toast } from "sonner";
 
 const navSections = [
   {
@@ -141,6 +142,9 @@ export function RecruiterLayout() {
   const [candidateStage, setCandidateStage] = useState("all");
   const [selectedCandidate, setSelectedCandidate] = useState<DetailedCandidate | null>(null);
   const [viewModal, setViewModal] = useState(false);
+  const [reportsFilter, setReportsFilter] = useState("all");
+  const [generatedReports, setGeneratedReports] = useState<DetailedCandidate[]>([]);
+  const [settingsModalOpen, setSettingsModalOpen] = useState(false);
   const { logout } = useAuth();
 
   const handleLogout = async () => {
@@ -402,7 +406,7 @@ export function RecruiterLayout() {
                     <p className="text-xs text-muted-foreground">john@company.com</p>
                   </div>
                   <Separator className="my-2" />
-                  <Button variant="ghost" className="w-full justify-start text-sm" onClick={() => navigate("/recruiter/settings")}>
+                  <Button variant="ghost" className="w-full justify-start text-sm" onClick={() => setSettingsModalOpen(true)}>
                     <Settings className="h-4 w-4 mr-2" />
                     Settings
                   </Button>
@@ -426,7 +430,7 @@ export function RecruiterLayout() {
                   <CardContent className="p-6">
                     <div className="flex items-center justify-between">
                       <div>
-                        <p className="text-sm text-muted-foreground">Active Jobs</p>
+                        <p className="text-sm text-muted-foreground cursor-pointer hover:text-primary transition-colors" onClick={() => navigate("/recruiter/jobs")}>Active Jobs</p>
                         <p className="text-3xl font-bold mt-1">{jobOpenings.filter(j => j.status === "Open").length}</p>
                         <p className="text-xs text-green-600 mt-1 flex items-center gap-1">
                           <ArrowUpRight className="h-3 w-3" /> +2 this week
@@ -442,7 +446,7 @@ export function RecruiterLayout() {
                   <CardContent className="p-6">
                     <div className="flex items-center justify-between">
                       <div>
-                        <p className="text-sm text-muted-foreground">Total Candidates</p>
+                        <p className="text-sm text-muted-foreground cursor-pointer hover:text-primary transition-colors" onClick={() => navigate("/recruiter/candidates")}>Total Candidates</p>
                         <p className="text-3xl font-bold mt-1">{candidates.length}</p>
                         <p className="text-xs text-green-600 mt-1 flex items-center gap-1">
                           <ArrowUpRight className="h-3 w-3" /> +12 today
@@ -1129,12 +1133,8 @@ export function RecruiterLayout() {
                   <p className="text-muted-foreground">Insights and metrics for your hiring process</p>
                 </div>
                 <div className="flex gap-3">
-                  <Button variant="outline" size="sm" className="gap-2">
-                    <Download className="h-4 w-4" /> Export CSV
-                  </Button>
-                  <Button variant="outline" size="sm" className="gap-2">
-                    <Download className="h-4 w-4" /> Export PDF
-                  </Button>
+                  <Button variant="outline" size="sm" className="gap-2" onClick={() => generatePDF(null, true)}><Download className="h-4 w-4" /> Export PDF</Button>
+                  <Button variant="outline" size="sm" className="gap-2" onClick={() => generatePDF(null, true)}><Download className="h-4 w-4" /> Export PDF</Button>
                 </div>
               </div>
 
@@ -1273,12 +1273,633 @@ export function RecruiterLayout() {
                   <p className="text-muted-foreground">Manage candidate assessments and reports ({mockCandidates.length})</p>
                 </div>
                 <div className="flex gap-2">
-                  <Button variant="outline" size="sm" className="gap-2">
-                    <Download className="h-4 w-4" /> Export CSV
-                  </Button>
-                  <Button size="sm" className="gap-2">
-                    <FileText className="h-4 w-4" /> Generate Report
-                  </Button>
+                  <Button variant="outline" size="sm" className="gap-2" onClick={() => generatePDF(null, true)}><Download className="h-4 w-4" /> Export PDF</Button>
+                  <Button size="sm" className="gap-2" onClick={() => toast.info("Select a candidate to generate a report.")}><FileText className="h-4 w-4" /> Generate Report</Button>
+                </div>
+              </div>
+
+              <div className="grid grid-cols-1 md:grid-cols-4 gap-4">
+                <Card>
+                  <CardContent className="p-6">
+                    <div className="flex items-center justify-between">
+                      <div>
+                        <p className="text-sm text-muted-foreground cursor-pointer hover:text-primary" onClick={() => setReportsFilter('all')}>Total Reports</p>
+                        <p className="text-3xl font-bold mt-1">{mockCandidates.length}</p>
+                      </div>
+                      <div className="p-3 rounded-xl bg-blue-500/10">
+                        <FileText className="h-8 w-8 text-blue-600" />
+                      </div>
+                    </div>
+                  </CardContent>
+                </Card>
+                <Card>
+                  <CardContent className="p-6 cursor-pointer" onClick={() => setReportsFilter('advance')}>
+                    <div className="flex items-center justify-between">
+                      <div>
+                        <p className="text-sm text-muted-foreground">Advance</p>
+                        <p className="text-3xl font-bold mt-1 text-green-600">
+                          {mockCandidates.filter(c => c.status === 'advance').length}
+                        </p>
+                      </div>
+                      <div className="p-3 rounded-xl bg-green-500/10">
+                        <CheckCircle className="h-8 w-8 text-green-600" />
+                      </div>
+                    </div>
+                  </CardContent>
+                </Card>
+                <Card>
+                  <CardContent className="p-6 cursor-pointer" onClick={() => setReportsFilter('advance-reserve')}>
+                    <div className="flex items-center justify-between">
+                      <div>
+                        <p className="text-sm text-muted-foreground">Hold</p>
+                        <p className="text-3xl font-bold mt-1 text-yellow-600">
+                          {mockCandidates.filter(c => c.status === 'advance-reserve').length}
+                        </p>
+                      </div>
+                      <div className="p-3 rounded-xl bg-yellow-500/10">
+                        <Clock className="h-8 w-8 text-yellow-600" />
+                      </div>
+                    </div>
+                  </CardContent>
+                </Card>
+                <Card>
+                  <CardContent className="p-6 cursor-pointer" onClick={() => setReportsFilter('reject')}>
+                    <div className="flex items-center justify-between">
+                      <div>
+                        <p className="text-sm text-muted-foreground">Rejected</p>
+                        <p className="text-3xl font-bold mt-1 text-red-600">
+                          {mockCandidates.filter(c => c.status === 'reject').length}
+                        </p>
+                      </div>
+                      <div className="p-3 rounded-xl bg-red-500/10">
+                        <XCircle className="h-8 w-8 text-red-600" />
+                      </div>
+                    </div>
+                  </CardContent>
+                </Card>
+              </div>
+
+              {generatedReports.length > 0 && (
+                <Card>
+                  <CardHeader>
+                    <CardTitle>Generated Reports List</CardTitle>
+                  </CardHeader>
+                  <CardContent>
+                    <div className="space-y-4">
+                      <Table>
+                        <TableHeader>
+                          <TableRow>
+                            <TableHead>Candidate Name</TableHead>
+                            <TableHead>Overall Score</TableHead>
+                            <TableHead>Status</TableHead>
+                            <TableHead>Date</TableHead>
+                            <TableHead className="text-right">Actions</TableHead>
+                          </TableRow>
+                        </TableHeader>
+                        <TableBody>
+                          {generatedReports.map((report) => (
+                            <TableRow key={report.id}>
+                              <TableCell className="font-medium">{report.name}</TableCell>
+                              <TableCell>{Math.round((report.overallScore / 5) * 100)}%</TableCell>
+                              <TableCell>
+                                <Badge className={
+                                  report.status === 'advance' ? 'bg-green-100 text-green-800' :
+                                  report.status === 'advance-reserve' ? 'bg-yellow-100 text-yellow-800' :
+                                  report.status === 'reject' ? 'bg-red-100 text-red-800' :
+                                  'bg-gray-100 text-gray-800'
+                                }>
+                                  {report.status === 'advance' ? 'Advance' :
+                                  report.status === 'advance-reserve' ? 'Hold' :
+                                  report.status === 'reject' ? 'Reject' : 'Pending'}
+                                </Badge>
+                              </TableCell>
+                              <TableCell>{report.date}</TableCell>
+                              <TableCell className="text-right">
+                                <Button variant="ghost" size="sm" onClick={() => handleViewReport(report)}>
+                                  <Eye className="h-4 w-4 mr-2" /> View
+                                </Button>
+                                <Button variant="ghost" size="sm" onClick={() => generatePDF(report)}>
+                                  <Download className="h-4 w-4 mr-2" /> PDF
+                                </Button>
+                              </TableCell>
+                            </TableRow>
+                          ))}
+                        </TableBody>
+                      </Table>
+                    </div>
+                  </CardContent>
+                </Card>
+              )}
+
+              <Card>
+                <CardHeader>
+                  <CardTitle>Candidate Evaluations</CardTitle>
+                </CardHeader>
+                <CardContent id="bulk-report-table">
+                  <div className="flex flex-col gap-4">
+                    <div className="relative w-full md:w-[300px]">
+                        <Search className="absolute left-3 top-1/2 -translate-y-1/2 h-4 w-4 text-muted-foreground" />
+                        <Input
+                          placeholder="Search candidate name..."
+                          className="pl-10 bg-muted/50 w-full"
+                          value={searchQuery}
+                          onChange={(e) => setSearchQuery(e.target.value)}
+                        />
+                    </div>
+                    <Table>
+                      <TableHeader>
+                        <TableRow>
+                          <TableHead>Candidate</TableHead>
+                          <TableHead>Score</TableHead>
+                          <TableHead>Status</TableHead>
+                          <TableHead>Date</TableHead>
+                          <TableHead>Actions</TableHead>
+                        </TableRow>
+                      </TableHeader>
+                      <TableBody>
+                        {mockCandidates
+                          .filter(c => reportsFilter === 'all' || c.status === reportsFilter)
+                          .filter(c => c.name.toLowerCase().includes(searchQuery.toLowerCase()))
+                          .sort((a,b) => b.overallScore - a.overallScore)
+                          .map((candidate) => (
+                          <TableRow key={candidate.id}>
+                            <TableCell>
+                              <div className="flex items-center gap-3">
+                                <Avatar className="h-8 w-8">
+                                  <AvatarFallback className="bg-primary/10 text-primary text-xs">
+                                    {candidate.name.split(' ').map(n=>n[0]).join('')}
+                                  </AvatarFallback>
+                                </Avatar>
+                                <div>
+                                  <div className="font-medium">{candidate.name}</div>
+                                  <div className="text-xs text-muted-foreground">{candidate.position}</div>
+                                </div>
+                              </div>
+                            </TableCell>
+                            <TableCell>{Math.round((candidate.overallScore / 5) * 100)}%</TableCell>
+                            <TableCell>
+                              <Badge className={
+                                candidate.status === 'advance' ? 'bg-green-100 text-green-800' :
+                                candidate.status === 'advance-reserve' ? 'bg-yellow-100 text-yellow-800' :
+                                candidate.status === 'reject' ? 'bg-red-100 text-red-800' :
+                                'bg-gray-100 text-gray-800'
+                              }>
+                                {candidate.status === 'advance' ? 'Advance' :
+                                candidate.status === 'advance-reserve' ? 'Hold' :
+                                candidate.status === 'reject' ? 'Reject' : 'Pending'}
+                              </Badge>
+                            </TableCell>
+                            <TableCell>{candidate.date}</TableCell>
+                            <TableCell>
+                              <div className="flex gap-2">
+                                <Button variant="default" size="sm" onClick={() => handleGenerateReport(candidate)}><FileText className="h-4 w-4 mr-2" /> Generate Report</Button>
+                                <Button variant="outline" size="sm" onClick={() => handleViewReport(candidate)}>
+                                  <Eye className="h-4 w-4" />
+                                </Button>
+                                <Button variant="outline" size="sm" onClick={() => generatePDF(candidate)}><Download className="h-4 w-4" /></Button>
+                              </div>
+                            </TableCell>
+                          </TableRow>
+                        ))}
+                      </TableBody>
+                    </Table>
+                  </div>
+                </CardContent>
+              </Card>
+
+              <Dialog open={viewModal} onOpenChange={setViewModal}>
+                <DialogContent className="max-w-4xl max-h-[90vh] overflow-y-auto">
+                  {selectedCandidate && (
+                    <div id="report-content">
+                      <div className="flex items-center gap-4 mb-6">
+                        <Avatar className="h-16 w-16">
+                          <AvatarFallback className="bg-gradient-to-r from-blue-500 to-indigo-500 text-white text-xl">
+                            {selectedCandidate.name.split(' ').map(n => n[0]).join('')}
+                          </AvatarFallback>
+                        </Avatar>
+                        <div>
+                          <h2 className="text-2xl font-bold">{selectedCandidate.name}</h2>
+                          <p className="text-muted-foreground">{selectedCandidate.position}</p>
+                        </div>
+                      </div>
+
+                      <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-6">
+                        <div className="p-4 bg-primary/5 rounded-lg text-center">
+                          <div className="text-2xl font-bold text-primary">
+                            {Math.round((selectedCandidate.overallScore / 5) * 100)}%
+                          </div>
+                          <p className="text-sm text-muted-foreground">Overall Score</p>
+                        </div>
+                        <div className="p-4 bg-green-500/5 rounded-lg text-center">
+                          <div className="text-2xl font-bold text-green-600">
+                            {selectedCandidate.interviewer}
+                          </div>
+                          <p className="text-sm text-muted-foreground">Interviewer</p>
+                        </div>
+                        <div className="p-4 bg-blue-500/5 rounded-lg text-center">
+                          <div className="text-2xl font-bold text-blue-600">{selectedCandidate.date}</div>
+                          <p className="text-sm text-muted-foreground">Interview Date</p>
+                        </div>
+                        <div className="p-4 bg-purple-500/5 rounded-lg text-center">
+                          <Badge className={
+                            selectedCandidate.status === 'advance' ? 'bg-green-100 text-green-800' :
+                            selectedCandidate.status === 'advance-reserve' ? 'bg-yellow-100 text-yellow-800' :
+                            'bg-red-100 text-red-800'
+                          }>
+                            {selectedCandidate.status === 'advance' ? 'Advance' :
+                             selectedCandidate.status === 'advance-reserve' ? 'Hold' : 'Reject'}
+                          </Badge>
+                          <p className="text-sm text-muted-foreground mt-1">Recommendation</p>
+                        </div>
+                      </div>
+
+                      <h3 className="font-semibold mb-3">Detailed Evaluation</h3>
+                      <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
+                        {selectedCandidate.features.map((feature, idx) => (
+                          <div key={idx} className="p-4 border rounded-lg">
+                            <div className="flex items-center justify-between mb-2">
+                              <span className="font-medium">{feature.name}</span>
+                              <span className="font-bold text-primary">{Math.round((feature.score / feature.maxScore) * 100)}%</span>
+                            </div>
+                            <Progress value={(feature.score / feature.maxScore) * 100} className="h-2 mb-3" />
+                            <p className="text-sm text-muted-foreground">{feature.feedback}</p>
+                          </div>
+                        ))}
+                      </div>
+                      
+                      <div className="flex gap-2 justify-end mt-6">
+                        <Button variant="outline" onClick={() => generatePDF(selectedCandidate)}>
+                          <Download className="h-4 w-4 mr-2" /> Download PDF
+                        </Button>
+                        <Button onClick={() => handleGenerateReport(selectedCandidate)}>
+                          <FileText className="h-4 w-4 mr-2" /> Save to generated
+                        </Button>
+                      </div>
+                    </div>
+                  )}
+                </DialogContent>
+              </Dialog>
+              {/* Candidate Full Report Modal */}
+            </div>
+) : location.pathname === "/recruiter/interviews" ? (
+            <div className="space-y-6">
+              <div className="flex items-center justify-between">
+                <div>
+                  <h1 className="text-3xl font-bold tracking-tight">Interviews</h1>
+                  <p className="text-muted-foreground">Schedule and manage candidate interviews</p>
+                </div>
+                <Button size="sm" className="gap-2">
+                  <Plus className="h-4 w-4" /> Schedule Interview
+                </Button>
+              </div>
+              
+              <LiveInterviewPlatforms />
+
+              <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
+                <Card className="lg:col-span-2">
+                  <CardHeader>
+                    <CardTitle className="flex items-center gap-2">
+                      <Calendar className="h-5 w-5 text-primary" />
+                      Interview Schedule
+                    </CardTitle>
+                  </CardHeader>
+                  <CardContent>
+                    <div className="space-y-4">
+                      {interviews.map((interview) => (
+                        <div key={interview.id} className="flex items-center justify-between p-4 rounded-lg border hover:bg-muted/50 transition-colors">
+                          <div className="flex items-center gap-4">
+                            <div className="p-3 rounded-lg bg-blue-500/10">
+                              <Video className="h-5 w-5 text-blue-600" />
+                            </div>
+                            <div>
+                              <p className="font-medium">{interview.candidate}</p>
+                              <p className="text-sm text-muted-foreground">{interview.position}</p>
+                              <div className="flex items-center gap-4 mt-1 text-xs text-muted-foreground">
+                                <span className="flex items-center gap-1">
+                                  <Clock className="h-3 w-3" /> {interview.time}
+                                </span>
+                                <span className="flex items-center gap-1">
+                                  <User className="h-3 w-3" /> {interview.interviewer}
+                                </span>
+                                <Badge variant="outline" className="text-xs">{interview.mode}</Badge>
+                              </div>
+                            </div>
+                          </div>
+                          <div className="flex items-center gap-2">
+                            <Badge className={getStatusColor(interview.status)}>{interview.status}</Badge>
+                            <Popover>
+                              <PopoverTrigger asChild>
+                                <Button variant="ghost" size="icon">
+                                  <MoreHorizontal className="h-4 w-4" />
+                                </Button>
+                              </PopoverTrigger>
+                              <PopoverContent align="end" className="w-48">
+                                <Button variant="ghost" size="sm" className="w-full justify-start">
+                                  <Eye className="h-4 w-4 mr-2" /> View Details
+                                </Button>
+                                <Button variant="ghost" size="sm" className="w-full justify-start">
+                                  <Calendar className="h-4 w-4 mr-2" /> Reschedule
+                                </Button>
+                                <Button variant="ghost" size="sm" className="w-full justify-start">
+                                  <Video className="h-4 w-4 mr-2" /> Start Call
+                                </Button>
+                                <Button variant="ghost" size="sm" className="w-full justify-start">
+                                  <CheckCircle className="h-4 w-4 mr-2" /> Mark Complete
+                                </Button>
+                              </PopoverContent>
+                            </Popover>
+                          </div>
+                        </div>
+                      ))}
+                    </div>
+                  </CardContent>
+                </Card>
+
+                <Card>
+                  <CardHeader>
+                    <CardTitle className="flex items-center gap-2">
+                      <BarChart3 className="h-5 w-5 text-primary" />
+                      Interview Stats
+                    </CardTitle>
+                  </CardHeader>
+                  <CardContent className="space-y-6">
+                    <div>
+                      <div className="flex items-center justify-between mb-2">
+                        <span className="text-sm">This Week</span>
+                        <span className="font-medium">12 interviews</span>
+                      </div>
+                      <Progress value={60} className="h-2" />
+                    </div>
+                    <div>
+                      <div className="flex items-center justify-between mb-2">
+                        <span className="text-sm">Completed</span>
+                        <span className="font-medium">8</span>
+                      </div>
+                      <Progress value={66} className="h-2" />
+                    </div>
+                    <div>
+                      <div className="flex items-center justify-between mb-2">
+                        <span className="text-sm">Pending</span>
+                        <span className="font-medium">4</span>
+                      </div>
+                      <Progress value={33} className="h-2" />
+                    </div>
+                    <Separator />
+                    <div className="space-y-2">
+                      <h4 className="text-sm font-medium">Interview Modes</h4>
+                      <div className="flex items-center gap-2 text-sm">
+                        <Video className="h-4 w-4 text-blue-600" />
+                        <span>Video: 75%</span>
+                      </div>
+                      <div className="flex items-center gap-2 text-sm">
+                        <MapPin className="h-4 w-4 text-green-600" />
+                        <span>In-person: 25%</span>
+                      </div>
+                    </div>
+                  </CardContent>
+                </Card>
+              </div>
+            </div>
+          ) : location.pathname === "/recruiter/offers" ? (
+            <div className="space-y-6">
+              <div className="flex items-center justify-between">
+                <div>
+                  <h1 className="text-3xl font-bold tracking-tight">Offers</h1>
+                  <p className="text-muted-foreground">Manage and track job offers</p>
+                </div>
+                <Button size="sm" className="gap-2">
+                  <Plus className="h-4 w-4" /> Create Offer
+                </Button>
+              </div>
+
+              <div className="grid grid-cols-1 md:grid-cols-4 gap-4">
+                <Card>
+                  <CardContent className="p-6">
+                    <p className="text-sm text-muted-foreground">Pending</p>
+                    <p className="text-3xl font-bold mt-1">{offers.filter(o => o.status === "Pending").length}</p>
+                  </CardContent>
+                </Card>
+                <Card>
+                  <CardContent className="p-6">
+                    <p className="text-sm text-muted-foreground">Accepted</p>
+                    <p className="text-3xl font-bold mt-1 text-green-600">{offers.filter(o => o.status === "Accepted").length}</p>
+                  </CardContent>
+                </Card>
+                <Card>
+                  <CardContent className="p-6">
+                    <p className="text-sm text-muted-foreground">Declined</p>
+                    <p className="text-3xl font-bold mt-1 text-red-600">{offers.filter(o => o.status === "Declined").length}</p>
+                  </CardContent>
+                </Card>
+                <Card>
+                  <CardContent className="p-6">
+                    <p className="text-sm text-muted-foreground">Total Value</p>
+                    <p className="text-3xl font-bold mt-1">$347k</p>
+                  </CardContent>
+                </Card>
+              </div>
+
+              <Card>
+                <CardHeader>
+                  <CardTitle className="flex items-center gap-2">
+                    <FileText className="h-5 w-5 text-primary" />
+                    Offer Letters
+                  </CardTitle>
+                </CardHeader>
+                <CardContent>
+                  <Table>
+                    <TableHeader>
+                      <TableRow>
+                        <TableHead>Candidate</TableHead>
+                        <TableHead>Position</TableHead>
+                        <TableHead>Salary</TableHead>
+                        <TableHead>Status</TableHead>
+                        <TableHead>Sent Date</TableHead>
+                        <TableHead>Response Date</TableHead>
+                        <TableHead className="text-right">Actions</TableHead>
+                      </TableRow>
+                    </TableHeader>
+                    <TableBody>
+                      {offers.map((offer) => (
+                        <TableRow key={offer.id} className="hover:bg-muted/50 transition-colors">
+                          <TableCell className="font-medium">{offer.candidate}</TableCell>
+                          <TableCell>{offer.position}</TableCell>
+                          <TableCell className="font-mono">{offer.salary}</TableCell>
+                          <TableCell>
+                            <Badge className={getStatusColor(offer.status)}>{offer.status}</Badge>
+                          </TableCell>
+                          <TableCell className="text-muted-foreground">{offer.sentDate}</TableCell>
+                          <TableCell className="text-muted-foreground">{offer.responseDate}</TableCell>
+                          <TableCell className="text-right">
+                            <div className="flex items-center justify-end gap-2">
+                              <Button variant="ghost" size="icon">
+                                <Eye className="h-4 w-4" />
+                              </Button>
+                              <Button variant="ghost" size="icon">
+                                <Download className="h-4 w-4" />
+                              </Button>
+                              <Button variant="ghost" size="icon">
+                                <Send className="h-4 w-4" />
+                              </Button>
+                            </div>
+                          </TableCell>
+                        </TableRow>
+                      ))}
+                    </TableBody>
+                  </Table>
+                </CardContent>
+              </Card>
+            </div>
+          ) : location.pathname === "/recruiter/reports" ? (
+            <div className="space-y-6">
+              <div className="flex items-center justify-between">
+                <div>
+                  <h1 className="text-3xl font-bold tracking-tight">Reports & Analytics</h1>
+                  <p className="text-muted-foreground">Insights and metrics for your hiring process</p>
+                </div>
+                <div className="flex gap-3">
+                  <Button variant="outline" size="sm" className="gap-2" onClick={() => generatePDF(null, true)}><Download className="h-4 w-4" /> Export PDF</Button>
+                  <Button variant="outline" size="sm" className="gap-2" onClick={() => generatePDF(null, true)}><Download className="h-4 w-4" /> Export PDF</Button>
+                </div>
+              </div>
+
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+                <Card>
+                  <CardHeader>
+                    <CardTitle className="flex items-center gap-2">
+                      <Clock className="h-5 w-5 text-primary" />
+                      Time to Hire
+                    </CardTitle>
+                  </CardHeader>
+                  <CardContent>
+                    <p className="text-4xl font-bold">24 days</p>
+                    <p className="text-sm text-muted-foreground mt-2">Average time from application to hire</p>
+                    <div className="flex items-center gap-1 mt-2 text-sm text-green-600">
+                      <ArrowDownRight className="h-4 w-4" /> 3 days faster than last month
+                    </div>
+                  </CardContent>
+                </Card>
+                <Card>
+                  <CardHeader>
+                    <CardTitle className="flex items-center gap-2">
+                      <TrendingUp className="h-5 w-5 text-primary" />
+                      Source Effectiveness
+                    </CardTitle>
+                  </CardHeader>
+                  <CardContent>
+                    <p className="text-4xl font-bold">68%</p>
+                    <p className="text-sm text-muted-foreground mt-2">Candidates from top sources hired</p>
+                    <div className="flex items-center gap-1 mt-2 text-sm text-green-600">
+                      <ArrowUpRight className="h-4 w-4" /> LinkedIn is most effective
+                    </div>
+                  </CardContent>
+                </Card>
+                <Card>
+                  <CardHeader>
+                    <CardTitle className="flex items-center gap-2">
+                      <UsersRound className="h-5 w-5 text-primary" />
+                      Interview-to-Offer
+                    </CardTitle>
+                  </CardHeader>
+                  <CardContent>
+                    <p className="text-4xl font-bold">4:1</p>
+                    <p className="text-sm text-muted-foreground mt-2">Interviews per offer extended</p>
+                    <div className="flex items-center gap-1 mt-2 text-sm text-muted-foreground">
+                      Industry average: 5:1
+                    </div>
+                  </CardContent>
+                </Card>
+              </div>
+
+              <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
+                <Card>
+                  <CardHeader>
+                    <CardTitle className="flex items-center gap-2">
+                      <Activity className="h-5 w-5 text-primary" />
+                      Hiring Funnel
+                    </CardTitle>
+                  </CardHeader>
+                  <CardContent>
+                    <div className="space-y-4">
+                      <div>
+                        <div className="flex items-center justify-between mb-1">
+                          <span className="text-sm">Applied</span>
+                          <span className="font-medium">160</span>
+                        </div>
+                        <Progress value={100} className="h-3" />
+                      </div>
+                      <div>
+                        <div className="flex items-center justify-between mb-1">
+                          <span className="text-sm">Screened</span>
+                          <span className="font-medium">120 (75%)</span>
+                        </div>
+                        <Progress value={75} className="h-3" />
+                      </div>
+                      <div>
+                        <div className="flex items-center justify-between mb-1">
+                          <span className="text-sm">Interviewed</span>
+                          <span className="font-medium">48 (30%)</span>
+                        </div>
+                        <Progress value={30} className="h-3" />
+                      </div>
+                      <div>
+                        <div className="flex items-center justify-between mb-1">
+                          <span className="text-sm">Offered</span>
+                          <span className="font-medium">12 (7.5%)</span>
+                        </div>
+                        <Progress value={7.5} className="h-3" />
+                      </div>
+                      <div>
+                        <div className="flex items-center justify-between mb-1">
+                          <span className="text-sm font-medium">Hired</span>
+                          <span className="font-medium">9 (5.6%)</span>
+                        </div>
+                        <Progress value={5.6} className="h-3 bg-green-500" />
+                      </div>
+                    </div>
+                  </CardContent>
+                </Card>
+
+                <Card>
+                  <CardHeader>
+                    <CardTitle className="flex items-center gap-2">
+                      <PieChart className="h-5 w-5 text-primary" />
+                      Department Distribution
+                    </CardTitle>
+                  </CardHeader>
+                  <CardContent>
+                    <ResponsiveContainer width="100%" height={280}>
+                      <RechartsPie>
+                        <Pie
+                          data={departmentPositions}
+                          cx="50%"
+                          cy="50%"
+                          outerRadius={100}
+                          dataKey="positions"
+                          nameKey="department"
+                          label={({ name, percent }) => `${name} ${(percent * 100).toFixed(0)}%`}
+                        >
+                          {departmentPositions.map((entry, index) => (
+                            <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />
+                          ))}
+                        </Pie>
+                        <Tooltip />
+                      </RechartsPie>
+                    </ResponsiveContainer>
+                  </CardContent>
+                </Card>
+              </div>
+            </div>
+          ) : location.pathname === "/recruiter/evaluation-reports" ? (
+            <div className="space-y-6">
+              <div className="flex flex-col lg:flex-row lg:items-center lg:justify-between gap-4">
+                <div>
+                  <h1 className="text-3xl font-bold tracking-tight">Evaluation Reports</h1>
+                  <p className="text-muted-foreground">Manage candidate assessments and reports ({mockCandidates.length})</p>
+                </div>
+                <div className="flex gap-2">
+                  <Button variant="outline" size="sm" className="gap-2" onClick={() => generatePDF(null, true)}><Download className="h-4 w-4" /> Export PDF</Button>
+                  <Button size="sm" className="gap-2" onClick={() => toast.info("Select a candidate to generate a report.")}><FileText className="h-4 w-4" /> Generate Report</Button>
                 </div>
               </div>
 
@@ -1389,12 +2010,11 @@ export function RecruiterLayout() {
                         </div>
 
                         <div className="flex gap-2">
+                          <Button variant="default" size="sm" onClick={() => handleGenerateReport(candidate)}><FileText className="h-4 w-4 mr-2" /> Generate Report</Button>
                           <Button variant="outline" size="sm" onClick={() => handleViewReport(candidate)}>
                             <Eye className="h-4 w-4 mr-2" /> View Full Report
                           </Button>
-                          <Button variant="outline" size="sm">
-                            <Download className="h-4 w-4 mr-2" /> Download PDF
-                          </Button>
+                          <Button variant="outline" size="sm" onClick={() => generatePDF(candidate)}><Download className="h-4 w-4 mr-2" /> Download PDF</Button>
                         </div>
                       </div>
                     ))}
