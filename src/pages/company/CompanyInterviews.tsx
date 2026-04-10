@@ -1,4 +1,4 @@
-import { useState, useMemo } from "react";
+import { useState, useMemo, useEffect } from "react";
 import { useToast } from "@/hooks/use-toast";
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
@@ -48,14 +48,59 @@ export default function CompanyInterviews() {
   const [isScheduleOpen, setIsScheduleOpen] = useState(false);
 
   // Use state for interviews so we can "add" more in demo
-  const [interviews, setInterviews] = useState(() => {
-    const now = new Date();
-    return mockInterviews.map((i, idx) => ({
-      ...i,
-      // Spread dates around the current time in 2026
-      scheduledAt: new Date(now.getTime() + (idx * 2 - 2) * 24 * 60 * 60 * 1000).toISOString()
-    }));
-  });
+  const [interviews, setInterviews] = useState<any[]>([]);
+
+  useEffect(() => {
+    const saved = localStorage.getItem('companyInterviews');
+    if (saved) {
+      setInterviews(JSON.parse(saved));
+    } else {
+      const enhancedMocks = mockInterviews.map((i, idx) => ({
+        ...i,
+        scheduledAt: new Date(Date.now() + (idx * 2 - 2) * 24 * 60 * 60 * 1000).toISOString()
+      }));
+      setInterviews(enhancedMocks);
+      localStorage.setItem('companyInterviews', JSON.stringify(enhancedMocks));
+    }
+  }, []);
+
+  const stats = {
+    total: interviews.length,
+    scheduled: interviews.filter(i => i.status === 'scheduled').length,
+    completed: interviews.filter(i => i.status === 'completed').length,
+    today: interviews.filter(i => new Date(i.scheduledAt).toDateString() === new Date().toDateString()).length,
+    thisWeek: interviews.filter(i => {
+      const d = new Date(i.scheduledAt);
+      const now = new Date();
+      return d >= now && d <= new Date(now.getTime() + 7 * 24 * 60 * 60 * 1000);
+    }).length
+  };
+
+  const handleSchedule = () => {
+    const newInterview = {
+      id: "int-" + Date.now(),
+      candidateName: "Alex Thompson", // Hardcoded for demo simplicity
+      interviewerName: "Sarah Smith",
+      jobTitle: "Software Engineer",
+      scheduledAt: new Date().toISOString(),
+      duration: 45,
+      mode: "video",
+      status: "scheduled",
+      meetingLink: "https://meet.google.com/abc-defg-hij"
+    };
+    const updated = [newInterview, ...interviews];
+    setInterviews(updated);
+    localStorage.setItem('companyInterviews', JSON.stringify(updated));
+    setIsScheduleOpen(false);
+    toast({ title: "Interview Scheduled", description: "Candidate and interviewer notified." });
+  };
+
+  const handleDelete = (id: string) => {
+    const updated = interviews.filter(i => i.id !== id);
+    setInterviews(updated);
+    localStorage.setItem('companyInterviews', JSON.stringify(updated));
+    toast({ title: "Interview Cancelled", description: "Interview has been removed." });
+  };
 
   const filteredInterviews = interviews.filter((interview) => {
     const matchesSearch =
@@ -77,21 +122,6 @@ export default function CompanyInterviews() {
     phone: <Phone className="w-4 h-4" />,
     in_person: <MapPin className="w-4 h-4" />,
   };
-
-  const stats = useMemo(() => {
-    const now = new Date();
-    const weekFromNow = new Date(now.getTime() + 7 * 24 * 60 * 60 * 1000);
-    
-    return {
-      total: interviews.length,
-      scheduled: interviews.filter((i) => i.status === "scheduled").length,
-      completed: interviews.filter((i) => i.status === "completed").length,
-      thisWeek: interviews.filter((i) => {
-        const date = new Date(i.scheduledAt);
-        return date >= now && date <= weekFromNow;
-      }).length,
-    };
-  }, [interviews]);
 
   return (
     <div className="space-y-8 animate-in fade-in duration-700">
@@ -150,10 +180,7 @@ export default function CompanyInterviews() {
           </div>
           <DialogFooter>
             <Button variant="outline" onClick={() => setIsScheduleOpen(false)}>Cancel</Button>
-            <Button onClick={() => {
-              toast({ title: "Interview Scheduled", description: "The candidate has been notified." });
-              setIsScheduleOpen(false);
-            }}>Confirm Schedule</Button>
+            <Button onClick={handleSchedule}>Confirm Schedule</Button>
           </DialogFooter>
         </DialogContent>
       </Dialog>
@@ -330,7 +357,7 @@ export default function CompanyInterviews() {
                             <Edit className="w-4 h-4 mr-2" />
                             Reschedule
                           </DropdownMenuItem>
-                          <DropdownMenuItem className="text-red-600">
+                          <DropdownMenuItem className="text-red-600" onClick={() => handleDelete(interview.id)}>
                             <XCircle className="w-4 h-4 mr-2" />
                             Cancel
                           </DropdownMenuItem>

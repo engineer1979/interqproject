@@ -223,6 +223,7 @@ const App = () => (
                 <Route path="tests" element={<CompanyTests />} />
                 <Route path="interviews" element={<CompanyInterviews />} />
                 <Route path="results" element={<CompanyResults />} />
+                <Route path="notifications" element={<CompanyNotifications />} />
                 <Route path="settings" element={<CompanySettings />} />
               </Route>
 
@@ -237,6 +238,7 @@ const App = () => (
                 <Route path="results" element={<JobSeekerResults />} />
                 <Route path="certificates" element={<JobSeekerCertificates />} />
                 <Route path="profile" element={<JobSeekerProfile />} />
+                <Route path="notifications" element={<JobSeekerNotifications />} />
                 <Route path="settings" element={<JobSeekerSettings />} />
               </Route>
 
