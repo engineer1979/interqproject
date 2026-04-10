@@ -99,3 +99,7 @@
 
   /* ... all other existing styles remain unchanged ... */
 }
+
+#lovable-badge {
+  display: none !important;
+}

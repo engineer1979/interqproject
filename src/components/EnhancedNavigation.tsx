@@ -42,7 +42,7 @@ const EnhancedNavigation = () => {
       ]
     },
     {
-      label: "Assessments",
+      label: "Assessments (MCQs and skill-based tests)",
       children: [
         {
           label: "Assessments",
@@ -166,17 +166,18 @@ const EnhancedNavigation = () => {
                 <div key={item.label} className="relative">
                   <button
                     onClick={() => handleNavItemClick(item)}
-className={`flex items-center gap-1.5 px-4 py-2.5 rounded-xl text-sm font-semibold transition-all duration-200 nav-link text-white/90 hover:text-white ${
+                    className={`flex items-center gap-1.5 px-4 py-2.5 rounded-xl text-sm font-semibold transition-all duration-200 nav-link text-white hover:text-white drop-shadow-md ${
                       isActive(item.href) || item.children?.some(child => isActive(child.href))
                         ? "active"
                         : ""
                     }`}
                     aria-expanded={activeDropdown === item.label}
                     aria-haspopup={item.children ? "true" : "false"}
+                    title={item.label}
                   >
-                    {item.label}
+                    <span className="truncate max-w-[140px] xl:max-w-none hover:text-clip text-white">{item.label}</span>
                     {item.children && (
-                      <ChevronDown size={14} className={`transition-transform duration-200 ${activeDropdown === item.label ? "rotate-180" : ""}`} />
+                      <ChevronDown size={14} className={`shrink-0 transition-transform duration-200 ${activeDropdown === item.label ? "rotate-180" : ""}`} />
                     )}
                   </button>
 
@@ -233,7 +234,7 @@ className={`flex items-center gap-1.5 px-4 py-2.5 rounded-xl text-sm font-semibo
               {isAdmin && (
                 <Link
                   to="/admin"
-className={`ml-2 px-4 py-2.5 rounded-xl text-sm font-semibold transition-all duration-200 nav-link text-white/90 hover:text-white ${
+                  className={`ml-2 px-4 py-2.5 rounded-xl text-sm font-semibold transition-all duration-200 nav-link text-white hover:text-white drop-shadow-md ${
                     isActive("/admin") ? "active" : ""
                   }`}
                 >
@@ -250,7 +251,7 @@ className={`ml-2 px-4 py-2.5 rounded-xl text-sm font-semibold transition-all dur
                     <Button 
                       variant="ghost" 
                       size="sm" 
-                      className="font-medium nav-btn-ghost"
+                      className="font-medium nav-btn-ghost text-white drop-shadow-md hover:text-white"
                     >
                       <Settings size={16} className="mr-1.5" /> Settings
                     </Button>
@@ -259,7 +260,7 @@ className={`ml-2 px-4 py-2.5 rounded-xl text-sm font-semibold transition-all dur
                     variant="ghost" 
                     size="sm" 
                     onClick={signOut} 
-                    className="text-red-500 hover:text-red-600 hover:bg-red-50 font-medium"
+                    className="text-red-400 drop-shadow-md hover:text-red-500 hover:bg-red-50 font-medium"
                   >
                     Sign Out
                   </Button>
@@ -270,7 +271,7 @@ className={`ml-2 px-4 py-2.5 rounded-xl text-sm font-semibold transition-all dur
                       <Button 
                       variant="ghost" 
                       size="sm" 
-                      className="font-semibold nav-btn-ghost text-white"
+                      className="font-semibold nav-btn-ghost text-white drop-shadow-md hover:text-white"
                     >
                       Sign In
                     </Button>
@@ -330,10 +331,11 @@ className={`ml-2 px-4 py-2.5 rounded-xl text-sm font-semibold transition-all dur
                               ? "bg-gradient-to-r from-cyan-50 to-cyan-50/50 text-cyan-600"
                               : "text-slate-700 hover:bg-slate-50"
                           }`}
+                          title={item.label}
                         >
-                          <span>{item.label}</span>
+                          <span className="truncate pr-3">{item.label}</span>
                           {item.children && (
-                            <ChevronDown size={20} className={`transition-transform duration-200 ${activeDropdown === item.label ? "rotate-180" : ""}`} />
+                            <ChevronDown size={20} className={`shrink-0 transition-transform duration-200 ${activeDropdown === item.label ? "rotate-180" : ""}`} />
                           )}
                         </button>
                         {item.children && activeDropdown === item.label && (
