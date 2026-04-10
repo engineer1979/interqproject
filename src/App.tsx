@@ -41,6 +41,9 @@ const Features = lazy(() => import("./pages/Features"));
 const Integrations = lazy(() => import("./pages/Integrations"));
 const Assessments = lazy(() => import("./pages/Assessments"));
 const TakeAssessment = lazy(() => import("./pages/TakeAssessment"));
+const CodingTests = lazy(() => import("./pages/CodingTests"));
+const TakeCodingTest = lazy(() => import("./pages/TakeCodingTest"));
+const LiveInterviews = lazy(() => import("./pages/LiveInterviews"));
 const Solutions = lazy(() => import("./pages/Solutions"));
 const Pricing = lazy(() => import("./pages/Pricing"));
 const About = lazy(() => import("./pages/About"));
@@ -200,6 +203,9 @@ const App = () => (
               <Route path="/features" element={<Features />} />
               <Route path="/assessments" element={<Assessments />} />
               <Route path="/assessment/:id" element={<TakeAssessment />} />
+              <Route path="/coding-tests" element={<CodingTests />} />
+              <Route path="/coding-test/:id" element={<TakeCodingTest />} />
+              <Route path="/live-interviews" element={<LiveInterviews />} />
               <Route path="/assessment-workflow" element={<AssessmentWorkflowPage />} />
               <Route path="/create-assessment" element={<CreateAssessment />} />
               <Route path="/platform-integrations" element={<Integrations />} />

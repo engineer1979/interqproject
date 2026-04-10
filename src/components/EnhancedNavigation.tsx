@@ -1,7 +1,7 @@
 import { useState, useEffect, useRef } from "react";
 import { Link, useLocation, useNavigate } from "react-router-dom";
 import { Button } from "@/components/ui/button";
-import { Menu, X, ChevronDown, Star, Settings, ChevronRight } from "lucide-react";
+import { Menu, X, ChevronDown, Star, Settings, ChevronRight, FileText, Code, Video } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 import { useAuth } from "@/contexts/SimpleAuthContext";
 import { supabase } from "@/integrations/supabase/client";
@@ -43,7 +43,26 @@ const EnhancedNavigation = () => {
     },
     {
       label: "Assessments",
-      href: "/assessments",
+      children: [
+        {
+          label: "Assessments",
+          href: "/assessments",
+          icon: FileText,
+          description: "MCQ and skill-based technical assessments"
+        },
+        {
+          label: "Coding Tests",
+          href: "/coding-tests",
+          icon: Code,
+          description: "Interactive scenario-based coding challenges"
+        },
+        {
+          label: "Live Interviews",
+          href: "/live-interviews",
+          icon: Video,
+          description: "Seamlessly schedule and join live interviews"
+        }
+      ]
     },
     {
       label: "Solutions",
