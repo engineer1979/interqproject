@@ -38,7 +38,7 @@ import {
   FileText,
   Star,
 } from "lucide-react";
-import { mockInterviews } from "@/data/adminModuleData";
+import { LiveInterviewPlatforms } from "@/components/dashboard/LiveInterviewPlatforms";
 
 export default function RecruiterInterviews() {
   const { toast } = useToast();
@@ -113,11 +113,11 @@ export default function RecruiterInterviews() {
   };
 
   return (
-    <div className="space-y-6">
+    <div className="space-y-8 animate-in fade-in duration-700">
       <div className="flex items-center justify-between">
         <div>
-          <h1 className="text-2xl font-bold text-gray-900">Interview Management</h1>
-          <p className="text-gray-500">Schedule and manage candidate interviews</p>
+          <h1 className="text-3xl font-black text-gray-900 tracking-tight text-gray-900">Interview Management</h1>
+          <p className="text-gray-500 font-medium">Schedule and manage candidate interviews</p>
         </div>
         <div className="flex items-center space-x-3">
           <Button variant="outline" onClick={handleViewCalendar}>
@@ -126,7 +126,7 @@ export default function RecruiterInterviews() {
           </Button>
           <Dialog open={showScheduleModal} onOpenChange={setShowScheduleModal}>
             <DialogTrigger asChild>
-              <Button>
+              <Button className="bg-primary hover:bg-primary/90">
                 <Plus className="w-4 h-4 mr-2" />
                 Schedule Interview
               </Button>
@@ -199,6 +199,8 @@ export default function RecruiterInterviews() {
           </Dialog>
         </div>
       </div>
+
+      <LiveInterviewPlatforms />
 
       <div className="grid grid-cols-1 md:grid-cols-4 gap-4">
         <Card>

@@ -8,6 +8,7 @@ import { Suspense, lazy } from "react";
 import { SimpleAuthProvider } from "@/contexts/SimpleAuthContext";
 import { JobSeekerDashboardProvider } from "@/contexts/JobSeekerDashboardContext";
 import { ChatbotWidget } from "@/components/chatbot/ChatbotWidget";
+import { DashboardGuard } from "@/components/auth/DashboardGuard";
 import UnifiedLayout from "@/components/layouts/UnifiedLayout";
 import UnifiedDashboard from "@/pages/UnifiedDashboard";
 import OffersManagement from "@/pages/admin/OffersManagement";
@@ -141,6 +142,7 @@ const JobSeekerPrivacy = lazy(() => import("./pages/jobseeker/JobSeekerPrivacy")
 const JobSeekerGuidelines = lazy(() => import("./pages/jobseeker/JobSeekerGuidelines"));
 const JobSeekerNotifications = lazy(() => import("./pages/jobseeker/Notifications"));
 const JobSeekerSettings = lazy(() => import("./pages/jobseeker/JobSeekerSettings"));
+const CodingChallengesPage = lazy(() => import("./pages/jobseeker/CodingChallenges"));
 const LegalPage = ({ title, content }: { title: string; content: string }) => (
   <div className="min-h-screen bg-background">
     <div className="max-w-3xl mx-auto px-6 py-16">
@@ -165,146 +167,106 @@ const App = () => (
       <BrowserRouter>
         <SimpleAuthProvider>
           <JobSeekerDashboardProvider>
-            <Suspense fallback={<div className="p-8 text-center">Loading...</div>}>
-
-
+            <Suspense fallback={<div className="p-8 text-center bg-slate-50 min-h-screen flex items-center justify-center">
+              <div className="flex flex-col items-center gap-4">
+                <div className="w-12 h-12 border-4 border-primary border-t-transparent rounded-full animate-spin"></div>
+                <p className="font-bold text-slate-400">Loading InterQ Hub...</p>
+              </div>
+            </div>}>
             <Routes>
               <Route path="/" element={<Index />} />
               <Route path="/auth" element={<Auth />} />
               <Route path="/verify-email" element={<VerifyEmail />} />
               <Route path="/reset-password" element={<ResetPassword />} />
               <Route path="/get-started" element={<GetStarted />} />
+              
+              {/* Unified Routes Protected by Role Logic inside UnifiedLayout or individual guards */}
               <Route path="/unified-dashboard" element={<UnifiedLayout><UnifiedDashboard /></UnifiedLayout>} />
               <Route path="/dashboard" element={<UnifiedLayout><UnifiedDashboard /></UnifiedLayout>} />
               <Route path="/offers" element={<UnifiedLayout><OffersManagement /></UnifiedLayout>} />
               <Route path="/jobs" element={<UnifiedLayout><JobsPage /></UnifiedLayout>} />
-              <Route path="/jobs/new" element={<UnifiedLayout><JobsPage /></UnifiedLayout>} />
               <Route path="/candidates" element={<UnifiedLayout><CandidatesPage /></UnifiedLayout>} />
-              <Route path="/candidates/new" element={<UnifiedLayout><CandidatesPage /></UnifiedLayout>} />
               <Route path="/interviews" element={<UnifiedLayout><InterviewsPage /></UnifiedLayout>} />
-              <Route path="/interviews/new" element={<UnifiedLayout><InterviewsPage /></UnifiedLayout>} />
-              <Route path="/applications" element={<UnifiedLayout><CandidatesPage /></UnifiedLayout>} />
               <Route path="/pipeline" element={<UnifiedLayout><PipelinePage /></UnifiedLayout>} />
               <Route path="/talent-pool" element={<UnifiedLayout><TalentPoolPage /></UnifiedLayout>} />
-              <Route path="/my-jobs" element={<UnifiedLayout><JobsPage /></UnifiedLayout>} />
-              <Route path="/saved-jobs" element={<UnifiedLayout><SavedJobsPage /></UnifiedLayout>} />
               <Route path="/profile" element={<UnifiedLayout><ProfilePage /></UnifiedLayout>} />
               <Route path="/team" element={<UnifiedLayout><TeamPage /></UnifiedLayout>} />
               <Route path="/messages" element={<UnifiedLayout><MessagingPage /></UnifiedLayout>} />
               <Route path="/reports" element={<UnifiedLayout><ReportsPage /></UnifiedLayout>} />
               <Route path="/billing" element={<UnifiedLayout><BillingPage /></UnifiedLayout>} />
               <Route path="/integrations" element={<UnifiedLayout><IntegrationsPageUnified /></UnifiedLayout>} />
-              <Route path="/audit-logs" element={<UnifiedLayout><AuditLogsPage /></UnifiedLayout>} />
-              <Route path="/security" element={<UnifiedLayout><SecurityPage /></UnifiedLayout>} />
               <Route path="/settings" element={<UnifiedLayout><SettingsPage /></UnifiedLayout>} />
               <Route path="/companies" element={<UnifiedLayout><CompaniesPage /></UnifiedLayout>} />
               <Route path="/users" element={<UnifiedLayout><UsersPage /></UnifiedLayout>} />
+              
+              {/* Public Pages */}
               <Route path="/product" element={<Product />} />
               <Route path="/features" element={<Features />} />
               <Route path="/assessments" element={<Assessments />} />
-              <Route path="/assessment/:id" element={<TakeAssessment />} />
-              <Route path="/coding-tests" element={<CodingTests />} />
-              <Route path="/coding-test/:id" element={<TakeCodingTest />} />
-              <Route path="/live-interviews" element={<LiveInterviews />} />
-              <Route path="/assessment-workflow" element={<AssessmentWorkflowPage />} />
-              <Route path="/create-assessment" element={<CreateAssessment />} />
-              <Route path="/platform-integrations" element={<Integrations />} />
               <Route path="/solutions" element={<Solutions />} />
-              <Route path="/solutions/recruiters" element={<Solutions />} />
-              <Route path="/for-recruiters" element={<Solutions />} />
-              <Route path="/solutions/enterprise" element={<Solutions />} />
-              <Route path="/for-organizational-hiring" element={<Solutions />} />
-              <Route path="/solutions/sme" element={<Solutions />} />
-              <Route path="/for-smes" element={<Solutions />} />
-              <Route path="/solutions/industry" element={<Solutions />} />
-              <Route path="/industry-solutions" element={<Solutions />} />
               <Route path="/pricing" element={<Pricing />} />
               <Route path="/about" element={<About />} />
-              <Route path="/press-kit" element={<PressKit />} />
-              <Route path="/partners" element={<Partners />} />
               <Route path="/contact" element={<Contact />} />
-              <Route path="/settings" element={<Settings />} />
-              <Route path="/landing" element={<LandingPage />} />
-              <Route path="/blog" element={<Blog />} />
-              <Route path="/docs" element={<Documentation />} />
-              <Route path="/case-studies" element={<CaseStudies />} />
-              <Route path="/help-center" element={<HelpCenter />} />
-              <Route path="/careers" element={<Careers />} />
-              <Route path="/book-session" element={<BookSession />} />
-              <Route path="/dashboard" element={<Dashboard />} />
-              <Route path="/evaluation-report" element={<EvaluationReport />} />
-              <Route path="/professional-report" element={<ProfessionalEvaluationReport />} />
-              <Route path="/guidelines" element={<Guidelines />} />
-              <Route path="/expert-portal" element={<ExpertPortal />} />
-              <Route path="/candidate-portal" element={<CandidatePortal />} />
-              <Route path="/company-signup" element={<CompanySignup />} />
-              <Route path="/company" element={<CompanyLayout />}>
+              
+              {/* Functional Pages */}
+              <Route path="/assessment/:id" element={<TakeAssessment />} />
+              <Route path="/coding-test/:id" element={<TakeCodingTest />} />
+
+              {/* Company Section (Strict Protection) */}
+              <Route path="/company" element={<DashboardGuard allowedRole="company"><CompanyLayout /></DashboardGuard>}>
                 <Route index element={<CompanyDashboard />} />
                 <Route path="jobs" element={<CompanyJobs />} />
                 <Route path="candidates" element={<CompanyCandidates />} />
                 <Route path="tests" element={<CompanyTests />} />
                 <Route path="interviews" element={<CompanyInterviews />} />
                 <Route path="results" element={<CompanyResults />} />
-                <Route path="notifications" element={<CompanyNotifications />} />
-                <Route path="logs" element={<CompanyAuditLogs />} />
                 <Route path="settings" element={<CompanySettings />} />
               </Route>
-              <Route path="/jobseeker" element={<JobSeekerLayout />}>
+
+              {/* Job Seeker Section (Strict Protection) */}
+              <Route path="/jobseeker" element={<DashboardGuard allowedRole="jobseeker"><JobSeekerLayout /></DashboardGuard>}>
                 <Route index element={<JobSeekerDashboard />} />
                 <Route path="applications" element={<JobSeekerApplications />} />
                 <Route path="assessments" element={<JobSeekerAssessments />} />
+                <Route path="coding-challenges" element={<CodingChallengesPage />} />
                 <Route path="interviews" element={<JobSeekerInterviews />} />
                 <Route path="interview/:id" element={<InterviewSession />} />
                 <Route path="results" element={<JobSeekerResults />} />
-                <Route path="certificates" element={<JobSeekerCertificates />} />
                 <Route path="profile" element={<JobSeekerProfile />} />
-                <Route path="privacy" element={<JobSeekerPrivacy />} />
-                <Route path="guidelines" element={<JobSeekerGuidelines />} />
-                <Route path="notifications" element={<JobSeekerNotifications />} />
                 <Route path="settings" element={<JobSeekerSettings />} />
               </Route>
-              <Route path="/privacy-policy" element={<LegalPage title="Privacy Policy" content="InterQ collects and processes personal data to provide recruitment services. We never sell your data to third parties. Data is stored securely and you may request deletion at any time by contacting privacy@interq.com. We use cookies for authentication and analytics only." />} />
-              <Route path="/terms-of-service" element={<LegalPage title="Terms of Service" content="By using InterQ, you agree to use the platform lawfully and professionally. Companies agree not to discriminate in hiring. Job seekers agree to provide accurate information. InterQ reserves the right to terminate accounts that violate these terms. Full terms available on request." />} />
-              <Route path="/cookie-policy" element={<LegalPage title="Cookie Policy" content="InterQ uses essential cookies for authentication, preference cookies for your settings, and analytics cookies to improve our service. You may disable non-essential cookies in your browser settings. We do not use advertising cookies." />} />
-              <Route path="/gdpr" element={<LegalPage title="GDPR Compliance" content="InterQ is GDPR compliant. EU users have the right to access, rectify, erase, and port their data. You may withdraw consent at any time. Our Data Protection Officer can be reached at dpo@interq.com. Data is processed under legitimate interest for recruitment services." />} />
-              <Route path="/api-docs" element={<LegalPage title="API Documentation" content="InterQ provides a RESTful API for enterprise integrations. Authentication uses JWT tokens. Key endpoints: POST /api/jobs, GET /api/candidates, POST /api/interviews. Rate limit: 1000 requests/hour. Contact api@interq.com for access keys and full documentation." />} />
-              <Route path="/partner-application" element={<LegalPage title="Partner Application" content="Interested in becoming an InterQ partner? We work with HR consultancies, staffing agencies, and technology providers. Partners receive revenue sharing, co-marketing support, and dedicated account management. Email partners@interq.com with your company details to apply." />} />
-              <Route path="/newsletter" element={<LegalPage title="Newsletter" content="Subscribe to the InterQ newsletter for hiring trends, platform updates, and best practices. We send 2-4 emails per month. Email newsletter@interq.com with 'Subscribe' in the subject line, or unsubscribe at any time using the link in any email." />} />
-              <Route path="/admin" element={<AdminLayout />}>
+
+              {/* Admin Section (Strict Protection) */}
+              <Route path="/admin" element={<DashboardGuard allowedRole="admin"><AdminLayout /></DashboardGuard>}>
                 <Route index element={<AdminDashboard />} />
                 <Route path="tests" element={<TestManagement />} />
                 <Route path="question-bank" element={<QuestionBank />} />
-                <Route path="prompt-generator" element={<AssessmentPromptGenerator />} />
                 <Route path="results" element={<AdminResults />} />
-                <Route path="results/:id" element={<AdminResultDetail />} />
                 <Route path="interviews" element={<InterviewManagement />} />
-                <Route path="certificates" element={<CertificateManagement />} />
                 <Route path="companies" element={<CompanyManagement />} />
                 <Route path="job-seekers" element={<JobSeekerManagement />} />
-                <Route path="logs" element={<ActivityLogs />} />
                 <Route path="role-management" element={<RoleManagement />} />
-                <Route path="pipeline" element={<PipelineDashboard />} />
                 <Route path="jobs" element={<AdminJobs />} />
-                <Route path="ats-screening" element={<ATSScreening />} />
-                <Route path="scoring" element={<CollaborativeScoring />} />
                 <Route path="reports" element={<AdminReports />} />
                 <Route path="settings" element={<AdminSettings />} />
-<Route path="users" element={<UserTeamsDashboard />} />
+                <Route path="users" element={<UserTeamsDashboard />} />
               </Route>
-              <Route path="/recruiter" element={<ErrorBoundary><RecruiterLayout /></ErrorBoundary>}>
+
+              {/* Recruiter Section (Strict Protection) */}
+              <Route path="/recruiter" element={<DashboardGuard allowedRole="recruiter"><ErrorBoundary><RecruiterLayout /></ErrorBoundary></DashboardGuard>}>
                 <Route index element={<RecruiterDashboard />} />
                 <Route path="evaluation-reports" element={<EvaluationReports />} />
                 <Route path="jobs" element={<RecruiterDashboard />} />
                 <Route path="candidates" element={<RecruiterDashboard />} />
-                <Route path="interviews" element={<RecruiterDashboard />} />
+                <Route path="assessments" element={<RecruiterAssessments />} />
+                <Route path="interviews" element={<RecruiterInterviews />} />
+                <Route path="pipeline" element={<RecruiterPipeline />} />
                 <Route path="offers" element={<RecruiterDashboard />} />
                 <Route path="reports" element={<RecruiterDashboard />} />
                 <Route path="settings" element={<RecruiterDashboard />} />
-
               </Route>
-              {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
-              <Route path="*" element={<NotFound />} />
 
+              <Route path="*" element={<NotFound />} />
             </Routes>
             <ChatbotWidget />
           </Suspense>
@@ -316,3 +278,4 @@ const App = () => (
 );
 
 export default App;
+

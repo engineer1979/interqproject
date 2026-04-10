@@ -27,11 +27,13 @@ import {
   Shield,
   CreditCard,
   BarChart3,
+  Code2,
 } from "lucide-react";
 import { useAuth } from "@/contexts/SimpleAuthContext";
 import { useToast } from "@/hooks/use-toast";
 import { useNavigate } from "react-router-dom";
 import { mockKPIs, mockCompanies, mockJobs, mockCandidates, mockInterviews, mockOffers, mockActivityFeed } from "@/data/adminModuleData";
+import { LiveInterviewPlatforms } from "@/components/dashboard/LiveInterviewPlatforms";
 
 const statCards = {
   admin: [
@@ -174,6 +176,8 @@ export default function UnifiedDashboard() {
           </Card>
         ))}
       </div>
+
+      <LiveInterviewPlatforms />
 
       <div className="grid gap-6 lg:grid-cols-3">
         <Card className="lg:col-span-2">
@@ -410,6 +414,28 @@ export default function UnifiedDashboard() {
                   <div className="text-sm text-muted-foreground">{status.count}</div>
                 </div>
               ))}
+            </CardContent>
+          </Card>
+
+          <Card className="bg-slate-900 text-white border-none overflow-hidden relative group">
+            <div className="absolute top-0 right-0 w-32 h-32 bg-primary/20 rounded-full -mr-16 -mt-16 blur-3xl group-hover:bg-primary/30 transition-colors" />
+            <CardHeader>
+              <CardTitle className="flex items-center gap-2">
+                <Code2 className="w-5 h-5 text-primary" />
+                Coding Challenges
+              </CardTitle>
+            </CardHeader>
+            <CardContent>
+              <p className="text-slate-400 text-sm mb-6">
+                Master Top Skills with our curated collection of technical challenges.
+              </p>
+              <Button 
+                variant="outline" 
+                className="w-full bg-white text-slate-900 border-none hover:bg-slate-100"
+                onClick={() => navigate("/jobseeker/coding-challenges")}
+              >
+                Start Practice session
+              </Button>
             </CardContent>
           </Card>
         </div>

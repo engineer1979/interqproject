@@ -7,7 +7,7 @@ import { Badge } from "@/components/ui/badge";
 import { cn } from "@/lib/utils";
 import {
   LayoutDashboard, FileText, Video, Award, User, Bell, Settings,
-  LogOut, BookOpen, TrendingUp, ChevronLeft, ChevronRight, Menu, X, Shield
+  LogOut, BookOpen, TrendingUp, ChevronLeft, ChevronRight, Menu, X, Shield, Code2
 } from "lucide-react";
 import { supabase } from "@/integrations/supabase/client";
 import { useQuery } from "@tanstack/react-query";
@@ -15,6 +15,7 @@ import { useQuery } from "@tanstack/react-query";
 const navItems = [
   { icon: LayoutDashboard, label: "Dashboard", path: "/jobseeker" },
   { icon: FileText, label: "Assessments", path: "/jobseeker/assessments" },
+  { icon: Code2, label: "Coding Challenges", path: "/jobseeker/coding-challenges" },
   { icon: Video, label: "Interviews", path: "/jobseeker/interviews" },
   { icon: TrendingUp, label: "Results", path: "/jobseeker/results" },
   { icon: Award, label: "Certificates", path: "/jobseeker/certificates" },

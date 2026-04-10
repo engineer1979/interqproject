@@ -5,8 +5,9 @@ import {
   Plus, Bell, Search, ChevronDown, Calendar, User, FileText, Video, MapPin, Clock, CheckCircle, XCircle,
   TrendingUp, Eye, MoreHorizontal, Filter, Download, Mail, Phone, Star, ArrowUpRight, ArrowDownRight,
   PieChart, Activity, UsersRound, BriefcaseBusiness, ClipboardCheck, Send, RefreshCw, Trash2, Copy,
-  Edit, Archive, Sun, Moon, UserPlus, ArrowRight
+  Edit, Archive, Sun, Moon, UserPlus, ArrowRight, ShieldCheck
 } from "lucide-react";
+import { LiveInterviewPlatforms } from "../dashboard/LiveInterviewPlatforms";
 import { Button } from "@/components/ui/button";
 import { useState, useEffect } from "react";
 import { Checkbox } from "@/components/ui/checkbox";
@@ -922,6 +923,8 @@ export function RecruiterLayout() {
                   <Plus className="h-4 w-4" /> Schedule Interview
                 </Button>
               </div>
+              
+              <LiveInterviewPlatforms />
 
               <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
                 <Card className="lg:col-span-2">

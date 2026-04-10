@@ -39,6 +39,7 @@ import {
   Trash2,
 } from "lucide-react";
 import { mockInterviews } from "@/data/adminModuleData";
+import { LiveInterviewPlatforms } from "@/components/dashboard/LiveInterviewPlatforms";
 
 export default function CompanyInterviews() {
   const { toast } = useToast();
@@ -93,23 +94,25 @@ export default function CompanyInterviews() {
   }, [interviews]);
 
   return (
-    <div className="space-y-6">
+    <div className="space-y-8 animate-in fade-in duration-700">
       <div className="flex items-center justify-between">
         <div>
-          <h1 className="text-2xl font-bold text-gray-900">Interviews</h1>
-          <p className="text-gray-500">Manage your candidate interviews</p>
+          <h1 className="text-3xl font-black text-gray-900 tracking-tight">Interviews</h1>
+          <p className="text-gray-500 font-medium">Manage your candidate interviews</p>
         </div>
         <div className="flex items-center space-x-3">
           <Button variant="outline">
             <Calendar className="w-4 h-4 mr-2" />
             Calendar View
           </Button>
-          <Button onClick={() => setIsScheduleOpen(true)}>
+          <Button onClick={() => setIsScheduleOpen(true)} className="bg-primary hover:bg-primary/90">
             <Plus className="w-4 h-4 mr-2" />
             Schedule Interview
           </Button>
         </div>
       </div>
+
+      <LiveInterviewPlatforms />
 
       <Dialog open={isScheduleOpen} onOpenChange={setIsScheduleOpen}>
         <DialogContent className="sm:max-w-[500px]">

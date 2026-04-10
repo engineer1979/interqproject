@@ -25,6 +25,7 @@ import {
   Users,
   Plus,
 } from "lucide-react";
+import { LiveInterviewPlatforms } from "@/components/dashboard/LiveInterviewPlatforms";
 import { useJobSeekerDashboard } from "@/contexts/JobSeekerDashboardContext";
 
 export default function JobSeekerInterviews() {
@@ -87,19 +88,21 @@ export default function JobSeekerInterviews() {
   }
 
   return (
-    <div className="space-y-6">
+    <div className="space-y-8 animate-in fade-in duration-700">
       <div className="flex items-center justify-between">
         <div>
-          <h1 className="text-2xl font-bold text-gray-900">My Interviews</h1>
-          <p className="text-gray-500">Practice technical interviews in IT domains</p>
+          <h1 className="text-3xl font-black text-gray-900 tracking-tight">My Interviews</h1>
+          <p className="text-gray-500 font-medium">Join scheduled technical sessions or practice with simulators.</p>
         </div>
         {stats.total < 6 && (
-          <Button onClick={handleGenerateInterviews} disabled={generating}>
+          <Button onClick={handleGenerateInterviews} disabled={generating} className="bg-primary hover:bg-primary/90">
             <Plus className="w-4 h-4 mr-2" />
-            {generating ? "Generating..." : "Generate Interviews"}
+            {generating ? "Generating..." : "Generate Demo Interviews"}
           </Button>
         )}
       </div>
+
+      <LiveInterviewPlatforms />
 
       <div className="grid grid-cols-1 md:grid-cols-4 gap-4">
         <Card>

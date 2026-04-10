@@ -11,6 +11,7 @@ import { useToast } from "@/hooks/use-toast";
 import { useAuth } from "@/contexts/SimpleAuthContext";
 import { mockInterviews } from "@/data/adminModuleData";
 import { Calendar, Clock, Video, MapPin, Phone, Users, Plus, CheckCircle, XCircle, AlertCircle } from "lucide-react";
+import { LiveInterviewPlatforms } from "@/components/dashboard/LiveInterviewPlatforms";
 
 const statusColors: Record<string, string> = {
   scheduled: "bg-blue-100 text-blue-700",
@@ -82,6 +83,8 @@ export default function InterviewsPage() {
           </Button>
         )}
       </div>
+
+      <LiveInterviewPlatforms />
 
       {/* Stats */}
       <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
