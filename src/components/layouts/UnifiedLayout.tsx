@@ -75,6 +75,7 @@ const navItems: NavItem[] = [
   { label: "Audit Logs", icon: <ScrollText className="h-5 w-5" />, href: "/audit-logs", roles: ["admin"] },
   { label: "Security", icon: <Shield className="h-5 w-5" />, href: "/security", roles: ["admin"] },
   { label: "Settings", icon: <Settings className="h-5 w-5" />, href: "/settings", roles: ["admin", "company", "recruiter", "jobseeker"] },
+  { label: "Certificates", icon: <Award className="h-5 w-5" />, href: "/jobseeker/certificates", roles: ["jobseeker"] },
 ];
 
 interface UnifiedLayoutProps {

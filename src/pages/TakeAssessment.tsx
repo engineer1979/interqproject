@@ -20,11 +20,15 @@ import {
   Trophy,
   RotateCcw,
   List,
+  ChevronUp,
 } from "lucide-react";
 import { assessmentsData, Assessment } from "@/data/assessments";
 import { useAssessmentQuestions, TOTAL_QUESTIONS, ASSESSMENT_DURATION_MINUTES } from "@/hooks/useAssessmentQuestions";
 import { supabase } from "@/integrations/supabase/client";
 import { cn } from "@/lib/utils";
+import { CertificateTemplate } from "@/components/certificate/CertificateTemplate";
+import { useJobSeekerDashboard } from "@/contexts/JobSeekerDashboardContext";
+import { Dialog, DialogContent, DialogHeader, DialogTitle } from "@/components/ui/dialog";
 
 // ─── Types ────────────────────────────────────────────────────────────────────
 
@@ -159,6 +163,29 @@ interface ResultProps {
 function ResultScreen({ score, totalQuestions, correctCount, timeTaken, assessmentTitle, onRetry, onBack }: ResultProps) {
   const passed = score >= 70;
   const { text: timeTakenText } = formatTime(timeTaken);
+  const { addCertificate } = useJobSeekerDashboard();
+  const [showCertificate, setShowCertificate] = useState(false);
+  const [isGenerating, setIsGenerating] = useState(false);
+  const [generatedId, setGeneratedId] = useState<string | null>(null);
+
+  const handleGenerate = async () => {
+    setIsGenerating(true);
+    await new Promise(resolve => setTimeout(resolve, 1500));
+    
+    const id = `CERT-${Math.random().toString(36).substr(2, 9).toUpperCase()}`;
+    setGeneratedId(id);
+    
+    await addCertificate({
+      id,
+      title: assessmentTitle,
+      assessment_id: "demo",
+      status: "issued",
+      issued_at: new Date().toISOString()
+    });
+    
+    setIsGenerating(false);
+    setShowCertificate(true);
+  };
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-slate-50 via-blue-50 to-indigo-50 flex items-center justify-center p-6">
@@ -219,16 +246,48 @@ function ResultScreen({ score, totalQuestions, correctCount, timeTaken, assessme
           </div>
 
           {/* Actions */}
-          <div className="flex gap-3 pt-2">
-            <Button variant="outline" className="flex-1" onClick={onBack}>
-              <ChevronLeft className="w-4 h-4 mr-1" /> Back to Library
-            </Button>
-            <Button className="flex-1 bg-indigo-600 hover:bg-indigo-700" onClick={onRetry}>
-              <RotateCcw className="w-4 h-4 mr-1" /> Retake
-            </Button>
+          <div className="flex flex-col gap-3 pt-2">
+            {passed && (
+              <Button 
+                onClick={handleGenerate}
+                disabled={isGenerating || !!generatedId}
+                className="w-full bg-gradient-to-r from-amber-500 to-yellow-600 hover:from-amber-600 hover:to-yellow-700 text-white font-black h-12 shadow-lg shadow-amber-200"
+              >
+                <Award className="w-5 h-4 mr-2" />
+                {isGenerating ? "Generating..." : generatedId ? "Certificate Generated" : "Generate Certificate"}
+              </Button>
+            )}
+            
+            <div className="flex gap-3">
+              <Button variant="outline" className="flex-1" onClick={onBack}>
+                <ChevronLeft className="w-4 h-4 mr-1" /> Back to Library
+              </Button>
+              <Button className="flex-1 bg-slate-900 hover:bg-slate-800" onClick={onRetry}>
+                <RotateCcw className="w-4 h-4 mr-1" /> Retake
+              </Button>
+            </div>
           </div>
         </CardContent>
       </Card>
+
+      <Dialog open={showCertificate} onOpenChange={setShowCertificate}>
+        <DialogContent className="max-w-5xl p-0 overflow-hidden bg-slate-100">
+          <DialogHeader className="p-6 bg-white border-b">
+            <DialogTitle className="text-2xl font-black">Verified Certificate</DialogTitle>
+          </DialogHeader>
+          <div className="p-8 max-h-[80vh] overflow-y-auto">
+            <CertificateTemplate 
+              id={generatedId || ""}
+              userName="Candidate"
+              courseName={assessmentTitle}
+              date={new Date().toLocaleDateString()}
+              type="Assessment"
+              score={score}
+              onClose={() => setShowCertificate(false)}
+            />
+          </div>
+        </DialogContent>
+      </Dialog>
     </div>
   );
 }

@@ -7,8 +7,11 @@ import { Button } from "@/components/ui/button";
 import { Progress } from "@/components/ui/progress";
 import { RadioGroup, RadioGroupItem } from "@/components/ui/radio-group";
 import { Label } from "@/components/ui/label";
-import { Clock, ChevronLeft, ChevronRight, CheckCircle, Terminal, FileCode2 } from "lucide-react";
+import { Clock, ChevronLeft, ChevronRight, CheckCircle, Terminal, FileCode2, Award } from "lucide-react";
 import { cn } from "@/lib/utils";
+import { CertificateTemplate } from "@/components/certificate/CertificateTemplate";
+import { useJobSeekerDashboard } from "@/contexts/JobSeekerDashboardContext";
+import { Dialog, DialogContent, DialogHeader, DialogTitle } from "@/components/ui/dialog";
 
 // Mock Data
 const CODING_TEST_QUESTIONS = Array.from({ length: 10 }, (_, i) => ({
@@ -34,6 +37,26 @@ export default function TakeCodingTest() {
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [isSubmitted, setIsSubmitted] = useState(false);
   const [score, setScore] = useState(0);
+  const { addCertificate } = useJobSeekerDashboard();
+  const [showCertificate, setShowCertificate] = useState(false);
+  const [isGenerating, setIsGenerating] = useState(false);
+  const [generatedId, setGeneratedId] = useState<string | null>(null);
+
+  const handleGenerateCertificate = async () => {
+    setIsGenerating(true);
+    await new Promise(resolve => setTimeout(resolve, 1500));
+    const certId = `CERT-CODE-${Math.random().toString(36).substr(2, 9).toUpperCase()}`;
+    setGeneratedId(certId);
+    await addCertificate({
+      id: certId,
+      title: "Full Stack Coding Challenge",
+      assessment_id: "coding-demo",
+      status: "issued",
+      issued_at: new Date().toISOString()
+    });
+    setIsGenerating(false);
+    setShowCertificate(true);
+  };
 
   useEffect(() => {
     if (timeRemaining <= 0 && !isSubmitted) {
@@ -70,11 +93,41 @@ export default function TakeCodingTest() {
             <CheckCircle className="w-16 h-16 text-cyan-400 mx-auto" />
             <h1 className="text-3xl font-bold text-white">Test Completed</h1>
             <p className="text-slate-400">Score: <span className="text-2xl text-cyan-400 font-bold">{score}%</span></p>
-            <Button className="w-full bg-cyan-500 hover:bg-cyan-600 text-white" onClick={() => navigate("/coding-tests")}>
-              Back to Coding Tests
-            </Button>
+            
+            <div className="space-y-3 pt-4">
+              <Button 
+                onClick={handleGenerateCertificate}
+                disabled={isGenerating || !!generatedId || score < 70}
+                className="w-full bg-gradient-to-r from-amber-500 to-yellow-600 text-white font-black"
+              >
+                <Award className="w-4 h-4 mr-2" />
+                {score < 70 ? "Retake to earn Certificate" : (isGenerating ? "Generating..." : generatedId ? "Certificate Generated" : "Generate Certificate")}
+              </Button>
+              <Button className="w-full bg-slate-700 hover:bg-slate-600 text-white" onClick={() => navigate("/jobseeker/coding-challenges")}>
+                Back to Coding Tests
+              </Button>
+            </div>
           </CardContent>
         </Card>
+
+        <Dialog open={showCertificate} onOpenChange={setShowCertificate}>
+          <DialogContent className="max-w-5xl p-0 overflow-hidden bg-slate-100 text-slate-900 border-none shadow-2xl">
+            <DialogHeader className="p-6 bg-white border-b">
+              <DialogTitle className="text-2xl font-black">Coding Excellence Certificate</DialogTitle>
+            </DialogHeader>
+            <div className="p-8 max-h-[80vh] overflow-y-auto">
+              <CertificateTemplate 
+                id={generatedId || ""}
+                userName="Candidate"
+                courseName="Full Stack Coding Challenge"
+                date={new Date().toLocaleDateString()}
+                type="Coding Challenge"
+                score={score}
+                onClose={() => setShowCertificate(false)}
+              />
+            </div>
+          </DialogContent>
+        </Dialog>
       </div>
     );
   }

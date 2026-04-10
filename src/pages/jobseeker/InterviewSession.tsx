@@ -18,6 +18,10 @@ import {
 import { supabase } from "@/integrations/supabase/client";
 import { useAuth } from "@/contexts/SimpleAuthContext";
 import { getInterviewDomainById, itInterviewDomains } from "@/data/itInterviewQuestions";
+import { CertificateTemplate } from "@/components/certificate/CertificateTemplate";
+import { useJobSeekerDashboard } from "@/contexts/JobSeekerDashboardContext";
+import { Dialog, DialogContent, DialogHeader, DialogTitle } from "@/components/ui/dialog";
+import { Award } from "lucide-react";
 
 interface InterviewQuestion {
   id: string;
@@ -43,6 +47,26 @@ export default function InterviewSession() {
   const [loading, setLoading] = useState(true);
   const [submitting, setSubmitting] = useState(false);
   const [completed, setCompleted] = useState(false);
+  const { addCertificate } = useJobSeekerDashboard();
+  const [showCertificate, setShowCertificate] = useState(false);
+  const [isGenerating, setIsGenerating] = useState(false);
+  const [generatedId, setGeneratedId] = useState<string | null>(null);
+
+  const handleGenerateCertificate = async () => {
+    setIsGenerating(true);
+    await new Promise(resolve => setTimeout(resolve, 1500));
+    const certId = `CERT-INT-${Math.random().toString(36).substr(2, 9).toUpperCase()}`;
+    setGeneratedId(certId);
+    await addCertificate({
+      id: certId,
+      title: interview?.title || "Technical Interview",
+      assessment_id: "int-demo",
+      status: "issued",
+      issued_at: new Date().toISOString()
+    });
+    setIsGenerating(false);
+    setShowCertificate(true);
+  };
 
   useEffect(() => {
     loadInterview();
@@ -213,14 +237,41 @@ export default function InterviewSession() {
                 {interview?.correct_answers || 0} out of {questions.length} questions answered
               </p>
             </div>
-            <div className="flex gap-4">
-              <Button className="flex-1" onClick={() => navigate("/jobseeker/interviews")}>
+            <div className="flex flex-col gap-3">
+              <Button 
+                onClick={handleGenerateCertificate}
+                disabled={isGenerating || !!generatedId || (interview?.score || 0) < 70}
+                className="w-full bg-gradient-to-r from-amber-500 to-yellow-600 text-white font-black h-12"
+              >
+                <Award className="w-4 h-4 mr-2" />
+                {(interview?.score || 0) < 70 ? "Retake to earn Certificate" : (isGenerating ? "Generating..." : generatedId ? "Certificate Generated" : "Generate Certificate")}
+              </Button>
+              <Button variant="outline" className="w-full h-12" onClick={() => navigate("/jobseeker/interviews")}>
                 <ArrowLeft className="w-4 h-4 mr-2" />
                 Back to Interviews
               </Button>
             </div>
           </CardContent>
         </Card>
+
+        <Dialog open={showCertificate} onOpenChange={setShowCertificate}>
+          <DialogContent className="max-w-5xl p-0 overflow-hidden bg-slate-100 border-none">
+            <DialogHeader className="p-6 bg-white border-b">
+              <DialogTitle className="text-2xl font-black text-slate-900 font-jakarta">Technical Excellence Certificate</DialogTitle>
+            </DialogHeader>
+            <div className="p-8 max-h-[80vh] overflow-y-auto">
+              <CertificateTemplate 
+                id={generatedId || ""}
+                userName={user?.name || "Candidate"}
+                courseName={interview?.title || "Technical Interview"}
+                date={new Date().toLocaleDateString()}
+                type="Live Interview"
+                score={interview?.score || 0}
+                onClose={() => setShowCertificate(false)}
+              />
+            </div>
+          </DialogContent>
+        </Dialog>
       </div>
     );
   }

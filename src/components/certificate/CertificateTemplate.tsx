@@ -1,194 +1,200 @@
-import React from "react";
-import { Card, CardContent } from "@/components/ui/card";
-import { Badge } from "@/components/ui/badge";
-import { Button } from "@/components/ui/button";
-import { Download, Share2, Award, CheckCircle } from "lucide-react";
-import type { Certificate } from "@/hooks/useCertificate";
+import { Download, Share2, Award, ShieldCheck, CheckCircle2, Copy } from "lucide-react";
+import html2canvas from "html2canvas";
+import jsPDF from "jspdf";
+import { motion } from "framer-motion";
+import { toast } from "sonner";
 
-interface CertificateTemplateProps {
-  certificate: Certificate;
-  onDownload?: () => void;
-  onShare?: () => void;
-  compact?: boolean;
+interface CertificateProps {
+  id: string;
+  userName: string;
+  courseName: string;
+  date: string;
+  type: "Assessment" | "Coding Challenge" | "Live Interview";
+  score?: number;
+  onClose?: () => void;
 }
 
-export default function CertificateTemplate({
-  certificate,
-  onDownload,
-  onShare,
-  compact = false,
-}: CertificateTemplateProps) {
-  const getProficiencyColor = (level?: string) => {
-    switch (level) {
-      case "Advanced":
-        return "bg-purple-100 text-purple-800 border-purple-200";
-      case "Proficient":
-        return "bg-blue-100 text-blue-800 border-blue-200";
-      default:
-        return "bg-gray-100 text-gray-800 border-gray-200";
+export const CertificateTemplate = ({ id, userName, courseName, date, type, score, onClose }: CertificateProps) => {
+  const certificateRef = useRef<HTMLDivElement>(null);
+
+  const downloadPDF = async () => {
+    if (!certificateRef.current) return;
+    
+    toast.info("Preparing your certificate for download...");
+    
+    try {
+      const canvas = await html2canvas(certificateRef.current, {
+        scale: 3,
+        logging: false,
+        useCORS: true,
+        backgroundColor: "#ffffff",
+        windowWidth: 1200
+      });
+      
+      const imgData = canvas.toDataURL("image/png");
+      const pdf = new jsPDF("l", "mm", "a4");
+      const pdfWidth = pdf.internal.pageSize.getWidth();
+      const pdfHeight = (canvas.height * pdfWidth) / canvas.width;
+      
+      pdf.addImage(imgData, "PNG", 0, 0, pdfWidth, pdfHeight);
+      pdf.save(`InterQ_Certificate_${userName.replace(/\s+/g, "_")}.pdf`);
+      toast.success("Certificate downloaded successfully!");
+    } catch (error) {
+      console.error("PDF generation error:", error);
+      toast.error("Failed to generate PDF. Please try again.");
     }
   };
 
-  const formatDate = (dateString?: string) => {
-    if (!dateString) return "N/A";
-    return new Date(dateString).toLocaleDateString("en-US", {
-      year: "numeric",
-      month: "long",
-      day: "numeric",
-    });
+  const shareCertificate = async () => {
+    const shareData = {
+      title: "InterQ Certification",
+      text: `I've successfully earned the ${courseName} certification from InterQ!`,
+      url: window.location.href
+    };
+
+    try {
+      if (navigator.share && navigator.canShare && navigator.canShare(shareData)) {
+        await navigator.share(shareData);
+        toast.success("Shared successfully!");
+      } else {
+        await navigator.clipboard.writeText(window.location.href);
+        toast.success("Achievement link copied to clipboard!");
+      }
+    } catch (error) {
+      console.error("Sharing error:", error);
+      toast.error("Could not share. Link copied to clipboard instead.");
+      navigator.clipboard.writeText(window.location.href);
+    }
   };
 
-  if (compact) {
-    return (
-      <Card className="overflow-hidden border-0 shadow-md">
-        <div className="bg-gradient-to-br from-primary/5 via-primary/10 to-primary/5 p-4">
-          <div className="flex items-center gap-3 mb-3">
-            <div className="w-12 h-12 rounded-full bg-primary/10 flex items-center justify-center">
-              <Award className="w-6 h-6 text-primary" />
-            </div>
-            <div className="flex-1 min-w-0">
-              <p className="font-semibold text-sm truncate">
-                {certificate.type === "assessment"
-                  ? certificate.assessment_name
-                  : certificate.interview_title}
-              </p>
-              <p className="text-xs text-muted-foreground">
-                {certificate.candidate_name}
-              </p>
-            </div>
-          </div>
-          <div className="flex items-center justify-between">
-            <Badge
-              className={getProficiencyColor(certificate.proficiency_level)}
-            >
-              {certificate.proficiency_level || "Certified"}
-            </Badge>
-            <span className="text-xs text-muted-foreground">
-              {certificate.score}%
-            </span>
-          </div>
-        </div>
-      </Card>
-    );
-  }
-
   return (
-    <Card className="overflow-hidden shadow-lg border-0">
-      <div
-        className="relative bg-gradient-to-br from-primary/5 via-white to-primary/10 p-8"
-        style={{
-          backgroundImage: `
-            linear-gradient(135deg, rgba(99, 102, 241, 0.05) 0%, transparent 50%),
-            linear-gradient(225deg, rgba(99, 102, 241, 0.05) 0%, transparent 50%)
-          `,
-        }}
+    <div className="flex flex-col items-center gap-6 p-4 max-w-5xl mx-auto">
+      {/* Certificate Frame */}
+      <motion.div 
+        initial={{ opacity: 0, scale: 0.9 }}
+        animate={{ opacity: 1, scale: 1 }}
+        transition={{ duration: 0.5 }}
+        ref={certificateRef}
+        className="relative w-full bg-white border-[16px] border-double border-slate-900 shadow-2xl p-1 min-h-[700px] flex flex-col"
       >
-        <div className="absolute inset-0 bg-[radial-gradient(circle_at_50%_0%,rgba(99,102,241,0.08),transparent_50%)]" />
+        {/* Decorative Corner Borders */}
+        <div className="absolute top-0 left-0 w-32 h-32 border-t-[8px] border-l-[8px] border-amber-400/30 z-30" />
+        <div className="absolute top-0 right-0 w-32 h-32 border-t-[8px] border-r-[8px] border-amber-400/30 z-30" />
+        <div className="absolute bottom-0 left-0 w-32 h-32 border-b-[8px] border-l-[8px] border-amber-400/30 z-30" />
+        <div className="absolute bottom-0 right-0 w-32 h-32 border-b-[8px] border-r-[8px] border-amber-400/30 z-30" />
 
-        <div className="relative">
-          <div className="flex flex-col items-center mb-6">
-            <img
-              src="/interq-logo.png"
-              alt="InterQ"
-              className="h-16 w-auto mb-4"
-            />
-            <div className="text-center">
-              <p className="text-xs text-muted-foreground tracking-widest uppercase mb-1">
-                InterQ Certification
-              </p>
-              <h1 className="text-3xl font-bold tracking-tight">
-                Certificate of Completion
-              </h1>
-            </div>
+        {/* Inner Border */}
+        <div className="flex-1 w-full border-[1px] border-amber-200/50 flex flex-col items-center justify-center p-16 relative bg-[radial-gradient(circle_at_center,_var(--tw-gradient-stops))] from-white via-slate-50 to-white overflow-hidden">
+          
+          {/* Background Watermark */}
+          <div className="absolute inset-0 flex items-center justify-center opacity-[0.02] pointer-events-none">
+            <Award className="w-[600px] h-[600px] -rotate-12" />
           </div>
 
-          <div className="border-t border-b border-dashed border-primary/20 py-6 my-4">
-            <p className="text-center text-sm text-muted-foreground mb-2">
-              This is to certify that
-            </p>
-            <p className="text-center text-2xl font-bold text-primary mb-4">
-              {certificate.candidate_name}
-            </p>
-            <p className="text-center text-sm text-muted-foreground mb-2">
-              has successfully completed
-            </p>
-            <p className="text-center text-xl font-semibold">
-              {certificate.type === "assessment"
-                ? certificate.assessment_name
-                : certificate.interview_title}
-            </p>
+          {/* Top Left Logo & Branding */}
+          <div className="absolute top-12 left-12 flex items-center gap-3 z-20">
+             <div className="bg-white p-2 rounded-xl shadow-sm border border-slate-100">
+               <img src="/interq-logo.png" alt="InterQ Logo" className="h-10 w-auto object-contain" />
+             </div>
+             <span className="text-xl font-black tracking-tight text-slate-800 font-jakarta">
+               InterQ
+             </span>
           </div>
 
-          <div className="grid grid-cols-2 gap-4 text-center mb-6">
-            <div>
-              <p className="text-xs text-muted-foreground uppercase tracking-wide mb-1">
-                Score Achieved
-              </p>
-              <p className="text-3xl font-bold text-primary">
-                {certificate.score}%
-              </p>
-            </div>
-            <div>
-              <p className="text-xs text-muted-foreground uppercase tracking-wide mb-1">
-                Proficiency Level
-              </p>
-              <Badge
-                className={`text-sm px-3 py-1 ${getProficiencyColor(
-                  certificate.proficiency_level
-                )}`}
-              >
-                {certificate.proficiency_level || "Certified"}
-              </Badge>
-            </div>
+          {/* Top Right Award Icon */}
+          <div className="absolute top-12 right-12 opacity-20">
+            <Award className="w-16 h-16 text-amber-500" />
           </div>
 
-          <div className="flex items-center justify-between text-xs text-muted-foreground border-t border-dashed border-primary/20 pt-4">
-            <div>
-              <p>
-                Certificate No:{" "}
-                <span className="font-mono font-semibold text-foreground">
-                  {certificate.certificate_number || "N/A"}
+          {/* Header */}
+          <div className="text-center mb-10 pt-10 relative z-10 w-full">
+            <div className="inline-block bg-slate-900 text-white px-6 py-1.5 rounded-full text-[10px] font-black tracking-[0.4em] uppercase mb-8 shadow-xl">
+              Official Technical Credential
+            </div>
+            <h1 className="text-6xl font-black tracking-tighter text-slate-900 mb-2 leading-tight">
+              <span className="bg-clip-text text-transparent bg-gradient-to-r from-amber-600 via-yellow-400 to-amber-600 animate-shine drop-shadow-md pb-2 inline-block">
+                CERTIFICATE
+              </span>
+              <br />
+              <span className="text-3xl text-slate-400 mt-1 block tracking-[0.1em] font-light italic font-serif">
+                OF ACHIEVEMENT
+              </span>
+            </h1>
+            <div className="h-1 w-32 bg-gradient-to-r from-transparent via-amber-400 to-transparent mx-auto mt-4" />
+          </div>
+
+          {/* Content */}
+          <div className="text-center flex-1 z-10 space-y-6 py-4">
+            <div className="space-y-4">
+              <p className="text-lg text-slate-400 font-medium uppercase tracking-[0.2em] italic">This certifies that</p>
+              <h2 className="text-5xl font-black text-slate-900 tracking-tight px-12 font-jakarta">
+                {userName}
+              </h2>
+            </div>
+
+            <div className="space-y-6">
+              <p className="text-lg text-slate-500 font-serif leading-relaxed max-w-2xl mx-auto italic">
+                has demonstrated exceptional technical mastery and successfully completed all requirements for
+              </p>
+              <div className="inline-block px-10 py-4 bg-slate-50 border border-slate-100 rounded-3xl shadow-sm">
+                <span className="font-black text-slate-900 text-3xl uppercase tracking-tight">{courseName}</span>
+              </div>
+            </div>
+
+            <p className="text-lg text-slate-400 font-bold tracking-widest uppercase mt-8">
+              {type} Track • Verified Achievement
+              {score !== undefined && (
+                <span className="text-emerald-600 ml-3 bg-emerald-50 px-4 py-1 rounded-full border border-emerald-100 text-sm">
+                  {score}% Score
                 </span>
-              </p>
-              <p>
-                Issued:{" "}
-                <span className="font-semibold text-foreground">
-                  {formatDate(certificate.assessment_date)}
-                </span>
-              </p>
-            </div>
-            <div className="text-right">
-              {certificate.valid_until && (
-                <p>
-                  Valid Until:{" "}
-                  <span className="font-semibold text-foreground">
-                    {formatDate(certificate.valid_until)}
-                  </span>
-                </p>
               )}
-              <p className="flex items-center gap-1 justify-end">
-                <CheckCircle className="w-3 h-3 text-green-500" />
-                Verified
-              </p>
+            </p>
+          </div>
+
+          {/* Footer - Signatures/Verification */}
+          <div className="w-full grid grid-cols-3 items-end mt-12 z-10 px-6">
+            <div className="text-left space-y-3">
+              <div className="h-0.5 bg-gradient-to-r from-slate-300 to-transparent w-full mb-3" />
+              <p className="text-xs font-black text-slate-900 uppercase tracking-widest">Verification ID</p>
+              <p className="text-xs text-slate-400 font-mono font-bold tracking-tighter">{id}</p>
+            </div>
+            
+            <div className="flex flex-col items-center">
+              <div className="relative mb-6">
+                <div className="absolute inset-0 bg-amber-400/20 blur-2xl rounded-full animate-pulse" />
+                <div className="w-24 h-24 bg-white border-[6px] border-double border-amber-400 rounded-full flex items-center justify-center relative z-10 shadow-2xl">
+                   <ShieldCheck className="w-10 h-10 text-amber-500" />
+                </div>
+              </div>
+              <p className="text-[10px] font-black text-slate-900 uppercase tracking-widest bg-white px-5 py-2 rounded-full border border-slate-100 shadow-sm">{date}</p>
+            </div>
+
+            <div className="text-right space-y-3">
+              <div className="h-0.5 bg-gradient-to-l from-slate-300 to-transparent w-full mb-3" />
+              <div className="flex flex-col items-end">
+                <img src="/interq-logo.png" alt="Signature" className="h-8 w-auto opacity-70 grayscale mb-2" />
+                <p className="text-xs font-black text-slate-900 uppercase tracking-widest">InterQ Authority</p>
+                <p className="text-[10px] text-slate-400 font-bold italic">Credential Verified</p>
+              </div>
             </div>
           </div>
         </div>
-      </div>
+      </motion.div>
 
-      {!compact && (
-        <CardContent className="bg-muted/30 p-4">
-          <div className="flex gap-2">
-            <Button onClick={onDownload} className="flex-1">
-              <Download className="w-4 h-4 mr-2" />
-              Download PDF
-            </Button>
-            <Button onClick={onShare} variant="outline">
-              <Share2 className="w-4 h-4 mr-2" />
-              Share
-            </Button>
-          </div>
-        </CardContent>
-      )}
-    </Card>
+      {/* Actions */}
+      <div className="flex gap-4 w-full">
+        <Button onClick={downloadPDF} className="flex-1 bg-slate-900 hover:bg-slate-800 text-white font-bold h-12 gap-2 shadow-lg">
+          <Download className="w-4 h-4" /> Download PDF
+        </Button>
+        <Button onClick={shareCertificate} variant="outline" className="flex-1 font-bold h-12 gap-2 border-2">
+          <Share2 className="w-4 h-4" /> Share Achievement
+        </Button>
+        {onClose && (
+           <Button onClick={onClose} variant="ghost" className="px-8 font-bold text-slate-500">
+             Close
+           </Button>
+        )}
+      </div>
+    </div>
   );
-}
+};

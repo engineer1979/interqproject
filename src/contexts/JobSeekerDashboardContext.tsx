@@ -90,6 +90,7 @@ interface DashboardContextType {
   markNotificationRead: (notificationId: string) => Promise<void>;
   getCertificateEligibility: () => Array<{ assessmentId?: string; title?: string; score?: number; completedAt?: string }>;
   generateInterviews: () => Promise<void>;
+  addCertificate: (cert: JobSeekerCertificate) => Promise<void>;
 }
 
 const mockData: JobSeekerData = {
@@ -176,6 +177,7 @@ export function JobSeekerDashboardProvider({ children }: { children: ReactNode }
             { assessmentId: "a3", title: "Node.js Basics", score: 72, completedAt: "2024-01-18T14:30:00Z" }
           ],
           generateInterviews: async () => {},
+          addCertificate: async () => {},
         }}
       >
         {children}
@@ -410,11 +412,36 @@ export function JobSeekerDashboardProvider({ children }: { children: ReactNode }
       .filter((result) => !certificates.some((cert) => cert.assessment_id === result.assessment_id))
       .map((result) => ({
         assessmentId: result.assessment_id,
-        title: result.assessments?.title,
+        title: result.assessments?.title || "Assessment Result",
         score: result.score,
         completedAt: result.completed_at,
       }));
   }, [assessmentResults, certificates]);
+
+  const addCertificate = useCallback(
+    async (cert: JobSeekerCertificate) => {
+      if (!user?.id) return;
+      const supabaseClient = getSupabaseClient();
+      const { error } = await supabaseClient
+        .from("certificates")
+        .insert({
+          ...cert,
+          user_id: user.id,
+          issued_at: new Date().toISOString(),
+          status: "issued"
+        });
+      
+      if (error) {
+        console.error("Error adding certificate:", error);
+        // Fallback to local storage if supabase fails or table doesn't exist
+        const stored = JSON.parse(localStorage.getItem(`certs_${user.id}`) || '[]');
+        localStorage.setItem(`certs_${user.id}`, JSON.stringify([...stored, cert]));
+      }
+      
+      queryClient.invalidateQueries({ queryKey: ["jobseeker-certificates", user.id] });
+    },
+    [user?.id, queryClient]
+  );
 
   const isLoading =
     profileLoading ||
@@ -456,6 +483,7 @@ export function JobSeekerDashboardProvider({ children }: { children: ReactNode }
         markNotificationRead,
         getCertificateEligibility,
         generateInterviews,
+        addCertificate,
       }}
     >
       {children}

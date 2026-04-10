@@ -232,6 +232,7 @@ const App = () => (
                 <Route path="interviews" element={<JobSeekerInterviews />} />
                 <Route path="interview/:id" element={<InterviewSession />} />
                 <Route path="results" element={<JobSeekerResults />} />
+                <Route path="certificates" element={<JobSeekerCertificates />} />
                 <Route path="profile" element={<JobSeekerProfile />} />
                 <Route path="settings" element={<JobSeekerSettings />} />
               </Route>
