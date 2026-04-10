@@ -155,7 +155,7 @@ const EnhancedNavigation = () => {
               <div className={`rounded-xl p-1.5 transition-all duration-300 nav-logo`}>
                 <img src="/interq-logo.png" alt="InterQ" className="h-9 lg:h-10 w-auto" loading="lazy" decoding="async" />
               </div>
-              <span className={`text-xl lg:text-2xl font-bold tracking-tight nav-brand-text transition-colors duration-300 ${isScrolled ? "text-slate-900" : "text-white"}`}>
+              <span className={`text-xl lg:text-2xl font-bold tracking-tight nav-brand-text transition-colors duration-300 text-white ${isScrolled ? "drop-shadow-[0_1.2px_1.2px_rgba(0,0,0,0.5)]" : ""}`}>
                 InterQ
               </span>
             </Link>
@@ -166,7 +166,7 @@ const EnhancedNavigation = () => {
                 <div key={item.label} className="relative">
                   <button
                     onClick={() => handleNavItemClick(item)}
-                    className={`flex items-center gap-1.5 px-4 py-2.5 rounded-xl text-sm font-semibold transition-all duration-200 nav-link drop-shadow-md ${
+                    className={`flex items-center gap-1.5 px-4 py-2.5 rounded-xl text-sm font-semibold transition-all duration-300 nav-link drop-shadow-md ${
                       isScrolled ? "text-slate-800 hover:text-cyan-600" : "text-white hover:text-white"
                     } ${
                       isActive(item.href) || item.children?.some(child => isActive(child.href))
