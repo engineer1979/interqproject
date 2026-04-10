@@ -157,29 +157,85 @@ export function RecruiterLayout() {
     setViewModal(true);
   };
 
-  const generatePDF = async () => {
-    const element = document.getElementById('report-content');
+  const generatePDF = async (candidate: DetailedCandidate | null = selectedCandidate, isBulk = false) => {
+    if (!candidate && !isBulk) {
+        toast.error("No candidate selected for export.");
+        return;
+    }
+    toast.info("Generating PDF, please wait...");
+    const element = document.getElementById(isBulk ? 'bulk-report-table' : 'report-content');
+    
     if (element) {
-      const canvas = await html2canvas(element, { scale: 2 });
-      const imgData = canvas.toDataURL('image/png');
-      const pdf = new jsPDF('p', 'mm', 'a4');
-      const imgWidth = 210;
-      const pageHeight = 295;
-      const imgHeight = (canvas.height * imgWidth) / canvas.width;
-      let heightLeft = imgHeight;
-      let position = 0;
+      try {
+        const canvas = await html2canvas(element, { scale: 2 });
+        const imgData = canvas.toDataURL('image/png');
+        const pdf = new jsPDF('p', 'mm', 'a4');
+        const imgWidth = 210;
+        const pageHeight = 295;
+        const imgHeight = (canvas.height * imgWidth) / canvas.width;
+        let heightLeft = imgHeight;
+        let position = 0;
 
-      pdf.addImage(imgData, 'PNG', 0, position, imgWidth, imgHeight);
-      heightLeft -= pageHeight;
+        // Branding
+        pdf.setFillColor(15, 23, 42); 
+        pdf.rect(0, 0, 210, 20, 'F');
+        pdf.setTextColor(255, 255, 255);
+        pdf.setFontSize(14);
+        pdf.text("InterQ Technologies Inc - Evaluation Report", 10, 12);
 
-      while (heightLeft >= 0) {
-        position = heightLeft - imgHeight;
-        pdf.addPage();
-        pdf.addImage(imgData, 'PNG', 0, position, imgWidth, imgHeight);
+        pdf.addImage(imgData, 'PNG', 0, position + 25, imgWidth, imgHeight);
         heightLeft -= pageHeight;
-      }
 
-      pdf.save(`${selectedCandidate?.name}_Evaluation_Report.pdf`);
+        while (heightLeft >= 0) {
+          position = heightLeft - imgHeight;
+          pdf.addPage();
+          pdf.addImage(imgData, 'PNG', 0, position + 25, imgWidth, imgHeight);
+          heightLeft -= pageHeight;
+        }
+
+        pdf.save(isBulk ? 'Bulk_Evaluation_Reports.pdf' : `${candidate?.name}_Evaluation_Report.pdf`);
+        toast.success("PDF exported successfully!");
+      } catch (err) {
+        console.error(err);
+        toast.error("Error generating PDF from screen.");
+      }
+    } else {
+        // Modal is closed or element not found, generate PDF directly using jsPDF
+        try {
+            const pdf = new jsPDF();
+            pdf.setFillColor(15, 23, 42); 
+            pdf.rect(0, 0, 210, 20, 'F');
+            pdf.setTextColor(255, 255, 255);
+            pdf.setFontSize(16);
+            pdf.text("InterQ Evaluation Report", 10, 14);
+            
+            if (!isBulk && candidate) {
+                pdf.setTextColor(0, 0, 0);
+                pdf.setFontSize(12);
+                pdf.text(`Candidate: ${candidate.name}`, 15, 35);
+                pdf.text(`Position: ${candidate.position}`, 15, 45);
+                pdf.text(`Status: ${candidate.status}`, 15, 55);
+                pdf.text(`Overall Score: ${Math.round((candidate.overallScore / 5) * 100)}%`, 15, 65);
+                pdf.text(`Interview Date: ${candidate.date}`, 15, 75);
+                
+                pdf.setFontSize(14);
+                pdf.text(`Detailed Scores:`, 15, 95);
+                pdf.setFontSize(11);
+                let y = 105;
+                candidate.features.forEach((f) => {
+                    pdf.text(`- ${f.name}: ${Math.round((f.score/f.maxScore)*100)}%`, 20, y);
+                    y += 8;
+                });
+            } else {
+                pdf.setTextColor(0,0,0);
+                pdf.text("Bulk Export functionality requires rendering the table.", 15, 35);
+            }
+            pdf.save(isBulk ? 'Bulk_Reports.pdf' : `${candidate?.name}_Report.pdf`);
+            toast.success("PDF generated successfully!");
+        } catch (err) {
+            console.error(err);
+            toast.error("Error creating document.");
+        }
     }
   };
 
