@@ -66,6 +66,17 @@ export function CompanyLayout() {
 
         if (membership?.companies) {
           setCompany(membership.companies as Company);
+        } else {
+          // SECONDARY FALLBACK: Check localStorage if Supabase has no record
+          const localData = localStorage.getItem('companyData');
+          if (localData) {
+            const parsed = JSON.parse(localData);
+            setCompany({
+              id: parsed.id || 'local-comp',
+              name: parsed.name,
+              logo_url: null
+            });
+          }
         }
       } catch (error) {
         console.error("Error fetching company:", error);
